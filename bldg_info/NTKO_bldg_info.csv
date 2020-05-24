@@ -1,0 +1,3 @@
+,final_address,lowest_value,lowest_floor,highest_floor,oneThird_floor,twoThird_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
+0,METRO CITY新都城 Block 4|WAN HANG RD運亨路,6108000,1,43.0,15.0,29.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",43,344,1996/12,24,METRO CITY,新都城
+1,METRO CITY新都城 Block 5|WAN HANG RD運亨路,6091500,1,43.0,15.0,29.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",43,344,1996/12,24,METRO CITY,新都城
