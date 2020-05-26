@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa
+3.0/F低層A,3.0,低層,A,789012,3906,202
+4.0/F中層A,4.0,中層,A,794062,3931,202
+4.0/F高層A,4.0,高層,A,794062,3931,202
+3.0/F低層B,3.0,低層,B,804195,3885,207
+4.0/F中層B,4.0,中層,B,809370,3910,207
+4.0/F高層B,4.0,高層,B,809370,3910,207
+3.0/F低層whole floor,3.0,低層,whole floor,,,
+4.0/F中層whole floor,4.0,中層,whole floor,,,
+4.0/F高層whole floor,4.0,高層,whole floor,,,
