@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-1.0/F低層A,1.0,低層,A,21186717,19491,1087
-2.0/F中層A,2.0,中層,A,21398682,19686,1087
-2.0/F高層A,2.0,高層,A,21398682,19686,1087
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+1.0/F低層A,1.0,低層,A,21186717,19491,1087,288,2,KHMT
+2.0/F中層A,2.0,中層,A,21398682,19686,1087,292,2,KHMT
+2.0/F高層A,2.0,高層,A,21398682,19686,1087,292,2,KHMT

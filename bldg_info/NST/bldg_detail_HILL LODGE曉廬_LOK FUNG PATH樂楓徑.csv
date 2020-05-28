@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-3.0/F低層A,3.0,低層,A,,,
-8.0/F中層A,8.0,中層,A,,,
-12.0/F高層A,12.0,高層,A,,,
-3.0/F低層B,3.0,低層,B,,,
-8.0/F中層B,8.0,中層,B,,,
-12.0/F高層B,12.0,高層,B,,,
-3.0/F低層whole floor,3.0,低層,whole floor,22583750,11125,2030
-8.0/F中層whole floor,8.0,中層,whole floor,23066890,11363,2030
-12.0/F高層whole floor,12.0,高層,whole floor,23452590,11553,2030
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+3.0/F低層A,3.0,低層,A,,,,,,NST
+8.0/F中層A,8.0,中層,A,,,,,,NST
+12.0/F高層A,12.0,高層,A,,,,,,NST
+3.0/F低層B,3.0,低層,B,,,,,,NST
+8.0/F中層B,8.0,中層,B,,,,,,NST
+12.0/F高層B,12.0,高層,B,,,,,,NST
+3.0/F低層whole floor,3.0,低層,whole floor,22583750,11125,2030,97,1,NST
+8.0/F中層whole floor,8.0,中層,whole floor,23066890,11363,2030,105,1,NST
+12.0/F高層whole floor,12.0,高層,whole floor,23452590,11553,2030,111,1,NST

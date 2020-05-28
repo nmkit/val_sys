@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-3.0/F低層E3,3.0,低層,E3,9056624,17828,508
-6.0/F中層E3,6.0,中層,E3,9198356,18107,508
-7.0/F高層E3,7.0,高層,E3,8220777,18391,447
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+3.0/F低層E3,3.0,低層,E3,9056624,17828,508,119,1,HQB
+6.0/F中層E3,6.0,中層,E3,9198356,18107,508,115,1,HQB
+7.0/F高層E3,7.0,高層,E3,8220777,18391,447,101,1,HQB

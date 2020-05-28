@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-7.0/F低層C,7.0,低層,C,287900480,68320,4214
-8.0/F中層C,8.0,中層,C,290163398,68857,4214
-9.0/F高層C,9.0,高層,C,292755008,69472,4214
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+7.0/F低層C,7.0,低層,C,287900480,68320,4214,386,3,HRB
+8.0/F中層C,8.0,中層,C,290163398,68857,4214,362,3,HRB
+9.0/F高層C,9.0,高層,C,292755008,69472,4214,360,3,HRB

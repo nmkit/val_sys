@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-13.0/F低層F.P.,13.0,低層,F.P.,,,
-13.0/F中層F.P.,13.0,中層,F.P.,,,
-13.0/F高層F.P.,13.0,高層,F.P.,,,
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+13.0/F低層F.P.,13.0,低層,F.P.,,,,,,HSW
+13.0/F中層F.P.,13.0,中層,F.P.,,,,,,HSW
+13.0/F高層F.P.,13.0,高層,F.P.,,,,,,HSW

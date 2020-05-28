@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-3.0/F低層A1,3.0,低層,A1,,,
-4.0/F中層A1,4.0,中層,A1,,,
-5.0/F高層A1,5.0,高層,A1,1856140,7865,236
-3.0/F低層A3,3.0,低層,A3,1515904,7288,208
-4.0/F中層A3,4.0,中層,A3,1525888,7336,208
-5.0/F高層A3,5.0,高層,A3,1535664,7383,208
-3.0/F低層whole floor,3.0,低層,whole floor,,,
-4.0/F中層whole floor,4.0,中層,whole floor,,,
-5.0/F高層whole floor,5.0,高層,whole floor,,,
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+3.0/F低層A1,3.0,低層,A1,,,,,,KCSW
+4.0/F中層A1,4.0,中層,A1,,,,,,KCSW
+5.0/F高層A1,5.0,高層,A1,1856140,7865,236,150,1,KCSW
+3.0/F低層A3,3.0,低層,A3,1515904,7288,208,92,1,KCSW
+4.0/F中層A3,4.0,中層,A3,1525888,7336,208,93,1,KCSW
+5.0/F高層A3,5.0,高層,A3,1535664,7383,208,150,1,KCSW
+3.0/F低層whole floor,3.0,低層,whole floor,,,,,,KCSW
+4.0/F中層whole floor,4.0,中層,whole floor,,,,,,KCSW
+5.0/F高層whole floor,5.0,高層,whole floor,,,,,,KCSW

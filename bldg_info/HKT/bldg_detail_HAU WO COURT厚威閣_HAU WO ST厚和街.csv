@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-7.0/F低層A,7.0,低層,A,5078275,14305,355
-14.0/F中層A,14.0,中層,A,5315415,14973,355
-21.0/F高層A,21.0,高層,A,5543680,15616,355
-7.0/F低層B,7.0,低層,B,5555086,15517,358
-14.0/F中層B,14.0,中層,B,5786354,16163,358
-21.0/F高層B,21.0,高層,B,6023708,16826,358
-7.0/F低層whole floor,7.0,低層,whole floor,,,
-14.0/F中層whole floor,14.0,中層,whole floor,,,
-21.0/F高層whole floor,21.0,高層,whole floor,,,
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+7.0/F低層A,7.0,低層,A,5078275,14305,355,381,3,HKT
+14.0/F中層A,14.0,中層,A,5315415,14973,355,392,3,HKT
+21.0/F高層A,21.0,高層,A,5543680,15616,355,372,3,HKT
+7.0/F低層B,7.0,低層,B,5555086,15517,358,294,3,HKT
+14.0/F中層B,14.0,中層,B,5786354,16163,358,310,3,HKT
+21.0/F高層B,21.0,高層,B,6023708,16826,358,293,3,HKT
+7.0/F低層whole floor,7.0,低層,whole floor,,,,,,HKT
+14.0/F中層whole floor,14.0,中層,whole floor,,,,,,HKT
+21.0/F高層whole floor,21.0,高層,whole floor,,,,,,HKT

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-4.0/F低層whole floor,4.0,低層,whole floor,6443238,18462,349
-6.0/F中層whole floor,6.0,中層,whole floor,6515830,18670,349
-9.0/F高層whole floor,9.0,高層,whole floor,6199200,18900,328
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+4.0/F低層whole floor,4.0,低層,whole floor,6443238,18462,349,246,2,HNP
+6.0/F中層whole floor,6.0,中層,whole floor,6515830,18670,349,246,2,HNP
+9.0/F高層whole floor,9.0,高層,whole floor,6199200,18900,328,245,2,HNP

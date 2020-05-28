@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-3.0/F低層A,3.0,低層,A,,,
-5.0/F中層A,5.0,中層,A,,,
-6.0/F高層A,6.0,高層,A,,,
-3.0/F低層whole floor,3.0,低層,whole floor,2760065,5885,469
-5.0/F中層whole floor,5.0,中層,whole floor,2795709,5961,469
-6.0/F高層whole floor,6.0,高層,whole floor,3651634,7786,469
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+3.0/F低層A,3.0,低層,A,,,,,,KCSW
+5.0/F中層A,5.0,中層,A,,,,,,KCSW
+6.0/F高層A,6.0,高層,A,,,,,,KCSW
+3.0/F低層whole floor,3.0,低層,whole floor,2760065,5885,469,106,1,KCSW
+5.0/F中層whole floor,5.0,中層,whole floor,2795709,5961,469,150,1,KCSW
+6.0/F高層whole floor,6.0,高層,whole floor,3651634,7786,469,150,1,KCSW

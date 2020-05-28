@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-4.0/F低層B,4.0,低層,B,,,
-6.0/F中層B,6.0,中層,B,,,
-9.0/F高層B,9.0,高層,B,,,
-4.0/F低層FRONT FLAT,4.0,低層,FRONT FLAT,15105810,17363,870
-6.0/F中層FRONT FLAT,6.0,中層,FRONT FLAT,15372900,17670,870
-9.0/F高層FRONT FLAT,9.0,高層,FRONT FLAT,15773970,18131,870
-4.0/F低層REAR,4.0,低層,REAR,,,
-6.0/F中層REAR,6.0,中層,REAR,,,
-9.0/F高層REAR,9.0,高層,REAR,,,
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+4.0/F低層B,4.0,低層,B,,,,,,KHMT
+6.0/F中層B,6.0,中層,B,,,,,,KHMT
+9.0/F高層B,9.0,高層,B,,,,,,KHMT
+4.0/F低層FRONT FLAT,4.0,低層,FRONT FLAT,15105810,17363,870,87,1,KHMT
+6.0/F中層FRONT FLAT,6.0,中層,FRONT FLAT,15372900,17670,870,90,1,KHMT
+9.0/F高層FRONT FLAT,9.0,高層,FRONT FLAT,15773970,18131,870,94,1,KHMT
+4.0/F低層REAR,4.0,低層,REAR,,,,,,KHMT
+6.0/F中層REAR,6.0,中層,REAR,,,,,,KHMT
+9.0/F高層REAR,9.0,高層,REAR,,,,,,KHMT

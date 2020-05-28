@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa
-6.0/F低層F.P.,6.0,低層,F.P.,,,
-7.0/F中層F.P.,7.0,中層,F.P.,,,
-8.0/F高層F.P.,8.0,高層,F.P.,,,
-6.0/F低層R.P.,6.0,低層,R.P.,,,
-7.0/F中層R.P.,7.0,中層,R.P.,,,
-8.0/F高層R.P.,8.0,高層,R.P.,,,
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+6.0/F低層F.P.,6.0,低層,F.P.,,,,,,KCSW
+7.0/F中層F.P.,7.0,中層,F.P.,,,,,,KCSW
+8.0/F高層F.P.,8.0,高層,F.P.,,,,,,KCSW
+6.0/F低層R.P.,6.0,低層,R.P.,,,,,,KCSW
+7.0/F中層R.P.,7.0,中層,R.P.,,,,,,KCSW
+8.0/F高層R.P.,8.0,高層,R.P.,,,,,,KCSW
