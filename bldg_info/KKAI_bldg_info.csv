@@ -1,55 +1,55 @@
 ,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
-0,GRAND WATERFRONT翔龍灣 Block 3|SAN MA TAU ST新碼頭街,,,,,,,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
-1,GRAND WATERFRONT翔龍灣 Block 2|SAN MA TAU ST新碼頭街,,,,,,,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
-2,GRAND WATERFRONT翔龍灣 Block 6|SAN MA TAU ST新碼頭街,,,,,,,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
-3,GRAND WATERFRONT翔龍灣 Block 1|SAN MA TAU ST新碼頭街,,,,,,,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
-4,GRAND WATERFRONT翔龍灣 Block 5|SAN MA TAU ST新碼頭街,,,,,,,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
-5,BlockL1|3 MUK CHUI ST沐翠街,,,,,,,,,,2.0,3.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",5,40,2015/11,5,blank,煥然壹居
-6,BlockH3|3 MUK CHUI ST沐翠街,,,,,,,,,,4.0,11.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",21,147,2015/11,5,blank,煥然壹居
-7,BlockH1|3 MUK CHUI ST沐翠街,,,,,,,,,,5.0,12.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",22,154,2015/11,5,blank,煥然壹居
-8,BlockH2|3 MUK CHUI ST沐翠街,,,,,,,,,,4.0,11.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",21,147,2015/11,5,blank,煥然壹居
-9,ONE KAI TAK (I)啟德1號 (I) Block T2|MUK NING ST沐寧街,,,,,,,,,,22.0,68.0,102.0,"['A', 'B', 'BF', 'C', 'D', 'E', 'F', 'G', 'H']",96,864,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-10,ONE KAI TAK (I)啟德1號 (I) Block T1|MUK NING ST沐寧街,,,,,,,,,,22.0,68.0,103.0,"['A', 'B', 'C', 'CD', 'CF', 'D', 'E', 'F', 'FG', 'FH', 'G', 'H', 'J', 'JK', 'K']",97,1455,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+0,GRAND WATERFRONT翔龍灣 Block 3|SAN MA TAU ST新碼頭街,5945550.0,15245.0,370.0,5945550.0,15245.0,370.0,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
+1,GRAND WATERFRONT翔龍灣 Block 2|SAN MA TAU ST新碼頭街,5559990.0,15027.0,370.0,5559990.0,15027.0,370.0,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
+2,GRAND WATERFRONT翔龍灣 Block 6|SAN MA TAU ST新碼頭街,6019054.0,15394.0,384.0,6019054.0,15394.0,384.0,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
+3,GRAND WATERFRONT翔龍灣 Block 1|SAN MA TAU ST新碼頭街,5929620.0,15388.0,370.0,5929620.0,15388.0,370.0,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
+4,GRAND WATERFRONT翔龍灣 Block 5|SAN MA TAU ST新碼頭街,5984380.0,16174.0,370.0,5984380.0,16174.0,370.0,,,,14.0,32.0,52.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",52,416,2006/11,14,GRAND WATERFRONT,翔龍灣
+5,BlockL1|3 MUK CHUI ST沐翠街,4969044.0,14967.0,332.0,4969044.0,14967.0,332.0,,,,2.0,3.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",5,40,2015/11,5,blank,煥然壹居
+6,BlockH3|3 MUK CHUI ST沐翠街,6668480.0,13937.0,458.0,6668480.0,13937.0,458.0,,,,4.0,11.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",21,147,2015/11,5,blank,煥然壹居
+7,BlockH1|3 MUK CHUI ST沐翠街,6686640.0,15060.0,444.0,6686640.0,15060.0,444.0,,,,5.0,12.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",22,154,2015/11,5,blank,煥然壹居
+8,BlockH2|3 MUK CHUI ST沐翠街,6226650.0,13837.0,449.0,6226650.0,13837.0,449.0,,,,4.0,11.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",21,147,2015/11,5,blank,煥然壹居
+9,ONE KAI TAK (I)啟德1號 (I) Block T2|MUK NING ST沐寧街,7453403.0,19797.0,367.0,7453403.0,19797.0,367.0,,,,22.0,68.0,102.0,"['A', 'B', 'BF', 'C', 'D', 'E', 'F', 'G', 'H']",96,864,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+10,ONE KAI TAK (I)啟德1號 (I) Block T1|MUK NING ST沐寧街,13058694.0,20104.0,606.0,13058694.0,20104.0,606.0,,,,22.0,68.0,103.0,"['A', 'B', 'C', 'CD', 'CF', 'D', 'E', 'F', 'FG', 'FH', 'G', 'H', 'J', 'JK', 'K']",97,1455,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
 11,ONE KAI TAK (II)啟德1號 (II) Block T3|MUK NING ST沐寧街,,,,,,,,,,9.0,24.0,38.0,"['A', 'AB', 'AC', 'AF', 'AK', 'B', 'C', 'D', 'E', 'F', 'G', 'GJ', 'H', 'J', 'K']",38,570,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-12,ONE KAI TAK (I)啟德1號 (I) Block L7|MUK NING ST沐寧街,,,,,,,,,,20.0,66.0,102.0,['whole floor'],98,98,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-13,ONE KAI TAK (II)啟德1號 (II) Block L8|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-14,K. CITY嘉匯 Block 1|MUK NING ST沐寧街,,,,,,,,,,22.0,70.0,109.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",106,742,2018/08,2,K. CITY,嘉匯
-15,K. CITY嘉匯 Block 8|MUK NING ST沐寧街,,,,,,,,,,10.0,28.0,56.0,"['A', 'ABCDEF', 'AF', 'B', 'C', 'CD', 'CF', 'D', 'E', 'EF', 'F']",48,528,2018/08,2,K. CITY,嘉匯
+12,ONE KAI TAK (I)啟德1號 (I) Block L7|MUK NING ST沐寧街,39593736.0,24172.0,1638.0,39593736.0,24172.0,1638.0,,,,20.0,66.0,102.0,['whole floor'],98,98,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+13,ONE KAI TAK (II)啟德1號 (II) Block L8|MUK NING ST沐寧街,49545100.0,30850.0,1606.0,49545100.0,30850.0,1606.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+14,K. CITY嘉匯 Block 1|MUK NING ST沐寧街,8035572.0,20895.0,372.0,8035572.0,20895.0,372.0,,,,22.0,70.0,109.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",106,742,2018/08,2,K. CITY,嘉匯
+15,K. CITY嘉匯 Block 8|MUK NING ST沐寧街,7405788.0,20789.0,348.0,7405788.0,20789.0,348.0,,,,10.0,28.0,56.0,"['A', 'ABCDEF', 'AF', 'B', 'C', 'CD', 'CF', 'D', 'E', 'EF', 'F']",48,528,2018/08,2,K. CITY,嘉匯
 16,K. CITY嘉匯 Block 2|MUK NING ST沐寧街,,,,,,,,,,21.0,68.0,105.0,"['A', 'AB', 'B', 'BC', 'C', 'D', 'E', 'EF', 'F']",101,909,2018/08,2,K. CITY,嘉匯
-17,K. CITY嘉匯 Block 9|MUK NING ST沐寧街,,,,,,,,,,21.0,68.0,105.0,"['A', 'B', 'C', 'D', 'E', 'F']",101,606,2018/08,2,K. CITY,嘉匯
+17,K. CITY嘉匯 Block 9|MUK NING ST沐寧街,7993908.0,21567.0,348.0,7993908.0,21567.0,348.0,,,,21.0,68.0,105.0,"['A', 'B', 'C', 'D', 'E', 'F']",101,606,2018/08,2,K. CITY,嘉匯
 18,K. CITY嘉匯 Block 5|MUK NING ST沐寧街,,,,,,,,,,2.0,3.0,5.0,"['A', 'ABCDEF', 'AF', 'B', 'C', 'D', 'DE', 'E', 'F']",5,45,2018/08,2,K. CITY,嘉匯
 19,K. CITY嘉匯 Block 3|MUK NING ST沐寧街,,,,,,,,,,5.0,12.0,20.0,"['A', 'B', 'BC', 'C', 'D', 'E', 'F', 'FG', 'G', 'H']",20,200,2018/08,2,K. CITY,嘉匯
-20,VIBE CENTRO龍譽 Block 2A|MUK NING ST沐寧街,,,,,,,,,,23.0,68.0,102.0,"['A', 'B', 'BC', 'C', 'D', 'E', 'F']",95,665,2018/11,2,VIBE CENTRO,龍譽
-21,VIBE CENTRO龍譽 Block 2B|MUK NING ST沐寧街,,,,,,,,,,10.0,22.0,32.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",30,210,2018/11,2,VIBE CENTRO,龍譽
-22,VIBE CENTRO龍譽 Block 1A|MUK NING ST沐寧街,,,,,,,,,,12.0,33.0,64.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",57,399,2018/11,2,VIBE CENTRO,龍譽
-23,VIBE CENTRO龍譽 Block 1B|MUK NING ST沐寧街,,,,,,,,,,7.0,20.0,32.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",33,264,2018/11,2,VIBE CENTRO,龍譽
-24,K. CITY嘉匯 Block 6|MUK NING ST沐寧街,,,,,,,,,,2.0,3.0,5.0,"['A', 'B', 'BE', 'C', 'D', 'E', 'F', 'FG', 'G', 'H']",5,50,2018/08,2,K. CITY,嘉匯
-25,K. CITY嘉匯 Block 7|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F']",4,24,2018/08,2,K. CITY,嘉匯
-26,VICTORIA SKYE天寰 OCEAN WAVES天海匯|MUK NING ST沐寧街,,,,,,,,,,9.0,22.0,33.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N']",32,416,2018/12,2,VICTORIA SKYE,天寰
-27,VICTORIA SKYE天寰 STAR WAVES星寰匯|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F']",4,24,2018/12,2,VICTORIA SKYE,天寰
-28,ONE KAI TAK (II)啟德1號 (II) Block T5|MUK NING ST沐寧街,,,,,,,,,,9.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K']",29,290,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-29,OASIS KAI TAKnan Block 5|MUK NING ST沐寧街,,,,,,,,,,9.0,20.0,29.0,"['A', 'B', 'C', 'D', 'E']",28,140,2018/12,2,OASIS KAI TAK,
-30,OASIS KAI TAKnan Block 3|MUK NING ST沐寧街,,,,,,,,,,9.0,20.0,29.0,"['A', 'B', 'C', 'D', 'E', 'F']",28,168,2018/12,2,OASIS KAI TAK,
-31,ONE KAI TAK (II)啟德1號 (II) Block L9|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-32,ONE KAI TAK (I)啟德1號 (I) Block L6|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-33,OASIS KAI TAKnan Block 1|MUK NING ST沐寧街,,,,,,,,,,10.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E', 'F']",28,168,2018/12,2,OASIS KAI TAK,
-34,ONE KAI TAK (II)啟德1號 (II) Block L11|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-35,OASIS KAI TAKnan Block 2|MUK NING ST沐寧街,,,,,,,,,,9.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E']",29,145,2018/12,2,OASIS KAI TAK,
-36,ONE KAI TAK (II)啟德1號 (II) Block L12|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-37,ONE KAI TAK (II)啟德1號 (II) Block L10|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
-38,ONE KAI TAK (I)啟德1號 (I) Block L2|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-39,ONE KAI TAK (I)啟德1號 (I) Block L5|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-40,OASIS KAI TAKnan Block D|MUK NING ST沐寧街,,,,,,,,,,2.0,3.0,4.0,"['A', 'B', 'C', 'D']",3,12,2018/12,2,OASIS KAI TAK,
-41,VIBE CENTRO龍譽 Block 3|MUK NING ST沐寧街,,,,,,,,,,2.0,3.0,4.0,"['A22', 'A25', 'A52', 'A53', 'A55', 'B21', 'B52']",3,21,2018/11,2,VIBE CENTRO,龍譽
-42,VIBE CENTRO龍譽 Block 5|MUK NING ST沐寧街,,,,,,,,,,2.0,3.0,4.0,"['C21', 'C26', 'C27', 'C56']",3,12,2018/11,2,VIBE CENTRO,龍譽
+20,VIBE CENTRO龍譽 Block 2A|MUK NING ST沐寧街,10958166.0,21114.0,519.0,10958166.0,21114.0,519.0,,,,23.0,68.0,102.0,"['A', 'B', 'BC', 'C', 'D', 'E', 'F']",95,665,2018/11,2,VIBE CENTRO,龍譽
+21,VIBE CENTRO龍譽 Block 2B|MUK NING ST沐寧街,6195582.0,20247.0,306.0,6195582.0,20247.0,306.0,,,,10.0,22.0,32.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",30,210,2018/11,2,VIBE CENTRO,龍譽
+22,VIBE CENTRO龍譽 Block 1A|MUK NING ST沐寧街,5968690.0,21219.0,245.0,5968690.0,21219.0,245.0,,,,12.0,33.0,64.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",57,399,2018/11,2,VIBE CENTRO,龍譽
+23,VIBE CENTRO龍譽 Block 1B|MUK NING ST沐寧街,4888776.0,20040.0,228.0,4888776.0,20040.0,228.0,,,,7.0,20.0,32.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",33,264,2018/11,2,VIBE CENTRO,龍譽
+24,K. CITY嘉匯 Block 6|MUK NING ST沐寧街,7882917.0,20767.0,355.0,7882917.0,20767.0,355.0,,,,2.0,3.0,5.0,"['A', 'B', 'BE', 'C', 'D', 'E', 'F', 'FG', 'G', 'H']",5,50,2018/08,2,K. CITY,嘉匯
+25,K. CITY嘉匯 Block 7|MUK NING ST沐寧街,8017768.0,22218.0,358.0,8017768.0,22218.0,358.0,,,,2.0,2.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F']",4,24,2018/08,2,K. CITY,嘉匯
+26,VICTORIA SKYE天寰 OCEAN WAVES天海匯|MUK NING ST沐寧街,5648643.0,17390.0,273.0,5648643.0,17390.0,273.0,,,,9.0,22.0,33.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N']",32,416,2018/12,2,VICTORIA SKYE,天寰
+27,VICTORIA SKYE天寰 STAR WAVES星寰匯|MUK NING ST沐寧街,14584760.0,21802.0,642.0,14584760.0,21802.0,642.0,,,,2.0,2.0,4.0,"['A', 'B', 'C', 'D', 'E', 'F']",4,24,2018/12,2,VICTORIA SKYE,天寰
+28,ONE KAI TAK (II)啟德1號 (II) Block T5|MUK NING ST沐寧街,7190250.0,19174.0,375.0,7190250.0,19174.0,375.0,,,,9.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K']",29,290,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+29,OASIS KAI TAKnan Block 5|MUK NING ST沐寧街,7438218.0,20323.0,364.0,7438218.0,20323.0,364.0,,,,9.0,20.0,29.0,"['A', 'B', 'C', 'D', 'E']",28,140,2018/12,2,OASIS KAI TAK,
+30,OASIS KAI TAKnan Block 3|MUK NING ST沐寧街,6117375.0,20730.0,275.0,6117375.0,20730.0,275.0,,,,9.0,20.0,29.0,"['A', 'B', 'C', 'D', 'E', 'F']",28,168,2018/12,2,OASIS KAI TAK,
+31,ONE KAI TAK (II)啟德1號 (II) Block L9|MUK NING ST沐寧街,46564800.0,29103.0,1600.0,46564800.0,29103.0,1600.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+32,ONE KAI TAK (I)啟德1號 (I) Block L6|MUK NING ST沐寧街,36318400.0,22699.0,1600.0,36318400.0,22699.0,1600.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+33,OASIS KAI TAKnan Block 1|MUK NING ST沐寧街,7400568.0,22368.0,294.0,7400568.0,22368.0,294.0,,,,10.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E', 'F']",28,168,2018/12,2,OASIS KAI TAK,
+34,ONE KAI TAK (II)啟德1號 (II) Block L11|MUK NING ST沐寧街,33815943.0,21663.0,1561.0,33815943.0,21663.0,1561.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+35,OASIS KAI TAKnan Block 2|MUK NING ST沐寧街,9774523.0,20555.0,451.0,9774523.0,20555.0,451.0,,,,9.0,20.0,30.0,"['A', 'B', 'C', 'D', 'E']",29,145,2018/12,2,OASIS KAI TAK,
+36,ONE KAI TAK (II)啟德1號 (II) Block L12|MUK NING ST沐寧街,40363334.0,25498.0,1583.0,40363334.0,25498.0,1583.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+37,ONE KAI TAK (II)啟德1號 (II) Block L10|MUK NING ST沐寧街,35340156.0,22524.0,1569.0,35340156.0,22524.0,1569.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/07,3,ONE KAI TAK (II),啟德1號 (II)
+38,ONE KAI TAK (I)啟德1號 (I) Block L2|MUK NING ST沐寧街,42171200.0,26357.0,1600.0,42171200.0,26357.0,1600.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+39,ONE KAI TAK (I)啟德1號 (I) Block L5|MUK NING ST沐寧街,33548358.0,21382.0,1569.0,33548358.0,21382.0,1569.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+40,OASIS KAI TAKnan Block D|MUK NING ST沐寧街,10730140.0,25995.0,388.0,10730140.0,25995.0,388.0,,,,2.0,3.0,4.0,"['A', 'B', 'C', 'D']",3,12,2018/12,2,OASIS KAI TAK,
+41,VIBE CENTRO龍譽 Block 3|MUK NING ST沐寧街,21500484.0,23916.0,899.0,21500484.0,23916.0,899.0,,,,2.0,3.0,4.0,"['A22', 'A25', 'A52', 'A53', 'A55', 'B21', 'B52']",3,21,2018/11,2,VIBE CENTRO,龍譽
+42,VIBE CENTRO龍譽 Block 5|MUK NING ST沐寧街,25603032.0,25914.0,987.0,25603032.0,25914.0,987.0,,,,2.0,3.0,4.0,"['C21', 'C26', 'C27', 'C56']",3,12,2018/11,2,VIBE CENTRO,龍譽
 43,OASIS KAI TAKnan Block B|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,2.0,"['A', 'C']",1,2,2018/12,2,OASIS KAI TAK,
 44,OASIS KAI TAKnan Block A|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,2.0,"['A', 'C']",1,2,2018/12,2,OASIS KAI TAK,
-45,ONE KAI TAK (I)啟德1號 (I) Block L3|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
-46,KAI LONG COURT啟朗苑 Block A|MUK ON ST沐安街,,,,,,,,,,6.0,16.0,26.0,"['1', '2', '3', '4', '5', '6', '7']",30,210,2019/03,1,KAI LONG COURT,啟朗苑
-47,KAI LONG COURT啟朗苑 Block C|MUK ON ST沐安街,,,,,,,,,,4.0,10.0,19.0,"['1', '2', '3', '4', '5', '6', '7']",20,140,2019/03,1,KAI LONG COURT,啟朗苑
-48,KAI LONG COURT啟朗苑 Block B|MUK ON ST沐安街,,,,,,,,,,5.0,13.0,21.0,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9']",25,300,2019/03,1,KAI LONG COURT,啟朗苑
+45,ONE KAI TAK (I)啟德1號 (I) Block L3|MUK NING ST沐寧街,34569777.0,22033.0,1569.0,34569777.0,22033.0,1569.0,,,,2.0,2.0,4.0,['whole floor'],4,4,2017/06,3,ONE KAI TAK (I),啟德1號 (I)
+46,KAI LONG COURT啟朗苑 Block A|MUK ON ST沐安街,2535552.0,6575.0,380.0,2535552.0,6575.0,380.0,,,,6.0,16.0,26.0,"['1', '2', '3', '4', '5', '6', '7']",30,210,2019/03,1,KAI LONG COURT,啟朗苑
+47,KAI LONG COURT啟朗苑 Block C|MUK ON ST沐安街,2445696.0,6364.0,380.0,2445696.0,6364.0,380.0,,,,4.0,10.0,19.0,"['1', '2', '3', '4', '5', '6', '7']",20,140,2019/03,1,KAI LONG COURT,啟朗苑
+48,KAI LONG COURT啟朗苑 Block B|MUK ON ST沐安街,1810380.0,6330.0,286.0,1810380.0,6330.0,286.0,,,,5.0,13.0,21.0,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9']",25,300,2019/03,1,KAI LONG COURT,啟朗苑
 49,OASIS KAI TAKnan Block C|MUK NING ST沐寧街,,,,,,,,,,2.0,2.0,2.0,"['A', 'B']",1,2,2018/12,2,OASIS KAI TAK,
-50,UPPER RIVERBANK尚．珒溋 Block 2|MUK TAI ST沐泰街,,,,,,,,,,10.0,21.0,31.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L']",29,319,2021/11,-1,UPPER RIVERBANK,尚．珒溋
-51,UPPER RIVERBANK尚．珒溋 Block 1|MUK TAI ST沐泰街,,,,,,,,,,10.0,21.0,31.0,"['A', 'C', 'E', 'F', 'H', 'J']",29,174,2021/11,-1,UPPER RIVERBANK,尚．珒溋
-52,K.SUMMIT嘉峯匯 Block 2B|MUK TAI ST沐泰街,,,,,,,,,,9.0,22.0,34.0,"['B', 'C', 'D', 'E', 'F']",34,170,2021/11,-1,K.SUMMIT,嘉峯匯
-53,K.SUMMIT嘉峯匯 Block 1A|MUK TAI ST沐泰街,,,,,,,,,,7.0,18.0,28.0,"['A', 'B', 'D', 'F', 'G']",29,145,2021/11,-1,K.SUMMIT,嘉峯匯
+50,UPPER RIVERBANK尚．珒溋 Block 2|MUK TAI ST沐泰街,7524018.0,21987.0,332.0,7524018.0,21987.0,332.0,,,,10.0,21.0,31.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L']",29,319,2021/11,-1,UPPER RIVERBANK,尚．珒溋
+51,UPPER RIVERBANK尚．珒溋 Block 1|MUK TAI ST沐泰街,11037597.0,23043.0,479.0,11037597.0,23043.0,479.0,,,,10.0,21.0,31.0,"['A', 'C', 'E', 'F', 'H', 'J']",29,174,2021/11,-1,UPPER RIVERBANK,尚．珒溋
+52,K.SUMMIT嘉峯匯 Block 2B|MUK TAI ST沐泰街,7468684.0,19979.0,331.0,7468684.0,19979.0,331.0,,,,9.0,22.0,34.0,"['B', 'C', 'D', 'E', 'F']",34,170,2021/11,-1,K.SUMMIT,嘉峯匯
+53,K.SUMMIT嘉峯匯 Block 1A|MUK TAI ST沐泰街,6774635.0,20786.0,287.0,6774635.0,20786.0,287.0,,,,7.0,18.0,28.0,"['A', 'B', 'D', 'F', 'G']",29,145,2021/11,-1,K.SUMMIT,嘉峯匯
