@@ -1,32 +1,32 @@
 ,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
-0,GREENVILLE GDNS嘉苑 Block D|SHIU FAI TERR肇輝臺,,,,,,,,,,5.0,12.0,19.0,"['1', '2', '3', '4']",22,88,1980/12,40,GREENVILLE GDNS,嘉苑
-1,GREENVILLE GDNS嘉苑 Block B|SHIU FAI TERR肇輝臺,21973950.0,18450.0,1191.0,21973950.0,18450.0,1191.0,,,,5.0,12.0,19.0,"['1', '2', '3', '4']",23,92,1975/05,45,GREENVILLE GDNS,嘉苑
-2,CRAIGMOUNT紀園|STUBBS RD司徒拔道,,,,,,,,,,3.0,6.0,9.0,"['A', 'B', 'C', 'D']",9,36,1972/10,48,blank,
-3,CAMELOT HTS金鑾閣|KENNEDY RD堅尼地道,16905390.0,16413.0,1030.0,16905390.0,16413.0,1030.0,,,,5.0,11.0,18.0,"['A', 'B', 'C']",19,57,1979/08,41,blank,
-4,GREENCLIFF翠壁|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']",3,27,1989/10,31,blank,
-5,MOON FAIR MANS滿輝大廈|SHIU FAI TERR肇輝臺,10089300.0,11940.0,845.0,10089300.0,11940.0,845.0,,,,3.0,6.0,10.0,"['6', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",12,108,1974/01,46,blank,
-6,GRANDVIEW TOWER慧景臺 Block A|KENNEDY RD堅尼地道,,,,,,,,,,6.0,15.0,24.0,"['1', '2', '3', '4']",29,116,1978/02,42,GRANDVIEW TOWER,慧景臺
-7,MERRY GDN豐樂新村 Block B|KENNEDY RD堅尼地道,,,,,,,,,,3.0,6.0,10.0,"['1', '2', '3', '4']",12,48,1972/07,48,MERRY GDN,豐樂新村
-8,SHIU FAI TERR GDN肇輝臺花園|SHIU FAI TERR肇輝臺,,,,,,,,,,3.0,6.0,9.0,"['A', 'B']",11,22,1981/09,39,blank,
-9,GRANDVIEW TOWER慧景臺 Block B|KENNEDY RD堅尼地道,16621590.0,21174.0,785.0,16621590.0,21174.0,785.0,,,,6.0,16.0,25.0,"['1', '2', '3', '4']",30,120,1978/02,42,GRANDVIEW TOWER,慧景臺
+0,GREENVILLE GDNS嘉苑 Block D|SHIU FAI TERR肇輝臺,,,1052.0,,,1052.0,,,1335.0,5.0,12.0,19.0,"['1', '2', '3', '4']",22,88,1980/12,40,GREENVILLE GDNS,嘉苑
+1,GREENVILLE GDNS嘉苑 Block B|SHIU FAI TERR肇輝臺,21973950.0,18450.0,1191.0,21973950.0,18450.0,1191.0,37903762.0,24986.0,1517.0,5.0,12.0,19.0,"['1', '2', '3', '4']",23,92,1975/05,45,GREENVILLE GDNS,嘉苑
+2,CRAIGMOUNT紀園|STUBBS RD司徒拔道,,,1770.0,,,1770.0,,,1800.0,3.0,6.0,9.0,"['A', 'B', 'C', 'D']",9,36,1972/10,48,blank,
+3,CAMELOT HTS金鑾閣|KENNEDY RD堅尼地道,16905390.0,16413.0,1030.0,16905390.0,16413.0,1030.0,26340926.0,21277.0,1246.0,5.0,11.0,18.0,"['A', 'B', 'C']",19,57,1979/08,41,blank,
+4,GREENCLIFF翠壁|TUNG SHAN TERR東山臺,,,553.0,,,553.0,,,1152.0,1.0,2.0,3.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']",3,27,1989/10,31,blank,
+5,MOON FAIR MANS滿輝大廈|SHIU FAI TERR肇輝臺,10089300.0,11940.0,845.0,10089300.0,11940.0,845.0,20206420.0,18538.0,1130.0,3.0,6.0,10.0,"['6', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']",12,108,1974/01,46,blank,
+6,GRANDVIEW TOWER慧景臺 Block A|KENNEDY RD堅尼地道,,,715.0,,,715.0,,,820.0,6.0,15.0,24.0,"['1', '2', '3', '4']",29,116,1978/02,42,GRANDVIEW TOWER,慧景臺
+7,MERRY GDN豐樂新村 Block B|KENNEDY RD堅尼地道,,,720.0,,,720.0,,,964.0,3.0,6.0,10.0,"['1', '2', '3', '4']",12,48,1972/07,48,MERRY GDN,豐樂新村
+8,SHIU FAI TERR GDN肇輝臺花園|SHIU FAI TERR肇輝臺,,,1110.0,,,1110.0,,,1110.0,3.0,6.0,9.0,"['A', 'B']",11,22,1981/09,39,blank,
+9,GRANDVIEW TOWER慧景臺 Block B|KENNEDY RD堅尼地道,16621590.0,21174.0,715.0,16621590.0,21174.0,715.0,16621590.0,21174.0,820.0,6.0,16.0,25.0,"['1', '2', '3', '4']",30,120,1978/02,42,GRANDVIEW TOWER,慧景臺
 10,AMBER GDN柏苑|KENNEDY RD堅尼地道,,,,,,,,,,11.0,20.0,28.0,"['A', 'B', 'C', 'D']",26,104,1981/07,39,blank,
 11,EWAN COURT倚雲閣|KENNEDY RD堅尼地道,,,,,,,,,,3.0,6.0,9.0,"['A', 'B', 'C', 'D']",11,44,1978/06,42,blank,
-12,MONTICELLO滿峰台|KENNEDY RD堅尼地道,18940828.0,17603.0,1064.0,18940828.0,17603.0,1064.0,,,,4.0,10.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F']",20,120,1966/08,54,blank,
-13,MAN YUEN GDN文苑|KENNEDY RD堅尼地道,,,,,,,,,,4.0,7.0,10.0,"['A', 'B']",9,18,1964/04,56,blank,
-14,GREENVILLE GDNS嘉苑 Block C|SHIU FAI TERR肇輝臺,,,,,,,,,,5.0,12.0,19.0,"['1', '2', '3', '4']",22,88,1980/12,40,GREENVILLE GDNS,嘉苑
-15,SILVER FAIR MANS銀輝大廈|SHIU FAI TERR肇輝臺,,,,,,,,,,3.0,6.0,8.0,['whole floor'],10,10,1965/07,55,blank,
-16,MANDARIN VILLA文華新村 Block E|SHIU FAI TERR肇輝臺,,,,,,,,,,3.0,6.0,9.0,"['3', '4', '7', '8']",11,44,1973/05,47,MANDARIN VILLA,文華新村
+12,MONTICELLO滿峰台|KENNEDY RD堅尼地道,18940828.0,17603.0,1064.0,18940828.0,17603.0,1064.0,25898862.0,20653.0,1259.0,4.0,10.0,18.0,"['A', 'B', 'C', 'D', 'E', 'F']",20,120,1966/08,54,blank,
+13,MAN YUEN GDN文苑|KENNEDY RD堅尼地道,,,1662.0,,,1662.0,,,1669.0,4.0,7.0,10.0,"['A', 'B']",9,18,1964/04,56,blank,
+14,GREENVILLE GDNS嘉苑 Block C|SHIU FAI TERR肇輝臺,,,1052.0,,,1052.0,,,1365.0,5.0,12.0,19.0,"['1', '2', '3', '4']",22,88,1980/12,40,GREENVILLE GDNS,嘉苑
+15,SILVER FAIR MANS銀輝大廈|SHIU FAI TERR肇輝臺,,,1119.0,,,1119.0,,,1119.0,3.0,6.0,8.0,['whole floor'],10,10,1965/07,55,blank,
+16,MANDARIN VILLA文華新村 Block E|SHIU FAI TERR肇輝臺,,,612.0,,,612.0,,,1195.0,3.0,6.0,9.0,"['3', '4', '7', '8']",11,44,1973/05,47,MANDARIN VILLA,文華新村
 17,MANDARIN VILLA文華新村 Block W|SHIU FAI TERR肇輝臺,,,,,,,,,,3.0,6.0,10.0,"['1', '2', '5', '6']",12,48,1973/05,47,MANDARIN VILLA,文華新村
 18,BEVERLY COURT嘉美閣|SHIU FAI TERR肇輝臺,,,,,,,,,,4.0,8.0,10.0,"['A', 'B', 'C', 'D']",10,40,1981/12,39,blank,
-19,CRESCENT HTS月陶居|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'E', 'H', 'J', 'K', 'L', 'M']",3,21,1996/11,24,blank,
-20,MIRAMAR VILLA美麗村 Block W|SHIU FAI TERR肇輝臺,,,,,,,,,,4.0,7.0,10.0,"['1', '2', '3', '4']",11,44,1969/10,51,MIRAMAR VILLA,美麗村
-21,MIRAMAR VILLA美麗村 Block E|SHIU FAI TERR肇輝臺,14085036.0,16227.0,868.0,14085036.0,16227.0,868.0,,,,3.0,6.0,9.0,"['5', '6', '7', '8']",11,44,1969/07,51,MIRAMAR VILLA,美麗村
-22,RICHERY GDN德信花園|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",3,21,1997/02,23,blank,
-23,GREENVILLE GDNS嘉苑 Block A|SHIU FAI TERR肇輝臺,,,,,,,,,,3.0,7.0,10.0,"['1', '2', '3']",11,33,1974/08,46,GREENVILLE GDNS,嘉苑
-24,22 TUNG SHAN TERR東山臺22號|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'B', 'C', 'D']",3,12,1997/12,23,blank,
+19,CRESCENT HTS月陶居|TUNG SHAN TERR東山臺,,,770.0,,,770.0,,,1230.0,1.0,2.0,3.0,"['A', 'E', 'H', 'J', 'K', 'L', 'M']",3,21,1996/11,24,blank,
+20,MIRAMAR VILLA美麗村 Block W|SHIU FAI TERR肇輝臺,,,868.0,,,868.0,,,960.0,4.0,7.0,10.0,"['1', '2', '3', '4']",11,44,1969/10,51,MIRAMAR VILLA,美麗村
+21,MIRAMAR VILLA美麗村 Block E|SHIU FAI TERR肇輝臺,14085036.0,16227.0,868.0,14085036.0,16227.0,868.0,17700480.0,18438.0,960.0,3.0,6.0,9.0,"['5', '6', '7', '8']",11,44,1969/07,51,MIRAMAR VILLA,美麗村
+22,RICHERY GDN德信花園|TUNG SHAN TERR東山臺,,,706.0,,,706.0,,,1042.0,1.0,2.0,3.0,"['A', 'B', 'C', 'D', 'E', 'F', 'G']",3,21,1997/02,23,blank,
+23,GREENVILLE GDNS嘉苑 Block A|SHIU FAI TERR肇輝臺,,,1190.0,,,1190.0,,,1207.0,3.0,7.0,10.0,"['1', '2', '3']",11,33,1974/08,46,GREENVILLE GDNS,嘉苑
+24,22 TUNG SHAN TERR東山臺22號|TUNG SHAN TERR東山臺,,,763.0,,,763.0,,,1041.0,1.0,2.0,3.0,"['A', 'B', 'C', 'D']",3,12,1997/12,23,blank,
 25,STUBBS VILLAS詩濤花園|SHIU FAI TERR肇輝臺,,,,,,,,,,7.0,10.0,12.0,['A'],8,8,1981/12,39,blank,
-26,NO.8 SHIU FAI TERR肇輝臺8號|SHIU FAI TERR肇輝臺,35164524.0,21044.0,1671.0,35164524.0,21044.0,1671.0,,,,5.0,8.0,12.0,"['A', 'B', 'C', 'D', 'E']",12,60,2003/10,17,blank,
+26,NO.8 SHIU FAI TERR肇輝臺8號|SHIU FAI TERR肇輝臺,35164524.0,21044.0,1671.0,35164524.0,21044.0,1671.0,35164524.0,21044.0,2399.0,5.0,8.0,12.0,"['A', 'B', 'C', 'D', 'E']",12,60,2003/10,17,blank,
 27,THE NOTTING HILL摘星閣|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'B', 'C', 'F', 'K', 'L']",3,18,2002/06,18,blank,
 28,TUNG SHAN VILLA東山別墅|TUNG SHAN TERR東山臺,,,,,,,,,,1.0,2.0,3.0,"['A', 'B', 'C', 'D']",3,12,1971/03,49,blank,
-29,RICHERY PALACE德信豪庭|TUNG SHAN TERR東山臺,,,,,,,,,,2.0,2.0,3.0,"['A', 'B']",2,4,1974/09,46,blank,
-30,9-9A TUNG SHAN TERR東山臺,,,,,,,,,,2.0,2.0,2.0,"['A', 'B']",1,2,1964/11,56,blank,
+29,RICHERY PALACE德信豪庭|TUNG SHAN TERR東山臺,,,1891.0,,,1891.0,,,1891.0,2.0,2.0,3.0,"['A', 'B']",2,4,1974/09,46,blank,
+30,9-9A TUNG SHAN TERR東山臺,,,2603.0,,,2603.0,,,2603.0,2.0,2.0,2.0,"['A', 'B']",1,2,1964/11,56,blank,
