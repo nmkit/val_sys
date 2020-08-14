@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
+3.0/F低層A,3.0,低層,A,1746977,6217,281,125,1,KCSW
+4.0/F中層A,4.0,中層,A,1758217,6257,281,127,1,KCSW
+5.0/F高層A,5.0,高層,A,1769738,6298,281,150,1,KCSW
+3.0/F低層B,3.0,低層,B,2054184,6024,341,73,1,KCSW
+4.0/F中層B,4.0,中層,B,2067483,6063,341,74,1,KCSW
+5.0/F高層B,5.0,高層,B,2080782,6102,341,75,1,KCSW
+3.0/F低層blank,3.0,低層,blank,,,,,,KCSW
+4.0/F中層blank,4.0,中層,blank,,,,,,KCSW
+5.0/F高層blank,5.0,高層,blank,,,,,,KCSW
