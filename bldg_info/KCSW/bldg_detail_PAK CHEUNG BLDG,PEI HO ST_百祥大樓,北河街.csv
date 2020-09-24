@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,4165170,8167,510,331,3,KCSW
-7.0/F中層blank,7.0,中層,blank,4583150,8333,550,348,3,KCSW
-10.0/F高層blank,10.0,高層,blank,4321740,8474,510,313,3,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,4185570,8207,510,331,3,KCSW,"PAK CHEUNG BLDG,PEI HO ST|百祥大樓,北河街"
+7.0/F中層blank,7.0,中層,blank,4583150,8333,550,348,3,KCSW,"PAK CHEUNG BLDG,PEI HO ST|百祥大樓,北河街"
+10.0/F高層blank,10.0,高層,blank,4343160,8516,510,313,3,KCSW,"PAK CHEUNG BLDG,PEI HO ST|百祥大樓,北河街"

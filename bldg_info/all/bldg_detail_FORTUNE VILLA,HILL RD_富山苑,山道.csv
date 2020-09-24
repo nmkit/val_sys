@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,6245515,17111,365,146,2,HSW
-14.0/F中層A,14.0,中層,A,6603215,18091,365,146,2,HSW
-21.0/F高層A,21.0,高層,A,6920765,18961,365,146,2,HSW
-6.0/F低層B,6.0,低層,B,6337860,17364,365,254,3,HSW
-14.0/F中層B,14.0,中層,B,6716000,18400,365,270,3,HSW
-21.0/F高層B,21.0,高層,B,7049610,19314,365,284,3,HSW
-6.0/F低層C,6.0,低層,C,6218870,17038,365,222,2,HSW
-14.0/F中層C,14.0,中層,C,6582410,18034,365,179,2,HSW
-21.0/F高層C,21.0,高層,C,6895580,18892,365,176,2,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+14.0/F中層A,14.0,中層,A,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+21.0/F高層A,21.0,高層,A,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+6.0/F低層B,6.0,低層,B,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+14.0/F中層B,14.0,中層,B,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+21.0/F高層B,21.0,高層,B,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+6.0/F低層C,6.0,低層,C,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+14.0/F中層C,14.0,中層,C,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"
+21.0/F高層C,21.0,高層,C,,,,,,HSW,"FORTUNE VILLA,HILL RD|富山苑,山道"

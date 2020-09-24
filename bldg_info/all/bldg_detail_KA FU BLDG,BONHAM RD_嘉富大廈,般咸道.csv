@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,HSW
-12.0/F中層A,12.0,中層,A,,,,,,HSW
-20.0/F高層A,20.0,高層,A,,,,,,HSW
-5.0/F低層B,5.0,低層,B,,,,,,HSW
-12.0/F中層B,12.0,中層,B,,,,,,HSW
-20.0/F高層B,20.0,高層,B,,,,,,HSW
-5.0/F低層C,5.0,低層,C,14929600,18662,800,150,1,HSW
-12.0/F中層C,12.0,中層,C,,,,,,HSW
-20.0/F高層C,20.0,高層,C,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+12.0/F中層A,12.0,中層,A,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+20.0/F高層A,20.0,高層,A,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+5.0/F低層B,5.0,低層,B,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+12.0/F中層B,12.0,中層,B,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+20.0/F高層B,20.0,高層,B,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+5.0/F低層C,5.0,低層,C,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+12.0/F中層C,12.0,中層,C,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"
+20.0/F高層C,20.0,高層,C,,,,,,HSW,"KA FU BLDG,BONHAM RD|嘉富大廈,般咸道"

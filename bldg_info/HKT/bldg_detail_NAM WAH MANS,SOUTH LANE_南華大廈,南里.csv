@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,3957863,13237,299,154,2,HKT
-8.0/F中層A,8.0,中層,A,4036201,13499,299,154,2,HKT
-11.0/F高層A,11.0,高層,A,4110951,13749,299,150,2,HKT
-5.0/F低層B,5.0,低層,B,3926767,13133,299,192,2,HKT
-8.0/F中層B,8.0,中層,B,4003909,13391,299,191,2,HKT
-11.0/F高層B,11.0,高層,B,4077762,13638,299,185,2,HKT
-5.0/F低層C,5.0,低層,C,3837692,13513,284,154,2,HKT
-8.0/F中層C,8.0,中層,C,3913804,13781,284,154,2,HKT
-11.0/F高層C,11.0,高層,C,3986508,14037,284,150,2,HKT
-5.0/F低層D,5.0,低層,D,3766656,13848,272,195,2,HKT
-8.0/F中層D,8.0,中層,D,3841456,14123,272,197,2,HKT
-11.0/F高層D,11.0,高層,D,3912720,14385,272,192,2,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+8.0/F中層A,8.0,中層,A,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+11.0/F高層A,11.0,高層,A,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+5.0/F低層B,5.0,低層,B,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+8.0/F中層B,8.0,中層,B,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+11.0/F高層B,11.0,高層,B,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+5.0/F低層C,5.0,低層,C,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+8.0/F中層C,8.0,中層,C,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+11.0/F高層C,11.0,高層,C,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+5.0/F低層D,5.0,低層,D,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+8.0/F中層D,8.0,中層,D,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"
+11.0/F高層D,11.0,高層,D,,,,,,HKT,"NAM WAH MANS,SOUTH LANE|南華大廈,南里"

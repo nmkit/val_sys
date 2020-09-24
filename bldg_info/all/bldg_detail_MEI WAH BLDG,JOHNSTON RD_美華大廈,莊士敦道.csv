@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,12374320,32564,380,296,2,HWC
-8.0/F中層blank,8.0,中層,blank,12022560,33396,360,271,2,HWC
-11.0/F高層blank,11.0,高層,blank,12888080,33916,380,272,2,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,12442340,32743,380,415,3,HWC,"MEI WAH BLDG,JOHNSTON RD|美華大廈,莊士敦道"
+8.0/F中層blank,8.0,中層,blank,12092760,33591,360,390,3,HWC,"MEI WAH BLDG,JOHNSTON RD|美華大廈,莊士敦道"
+11.0/F高層blank,11.0,高層,blank,12978900,34155,380,401,3,HWC,"MEI WAH BLDG,JOHNSTON RD|美華大廈,莊士敦道"

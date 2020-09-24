@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,6748315,13363,505,404,3,KKC
-10.0/F中層blank,10.0,中層,blank,7011420,13884,505,404,3,KKC
-16.0/F高層blank,16.0,高層,blank,7685595,15219,505,404,3,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,6748315,13363,505,404,3,KKC,"TAI YIN LODGE,FUK LO TSUN RD|泰然樓,福佬村道"
+10.0/F中層blank,10.0,中層,blank,7011420,13884,505,404,3,KKC,"TAI YIN LODGE,FUK LO TSUN RD|泰然樓,福佬村道"
+16.0/F高層blank,16.0,高層,blank,7685595,15219,505,404,3,KKC,"TAI YIN LODGE,FUK LO TSUN RD|泰然樓,福佬村道"

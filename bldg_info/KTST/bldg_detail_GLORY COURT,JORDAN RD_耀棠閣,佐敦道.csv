@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層F.P.,4.0,低層,F.P.,9965680,11588,860,56,1,KTST
-6.0/F中層F.P.,6.0,中層,F.P.,9531663,10509,907,206,2,KTST
-9.0/F高層F.P.,9.0,高層,F.P.,9960520,11582,860,205,2,KTST
-4.0/F低層R.P.,4.0,低層,R.P.,7154532,13398,534,118,1,KTST
-6.0/F中層R.P.,6.0,中層,R.P.,7275750,13625,534,150,1,KTST
-9.0/F高層R.P.,9.0,高層,R.P.,7457844,13966,534,116,1,KTST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層F.P.,4.0,低層,F.P.,9795400,11390,860,56,1,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"
+6.0/F中層F.P.,6.0,中層,F.P.,9474522,10446,907,206,2,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"
+9.0/F高層F.P.,9.0,高層,F.P.,9912360,11526,860,205,2,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"
+4.0/F低層R.P.,4.0,低層,R.P.,7154532,13398,534,118,1,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"
+6.0/F中層R.P.,6.0,中層,R.P.,7275750,13625,534,150,1,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"
+9.0/F高層R.P.,9.0,高層,R.P.,7457844,13966,534,116,1,KTST,"GLORY COURT,JORDAN RD|耀棠閣,佐敦道"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,,,,,,KKC
-6.0/F中層B,6.0,中層,B,,,,,,KKC
-10.0/F高層B,10.0,高層,B,,,,,,KKC
-3.0/F低層blank,3.0,低層,blank,3612160,10624,340,374,3,KKC
-6.0/F中層blank,6.0,中層,blank,5389272,10693,504,322,3,KKC
-10.0/F高層blank,10.0,高層,blank,3807763,11299,337,393,3,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,,,,,,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"
+6.0/F中層B,6.0,中層,B,,,,,,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"
+10.0/F高層B,10.0,高層,B,,,,,,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"
+3.0/F低層blank,3.0,低層,blank,3612840,10626,340,374,3,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"
+6.0/F中層blank,6.0,中層,blank,5638248,11187,504,322,3,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"
+10.0/F高層blank,10.0,高層,blank,3810459,11307,337,393,3,KKC,"TOKWAWAN MANS,TO KWA WAN RD|土瓜灣大廈,土瓜灣道"

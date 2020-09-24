@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,NST
-6.0/F中層A,6.0,中層,A,,,,,,NST
-9.0/F高層A,9.0,高層,A,,,,,,NST
-4.0/F低層B,4.0,低層,B,7180800,14080,510,201,2,NST
-6.0/F中層B,6.0,中層,B,7249140,14214,510,201,2,NST
-9.0/F高層B,9.0,高層,B,7347060,14406,510,198,2,NST
-4.0/F低層C,4.0,低層,C,,,,,,NST
-6.0/F中層C,6.0,中層,C,,,,,,NST
-9.0/F高層C,9.0,高層,C,,,,,,NST
-4.0/F低層D,4.0,低層,D,,,,,,NST
-6.0/F中層D,6.0,中層,D,,,,,,NST
-9.0/F高層D,9.0,高層,D,,,,,,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+6.0/F中層A,6.0,中層,A,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+9.0/F高層A,9.0,高層,A,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+4.0/F低層B,4.0,低層,B,7180800,14080,510,201,2,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+6.0/F中層B,6.0,中層,B,7249140,14214,510,201,2,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+9.0/F高層B,9.0,高層,B,7347060,14406,510,198,2,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+4.0/F低層C,4.0,低層,C,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+6.0/F中層C,6.0,中層,C,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+9.0/F高層C,9.0,高層,C,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+4.0/F低層D,4.0,低層,D,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+6.0/F中層D,6.0,中層,D,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"
+9.0/F高層D,9.0,高層,D,,,,,,NST,"YUET ON BLDG,TAI WAI RD|悅安樓,大圍道"

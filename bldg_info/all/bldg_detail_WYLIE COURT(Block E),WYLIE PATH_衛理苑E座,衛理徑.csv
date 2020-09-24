@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層B,4.0,低層,B,26179120,18436,1420,222,2,KYMT
-8.0/F中層B,8.0,中層,B,26954440,18982,1420,216,2,KYMT
-10.0/F高層B,10.0,高層,B,27335000,19250,1420,210,2,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層B,5.0,低層,B,26376500,18575,1420,222,2,KYMT,"WYLIE COURT(Block E),WYLIE PATH|衛理苑E座,衛理徑"
+9.0/F中層B,9.0,中層,B,27144720,19116,1420,213,2,KYMT,"WYLIE COURT(Block E),WYLIE PATH|衛理苑E座,衛理徑"
+14.0/F高層B,14.0,高層,B,28094700,19785,1420,198,2,KYMT,"WYLIE COURT(Block E),WYLIE PATH|衛理苑E座,衛理徑"

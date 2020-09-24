@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,7094880,13644,520,173,2,KYMT
-12.0/F中層blank,12.0,中層,blank,7372560,14178,520,176,2,KYMT
-20.0/F高層blank,20.0,高層,blank,7736040,14877,520,173,2,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,7094880,13644,520,173,2,KYMT,"LE MANS,TUNG ON ST|逸安閣,東安街"
+12.0/F中層blank,12.0,中層,blank,7372560,14178,520,176,2,KYMT,"LE MANS,TUNG ON ST|逸安閣,東安街"
+20.0/F高層blank,20.0,高層,blank,7736040,14877,520,173,2,KYMT,"LE MANS,TUNG ON ST|逸安閣,東安街"

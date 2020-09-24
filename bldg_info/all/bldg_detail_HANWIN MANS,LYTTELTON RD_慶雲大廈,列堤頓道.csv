@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,HMW
-6.0/F中層A,6.0,中層,A,,,,,,HMW
-10.0/F高層A,10.0,高層,A,,,,,,HMW
-3.0/F低層B,3.0,低層,B,,,,,,HMW
-6.0/F中層B,6.0,中層,B,,,,,,HMW
-10.0/F高層B,10.0,高層,B,,,,,,HMW
-3.0/F低層C,3.0,低層,C,,,,,,HMW
-6.0/F中層C,6.0,中層,C,,,,,,HMW
-10.0/F高層C,10.0,高層,C,,,,,,HMW
-3.0/F低層D,3.0,低層,D,,,,,,HMW
-6.0/F中層D,6.0,中層,D,,,,,,HMW
-10.0/F高層D,10.0,高層,D,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+6.0/F中層A,6.0,中層,A,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+10.0/F高層A,10.0,高層,A,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+3.0/F低層B,3.0,低層,B,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+6.0/F中層B,6.0,中層,B,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+10.0/F高層B,10.0,高層,B,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+3.0/F低層C,3.0,低層,C,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+6.0/F中層C,6.0,中層,C,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+10.0/F高層C,10.0,高層,C,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+3.0/F低層D,3.0,低層,D,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+6.0/F中層D,6.0,中層,D,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"
+10.0/F高層D,10.0,高層,D,,,,,,HMW,"HANWIN MANS,LYTTELTON RD|慶雲大廈,列堤頓道"

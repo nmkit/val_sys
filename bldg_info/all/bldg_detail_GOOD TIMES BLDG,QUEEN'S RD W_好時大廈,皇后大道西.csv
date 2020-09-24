@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,5677420,13265,428,95,1,HSW
-9.0/F中層A,9.0,中層,A,5867880,13710,428,98,1,HSW
-16.0/F高層A,16.0,高層,A,6134096,14332,428,91,1,HSW
-4.0/F低層B,4.0,低層,B,5677420,13265,428,143,1,HSW
-9.0/F中層B,9.0,中層,B,5867880,13710,428,148,1,HSW
-16.0/F高層B,16.0,高層,B,6134096,14332,428,137,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,5677420,13265,428,95,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"
+8.0/F中層A,8.0,中層,A,5829788,13621,428,99,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"
+15.0/F高層A,15.0,高層,A,6096004,14243,428,92,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"
+4.0/F低層B,4.0,低層,B,5677420,13265,428,143,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"
+8.0/F中層B,8.0,中層,B,5829788,13621,428,150,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"
+15.0/F高層B,15.0,高層,B,6096004,14243,428,139,1,HSW,"GOOD TIMES BLDG,QUEEN'S RD W|好時大廈,皇后大道西"

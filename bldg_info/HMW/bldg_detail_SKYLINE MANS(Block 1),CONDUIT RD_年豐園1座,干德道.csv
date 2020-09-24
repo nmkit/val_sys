@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,HMW
-6.0/F中層A,6.0,中層,A,,,,,,HMW
-9.0/F高層A,9.0,高層,A,,,,,,HMW
-3.0/F低層B,3.0,低層,B,,,,,,HMW
-6.0/F中層B,6.0,中層,B,,,,,,HMW
-9.0/F高層B,9.0,高層,B,,,,,,HMW
-3.0/F低層C,3.0,低層,C,21044120,17834,1180,95,1,HMW
-6.0/F中層C,6.0,中層,C,21497240,18218,1180,150,1,HMW
-9.0/F高層C,9.0,高層,C,21950360,18602,1180,95,1,HMW
-3.0/F低層D,3.0,低層,D,19647000,16650,1180,92,1,HMW
-6.0/F中層D,6.0,中層,D,20076520,17014,1180,97,1,HMW
-9.0/F高層D,9.0,高層,D,20504860,17377,1180,98,1,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+6.0/F中層A,6.0,中層,A,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+9.0/F高層A,9.0,高層,A,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+3.0/F低層B,3.0,低層,B,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+6.0/F中層B,6.0,中層,B,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+9.0/F高層B,9.0,高層,B,,,,,,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+3.0/F低層C,3.0,低層,C,21044120,17834,1180,95,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+6.0/F中層C,6.0,中層,C,21497240,18218,1180,150,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+9.0/F高層C,9.0,高層,C,21950360,18602,1180,95,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+3.0/F低層D,3.0,低層,D,19647000,16650,1180,92,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+6.0/F中層D,6.0,中層,D,20076520,17014,1180,97,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"
+9.0/F高層D,9.0,高層,D,20504860,17377,1180,98,1,HMW,"SKYLINE MANS(Block 1),CONDUIT RD|年豐園1座,干德道"

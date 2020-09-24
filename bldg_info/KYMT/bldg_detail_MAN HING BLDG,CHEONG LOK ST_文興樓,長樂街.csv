@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,6974454,10302,677,390,3,KYMT
-4.0/F中層blank,4.0,中層,blank,6974454,10302,677,390,3,KYMT
-5.0/F高層blank,5.0,高層,blank,6958206,10278,677,324,3,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,7336649,10837,677,390,3,KYMT,"MAN HING BLDG,CHEONG LOK ST|文興樓,長樂街"
+4.0/F中層blank,4.0,中層,blank,7336649,10837,677,390,3,KYMT,"MAN HING BLDG,CHEONG LOK ST|文興樓,長樂街"
+5.0/F高層blank,5.0,高層,blank,7288582,10766,677,324,3,KYMT,"MAN HING BLDG,CHEONG LOK ST|文興樓,長樂街"

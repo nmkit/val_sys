@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層16,3.0,低層,16,4790250,10645,450,213,3,NTW
-8.0/F中層16,8.0,中層,16,4876650,10837,450,214,3,NTW
-12.0/F高層16,12.0,高層,16,4946850,10993,450,208,3,NTW
-3.0/F低層blank,3.0,低層,blank,4022355,11659,345,386,3,NTW
-8.0/F中層blank,8.0,中層,blank,4036845,11701,345,327,3,NTW
-12.0/F高層blank,12.0,高層,blank,4621896,11164,414,335,3,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層16,3.0,低層,16,4763250,10585,450,213,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"
+8.0/F中層16,8.0,中層,16,4850100,10778,450,214,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"
+12.0/F高層16,12.0,高層,16,4919850,10933,450,208,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"
+3.0/F低層blank,3.0,低層,blank,4009590,11622,345,386,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"
+8.0/F中層blank,8.0,中層,blank,4021665,11657,345,327,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"
+12.0/F高層blank,12.0,高層,blank,4612374,11141,414,335,3,NTW,"CHEUK MING BLDG,HAU TEI SQUARE|卓明大廈,鱟地坊"

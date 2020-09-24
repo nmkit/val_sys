@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,6247990,15239,410,153,2,HSKW
-12.0/F中層A,12.0,中層,A,6434130,15693,410,157,2,HSKW
-19.0/F高層A,19.0,高層,A,6652660,16226,410,143,2,HSKW
-6.0/F低層B,6.0,低層,B,5023260,15222,330,157,2,HSKW
-12.0/F中層B,12.0,中層,B,5172750,15675,330,161,2,HSKW
-19.0/F高層B,19.0,高層,B,5022620,16202,310,138,2,HSKW
-6.0/F低層C,6.0,低層,C,5561280,15448,360,357,3,HSKW
-12.0/F中層C,12.0,中層,C,5719320,15887,360,354,3,HSKW
-19.0/F高層C,19.0,高層,C,5579400,16410,340,306,3,HSKW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+12.0/F中層A,12.0,中層,A,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+19.0/F高層A,19.0,高層,A,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+6.0/F低層B,6.0,低層,B,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+12.0/F中層B,12.0,中層,B,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+19.0/F高層B,19.0,高層,B,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+6.0/F低層C,6.0,低層,C,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+12.0/F中層C,12.0,中層,C,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"
+19.0/F高層C,19.0,高層,C,,,,,,HSKW,"ON LOK BLDG,SHAU KEI WAN MAIN ST E|安樂樓,筲箕灣東大街"

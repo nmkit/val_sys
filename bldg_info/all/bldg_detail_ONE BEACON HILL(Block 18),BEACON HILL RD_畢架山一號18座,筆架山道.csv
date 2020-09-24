@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,44440760,29470,1508,134,1,KKL
-6.0/F中層A,6.0,中層,A,46082972,30559,1508,138,1,KKL
-9.0/F高層A,9.0,高層,A,47725184,31648,1508,150,1,KKL
-3.0/F低層B,3.0,低層,B,44412797,29471,1507,89,1,KKL
-6.0/F中層B,6.0,中層,B,46053920,30560,1507,92,1,KKL
-9.0/F高層B,9.0,高層,B,47695043,31649,1507,95,1,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,54435784,36098,1508,84,1,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"
+6.0/F中層A,6.0,中層,A,56473092,37449,1508,88,1,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"
+9.0/F高層A,9.0,高層,A,58508892,38799,1508,93,1,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"
+3.0/F低層B,3.0,低層,B,,,,,,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"
+6.0/F中層B,6.0,中層,B,,,,,,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"
+9.0/F高層B,9.0,高層,B,,,,,,KKL,"ONE BEACON HILL(Block 18),BEACON HILL RD|畢架山一號18座,筆架山道"

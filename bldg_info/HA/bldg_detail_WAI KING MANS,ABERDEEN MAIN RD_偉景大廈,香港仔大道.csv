@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HA
-15.0/F中層A,15.0,中層,A,,,,,,HA
-22.0/F高層A,22.0,高層,A,,,,,,HA
-7.0/F低層B,7.0,低層,B,,,,,,HA
-15.0/F中層B,15.0,中層,B,,,,,,HA
-22.0/F高層B,22.0,高層,B,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"
+15.0/F中層A,15.0,中層,A,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"
+22.0/F高層A,22.0,高層,A,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"
+7.0/F低層B,7.0,低層,B,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"
+15.0/F中層B,15.0,中層,B,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"
+22.0/F高層B,22.0,高層,B,,,,,,HA,"WAI KING MANS,ABERDEEN MAIN RD|偉景大廈,香港仔大道"

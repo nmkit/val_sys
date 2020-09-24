@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,13475800,23075,584,150,1,KSKM
-6.0/F中層A,6.0,中層,A,13774808,23587,584,98,1,KSKM
-8.0/F高層A,8.0,高層,A,13973952,23928,584,95,1,KSKM
-3.0/F低層B,3.0,低層,B,,,,,,KSKM
-6.0/F中層B,6.0,中層,B,,,,,,KSKM
-8.0/F高層B,8.0,高層,B,,,,,,KSKM
-3.0/F低層C,3.0,低層,C,,,,,,KSKM
-6.0/F中層C,6.0,中層,C,,,,,,KSKM
-8.0/F高層C,8.0,高層,C,,,,,,KSKM
-3.0/F低層D,3.0,低層,D,,,,,,KSKM
-6.0/F中層D,6.0,中層,D,,,,,,KSKM
-8.0/F高層D,8.0,高層,D,,,,,,KSKM
-3.0/F低層E,3.0,低層,E,,,,,,KSKM
-6.0/F中層E,6.0,中層,E,,,,,,KSKM
-8.0/F高層E,8.0,高層,E,,,,,,KSKM
-3.0/F低層F,3.0,低層,F,,,,,,KSKM
-6.0/F中層F,6.0,中層,F,27870885,27405,1017,65,1,KSKM
-8.0/F高層F,8.0,高層,F,28294974,27822,1017,67,1,KSKM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,13475800,23075,584,150,1,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層A,6.0,中層,A,13774808,23587,584,98,1,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層A,8.0,高層,A,13973952,23928,584,95,1,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+3.0/F低層B,3.0,低層,B,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層B,6.0,中層,B,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層B,8.0,高層,B,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+3.0/F低層C,3.0,低層,C,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層C,6.0,中層,C,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層C,8.0,高層,C,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+3.0/F低層D,3.0,低層,D,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層D,6.0,中層,D,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層D,8.0,高層,D,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+3.0/F低層E,3.0,低層,E,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層E,6.0,中層,E,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層E,8.0,高層,E,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+3.0/F低層F,3.0,低層,F,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+6.0/F中層F,6.0,中層,F,,,,,,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"
+8.0/F高層F,8.0,高層,F,28397691,27923,1017,67,1,KSKM,"PARC OASIS(Block 18),TAT CHEE AVE|又一居18座,達之路"

@@ -1,10 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,16307800,12170,1340,247,2,KCSW
-6.0/F中層A,6.0,中層,A,16392220,12233,1340,103,1,KCSW
-8.0/F高層A,8.0,高層,A,16603940,12391,1340,103,1,KCSW
-2.0/F低層AB,2.0,低層,AB,,,,,,KCSW
-6.0/F中層AB,6.0,中層,AB,,,,,,KCSW
-8.0/F高層AB,8.0,高層,AB,,,,,,KCSW
-2.0/F低層B,2.0,低層,B,17577827,11821,1487,183,2,KCSW
-6.0/F中層B,6.0,中層,B,18047719,12137,1487,195,2,KCSW
-8.0/F高層B,8.0,高層,B,18426904,12392,1487,253,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,16307800,12170,1340,247,2,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+6.0/F中層A,6.0,中層,A,16392220,12233,1340,103,1,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+8.0/F高層A,8.0,高層,A,16603940,12391,1340,103,1,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+2.0/F低層AB,2.0,低層,AB,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+6.0/F中層AB,6.0,中層,AB,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+8.0/F高層AB,8.0,高層,AB,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+2.0/F低層B,2.0,低層,B,17577827,11821,1487,183,2,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+6.0/F中層B,6.0,中層,B,18047719,12137,1487,195,2,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+8.0/F高層B,8.0,高層,B,18426904,12392,1487,253,2,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+2.0/F低層B室,2.0,低層,B室,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+6.0/F中層B室,6.0,中層,B室,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"
+8.0/F高層B室,8.0,高層,B室,,,,,,KCSW,"VILLA CARLTON(Block 7),TAI PO RD|爾登華庭7座,大埔道"

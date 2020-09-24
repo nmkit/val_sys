@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,KHH
-8.0/F中層A,8.0,中層,A,,,,,,KHH
-12.0/F高層A,12.0,高層,A,,,,,,KHH
-5.0/F低層B,5.0,低層,B,,,,,,KHH
-8.0/F中層B,8.0,中層,B,,,,,,KHH
-12.0/F高層B,12.0,高層,B,,,,,,KHH
-5.0/F低層C,5.0,低層,C,5700800,17815,320,104,1,KHH
-8.0/F中層C,8.0,中層,C,5811840,18162,320,100,1,KHH
-12.0/F高層C,12.0,高層,C,5959680,18624,320,94,1,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+8.0/F中層A,8.0,中層,A,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+12.0/F高層A,12.0,高層,A,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+5.0/F低層B,5.0,低層,B,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+8.0/F中層B,8.0,中層,B,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+12.0/F高層B,12.0,高層,B,,,,,,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+5.0/F低層C,5.0,低層,C,5700800,17815,320,104,1,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+8.0/F中層C,8.0,中層,C,5811840,18162,320,100,1,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"
+12.0/F高層C,12.0,高層,C,5959680,18624,320,94,1,KHH,"HONOUR COURT,MA TAU WAI RD|康年閣,馬頭圍道"

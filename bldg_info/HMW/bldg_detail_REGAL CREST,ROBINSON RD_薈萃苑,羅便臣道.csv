@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-9.0/F低層A,9.0,低層,A,,,,,,HMW
-15.0/F中層A,15.0,中層,A,,,,,,HMW
-21.0/F高層A,21.0,高層,A,,,,,,HMW
-9.0/F低層B,9.0,低層,B,,,,,,HMW
-15.0/F中層B,15.0,中層,B,,,,,,HMW
-21.0/F高層B,21.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"
+16.0/F中層A,16.0,中層,A,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"
+22.0/F高層A,22.0,高層,A,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"
+9.0/F低層B,9.0,低層,B,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"
+16.0/F中層B,16.0,中層,B,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"
+22.0/F高層B,22.0,高層,B,,,,,,HMW,"REGAL CREST,ROBINSON RD|薈萃苑,羅便臣道"

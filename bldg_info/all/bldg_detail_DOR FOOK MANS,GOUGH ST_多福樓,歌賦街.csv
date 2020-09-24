@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層A,1.0,低層,A,,,,,,HSW
-2.0/F中層A,2.0,中層,A,,,,,,HSW
-2.0/F高層A,2.0,高層,A,,,,,,HSW
-1.0/F低層E,1.0,低層,E,,,,,,HSW
-2.0/F中層E,2.0,中層,E,,,,,,HSW
-2.0/F高層E,2.0,高層,E,,,,,,HSW
-1.0/F低層blank,1.0,低層,blank,,,,,,HSW
-2.0/F中層blank,2.0,中層,blank,,,,,,HSW
-2.0/F高層blank,2.0,高層,blank,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層A,1.0,低層,A,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F中層A,2.0,中層,A,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F高層A,2.0,高層,A,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+1.0/F低層E,1.0,低層,E,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F中層E,2.0,中層,E,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F高層E,2.0,高層,E,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+1.0/F低層blank,1.0,低層,blank,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F中層blank,2.0,中層,blank,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"
+2.0/F高層blank,2.0,高層,blank,,,,,,HSW,"DOR FOOK MANS,GOUGH ST|多福樓,歌賦街"

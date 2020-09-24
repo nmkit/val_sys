@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KHMT
-8.0/F中層A,8.0,中層,A,,,,,,KHMT
-13.0/F高層A,13.0,高層,A,,,,,,KHMT
-3.0/F低層B,3.0,低層,B,,,,,,KHMT
-8.0/F中層B,8.0,中層,B,,,,,,KHMT
-13.0/F高層B,13.0,高層,B,,,,,,KHMT
-3.0/F低層C,3.0,低層,C,13401380,15583,860,96,1,KHMT
-8.0/F中層C,8.0,中層,C,14003380,16283,860,103,1,KHMT
-13.0/F高層C,13.0,高層,C,14606240,16984,860,108,1,KHMT
-3.0/F低層D,3.0,低層,D,,,,,,KHMT
-8.0/F中層D,8.0,中層,D,,,,,,KHMT
-13.0/F高層D,13.0,高層,D,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+8.0/F中層A,8.0,中層,A,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+13.0/F高層A,13.0,高層,A,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+4.0/F低層B,4.0,低層,B,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+8.0/F中層B,8.0,中層,B,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+13.0/F高層B,13.0,高層,B,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+4.0/F低層C,4.0,低層,C,13521780,15723,860,97,1,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+8.0/F中層C,8.0,中層,C,14003380,16283,860,103,1,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+13.0/F高層C,13.0,高層,C,14606240,16984,860,108,1,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+4.0/F低層D,4.0,低層,D,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+8.0/F中層D,8.0,中層,D,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"
+13.0/F高層D,13.0,高層,D,,,,,,KHMT,"REGAL COURT,WATERLOO RD|麗豪閣,窩打老道"

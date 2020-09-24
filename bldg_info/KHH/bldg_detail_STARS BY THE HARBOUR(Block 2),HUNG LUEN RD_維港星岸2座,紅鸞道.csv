@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,26442954,24621,1074,67,1,KHH
-18.0/F中層A,18.0,中層,A,28810240,26480,1088,56,1,KHH
-27.0/F高層A,27.0,高層,A,30360640,27905,1088,47,1,KHH
-7.0/F低層AB,7.0,低層,AB,,,,,,KHH
-18.0/F中層AB,18.0,中層,AB,,,,,,KHH
-27.0/F高層AB,27.0,高層,AB,,,,,,KHH
-7.0/F低層ABC,7.0,低層,ABC,,,,,,KHH
-18.0/F中層ABC,18.0,中層,ABC,,,,,,KHH
-27.0/F高層ABC,27.0,高層,ABC,126480384,42048,3008,150,1,KHH
-7.0/F低層AC,7.0,低層,AC,,,,,,KHH
-18.0/F中層AC,18.0,中層,AC,,,,,,KHH
-27.0/F高層AC,27.0,高層,AC,,,,,,KHH
-7.0/F低層B,7.0,低層,B,26848092,24722,1086,67,1,KHH
-18.0/F中層B,18.0,中層,B,29246800,26588,1100,55,1,KHH
-27.0/F高層B,27.0,高層,B,30819800,28018,1100,46,1,KHH
-7.0/F低層C,7.0,低層,C,19747520,24440,808,274,2,KHH
-18.0/F中層C,18.0,中層,C,19360488,23961,808,107,1,KHH
-27.0/F高層C,27.0,高層,C,20798480,25364,820,92,1,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層A,18.0,中層,A,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層A,27.0,高層,A,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+7.0/F低層AB,7.0,低層,AB,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層AB,18.0,中層,AB,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層AB,27.0,高層,AB,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+7.0/F低層ABC,7.0,低層,ABC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層ABC,18.0,中層,ABC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層ABC,27.0,高層,ABC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+7.0/F低層AC,7.0,低層,AC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層AC,18.0,中層,AC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層AC,27.0,高層,AC,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+7.0/F低層B,7.0,低層,B,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層B,18.0,中層,B,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層B,27.0,高層,B,,,,,,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+7.0/F低層C,7.0,低層,C,25767120,31890,808,54,1,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+18.0/F中層C,18.0,中層,C,27959224,34603,808,70,1,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"
+27.0/F高層C,27.0,高層,C,30362140,37027,820,85,1,KHH,"STARS BY THE HARBOUR(Block 2),HUNG LUEN RD|維港星岸2座,紅鸞道"

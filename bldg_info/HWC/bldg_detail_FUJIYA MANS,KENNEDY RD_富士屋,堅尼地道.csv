@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層21A,2.0,低層,21A,24332367,17931,1357,184,2,HWC
-4.0/F中層21A,4.0,中層,21A,24625479,18147,1357,185,2,HWC
-7.0/F高層21A,7.0,高層,21A,25047506,18458,1357,240,2,HWC
-2.0/F低層blank,2.0,低層,blank,24274016,17888,1357,241,2,HWC
-4.0/F中層blank,4.0,中層,blank,15256728,15318,996,166,2,HWC
-7.0/F高層blank,7.0,高層,blank,24997297,18421,1357,222,2,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層21A,2.0,低層,21A,24332367,17931,1357,184,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"
+4.0/F中層21A,4.0,中層,21A,24625479,18147,1357,185,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"
+7.0/F高層21A,7.0,高層,21A,25047506,18458,1357,240,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"
+2.0/F低層blank,2.0,低層,blank,24274016,17888,1357,241,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"
+4.0/F中層blank,4.0,中層,blank,16225836,16291,996,166,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"
+7.0/F高層blank,7.0,高層,blank,24997297,18421,1357,222,2,HWC,"FUJIYA MANS,KENNEDY RD|富士屋,堅尼地道"

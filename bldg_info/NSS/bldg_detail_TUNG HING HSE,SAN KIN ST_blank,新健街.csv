@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,3714906,6383,582,391,3,NSS
-3.0/F中層A,3.0,中層,A,3724800,6400,582,407,3,NSS
-4.0/F高層A,4.0,高層,A,3960229,6217,637,411,3,NSS
-2.0/F低層B,2.0,低層,B,3265168,6583,496,228,3,NSS
-3.0/F中層B,3.0,中層,B,3275088,6603,496,229,3,NSS
-4.0/F高層B,4.0,高層,B,3285008,6623,496,228,3,NSS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,3723054,6397,582,391,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"
+3.0/F中層A,3.0,中層,A,3732948,6414,582,407,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"
+4.0/F高層A,4.0,高層,A,3950674,6202,637,411,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"
+2.0/F低層B,2.0,低層,B,3271120,6595,496,228,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"
+3.0/F中層B,3.0,中層,B,3281040,6615,496,229,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"
+4.0/F高層B,4.0,高層,B,3290960,6635,496,228,3,NSS,"TUNG HING HSE,SAN KIN ST|blank,新健街"

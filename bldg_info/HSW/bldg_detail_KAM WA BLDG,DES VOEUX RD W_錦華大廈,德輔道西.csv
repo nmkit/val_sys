@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HSW
-14.0/F中層A,14.0,中層,A,,,,,,HSW
-20.0/F高層A,20.0,高層,A,,,,,,HSW
-7.0/F低層B,7.0,低層,B,,,,,,HSW
-14.0/F中層B,14.0,中層,B,,,,,,HSW
-20.0/F高層B,20.0,高層,B,,,,,,HSW
-7.0/F低層C,7.0,低層,C,,,,,,HSW
-14.0/F中層C,14.0,中層,C,,,,,,HSW
-20.0/F高層C,20.0,高層,C,,,,,,HSW
-7.0/F低層D,7.0,低層,D,,,,,,HSW
-14.0/F中層D,14.0,中層,D,,,,,,HSW
-20.0/F高層D,20.0,高層,D,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+14.0/F中層A,14.0,中層,A,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+20.0/F高層A,20.0,高層,A,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+7.0/F低層B,7.0,低層,B,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+14.0/F中層B,14.0,中層,B,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+20.0/F高層B,20.0,高層,B,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+7.0/F低層C,7.0,低層,C,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+14.0/F中層C,14.0,中層,C,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+20.0/F高層C,20.0,高層,C,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+7.0/F低層D,7.0,低層,D,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+14.0/F中層D,14.0,中層,D,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"
+20.0/F高層D,20.0,高層,D,,,,,,HSW,"KAM WA BLDG,DES VOEUX RD W|錦華大廈,德輔道西"

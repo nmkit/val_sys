@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,KTST
-10.0/F中層A,10.0,中層,A,5412986,14953,362,150,1,KTST
-15.0/F高層A,15.0,高層,A,,,,,,KTST
-5.0/F低層B,5.0,低層,B,,,,,,KTST
-10.0/F中層B,10.0,中層,B,,,,,,KTST
-15.0/F高層B,15.0,高層,B,,,,,,KTST
-5.0/F低層C,5.0,低層,C,,,,,,KTST
-10.0/F中層C,10.0,中層,C,,,,,,KTST
-15.0/F高層C,15.0,高層,C,,,,,,KTST
-5.0/F低層D,5.0,低層,D,,,,,,KTST
-10.0/F中層D,10.0,中層,D,,,,,,KTST
-15.0/F高層D,15.0,高層,D,,,,,,KTST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+10.0/F中層A,10.0,中層,A,5412986,14953,362,150,1,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+15.0/F高層A,15.0,高層,A,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+5.0/F低層B,5.0,低層,B,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+10.0/F中層B,10.0,中層,B,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+15.0/F高層B,15.0,高層,B,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+5.0/F低層C,5.0,低層,C,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+10.0/F中層C,10.0,中層,C,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+15.0/F高層C,15.0,高層,C,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+5.0/F低層D,5.0,低層,D,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+10.0/F中層D,10.0,中層,D,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"
+15.0/F高層D,15.0,高層,D,,,,,,KTST,"DORFU COURT,HAU FOOK ST|多富閣,厚福街"

@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,19551912,19416,1007,150,1,NTP
-2.0/F中層A,2.0,中層,A,19551912,19416,1007,150,1,NTP
-3.0/F高層A,3.0,高層,A,19642542,19506,1007,148,1,NTP
-2.0/F低層B,2.0,低層,B,,,,,,NTP
-2.0/F中層B,2.0,中層,B,,,,,,NTP
-3.0/F高層B,3.0,高層,B,,,,,,NTP
-2.0/F低層C,2.0,低層,C,18595760,19472,955,96,1,NTP
-2.0/F中層C,2.0,中層,C,18595760,19472,955,96,1,NTP
-3.0/F高層C,3.0,高層,C,18681710,19562,955,95,1,NTP
-2.0/F低層D,2.0,低層,D,18004961,19507,923,94,1,NTP
-2.0/F中層D,2.0,中層,D,18004961,19507,923,94,1,NTP
-3.0/F高層D,3.0,高層,D,18088031,19597,923,93,1,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,19551912,19416,1007,150,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F中層A,2.0,中層,A,19551912,19416,1007,150,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+3.0/F高層A,3.0,高層,A,19642542,19506,1007,148,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F低層B,2.0,低層,B,,,,,,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F中層B,2.0,中層,B,,,,,,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+3.0/F高層B,3.0,高層,B,,,,,,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F低層C,2.0,低層,C,18665475,19545,955,96,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F中層C,2.0,中層,C,18665475,19545,955,96,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+3.0/F高層C,3.0,高層,C,18751425,19635,955,95,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F低層D,2.0,低層,D,18112952,19624,923,94,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+2.0/F中層D,2.0,中層,D,18112952,19624,923,94,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"
+3.0/F高層D,3.0,高層,D,18196945,19715,923,93,1,NTP,"RICHWOOD PARK(Block 8),LO FAI RD|嘉豐花園8座,露輝路"

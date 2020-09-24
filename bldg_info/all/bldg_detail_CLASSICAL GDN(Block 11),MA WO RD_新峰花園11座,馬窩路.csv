@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NTP
-6.0/F中層A,6.0,中層,A,,,,,,NTP
-8.0/F高層A,8.0,高層,A,,,,,,NTP
-2.0/F低層B,2.0,低層,B,,,,,,NTP
-6.0/F中層B,6.0,中層,B,,,,,,NTP
-8.0/F高層B,8.0,高層,B,,,,,,NTP
-2.0/F低層C,2.0,低層,C,,,,,,NTP
-6.0/F中層C,6.0,中層,C,,,,,,NTP
-8.0/F高層C,8.0,高層,C,,,,,,NTP
-2.0/F低層D,2.0,低層,D,,,,,,NTP
-6.0/F中層D,6.0,中層,D,,,,,,NTP
-8.0/F高層D,8.0,高層,D,,,,,,NTP
-2.0/F低層E,2.0,低層,E,,,,,,NTP
-6.0/F中層E,6.0,中層,E,,,,,,NTP
-8.0/F高層E,8.0,高層,E,,,,,,NTP
-2.0/F低層F,2.0,低層,F,,,,,,NTP
-6.0/F中層F,6.0,中層,F,,,,,,NTP
-8.0/F高層F,8.0,高層,F,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,13923725,26725,521,150,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層A,6.0,中層,A,14182141,27221,521,143,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層A,8.0,高層,A,14311349,27469,521,140,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+2.0/F低層B,2.0,低層,B,16496352,26352,626,89,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層B,6.0,中層,B,16802466,26841,626,85,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層B,8.0,高層,B,16955210,27085,626,83,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+2.0/F低層C,2.0,低層,C,18897638,25994,727,82,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層C,6.0,中層,C,19248052,26476,727,78,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層C,8.0,高層,C,19423259,26717,727,76,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+2.0/F低層D,2.0,低層,D,18897638,25994,727,82,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層D,6.0,中層,D,19248052,26476,727,78,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層D,8.0,高層,D,19423259,26717,727,76,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+2.0/F低層E,2.0,低層,E,16496352,26352,626,89,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層E,6.0,中層,E,16802466,26841,626,85,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層E,8.0,高層,E,16955210,27085,626,83,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+2.0/F低層F,2.0,低層,F,13923725,26725,521,99,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+6.0/F中層F,6.0,中層,F,14182141,27221,521,95,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"
+8.0/F高層F,8.0,高層,F,14311349,27469,521,93,1,NTP,"CLASSICAL GDN(Block 11),MA WO RD|新峰花園11座,馬窩路"

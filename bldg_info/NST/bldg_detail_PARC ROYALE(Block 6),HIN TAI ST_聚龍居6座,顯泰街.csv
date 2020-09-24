@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,NST
-11.0/F中層A,11.0,中層,A,,,,,,NST
-18.0/F高層A,18.0,高層,A,,,,,,NST
-5.0/F低層B,5.0,低層,B,,,,,,NST
-11.0/F中層B,11.0,中層,B,,,,,,NST
-18.0/F高層B,18.0,高層,B,,,,,,NST
-5.0/F低層C,5.0,低層,C,,,,,,NST
-11.0/F中層C,11.0,中層,C,,,,,,NST
-18.0/F高層C,18.0,高層,C,,,,,,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,31415796,34222,918,93,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+11.0/F中層A,11.0,中層,A,32179572,35054,918,87,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+18.0/F高層A,18.0,高層,A,33070950,36025,918,80,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+5.0/F低層B,5.0,低層,B,31415796,34222,918,140,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+11.0/F中層B,11.0,中層,B,32179572,35054,918,131,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+18.0/F高層B,18.0,高層,B,33070950,36025,918,121,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+5.0/F低層C,5.0,低層,C,24985240,34510,724,77,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+11.0/F中層C,11.0,中層,C,25593400,35350,724,71,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"
+18.0/F高層C,18.0,高層,C,26302196,36329,724,64,1,NST,"PARC ROYALE(Block 6),HIN TAI ST|聚龍居6座,顯泰街"

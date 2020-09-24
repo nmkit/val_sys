@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層1,3.0,低層,1,,,,,,KKC
-7.0/F中層1,7.0,中層,1,,,,,,KKC
-11.0/F高層1,11.0,高層,1,,,,,,KKC
-3.0/F低層blank,3.0,低層,blank,7107525,9171,775,225,2,KKC
-7.0/F中層blank,7.0,中層,blank,5618340,9604,585,130,2,KKC
-11.0/F高層blank,11.0,高層,blank,5752440,9918,580,125,2,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層1,3.0,低層,1,,,,,,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"
+7.0/F中層1,7.0,中層,1,,,,,,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"
+11.0/F高層1,11.0,高層,1,,,,,,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"
+3.0/F低層blank,3.0,低層,blank,7132325,9203,775,225,2,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"
+7.0/F中層blank,7.0,中層,blank,5384340,9204,585,130,2,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"
+11.0/F高層blank,11.0,高層,blank,5506520,9494,580,125,2,KKC,"COMFORT HSE,CHATHAM RD N|安居樓,漆咸道北"

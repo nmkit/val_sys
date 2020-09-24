@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KHMT
-8.0/F中層A,8.0,中層,A,,,,,,KHMT
-13.0/F高層A,13.0,高層,A,,,,,,KHMT
-3.0/F低層B,3.0,低層,B,6316635,14521,435,236,2,KHMT
-8.0/F中層B,8.0,中層,B,6519345,14987,435,192,2,KHMT
-13.0/F高層B,13.0,高層,B,6769905,15563,435,192,2,KHMT
-3.0/F低層C,3.0,低層,C,,,,,,KHMT
-8.0/F中層C,8.0,中層,C,,,,,,KHMT
-13.0/F高層C,13.0,高層,C,,,,,,KHMT
-3.0/F低層D,3.0,低層,D,,,,,,KHMT
-8.0/F中層D,8.0,中層,D,,,,,,KHMT
-13.0/F高層D,13.0,高層,D,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+8.0/F中層A,8.0,中層,A,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+13.0/F高層A,13.0,高層,A,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+3.0/F低層B,3.0,低層,B,6316635,14521,435,236,2,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+8.0/F中層B,8.0,中層,B,6519345,14987,435,192,2,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+13.0/F高層B,13.0,高層,B,6769905,15563,435,192,2,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+3.0/F低層C,3.0,低層,C,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+8.0/F中層C,8.0,中層,C,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+13.0/F高層C,13.0,高層,C,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+3.0/F低層D,3.0,低層,D,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+8.0/F中層D,8.0,中層,D,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"
+13.0/F高層D,13.0,高層,D,,,,,,KHMT,"LIBERTY MANS,WATERLOO RD|自由大廈,窩打老道"

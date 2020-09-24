@@ -1,22 +1,22 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,KCSW
-7.0/F中層A,7.0,中層,A,,,,,,KCSW
-10.0/F高層A,10.0,高層,A,,,,,,KCSW
-4.0/F低層B,4.0,低層,B,,,,,,KCSW
-7.0/F中層B,7.0,中層,B,,,,,,KCSW
-10.0/F高層B,10.0,高層,B,,,,,,KCSW
-4.0/F低層C,4.0,低層,C,,,,,,KCSW
-7.0/F中層C,7.0,中層,C,,,,,,KCSW
-10.0/F高層C,10.0,高層,C,,,,,,KCSW
-4.0/F低層E,4.0,低層,E,,,,,,KCSW
-7.0/F中層E,7.0,中層,E,,,,,,KCSW
-10.0/F高層E,10.0,高層,E,,,,,,KCSW
-4.0/F低層F,4.0,低層,F,,,,,,KCSW
-7.0/F中層F,7.0,中層,F,,,,,,KCSW
-10.0/F高層F,10.0,高層,F,,,,,,KCSW
-4.0/F低層G,4.0,低層,G,,,,,,KCSW
-7.0/F中層G,7.0,中層,G,,,,,,KCSW
-10.0/F高層G,10.0,高層,G,,,,,,KCSW
-4.0/F低層H,4.0,低層,H,,,,,,KCSW
-7.0/F中層H,7.0,中層,H,,,,,,KCSW
-10.0/F高層H,10.0,高層,H,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,11682990,35403,330,81,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層A,7.0,中層,A,11913990,36103,330,84,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層A,10.0,高層,A,12144660,36802,330,83,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層B,4.0,低層,B,12259800,35028,350,85,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層B,7.0,中層,B,12502000,35720,350,88,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層B,10.0,高層,B,12744200,36412,350,87,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層C,4.0,低層,C,12259800,35028,350,85,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層C,7.0,中層,C,12502000,35720,350,88,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層C,10.0,高層,C,12744200,36412,350,87,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層E,4.0,低層,E,13367640,34276,390,92,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層E,7.0,中層,E,13631670,34953,390,95,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層E,10.0,高層,E,13896090,35631,390,94,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層F,4.0,低層,F,11973100,35215,340,83,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層F,7.0,中層,F,12209740,35911,340,86,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層F,10.0,高層,F,12446380,36607,340,85,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層G,4.0,低層,G,11973100,35215,340,83,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層G,7.0,中層,G,12209740,35911,340,86,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層G,10.0,高層,G,12446380,36607,340,85,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+4.0/F低層H,4.0,低層,H,13367640,34276,390,138,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+7.0/F中層H,7.0,中層,H,13631670,34953,390,143,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"
+10.0/F高層H,10.0,高層,H,13896090,35631,390,141,1,KCSW,"GOLDEN BLDG(Block 1),FUK WA ST|黃金大廈1座,福華街"

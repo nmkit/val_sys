@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層blank,1.0,低層,blank,4342065,9543,455,300,2,NTP
-2.0/F中層blank,2.0,中層,blank,4661930,10246,455,145,1,NTP
-3.0/F高層blank,3.0,高層,blank,3155425,6935,455,150,1,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層blank,1.0,低層,blank,4342065,9543,455,300,2,NTP,"HOI KAM BLDG,WAI YAN ST|開錦樓,懷仁街"
+2.0/F中層blank,2.0,中層,blank,4661930,10246,455,145,1,NTP,"HOI KAM BLDG,WAI YAN ST|開錦樓,懷仁街"
+3.0/F高層blank,3.0,高層,blank,3155425,6935,455,150,1,NTP,"HOI KAM BLDG,WAI YAN ST|開錦樓,懷仁街"

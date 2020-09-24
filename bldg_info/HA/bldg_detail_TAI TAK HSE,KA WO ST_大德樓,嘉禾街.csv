@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層3,2.0,低層,3,,,,,,HA
-3.0/F中層3,3.0,中層,3,,,,,,HA
-4.0/F高層3,4.0,高層,3,,,,,,HA
-2.0/F低層4,2.0,低層,4,,,,,,HA
-3.0/F中層4,3.0,中層,4,,,,,,HA
-4.0/F高層4,4.0,高層,4,,,,,,HA
-2.0/F低層6,2.0,低層,6,,,,,,HA
-3.0/F中層6,3.0,中層,6,,,,,,HA
-4.0/F高層6,4.0,高層,6,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層3,2.0,低層,3,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+3.0/F中層3,3.0,中層,3,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+4.0/F高層3,4.0,高層,3,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+2.0/F低層4,2.0,低層,4,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+3.0/F中層4,3.0,中層,4,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+4.0/F高層4,4.0,高層,4,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+2.0/F低層6,2.0,低層,6,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+3.0/F中層6,3.0,中層,6,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"
+4.0/F高層6,4.0,高層,6,,,,,,HA,"TAI TAK HSE,KA WO ST|大德樓,嘉禾街"

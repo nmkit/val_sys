@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,,,,,,KCSW
-5.0/F中層blank,5.0,中層,blank,,,,,,KCSW
-8.0/F高層blank,8.0,高層,blank,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,KCSW,"KAM SHA MANS,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+5.0/F中層blank,5.0,中層,blank,,,,,,KCSW,"KAM SHA MANS,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+8.0/F高層blank,8.0,高層,blank,,,,,,KCSW,"KAM SHA MANS,CHEUNG SHA WAN RD|金沙樓,長沙灣道"

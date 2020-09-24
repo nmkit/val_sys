@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HNP
-18.0/F中層A,18.0,中層,A,,,,,,HNP
-28.0/F高層A,28.0,高層,A,,,,,,HNP
-7.0/F低層B,7.0,低層,B,,,,,,HNP
-18.0/F中層B,18.0,中層,B,,,,,,HNP
-28.0/F高層B,28.0,高層,B,,,,,,HNP
-7.0/F低層C,7.0,低層,C,,,,,,HNP
-18.0/F中層C,18.0,中層,C,,,,,,HNP
-28.0/F高層C,28.0,高層,C,,,,,,HNP
-7.0/F低層D,7.0,低層,D,,,,,,HNP
-18.0/F中層D,18.0,中層,D,,,,,,HNP
-28.0/F高層D,28.0,高層,D,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+18.0/F中層A,18.0,中層,A,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+28.0/F高層A,28.0,高層,A,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+7.0/F低層B,7.0,低層,B,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+18.0/F中層B,18.0,中層,B,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+28.0/F高層B,28.0,高層,B,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+7.0/F低層C,7.0,低層,C,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+18.0/F中層C,18.0,中層,C,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+28.0/F高層C,28.0,高層,C,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+7.0/F低層D,7.0,低層,D,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+18.0/F中層D,18.0,中層,D,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"
+28.0/F高層D,28.0,高層,D,,,,,,HNP,"VICTOR COURT,WANG ON RD|威德閣,宏安道"

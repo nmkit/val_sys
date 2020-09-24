@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層2,4.0,低層,2,,,,,,HMW
-7.0/F中層2,7.0,中層,2,,,,,,HMW
-10.0/F高層2,10.0,高層,2,,,,,,HMW
-4.0/F低層B1,4.0,低層,B1,,,,,,HMW
-7.0/F中層B1,7.0,中層,B1,,,,,,HMW
-10.0/F高層B1,10.0,高層,B1,,,,,,HMW
-4.0/F低層B2,4.0,低層,B2,,,,,,HMW
-7.0/F中層B2,7.0,中層,B2,,,,,,HMW
-10.0/F高層B2,10.0,高層,B2,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層2,4.0,低層,2,51783006,34023,1522,92,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+7.0/F中層2,7.0,中層,2,52889500,34750,1522,93,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+10.0/F高層2,10.0,高層,2,53997516,35478,1522,90,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+4.0/F低層B1,4.0,低層,B1,51783006,34023,1522,92,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+7.0/F中層B1,7.0,中層,B1,52889500,34750,1522,93,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+10.0/F高層B1,10.0,高層,B1,53997516,35478,1522,90,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+4.0/F低層B2,4.0,低層,B2,51783006,34023,1522,139,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+7.0/F中層B2,7.0,中層,B2,52889500,34750,1522,140,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"
+10.0/F高層B2,10.0,高層,B2,53997516,35478,1522,136,1,HMW,"LA CLARE MANS(Block B),POK FU LAM RD|利嘉大廈B座,薄扶林道"

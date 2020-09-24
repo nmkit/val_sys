@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,46476558,18162,2559,289,3,HMW
-18.0/F中層A,18.0,中層,A,49974711,19529,2559,260,3,HMW
-29.0/F高層A,29.0,高層,A,53741559,21001,2559,258,3,HMW
-6.0/F低層B,6.0,低層,B,,,,,,HMW
-18.0/F中層B,18.0,中層,B,,,,,,HMW
-29.0/F高層B,29.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,46476558,18162,2559,289,3,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"
+18.0/F中層A,18.0,中層,A,49974711,19529,2559,260,3,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"
+29.0/F高層A,29.0,高層,A,53741559,21001,2559,258,3,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"
+6.0/F低層B,6.0,低層,B,,,,,,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"
+18.0/F中層B,18.0,中層,B,,,,,,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"
+29.0/F高層B,29.0,高層,B,,,,,,HMW,"TREGUNTER(Block 1),TREGUNTER PATH|地利根德閣1座,地利根德里"

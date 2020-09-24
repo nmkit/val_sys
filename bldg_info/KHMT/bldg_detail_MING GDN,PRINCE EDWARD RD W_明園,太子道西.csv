@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KHMT
-5.0/F中層A,5.0,中層,A,,,,,,KHMT
-7.0/F高層A,7.0,高層,A,,,,,,KHMT
-2.0/F低層B,2.0,低層,B,,,,,,KHMT
-5.0/F中層B,5.0,中層,B,,,,,,KHMT
-7.0/F高層B,7.0,高層,B,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"
+5.0/F中層A,5.0,中層,A,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"
+7.0/F高層A,7.0,高層,A,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"
+2.0/F低層B,2.0,低層,B,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"
+5.0/F中層B,5.0,中層,B,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"
+7.0/F高層B,7.0,高層,B,,,,,,KHMT,"MING GDN,PRINCE EDWARD RD W|明園,太子道西"

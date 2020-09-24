@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,,,,,,HHV
-10.0/F中層blank,10.0,中層,blank,,,,,,HHV
-17.0/F高層blank,17.0,高層,blank,,,,,,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,,,,,,HHV,"KING INN MANS,YIK YAM ST|景怡大廈,奕蔭街"
+10.0/F中層blank,10.0,中層,blank,,,,,,HHV,"KING INN MANS,YIK YAM ST|景怡大廈,奕蔭街"
+17.0/F高層blank,17.0,高層,blank,,,,,,HHV,"KING INN MANS,YIK YAM ST|景怡大廈,奕蔭街"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,HHV
-7.0/F中層A,7.0,中層,A,,,,,,HHV
-10.0/F高層A,10.0,高層,A,,,,,,HHV
-4.0/F低層B,4.0,低層,B,,,,,,HHV
-7.0/F中層B,7.0,中層,B,,,,,,HHV
-10.0/F高層B,10.0,高層,B,,,,,,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"
+7.0/F中層A,7.0,中層,A,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"
+10.0/F高層A,10.0,高層,A,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"
+4.0/F低層B,4.0,低層,B,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"
+7.0/F中層B,7.0,中層,B,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"
+10.0/F高層B,10.0,高層,B,,,,,,HHV,"HAPPY COURT,VILLAGE RD|快活閣,山村道"

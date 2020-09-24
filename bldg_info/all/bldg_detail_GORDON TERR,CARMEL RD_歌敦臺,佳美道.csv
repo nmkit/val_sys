@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層6,1.0,低層,6,,,,,,HSL
-2.0/F中層6,2.0,中層,6,,,,,,HSL
-2.0/F高層6,2.0,高層,6,,,,,,HSL
-1.0/F低層8A,1.0,低層,8A,,,,,,HSL
-2.0/F中層8A,2.0,中層,8A,,,,,,HSL
-2.0/F高層8A,2.0,高層,8A,,,,,,HSL
-1.0/F低層blank,1.0,低層,blank,,,,,,HSL
-2.0/F中層blank,2.0,中層,blank,,,,,,HSL
-2.0/F高層blank,2.0,高層,blank,,,,,,HSL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層6,1.0,低層,6,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F中層6,2.0,中層,6,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F高層6,2.0,高層,6,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+1.0/F低層8A,1.0,低層,8A,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F中層8A,2.0,中層,8A,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F高層8A,2.0,高層,8A,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+1.0/F低層blank,1.0,低層,blank,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F中層blank,2.0,中層,blank,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"
+2.0/F高層blank,2.0,高層,blank,,,,,,HSL,"GORDON TERR,CARMEL RD|歌敦臺,佳美道"

@@ -1,4 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-16.0/F低層B,16.0,低層,B,,,,,,HMW
-26.0/F中層B,26.0,中層,B,,,,,,HMW
-35.0/F高層B,35.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"
+22.0/F中層A,22.0,中層,A,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"
+34.0/F高層A,34.0,高層,A,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"
+9.0/F低層B,9.0,低層,B,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"
+22.0/F中層B,22.0,中層,B,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"
+34.0/F高層B,34.0,高層,B,,,,,,HMW,"GRENVILLE HSE(Block A-B),MAGAZINE GAP RD|嘉蕙園A-B座,馬己仙峽道"

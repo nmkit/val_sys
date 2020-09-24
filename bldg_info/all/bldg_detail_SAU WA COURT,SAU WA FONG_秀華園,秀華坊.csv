@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,5447014,14842,367,75,1,HWC
-3.0/F中層B,3.0,中層,B,5479677,14931,367,74,1,HWC
-4.0/F高層B,4.0,高層,B,5512340,15020,367,73,1,HWC
-2.0/F低層blank,2.0,低層,blank,3714840,10926,340,150,1,HWC
-3.0/F中層blank,3.0,中層,blank,4608240,10920,422,116,1,HWC
-4.0/F高層blank,4.0,高層,blank,5154624,15072,342,205,2,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,5451051,14853,367,75,1,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"
+3.0/F中層B,3.0,中層,B,5483714,14942,367,74,1,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"
+4.0/F高層B,4.0,高層,B,5516010,15030,367,73,1,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"
+2.0/F低層blank,2.0,低層,blank,3708040,10906,340,150,1,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"
+3.0/F中層blank,3.0,中層,blank,4604020,10910,422,116,1,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"
+4.0/F高層blank,4.0,高層,blank,5155308,15074,342,205,2,HWC,"SAU WA COURT,SAU WA FONG|秀華園,秀華坊"

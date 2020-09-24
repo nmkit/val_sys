@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,HMW
-5.0/F中層A,5.0,中層,A,,,,,,HMW
-8.0/F高層A,8.0,高層,A,,,,,,HMW
-2.0/F低層B,2.0,低層,B,,,,,,HMW
-5.0/F中層B,5.0,中層,B,,,,,,HMW
-8.0/F高層B,8.0,高層,B,,,,,,HMW
-2.0/F低層C,2.0,低層,C,,,,,,HMW
-5.0/F中層C,5.0,中層,C,,,,,,HMW
-8.0/F高層C,8.0,高層,C,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+5.0/F中層A,5.0,中層,A,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+8.0/F高層A,8.0,高層,A,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+2.0/F低層B,2.0,低層,B,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+5.0/F中層B,5.0,中層,B,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+8.0/F高層B,8.0,高層,B,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+2.0/F低層C,2.0,低層,C,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+5.0/F中層C,5.0,中層,C,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"
+8.0/F高層C,8.0,高層,C,,,,,,HMW,"TAK MANS,LEUNG FAI TERR|德苑,梁輝臺"

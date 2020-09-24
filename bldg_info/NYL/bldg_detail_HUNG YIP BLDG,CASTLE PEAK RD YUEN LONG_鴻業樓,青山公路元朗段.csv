@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,,,,,,NYL
-3.0/F中層B,3.0,中層,B,,,,,,NYL
-4.0/F高層B,4.0,高層,B,,,,,,NYL
-2.0/F低層F,2.0,低層,F,2619500,8060,325,202,2,NYL
-3.0/F中層F,3.0,中層,F,2632825,8101,325,205,2,NYL
-4.0/F高層F,4.0,高層,F,2667600,8208,325,257,2,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"
+3.0/F中層B,3.0,中層,B,,,,,,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"
+2.0/F低層F,2.0,低層,F,2619500,8060,325,202,2,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"
+3.0/F中層F,3.0,中層,F,2632825,8101,325,205,2,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"
+4.0/F高層F,4.0,高層,F,2667600,8208,325,257,2,NYL,"HUNG YIP BLDG,CASTLE PEAK RD YUEN LONG|鴻業樓,青山公路元朗段"

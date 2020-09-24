@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-19.0/F低層A,19.0,低層,A,,,,,,KHH
-38.0/F中層A,38.0,中層,A,34688551,22927,1513,109,2,KHH
-58.0/F高層A,58.0,高層,A,40335067,26659,1513,149,2,KHH
-19.0/F低層B,19.0,低層,B,,,,,,KHH
-38.0/F中層B,38.0,中層,B,40257882,23709,1698,186,2,KHH
-58.0/F高層B,58.0,高層,B,47785950,27702,1725,244,2,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+19.0/F低層A,19.0,低層,A,,,,,,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"
+38.0/F中層A,38.0,中層,A,34393516,22732,1513,109,2,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"
+58.0/F高層A,58.0,高層,A,39991616,26432,1513,149,2,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"
+19.0/F低層B,19.0,低層,B,,,,,,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"
+38.0/F中層B,38.0,中層,B,40257882,23709,1698,186,2,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"
+58.0/F高層B,58.0,高層,B,47842875,27735,1725,244,2,KHH,"HARBOURFRONT LANDMARK(Block 3),WAN HOI ST|海名軒3座,環海街"

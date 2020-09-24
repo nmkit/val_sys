@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層blank,1.0,低層,blank,36013400,39145,920,122,1,KSKM
-2.0/F中層blank,2.0,中層,blank,29949920,41140,728,132,1,KSKM
-3.0/F高層blank,3.0,高層,blank,31829968,41018,776,150,1,KSKM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層blank,1.0,低層,blank,35820200,38935,920,122,1,KSKM,"ROSE COURT,ROSE ST|玫瑰苑,玫瑰街"
+2.0/F中層blank,2.0,中層,blank,36356415,39135,929,123,1,KSKM,"ROSE COURT,ROSE ST|玫瑰苑,玫瑰街"
+3.0/F高層blank,3.0,高層,blank,31829968,41018,776,150,1,KSKM,"ROSE COURT,ROSE ST|玫瑰苑,玫瑰街"

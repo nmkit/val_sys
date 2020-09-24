@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,3247457,8479,383,96,1,KCSW
-3.0/F中層blank,3.0,中層,blank,3268522,8534,383,98,1,KCSW
-4.0/F高層blank,4.0,高層,blank,3289970,8590,383,99,1,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,3247457,8479,383,96,1,KCSW,"KAM BICK BLDG,LAI CHI KOK RD|blank,荔枝角道"
+3.0/F中層blank,3.0,中層,blank,3268522,8534,383,98,1,KCSW,"KAM BICK BLDG,LAI CHI KOK RD|blank,荔枝角道"
+4.0/F高層blank,4.0,高層,blank,3289970,8590,383,99,1,KCSW,"KAM BICK BLDG,LAI CHI KOK RD|blank,荔枝角道"

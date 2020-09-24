@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,9601330,13523,710,299,4,HKT
-4.0/F中層blank,4.0,中層,blank,5437926,12303,442,349,3,HKT
-7.0/F高層blank,7.0,高層,blank,4983786,12126,411,437,3,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,HKT,"KENNEDY MANS,BELCHER'S ST|堅尼地大廈,卑路乍街"
+4.0/F中層blank,4.0,中層,blank,,,,,,HKT,"KENNEDY MANS,BELCHER'S ST|堅尼地大廈,卑路乍街"
+7.0/F高層blank,7.0,高層,blank,,,,,,HKT,"KENNEDY MANS,BELCHER'S ST|堅尼地大廈,卑路乍街"

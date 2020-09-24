@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,11269490,19946,565,108,1,HSW
-12.0/F中層blank,12.0,中層,blank,11647475,20615,565,113,1,HSW
-18.0/F高層blank,18.0,高層,blank,12100605,21417,565,104,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,11194345,19813,565,107,1,HSW,"GOOD VIEW COURT,BONHAM RD|好望閣,般咸道"
+12.0/F中層blank,12.0,中層,blank,11647475,20615,565,113,1,HSW,"GOOD VIEW COURT,BONHAM RD|好望閣,般咸道"
+18.0/F高層blank,18.0,高層,blank,12100605,21417,565,104,1,HSW,"GOOD VIEW COURT,BONHAM RD|好望閣,般咸道"

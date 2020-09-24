@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,HNP
-10.0/F中層A,10.0,中層,A,,,,,,HNP
-17.0/F高層A,17.0,高層,A,,,,,,HNP
-5.0/F低層B,5.0,低層,B,41681640,26719,1560,68,1,HNP
-10.0/F中層B,10.0,中層,B,43060680,27603,1560,75,1,HNP
-17.0/F高層B,17.0,高層,B,44990400,28840,1560,86,1,HNP
-5.0/F低層C,5.0,低層,C,,,,,,HNP
-10.0/F中層C,10.0,中層,C,,,,,,HNP
-17.0/F高層C,17.0,高層,C,,,,,,HNP
-5.0/F低層D,5.0,低層,D,,,,,,HNP
-10.0/F中層D,10.0,中層,D,,,,,,HNP
-17.0/F高層D,17.0,高層,D,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+10.0/F中層A,10.0,中層,A,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+17.0/F高層A,17.0,高層,A,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+5.0/F低層B,5.0,低層,B,41681640,26719,1560,68,1,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+10.0/F中層B,10.0,中層,B,43060680,27603,1560,75,1,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+17.0/F高層B,17.0,高層,B,44990400,28840,1560,86,1,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+5.0/F低層C,5.0,低層,C,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+10.0/F中層C,10.0,中層,C,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+17.0/F高層C,17.0,高層,C,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+5.0/F低層D,5.0,低層,D,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+10.0/F中層D,10.0,中層,D,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"
+17.0/F高層D,17.0,高層,D,,,,,,HNP,"HANKING COURT,CLOUD VIEW RD|恒景園,雲景道"

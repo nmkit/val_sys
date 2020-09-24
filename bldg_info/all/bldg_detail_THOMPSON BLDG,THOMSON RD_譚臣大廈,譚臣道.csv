@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,HWC
-4.0/F中層A,4.0,中層,A,,,,,,HWC
-6.0/F高層A,6.0,高層,A,,,,,,HWC
-2.0/F低層B,2.0,低層,B,,,,,,HWC
-4.0/F中層B,4.0,中層,B,,,,,,HWC
-6.0/F高層B,6.0,高層,B,,,,,,HWC
-2.0/F低層C,2.0,低層,C,,,,,,HWC
-4.0/F中層C,4.0,中層,C,,,,,,HWC
-6.0/F高層C,6.0,高層,C,,,,,,HWC
-2.0/F低層D,2.0,低層,D,,,,,,HWC
-4.0/F中層D,4.0,中層,D,,,,,,HWC
-6.0/F高層D,6.0,高層,D,,,,,,HWC
-2.0/F低層E,2.0,低層,E,,,,,,HWC
-4.0/F中層E,4.0,中層,E,,,,,,HWC
-6.0/F高層E,6.0,高層,E,,,,,,HWC
-2.0/F低層F,2.0,低層,F,,,,,,HWC
-4.0/F中層F,4.0,中層,F,,,,,,HWC
-6.0/F高層F,6.0,高層,F,,,,,,HWC
-2.0/F低層G,2.0,低層,G,,,,,,HWC
-4.0/F中層G,4.0,中層,G,,,,,,HWC
-6.0/F高層G,6.0,高層,G,,,,,,HWC
-2.0/F低層H,2.0,低層,H,,,,,,HWC
-4.0/F中層H,4.0,中層,H,,,,,,HWC
-6.0/F高層H,6.0,高層,H,,,,,,HWC
-2.0/F低層J,2.0,低層,J,,,,,,HWC
-4.0/F中層J,4.0,中層,J,,,,,,HWC
-6.0/F高層J,6.0,高層,J,3542088,13417,264,150,1,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層A,4.0,中層,A,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層A,6.0,高層,A,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層B,2.0,低層,B,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層B,4.0,中層,B,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層B,6.0,高層,B,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層C,2.0,低層,C,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層C,4.0,中層,C,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層C,6.0,高層,C,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層D,2.0,低層,D,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層D,4.0,中層,D,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層D,6.0,高層,D,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層E,2.0,低層,E,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層E,4.0,中層,E,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層E,6.0,高層,E,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層F,2.0,低層,F,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層F,4.0,中層,F,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層F,6.0,高層,F,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層G,2.0,低層,G,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層G,4.0,中層,G,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層G,6.0,高層,G,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層H,2.0,低層,H,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層H,4.0,中層,H,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層H,6.0,高層,H,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+2.0/F低層J,2.0,低層,J,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+4.0/F中層J,4.0,中層,J,,,,,,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"
+6.0/F高層J,6.0,高層,J,3542088,13417,264,150,1,HWC,"THOMPSON BLDG,THOMSON RD|譚臣大廈,譚臣道"

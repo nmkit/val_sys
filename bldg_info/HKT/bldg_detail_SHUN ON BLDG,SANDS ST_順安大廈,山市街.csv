@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HKT
-13.0/F中層A,13.0,中層,A,,,,,,HKT
-20.0/F高層A,20.0,高層,A,,,,,,HKT
-6.0/F低層B,6.0,低層,B,6582912,17696,372,150,1,HKT
-13.0/F中層B,13.0,中層,B,,,,,,HKT
-20.0/F高層B,20.0,高層,B,,,,,,HKT
-6.0/F低層C,6.0,低層,C,,,,,,HKT
-13.0/F中層C,13.0,中層,C,,,,,,HKT
-20.0/F高層C,20.0,高層,C,,,,,,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+13.0/F中層A,13.0,中層,A,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+20.0/F高層A,20.0,高層,A,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+6.0/F低層B,6.0,低層,B,6582912,17696,372,150,1,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+13.0/F中層B,13.0,中層,B,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+20.0/F高層B,20.0,高層,B,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+6.0/F低層C,6.0,低層,C,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+13.0/F中層C,13.0,中層,C,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"
+20.0/F高層C,20.0,高層,C,,,,,,HKT,"SHUN ON BLDG,SANDS ST|順安大廈,山市街"

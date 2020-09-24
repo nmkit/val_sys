@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,7469400,17700,422,380,3,HSW
-10.0/F中層blank,10.0,中層,blank,7881694,18677,422,437,3,HSW
-15.0/F高層blank,15.0,高層,blank,7949636,18838,422,411,3,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,,,,,,HSW,"SMILING COURT,BONHAM RD|天悅閣,般咸道"
+10.0/F中層blank,10.0,中層,blank,8383874,19867,422,150,1,HSW,"SMILING COURT,BONHAM RD|天悅閣,般咸道"
+15.0/F高層blank,15.0,高層,blank,,,,,,HSW,"SMILING COURT,BONHAM RD|天悅閣,般咸道"

@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-21.0/F低層A,21.0,低層,A,23163956,24029,964,356,3,KKAI
-68.0/F中層A,68.0,中層,A,,,,,,KKAI
-105.0/F高層A,105.0,高層,A,,,,,,KKAI
-21.0/F低層B,21.0,低層,B,9955166,22321,446,382,3,KKAI
-68.0/F中層B,68.0,中層,B,,,,,,KKAI
-105.0/F高層B,105.0,高層,B,,,,,,KKAI
-21.0/F低層C,21.0,低層,C,8128120,21560,377,341,4,KKAI
-68.0/F中層C,68.0,中層,C,,,,,,KKAI
-105.0/F高層C,105.0,高層,C,,,,,,KKAI
-21.0/F低層D,21.0,低層,D,7691148,22101,348,332,4,KKAI
-68.0/F中層D,68.0,中層,D,,,,,,KKAI
-105.0/F高層D,105.0,高層,D,,,,,,KKAI
-21.0/F低層E,21.0,低層,E,15054240,23820,632,393,3,KKAI
-68.0/F中層E,68.0,中層,E,,,,,,KKAI
-105.0/F高層E,105.0,高層,E,,,,,,KKAI
-21.0/F低層F,21.0,低層,F,14553275,24055,605,381,4,KKAI
-68.0/F中層F,68.0,中層,F,,,,,,KKAI
-105.0/F高層F,105.0,高層,F,,,,,,KKAI
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+21.0/F低層A,21.0,低層,A,23163956,24029,964,356,3,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層A,68.0,中層,A,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層A,105.0,高層,A,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+21.0/F低層B,21.0,低層,B,9955166,22321,446,382,3,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層B,68.0,中層,B,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層B,105.0,高層,B,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+21.0/F低層C,21.0,低層,C,8486270,22510,377,308,4,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層C,68.0,中層,C,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層C,105.0,高層,C,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+21.0/F低層D,21.0,低層,D,7822344,22478,348,332,4,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層D,68.0,中層,D,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層D,105.0,高層,D,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+21.0/F低層E,21.0,低層,E,15054240,23820,632,393,3,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層E,68.0,中層,E,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層E,105.0,高層,E,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+21.0/F低層F,21.0,低層,F,14516975,23995,605,381,4,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+68.0/F中層F,68.0,中層,F,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"
+105.0/F高層F,105.0,高層,F,,,,,,KKAI,"K. CITY(Block 9),MUK NING ST|嘉匯9座,沐寧街"

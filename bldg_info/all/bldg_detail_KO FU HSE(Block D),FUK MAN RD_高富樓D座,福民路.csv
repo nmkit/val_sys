@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層D1,3.0,低層,D1,,,,,,NSK
-4.0/F中層D1,4.0,中層,D1,,,,,,NSK
-4.0/F高層D1,4.0,高層,D1,,,,,,NSK
-3.0/F低層D2,3.0,低層,D2,,,,,,NSK
-4.0/F中層D2,4.0,中層,D2,,,,,,NSK
-4.0/F高層D2,4.0,高層,D2,,,,,,NSK
-3.0/F低層D3,3.0,低層,D3,,,,,,NSK
-4.0/F中層D3,4.0,中層,D3,,,,,,NSK
-4.0/F高層D3,4.0,高層,D3,,,,,,NSK
-3.0/F低層D4,3.0,低層,D4,,,,,,NSK
-4.0/F中層D4,4.0,中層,D4,,,,,,NSK
-4.0/F高層D4,4.0,高層,D4,,,,,,NSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層D1,3.0,低層,D1,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F中層D1,4.0,中層,D1,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F高層D1,4.0,高層,D1,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+3.0/F低層D2,3.0,低層,D2,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F中層D2,4.0,中層,D2,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F高層D2,4.0,高層,D2,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+3.0/F低層D3,3.0,低層,D3,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F中層D3,4.0,中層,D3,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F高層D3,4.0,高層,D3,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+3.0/F低層D4,3.0,低層,D4,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F中層D4,4.0,中層,D4,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"
+4.0/F高層D4,4.0,高層,D4,,,,,,NSK,"KO FU HSE(Block D),FUK MAN RD|高富樓D座,福民路"

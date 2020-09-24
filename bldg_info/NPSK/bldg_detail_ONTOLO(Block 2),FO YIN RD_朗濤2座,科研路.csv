@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,38796696,22728,1707,405,3,NPSK
-8.0/F中層A,8.0,中層,A,39923316,23388,1707,420,3,NPSK
-11.0/F高層A,11.0,高層,A,40092309,23487,1707,431,3,NPSK
-4.0/F低層B,4.0,低層,B,38850999,22341,1739,396,3,NPSK
-8.0/F中層B,8.0,中層,B,39993522,22998,1739,414,3,NPSK
-11.0/F高層B,11.0,高層,B,40843893,23487,1739,431,3,NPSK
-4.0/F低層C,4.0,低層,C,,,,,,NPSK
-8.0/F中層C,8.0,中層,C,,,,,,NPSK
-11.0/F高層C,11.0,高層,C,,,,,,NPSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,38796696,22728,1707,405,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+8.0/F中層A,8.0,中層,A,39923316,23388,1707,420,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+11.0/F高層A,11.0,高層,A,40092309,23487,1707,431,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+4.0/F低層B,4.0,低層,B,39963959,22981,1739,360,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+8.0/F中層B,8.0,中層,B,41136045,23655,1739,376,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+11.0/F高層B,11.0,高層,B,41986416,24144,1739,389,3,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+4.0/F低層C,4.0,低層,C,,,,,,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+8.0/F中層C,8.0,中層,C,,,,,,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"
+11.0/F高層C,11.0,高層,C,,,,,,NPSK,"ONTOLO(Block 2),FO YIN RD|朗濤2座,科研路"

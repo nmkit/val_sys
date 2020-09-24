@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,5719752,14019,408,366,3,HNP
-10.0/F中層blank,10.0,中層,blank,5906208,14476,408,398,3,HNP
-17.0/F高層blank,17.0,高層,blank,6189360,15170,408,412,3,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,5719752,14019,408,366,3,HNP,"WELFORD COURT,TSAT TSZ MUI RD|華福閣,七姊妹道"
+10.0/F中層blank,10.0,中層,blank,5906208,14476,408,398,3,HNP,"WELFORD COURT,TSAT TSZ MUI RD|華福閣,七姊妹道"
+17.0/F高層blank,17.0,高層,blank,6189360,15170,408,412,3,HNP,"WELFORD COURT,TSAT TSZ MUI RD|華福閣,七姊妹道"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,41496448,25984,1597,342,3,NST
-2.0/F中層A,2.0,中層,A,41496448,25984,1597,342,3,NST
-3.0/F高層A,3.0,高層,A,40971035,25655,1597,352,3,NST
-2.0/F低層B,2.0,低層,B,40771188,25308,1611,349,3,NST
-2.0/F中層B,2.0,中層,B,40771188,25308,1611,349,3,NST
-3.0/F高層B,3.0,高層,B,40777632,25312,1611,349,3,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,41488463,25979,1597,342,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"
+2.0/F中層A,2.0,中層,A,41488463,25979,1597,342,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"
+3.0/F高層A,3.0,高層,A,40963050,25650,1597,352,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"
+2.0/F低層B,2.0,低層,B,40780854,25314,1611,349,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"
+2.0/F中層B,2.0,中層,B,40780854,25314,1611,349,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"
+3.0/F高層B,3.0,高層,B,40787298,25318,1611,349,3,NST,"LE CAP(Block 3),LAI PING RD|澐瀚3座,麗坪路"

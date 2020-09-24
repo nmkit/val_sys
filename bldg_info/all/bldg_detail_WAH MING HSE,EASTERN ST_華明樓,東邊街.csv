@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,HSW
-2.0/F中層A,2.0,中層,A,,,,,,HSW
-3.0/F高層A,3.0,高層,A,,,,,,HSW
-2.0/F低層C,2.0,低層,C,,,,,,HSW
-2.0/F中層C,2.0,中層,C,,,,,,HSW
-3.0/F高層C,3.0,高層,C,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"
+2.0/F中層A,2.0,中層,A,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"
+3.0/F高層A,3.0,高層,A,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"
+2.0/F低層C,2.0,低層,C,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"
+2.0/F中層C,2.0,中層,C,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"
+3.0/F高層C,3.0,高層,C,,,,,,HSW,"WAH MING HSE,EASTERN ST|華明樓,東邊街"

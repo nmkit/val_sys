@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NTW
-4.0/F中層A,4.0,中層,A,,,,,,NTW
-5.0/F高層A,5.0,高層,A,,,,,,NTW
-2.0/F低層B,2.0,低層,B,3197810,8306,385,96,1,NTW
-4.0/F中層B,4.0,中層,B,3221295,8367,385,150,1,NTW
-5.0/F高層B,5.0,高層,B,3233230,8398,385,98,1,NTW
-2.0/F低層C,2.0,低層,C,2728960,8528,320,100,1,NTW
-4.0/F中層C,4.0,中層,C,2749120,8591,320,103,1,NTW
-5.0/F高層C,5.0,高層,C,2759360,8623,320,105,1,NTW
-2.0/F低層D,2.0,低層,D,,,,,,NTW
-4.0/F中層D,4.0,中層,D,,,,,,NTW
-5.0/F高層D,5.0,高層,D,,,,,,NTW
-2.0/F低層E,2.0,低層,E,,,,,,NTW
-4.0/F中層E,4.0,中層,E,,,,,,NTW
-5.0/F高層E,5.0,高層,E,,,,,,NTW
-2.0/F低層F,2.0,低層,F,,,,,,NTW
-4.0/F中層F,4.0,中層,F,,,,,,NTW
-5.0/F高層F,5.0,高層,F,,,,,,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層A,4.0,中層,A,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層A,5.0,高層,A,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+2.0/F低層B,2.0,低層,B,3197810,8306,385,96,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層B,4.0,中層,B,3221295,8367,385,150,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層B,5.0,高層,B,3233230,8398,385,98,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+2.0/F低層C,2.0,低層,C,2728960,8528,320,100,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層C,4.0,中層,C,2749120,8591,320,103,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層C,5.0,高層,C,2759360,8623,320,105,1,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+2.0/F低層D,2.0,低層,D,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層D,4.0,中層,D,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層D,5.0,高層,D,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+2.0/F低層E,2.0,低層,E,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層E,4.0,中層,E,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層E,5.0,高層,E,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+2.0/F低層F,2.0,低層,F,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+4.0/F中層F,4.0,中層,F,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"
+5.0/F高層F,5.0,高層,F,,,,,,NTW,"TAK WAH BLDG,TAK WAH ST|德華樓,德華街"

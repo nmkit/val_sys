@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,HHV
-6.0/F中層A,6.0,中層,A,,,,,,HHV
-9.0/F高層A,9.0,高層,A,,,,,,HHV
-3.0/F低層B,3.0,低層,B,20761260,16094,1290,100,1,HHV
-6.0/F中層B,6.0,中層,B,21183090,16421,1290,101,1,HHV
-9.0/F高層B,9.0,高層,B,21606210,16749,1290,97,1,HHV
-3.0/F低層C,3.0,低層,C,21467600,17425,1232,92,1,HHV
-6.0/F中層C,6.0,中層,C,21911120,17785,1232,97,1,HHV
-9.0/F高層C,9.0,高層,C,22353408,18144,1232,95,1,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+6.0/F中層A,6.0,中層,A,,,,,,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+9.0/F高層A,9.0,高層,A,,,,,,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+3.0/F低層B,3.0,低層,B,20761260,16094,1290,100,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+6.0/F中層B,6.0,中層,B,21183090,16421,1290,101,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+9.0/F高層B,9.0,高層,B,21606210,16749,1290,97,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+3.0/F低層C,3.0,低層,C,21467600,17425,1232,92,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+6.0/F中層C,6.0,中層,C,21911120,17785,1232,97,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"
+9.0/F高層C,9.0,高層,C,22353408,18144,1232,95,1,HHV,"WAH CHI MANS,SHAN KWONG RD|華芝大廈,山光道"

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,3967875,10581,375,110,1,KSPK
-5.0/F中層blank,5.0,中層,blank,3875010,10473,370,300,2,KSPK
-6.0/F高層blank,6.0,高層,blank,4074360,10722,380,110,1,KSPK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,3958125,10555,375,110,1,KSPK,"SUNG ON MANS,HONG KEUNG ST|信安大樓,康強街"
+5.0/F中層blank,5.0,中層,blank,3883890,10497,370,300,2,KSPK,"SUNG ON MANS,HONG KEUNG ST|信安大樓,康強街"
+6.0/F高層blank,6.0,高層,blank,4054600,10670,380,110,1,KSPK,"SUNG ON MANS,HONG KEUNG ST|信安大樓,康強街"

@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,,,,,,KCSW
-6.0/F中層B,6.0,中層,B,,,,,,KCSW
-9.0/F高層B,9.0,高層,B,,,,,,KCSW
-3.0/F低層C,3.0,低層,C,,,,,,KCSW
-6.0/F中層C,6.0,中層,C,,,,,,KCSW
-9.0/F高層C,9.0,高層,C,,,,,,KCSW
-3.0/F低層D,3.0,低層,D,,,,,,KCSW
-6.0/F中層D,6.0,中層,D,,,,,,KCSW
-9.0/F高層D,9.0,高層,D,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+6.0/F中層B,6.0,中層,B,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+9.0/F高層B,9.0,高層,B,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+3.0/F低層C,3.0,低層,C,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+6.0/F中層C,6.0,中層,C,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+9.0/F高層C,9.0,高層,C,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+3.0/F低層D,3.0,低層,D,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+6.0/F中層D,6.0,中層,D,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"
+9.0/F高層D,9.0,高層,D,,,,,,KCSW,"WAH HING BLDG,UN CHAU ST|華興大廈,元州街"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,KYT
-6.0/F中層A,6.0,中層,A,,,,,,KYT
-6.0/F高層A,6.0,高層,A,,,,,,KYT
-6.0/F低層B,6.0,低層,B,,,,,,KYT
-6.0/F中層B,6.0,中層,B,,,,,,KYT
-6.0/F高層B,6.0,高層,B,,,,,,KYT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"
+6.0/F中層A,6.0,中層,A,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"
+6.0/F高層A,6.0,高層,A,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"
+6.0/F低層B,6.0,低層,B,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"
+6.0/F中層B,6.0,中層,B,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"
+6.0/F高層B,6.0,高層,B,,,,,,KYT,"LUNG MOON MANS,CHA KWO LING RD|龍門別墅,茶果嶺道"

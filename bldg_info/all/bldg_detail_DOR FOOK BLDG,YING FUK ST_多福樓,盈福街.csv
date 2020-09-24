@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,1183338,3501,338,82,1,NYL
-3.0/F中層A,3.0,中層,A,1189084,3518,338,81,1,NYL
-4.0/F高層A,4.0,高層,A,1195168,3536,338,80,1,NYL
-2.0/F低層D,2.0,低層,D,1024380,3780,271,150,1,NYL
-3.0/F中層D,3.0,中層,D,1029258,3798,271,139,1,NYL
-4.0/F高層D,4.0,高層,D,1034407,3817,271,137,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,1194154,3533,338,82,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"
+3.0/F中層A,3.0,中層,A,1200238,3551,338,81,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"
+4.0/F高層A,4.0,高層,A,1205984,3568,338,80,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"
+2.0/F低層D,2.0,低層,D,1024380,3780,271,150,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"
+3.0/F中層D,3.0,中層,D,1029258,3798,271,139,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"
+4.0/F高層D,4.0,高層,D,1034407,3817,271,137,1,NYL,"DOR FOOK BLDG,YING FUK ST|多福樓,盈福街"

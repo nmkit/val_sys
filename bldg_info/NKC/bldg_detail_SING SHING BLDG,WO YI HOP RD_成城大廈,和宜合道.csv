@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層1,4.0,低層,1,4163300,10540,395,85,1,NKC
-6.0/F中層1,6.0,中層,1,4198850,10630,395,87,1,NKC
-9.0/F高層1,9.0,高層,1,4252570,10766,395,90,1,NKC
-4.0/F低層2,4.0,低層,2,4557080,10357,440,79,1,NKC
-6.0/F中層2,6.0,中層,2,4596240,10446,440,81,1,NKC
-9.0/F高層2,9.0,高層,2,4654760,10579,440,84,1,NKC
-4.0/F低層3,4.0,低層,3,4384380,10439,420,81,1,NKC
-6.0/F中層3,6.0,中層,3,4421760,10528,420,83,1,NKC
-9.0/F高層3,9.0,高層,3,4478040,10662,420,86,1,NKC
-4.0/F低層4,4.0,低層,4,3875205,10617,365,80,1,NKC
-6.0/F中層4,6.0,中層,4,3908055,10707,365,82,1,NKC
-9.0/F高層4,9.0,高層,4,3958060,10844,365,85,1,NKC
-4.0/F低層5,4.0,低層,5,4163300,10540,395,85,1,NKC
-6.0/F中層5,6.0,中層,5,4198850,10630,395,87,1,NKC
-9.0/F高層5,9.0,高層,5,4252570,10766,395,90,1,NKC
-4.0/F低層6,4.0,低層,6,3875205,10617,365,80,1,NKC
-6.0/F中層6,6.0,中層,6,3908055,10707,365,82,1,NKC
-9.0/F高層6,9.0,高層,6,3958060,10844,365,85,1,NKC
-4.0/F低層7,4.0,低層,7,4384380,10439,420,81,1,NKC
-6.0/F中層7,6.0,中層,7,4421760,10528,420,83,1,NKC
-9.0/F高層7,9.0,高層,7,4478040,10662,420,86,1,NKC
-4.0/F低層8,4.0,低層,8,4557080,10357,440,79,1,NKC
-6.0/F中層8,6.0,中層,8,4596240,10446,440,81,1,NKC
-9.0/F高層8,9.0,高層,8,4654760,10579,440,84,1,NKC
-4.0/F低層9,4.0,低層,9,4163300,10540,395,128,1,NKC
-6.0/F中層9,6.0,中層,9,4198850,10630,395,131,1,NKC
-9.0/F高層9,9.0,高層,9,4252570,10766,395,150,1,NKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層1,4.0,低層,1,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層1,6.0,中層,1,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層1,9.0,高層,1,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層2,4.0,低層,2,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層2,6.0,中層,2,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層2,9.0,高層,2,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層3,4.0,低層,3,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層3,6.0,中層,3,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層3,9.0,高層,3,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層4,4.0,低層,4,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層4,6.0,中層,4,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層4,9.0,高層,4,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層5,4.0,低層,5,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層5,6.0,中層,5,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層5,9.0,高層,5,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層6,4.0,低層,6,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層6,6.0,中層,6,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層6,9.0,高層,6,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層7,4.0,低層,7,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層7,6.0,中層,7,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層7,9.0,高層,7,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層8,4.0,低層,8,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層8,6.0,中層,8,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層8,9.0,高層,8,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+4.0/F低層9,4.0,低層,9,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+6.0/F中層9,6.0,中層,9,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"
+9.0/F高層9,9.0,高層,9,,,,,,NKC,"SING SHING BLDG,WO YI HOP RD|成城大廈,和宜合道"

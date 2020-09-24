@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,20599658,70306,293,434,3,KKAI
-15.0/F中層A,15.0,中層,A,20631595,70415,293,418,3,KKAI
-22.0/F高層A,22.0,高層,A,21338311,72827,293,424,3,KKAI
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,20696348,70636,293,435,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+18.0/F中層A,18.0,中層,A,20806223,71011,293,434,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+28.0/F高層A,28.0,高層,A,21752613,74241,293,433,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"

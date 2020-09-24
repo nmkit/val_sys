@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,4176381,15411,271,278,3,HA
-7.0/F中層A,7.0,中層,A,4217031,15561,271,278,3,HA
-9.0/F高層A,9.0,高層,A,4261475,15725,271,275,3,HA
-5.0/F低層B,5.0,低層,B,4269334,15754,271,323,3,HA
-7.0/F中層B,7.0,中層,B,4311339,15909,271,323,3,HA
-9.0/F高層B,9.0,高層,B,4380715,16165,271,358,3,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,4176381,15411,271,278,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"
+7.0/F中層A,7.0,中層,A,4217031,15561,271,278,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"
+9.0/F高層A,9.0,高層,A,4261475,15725,271,275,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"
+5.0/F低層B,5.0,低層,B,4269334,15754,271,323,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"
+7.0/F中層B,7.0,中層,B,4311339,15909,271,323,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"
+9.0/F高層B,9.0,高層,B,4380715,16165,271,358,3,HA,"KAM TSEUK MANS,KA WO ST|金爵大廈,嘉禾街"

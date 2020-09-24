@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,HA
-7.0/F中層A,7.0,中層,A,,,,,,HA
-10.0/F高層A,10.0,高層,A,,,,,,HA
-4.0/F低層B,4.0,低層,B,,,,,,HA
-7.0/F中層B,7.0,中層,B,,,,,,HA
-10.0/F高層B,10.0,高層,B,,,,,,HA
-4.0/F低層C,4.0,低層,C,,,,,,HA
-7.0/F中層C,7.0,中層,C,,,,,,HA
-10.0/F高層C,10.0,高層,C,,,,,,HA
-4.0/F低層D,4.0,低層,D,,,,,,HA
-7.0/F中層D,7.0,中層,D,,,,,,HA
-10.0/F高層D,10.0,高層,D,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+7.0/F中層A,7.0,中層,A,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+10.0/F高層A,10.0,高層,A,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+4.0/F低層B,4.0,低層,B,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+7.0/F中層B,7.0,中層,B,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+10.0/F高層B,10.0,高層,B,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+4.0/F低層C,4.0,低層,C,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+7.0/F中層C,7.0,中層,C,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+10.0/F高層C,10.0,高層,C,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+4.0/F低層D,4.0,低層,D,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+7.0/F中層D,7.0,中層,D,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"
+10.0/F高層D,10.0,高層,D,,,,,,HA,"TUNG NAM BLDG,MAIN ST AP LEI CHAU|東南大廈,鴨利洲大街"

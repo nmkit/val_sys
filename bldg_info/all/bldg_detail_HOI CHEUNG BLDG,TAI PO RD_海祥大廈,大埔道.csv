@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KCSW
-8.0/F中層A,8.0,中層,A,,,,,,KCSW
-13.0/F高層A,13.0,高層,A,,,,,,KCSW
-3.0/F低層B,3.0,低層,B,,,,,,KCSW
-8.0/F中層B,8.0,中層,B,,,,,,KCSW
-13.0/F高層B,13.0,高層,B,,,,,,KCSW
-3.0/F低層C,3.0,低層,C,5485746,13818,397,88,1,KCSW
-8.0/F中層C,8.0,中層,C,5669954,14282,397,96,1,KCSW
-13.0/F高層C,13.0,高層,C,5854559,14747,397,94,1,KCSW
-3.0/F低層D,3.0,低層,D,,,,,,KCSW
-8.0/F中層D,8.0,中層,D,,,,,,KCSW
-13.0/F高層D,13.0,高層,D,,,,,,KCSW
-3.0/F低層E,3.0,低層,E,,,,,,KCSW
-8.0/F中層E,8.0,中層,E,,,,,,KCSW
-13.0/F高層E,13.0,高層,E,,,,,,KCSW
-3.0/F低層F,3.0,低層,F,,,,,,KCSW
-8.0/F中層F,8.0,中層,F,,,,,,KCSW
-13.0/F高層F,13.0,高層,F,,,,,,KCSW
-3.0/F低層G,3.0,低層,G,,,,,,KCSW
-8.0/F中層G,8.0,中層,G,,,,,,KCSW
-13.0/F高層G,13.0,高層,G,,,,,,KCSW
-3.0/F低層H,3.0,低層,H,,,,,,KCSW
-8.0/F中層H,8.0,中層,H,,,,,,KCSW
-13.0/F高層H,13.0,高層,H,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層A,8.0,中層,A,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層A,13.0,高層,A,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層B,3.0,低層,B,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層B,8.0,中層,B,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層B,13.0,高層,B,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層C,3.0,低層,C,5485746,13818,397,88,1,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層C,8.0,中層,C,5669954,14282,397,96,1,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層C,13.0,高層,C,5854559,14747,397,94,1,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層D,3.0,低層,D,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層D,8.0,中層,D,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層D,13.0,高層,D,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層E,3.0,低層,E,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層E,8.0,中層,E,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層E,13.0,高層,E,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層F,3.0,低層,F,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層F,8.0,中層,F,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層F,13.0,高層,F,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層G,3.0,低層,G,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層G,8.0,中層,G,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層G,13.0,高層,G,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+3.0/F低層H,3.0,低層,H,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+8.0/F中層H,8.0,中層,H,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"
+13.0/F高層H,13.0,高層,H,,,,,,KCSW,"HOI CHEUNG BLDG,TAI PO RD|海祥大廈,大埔道"

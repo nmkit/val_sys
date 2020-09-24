@@ -1,6 +1,6 @@
 ,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
-0,"REGENT ON THE PARK(Block 1),KENNEDY RD|御花園1座,堅尼地道",,,1140,,,,,,,19.0,66.0,101.0,"['A', 'B']",100,200,1985/08,35,REGENT ON THE PARK,御花園
+0,"REGENT ON THE PARK(Block 1),KENNEDY RD|御花園1座,堅尼地道",,,1140,,,,,,,19.0,64.0,101.0,"['A', 'B']",102,204,1985/08,35,REGENT ON THE PARK,御花園
 1,"REGENT ON THE PARK(Block 2),KENNEDY RD|御花園2座,堅尼地道",,,1140,,,,,,,9.0,28.0,56.0,"['A', 'B']",50,100,1985/08,35,REGENT ON THE PARK,御花園
-2,"ROYAL COURT,KENNEDY RD|帝景閣,堅尼地道",,,885,,,885.0,,,1157.0,10.0,20.0,31.0,"['A', 'B', 'C']",34,102,1989/09,31,blank,blank
-3,"HUNG KEI MANS,QUEEN VICTORIA ST|鴻基大廈,域多利皇后街",5196185.0,15511.0,335,5317790.0,15874.0,335.0,7424145.0,17067.0,435.0,10.0,12.0,16.0,"['A', 'B', 'C', 'D']",8,32,1971/05,49,blank,blank
-4,2 TRAMWAY PATH|纜車徑,,,1051,,,1051.0,,,1051.0,2.0,2.0,3.0,"['B', 'B2']",2,4,1953/07,67,blank,blank
+2,"ROYAL COURT,KENNEDY RD|帝景閣,堅尼地道",,,885,,,885.0,,,,10.0,20.0,31.0,"['A', 'B', 'C']",34,102,1989/09,31,blank,blank
+3,"HUNG KEI MANS,QUEEN VICTORIA ST|鴻基大廈,域多利皇后街",5196185.0,15511.0,335,5317790.0,15874.0,335.0,7775625.0,17875.0,435.0,10.0,12.0,16.0,"['A', 'B', 'C', 'D']",8,32,1971/05,49,blank,blank
+4,2 TRAMWAY PATH|2 纜車徑,,,1051,,,1051.0,,,1051.0,2.0,2.0,3.0,"['B', 'B2']",2,4,1953/07,67,blank,blank

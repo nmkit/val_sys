@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-9.0/F低層A,9.0,低層,A,,,,,,KSWK
-18.0/F中層A,18.0,中層,A,,,,,,KSWK
-26.0/F高層A,26.0,高層,A,,,,,,KSWK
-9.0/F低層B,9.0,低層,B,19597989,29649,661,260,2,KSWK
-18.0/F中層B,18.0,中層,B,19062837,30697,621,241,2,KSWK
-26.0/F高層B,26.0,高層,B,19700604,31724,621,241,2,KSWK
-9.0/F低層C,9.0,低層,C,19208783,29689,647,160,2,KSWK
-18.0/F中層C,18.0,中層,C,19470447,30759,633,160,2,KSWK
-26.0/F高層C,26.0,高層,C,20121171,31787,633,160,2,KSWK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,,,,,,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+18.0/F中層A,18.0,中層,A,,,,,,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+26.0/F高層A,26.0,高層,A,,,,,,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+9.0/F低層B,9.0,低層,B,19858423,30043,661,260,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+18.0/F中層B,18.0,中層,B,18828720,30320,621,241,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+26.0/F高層B,26.0,高層,B,19485738,31378,621,241,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+9.0/F低層C,9.0,低層,C,19294834,29822,647,160,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+18.0/F中層C,18.0,中層,C,19396386,30642,633,160,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"
+26.0/F高層C,26.0,高層,C,20073696,31712,633,160,2,KSWK,"THE AUSTIN(Block T5),WUI CHEUNG RD|blankT5座,匯翔道"

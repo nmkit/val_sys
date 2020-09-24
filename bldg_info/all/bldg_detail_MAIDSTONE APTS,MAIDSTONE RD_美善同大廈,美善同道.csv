@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,6136224,9354,656,413,3,KKC
-5.0/F中層blank,5.0,中層,blank,6305472,9612,656,420,3,KKC
-8.0/F高層blank,8.0,高層,blank,5898676,10066,586,409,3,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,6397312,9752,656,263,2,KKC,"MAIDSTONE APTS,MAIDSTONE RD|美善同大廈,美善同道"
+5.0/F中層blank,5.0,中層,blank,6512112,9927,656,380,3,KKC,"MAIDSTONE APTS,MAIDSTONE RD|美善同大廈,美善同道"
+8.0/F高層blank,8.0,高層,blank,5859414,9999,586,409,3,KKC,"MAIDSTONE APTS,MAIDSTONE RD|美善同大廈,美善同道"

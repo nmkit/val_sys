@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,19552500,13035,1500,366,3,HMW
-3.0/F中層blank,3.0,中層,blank,23121360,15112,1530,233,2,HMW
-4.0/F高層blank,4.0,高層,blank,23363100,15270,1530,258,2,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,18820500,12547,1500,259,2,HMW,"HONG LOK MANS,MACDONNELL RD|康樂大廈,麥當勞道"
+3.0/F中層blank,3.0,中層,blank,24002640,15688,1530,233,2,HMW,"HONG LOK MANS,MACDONNELL RD|康樂大廈,麥當勞道"
+4.0/F高層blank,4.0,高層,blank,24175530,15801,1530,258,2,HMW,"HONG LOK MANS,MACDONNELL RD|康樂大廈,麥當勞道"

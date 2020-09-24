@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,6968026,12311,566,347,3,NTP
-11.0/F中層blank,11.0,中層,blank,7097074,12539,566,353,3,NTP
-16.0/F高層blank,16.0,高層,blank,7262346,12831,566,348,3,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層blank,7.0,低層,blank,6968026,12311,566,347,3,NTP,"CHAN COURT,ON FU RD|長江雅苑,安富道"
+11.0/F中層blank,11.0,中層,blank,7097074,12539,566,353,3,NTP,"CHAN COURT,ON FU RD|長江雅苑,安富道"
+16.0/F高層blank,16.0,高層,blank,7262346,12831,566,348,3,NTP,"CHAN COURT,ON FU RD|長江雅苑,安富道"

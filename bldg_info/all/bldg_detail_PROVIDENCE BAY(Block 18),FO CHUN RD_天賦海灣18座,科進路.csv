@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NPSK
-6.0/F中層A,6.0,中層,A,,,,,,NPSK
-8.0/F高層A,8.0,高層,A,,,,,,NPSK
-2.0/F低層B,2.0,低層,B,,,,,,NPSK
-6.0/F中層B,6.0,中層,B,,,,,,NPSK
-8.0/F高層B,8.0,高層,B,,,,,,NPSK
-2.0/F低層C,2.0,低層,C,,,,,,NPSK
-6.0/F中層C,6.0,中層,C,,,,,,NPSK
-8.0/F高層C,8.0,高層,C,,,,,,NPSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+6.0/F中層A,6.0,中層,A,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+8.0/F高層A,8.0,高層,A,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+2.0/F低層B,2.0,低層,B,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+6.0/F中層B,6.0,中層,B,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+8.0/F高層B,8.0,高層,B,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+2.0/F低層C,2.0,低層,C,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+6.0/F中層C,6.0,中層,C,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"
+8.0/F高層C,8.0,高層,C,,,,,,NPSK,"PROVIDENCE BAY(Block 18),FO CHUN RD|天賦海灣18座,科進路"

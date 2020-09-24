@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-21.0/F低層A,21.0,低層,A,32975256,41014,804,153,2,NTKO
-67.0/F中層A,67.0,中層,A,,,,,,NTKO
-102.0/F高層A,102.0,高層,A,,,,,,NTKO
-21.0/F低層AC,21.0,低層,AC,,,,,,NTKO
-67.0/F中層AC,67.0,中層,AC,,,,,,NTKO
-102.0/F高層AC,102.0,高層,AC,,,,,,NTKO
-21.0/F低層B,21.0,低層,B,28090068,42051,668,324,3,NTKO
-67.0/F中層B,67.0,中層,B,,,,,,NTKO
-102.0/F高層B,102.0,高層,B,,,,,,NTKO
-21.0/F低層BC,21.0,低層,BC,27111329,21917,1237,39,1,NTKO
-67.0/F中層BC,67.0,中層,BC,,,,,,NTKO
-102.0/F高層BC,102.0,高層,BC,,,,,,NTKO
-21.0/F低層BE,21.0,低層,BE,,,,,,NTKO
-67.0/F中層BE,67.0,中層,BE,,,,,,NTKO
-102.0/F高層BE,102.0,高層,BE,,,,,,NTKO
-21.0/F低層C,21.0,低層,C,24702566,43414,569,344,5,NTKO
-67.0/F中層C,67.0,中層,C,,,,,,NTKO
-102.0/F高層C,102.0,高層,C,,,,,,NTKO
-21.0/F低層D,21.0,低層,D,17616432,47356,372,252,3,NTKO
-67.0/F中層D,67.0,中層,D,,,,,,NTKO
-102.0/F高層D,102.0,高層,D,,,,,,NTKO
-21.0/F低層E,21.0,低層,E,17451246,47681,366,297,3,NTKO
-67.0/F中層E,67.0,中層,E,,,,,,NTKO
-102.0/F高層E,102.0,高層,E,,,,,,NTKO
-21.0/F低層F,21.0,低層,F,17374448,47732,364,341,3,NTKO
-67.0/F中層F,67.0,中層,F,,,,,,NTKO
-102.0/F高層F,102.0,高層,F,,,,,,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+21.0/F低層A,21.0,低層,A,34782648,43262,804,153,2,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層A,67.0,中層,A,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層A,102.0,高層,A,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層AC,21.0,低層,AC,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層AC,67.0,中層,AC,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層AC,102.0,高層,AC,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層B,21.0,低層,B,28818856,43142,668,324,3,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層B,67.0,中層,B,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層B,102.0,高層,B,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層BC,21.0,低層,BC,56900763,45999,1237,118,2,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層BC,67.0,中層,BC,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層BC,102.0,高層,BC,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層BE,21.0,低層,BE,46236344,44716,1034,131,2,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層BE,67.0,中層,BE,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層BE,102.0,高層,BE,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層C,21.0,低層,C,25336432,44528,569,284,4,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層C,67.0,中層,C,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層C,102.0,高層,C,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層D,21.0,低層,D,17639868,47419,372,252,3,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層D,67.0,中層,D,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層D,102.0,高層,D,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層E,21.0,低層,E,17454906,47691,366,297,3,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層E,67.0,中層,E,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層E,102.0,高層,E,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+21.0/F低層F,21.0,低層,F,17372628,47727,364,341,3,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+67.0/F中層F,67.0,中層,F,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"
+102.0/F高層F,102.0,高層,F,,,,,,NTKO,"MONTEREY(Block 6B),TONG CHUN ST|blank6B座,唐俊街"

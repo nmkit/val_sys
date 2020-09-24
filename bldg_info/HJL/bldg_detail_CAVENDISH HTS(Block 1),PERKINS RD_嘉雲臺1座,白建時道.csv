@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HJL
-16.0/F中層A,16.0,中層,A,,,,,,HJL
-25.0/F高層A,25.0,高層,A,,,,,,HJL
-7.0/F低層B,7.0,低層,B,,,,,,HJL
-16.0/F中層B,16.0,中層,B,,,,,,HJL
-25.0/F高層B,25.0,高層,B,,,,,,HJL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"
+16.0/F中層A,16.0,中層,A,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"
+25.0/F高層A,25.0,高層,A,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"
+7.0/F低層B,7.0,低層,B,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"
+16.0/F中層B,16.0,中層,B,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"
+25.0/F高層B,25.0,高層,B,,,,,,HJL,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道"

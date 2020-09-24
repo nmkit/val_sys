@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NTP
-6.0/F中層A,6.0,中層,A,,,,,,NTP
-8.0/F高層A,8.0,高層,A,,,,,,NTP
-2.0/F低層B,2.0,低層,B,,,,,,NTP
-6.0/F中層B,6.0,中層,B,,,,,,NTP
-8.0/F高層B,8.0,高層,B,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"
+6.0/F中層A,6.0,中層,A,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"
+9.0/F高層A,9.0,高層,A,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"
+2.0/F低層B,2.0,低層,B,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"
+6.0/F中層B,6.0,中層,B,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"
+9.0/F高層B,9.0,高層,B,,,,,,NTP,"CONSTELLATION COVE(Block 12),HUNG LAM DR|滌濤山12座,紅林路"

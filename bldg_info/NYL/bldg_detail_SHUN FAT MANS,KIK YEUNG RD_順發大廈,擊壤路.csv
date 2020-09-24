@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,,,,,,NYL
-4.0/F中層B,4.0,中層,B,,,,,,NYL
-4.0/F高層B,4.0,高層,B,,,,,,NYL
-3.0/F低層E,3.0,低層,E,,,,,,NYL
-4.0/F中層E,4.0,中層,E,,,,,,NYL
-4.0/F高層E,4.0,高層,E,,,,,,NYL
-3.0/F低層H,3.0,低層,H,,,,,,NYL
-4.0/F中層H,4.0,中層,H,,,,,,NYL
-4.0/F高層H,4.0,高層,H,,,,,,NYL
-3.0/F低層I,3.0,低層,I,,,,,,NYL
-4.0/F中層I,4.0,中層,I,,,,,,NYL
-4.0/F高層I,4.0,高層,I,,,,,,NYL
-3.0/F低層J,3.0,低層,J,,,,,,NYL
-4.0/F中層J,4.0,中層,J,,,,,,NYL
-4.0/F高層J,4.0,高層,J,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,12096150,21993,550,87,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F中層B,4.0,中層,B,12156100,22102,550,88,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F高層B,4.0,高層,B,12156100,22102,550,88,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+3.0/F低層E,3.0,低層,E,10916710,22279,490,140,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F中層E,4.0,中層,E,10970610,22389,490,150,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F高層E,4.0,高層,E,10970610,22389,490,150,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+3.0/F低層H,3.0,低層,H,10916710,22279,490,93,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F中層H,4.0,中層,H,10970610,22389,490,94,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F高層H,4.0,高層,H,10970610,22389,490,94,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+3.0/F低層I,3.0,低層,I,10916710,22279,490,93,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F中層I,4.0,中層,I,10970610,22389,490,94,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F高層I,4.0,高層,I,10970610,22389,490,94,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+3.0/F低層J,3.0,低層,J,12096150,21993,550,87,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F中層J,4.0,中層,J,12156100,22102,550,88,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"
+4.0/F高層J,4.0,高層,J,12156100,22102,550,88,1,NYL,"SHUN FAT MANS,KIK YEUNG RD|順發大廈,擊壤路"

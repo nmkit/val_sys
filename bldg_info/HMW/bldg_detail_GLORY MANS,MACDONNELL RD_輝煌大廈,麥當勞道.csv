@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層106,3.0,低層,106,30510520,16229,1880,84,1,HMW
-6.0/F中層106,6.0,中層,106,31149720,16569,1880,81,1,HMW
-8.0/F高層106,8.0,高層,106,31574600,16795,1880,79,1,HMW
-3.0/F低層108,3.0,低層,108,30510520,16229,1880,126,1,HMW
-6.0/F中層108,6.0,中層,108,31149720,16569,1880,121,1,HMW
-8.0/F高層108,8.0,高層,108,31574600,16795,1880,118,1,HMW
-3.0/F低層blank,3.0,低層,blank,31298240,16648,1880,180,2,HMW
-6.0/F中層blank,6.0,中層,blank,31980680,17011,1880,179,2,HMW
-8.0/F高層blank,8.0,高層,blank,32420600,17245,1880,174,2,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層106,3.0,低層,106,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+6.0/F中層106,6.0,中層,106,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+8.0/F高層106,8.0,高層,106,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+3.0/F低層108,3.0,低層,108,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+6.0/F中層108,6.0,中層,108,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+8.0/F高層108,8.0,高層,108,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+3.0/F低層blank,3.0,低層,blank,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+6.0/F中層blank,6.0,中層,blank,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"
+8.0/F高層blank,8.0,高層,blank,,,,,,HMW,"GLORY MANS,MACDONNELL RD|輝煌大廈,麥當勞道"

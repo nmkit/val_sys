@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,13531863,39917,339,129,1,HWC
-16.0/F中層blank,16.0,中層,blank,14316648,42232,339,142,1,HWC
-22.0/F高層blank,22.0,高層,blank,14840064,43776,339,142,1,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層blank,7.0,低層,blank,13531863,39917,339,129,1,HWC,"GALWAY COURT,CROSS ST|嘉威閣,交加街"
+15.0/F中層blank,15.0,中層,blank,14229525,41975,339,141,1,HWC,"GALWAY COURT,CROSS ST|嘉威閣,交加街"
+22.0/F高層blank,22.0,高層,blank,14840064,43776,339,142,1,HWC,"GALWAY COURT,CROSS ST|嘉威閣,交加街"

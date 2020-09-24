@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,6203218,10807,574,355,4,NYL
-9.0/F中層A,9.0,中層,A,6124580,10670,574,215,3,NYL
-13.0/F高層A,13.0,高層,A,6264062,10913,574,215,3,NYL
-5.0/F低層B,5.0,低層,B,8154120,10454,780,275,3,NYL
-9.0/F中層B,9.0,中層,B,8328060,10677,780,286,3,NYL
-13.0/F高層B,13.0,高層,B,8517600,10920,780,284,3,NYL
-5.0/F低層C,5.0,低層,C,5857401,10441,561,203,3,NYL
-9.0/F中層C,9.0,中層,C,5981382,10662,561,213,3,NYL
-13.0/F高層C,13.0,高層,C,6117705,10905,561,213,3,NYL
-5.0/F低層D,5.0,低層,D,5042246,12034,419,209,2,NYL
-9.0/F中層D,9.0,中層,D,4820176,11504,419,63,1,NYL
-13.0/F高層D,13.0,高層,D,4916546,11734,419,63,1,NYL
-5.0/F低層E,5.0,低層,E,4723806,11274,419,59,1,NYL
-9.0/F中層E,9.0,中層,E,4820176,11504,419,63,1,NYL
-13.0/F高層E,13.0,高層,E,4916546,11734,419,63,1,NYL
-5.0/F低層F,5.0,低層,F,5883207,10487,561,243,3,NYL
-9.0/F中層F,9.0,中層,F,6007188,10708,561,255,3,NYL
-13.0/F高層F,13.0,高層,F,6141267,10947,561,255,3,NYL
-5.0/F低層G,5.0,低層,G,8066760,10342,780,374,4,NYL
-9.0/F中層G,9.0,中層,G,8256300,10585,780,380,4,NYL
-13.0/F高層G,13.0,高層,G,8451300,10835,780,376,4,NYL
-5.0/F低層H,5.0,低層,H,6354683,10469,607,211,3,NYL
-9.0/F中層H,9.0,中層,H,6124580,10670,574,215,3,NYL
-13.0/F高層H,13.0,高層,H,6264062,10913,574,215,3,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層A,9.0,中層,A,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層A,13.0,高層,A,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層B,5.0,低層,B,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層B,9.0,中層,B,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層B,13.0,高層,B,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層C,5.0,低層,C,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層C,9.0,中層,C,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層C,13.0,高層,C,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層D,5.0,低層,D,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層D,9.0,中層,D,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層D,13.0,高層,D,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層E,5.0,低層,E,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層E,9.0,中層,E,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層E,13.0,高層,E,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層F,5.0,低層,F,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層F,9.0,中層,F,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層F,13.0,高層,F,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層G,5.0,低層,G,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層G,9.0,中層,G,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層G,13.0,高層,G,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+5.0/F低層H,5.0,低層,H,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+9.0/F中層H,9.0,中層,H,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"
+13.0/F高層H,13.0,高層,H,,,,,,NYL,"SERENO VERDE(Block 3),TAI TONG RD|蝶翠峰3座,大棠路"

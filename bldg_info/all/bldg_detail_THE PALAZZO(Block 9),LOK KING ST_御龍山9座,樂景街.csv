@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-13.0/F低層A,13.0,低層,A,,,,,,NST
-30.0/F中層A,30.0,中層,A,38574595,20885,1847,68,1,NST
-56.0/F高層A,56.0,高層,A,43077581,23323,1847,95,1,NST
-13.0/F低層B,13.0,低層,B,,,,,,NST
-30.0/F中層B,30.0,中層,B,,,,,,NST
-56.0/F高層B,56.0,高層,B,,,,,,NST
-13.0/F低層C,13.0,低層,C,,,,,,NST
-30.0/F中層C,30.0,中層,C,,,,,,NST
-56.0/F高層C,56.0,高層,C,,,,,,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+13.0/F低層A,13.0,低層,A,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+30.0/F中層A,30.0,中層,A,38574595,20885,1847,68,1,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+56.0/F高層A,56.0,高層,A,43077581,23323,1847,95,1,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+13.0/F低層B,13.0,低層,B,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+30.0/F中層B,30.0,中層,B,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+56.0/F高層B,56.0,高層,B,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+13.0/F低層C,13.0,低層,C,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+30.0/F中層C,30.0,中層,C,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"
+56.0/F高層C,56.0,高層,C,,,,,,NST,"THE PALAZZO(Block 9),LOK KING ST|御龍山9座,樂景街"

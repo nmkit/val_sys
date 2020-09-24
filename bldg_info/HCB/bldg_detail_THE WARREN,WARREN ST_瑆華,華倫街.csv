@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-10.0/F低層A,10.0,低層,A,,,,,,HCB
-20.0/F中層A,20.0,中層,A,,,,,,HCB
-30.0/F高層A,30.0,高層,A,,,,,,HCB
-10.0/F低層AC,10.0,低層,AC,,,,,,HCB
-20.0/F中層AC,20.0,中層,AC,,,,,,HCB
-30.0/F高層AC,30.0,高層,AC,,,,,,HCB
-10.0/F低層B,10.0,低層,B,,,,,,HCB
-20.0/F中層B,20.0,中層,B,,,,,,HCB
-30.0/F高層B,30.0,高層,B,,,,,,HCB
-10.0/F低層C,10.0,低層,C,,,,,,HCB
-20.0/F中層C,20.0,中層,C,,,,,,HCB
-30.0/F高層C,30.0,高層,C,,,,,,HCB
-10.0/F低層D,10.0,低層,D,,,,,,HCB
-20.0/F中層D,20.0,中層,D,,,,,,HCB
-30.0/F高層D,30.0,高層,D,,,,,,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+10.0/F低層A,10.0,低層,A,42754320,69860,612,182,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+20.0/F中層A,20.0,中層,A,46383480,75790,612,196,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+30.0/F高層A,30.0,高層,A,50049972,81781,612,202,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+10.0/F低層AC,10.0,低層,AC,,,,,,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+20.0/F中層AC,20.0,中層,AC,,,,,,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+30.0/F高層AC,30.0,高層,AC,,,,,,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+10.0/F低層B,10.0,低層,B,24380768,63824,382,335,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+20.0/F中層B,20.0,中層,B,26442040,69220,382,351,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+30.0/F高層B,30.0,高層,B,28520120,74660,382,357,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+10.0/F低層C,10.0,低層,C,24476268,64074,382,289,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+20.0/F中層C,20.0,中層,C,26576504,69572,382,308,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+30.0/F高層C,30.0,高層,C,28690492,75106,382,317,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+10.0/F低層D,10.0,低層,D,42582880,69808,610,182,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+20.0/F中層D,20.0,中層,D,46197740,75734,610,196,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"
+30.0/F高層D,30.0,高層,D,49849810,81721,610,202,3,HCB,"THE WARREN,WARREN ST|瑆華,華倫街"

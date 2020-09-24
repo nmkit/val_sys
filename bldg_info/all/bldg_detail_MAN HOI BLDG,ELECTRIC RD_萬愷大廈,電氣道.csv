@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,6443238,18462,349,246,2,HNP
-6.0/F中層blank,6.0,中層,blank,6515830,18670,349,246,2,HNP
-9.0/F高層blank,9.0,高層,blank,6199200,18900,328,245,2,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,6330511,18139,349,246,2,HNP,"MAN HOI BLDG,ELECTRIC RD|萬愷大廈,電氣道"
+6.0/F中層blank,6.0,中層,blank,6404499,18351,349,246,2,HNP,"MAN HOI BLDG,ELECTRIC RD|萬愷大廈,電氣道"
+9.0/F高層blank,9.0,高層,blank,6199528,18901,328,245,2,HNP,"MAN HOI BLDG,ELECTRIC RD|萬愷大廈,電氣道"

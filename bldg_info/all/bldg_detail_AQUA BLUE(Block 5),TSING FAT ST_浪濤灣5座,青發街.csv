@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,10182769,10961,929,307,3,NTM
-6.0/F中層A,6.0,中層,A,11127562,11978,929,158,2,NTM
-9.0/F高層A,9.0,高層,A,11263196,12124,929,165,2,NTM
-3.0/F低層B,3.0,低層,B,10705796,11524,929,102,1,NTM
-6.0/F中層B,6.0,中層,B,10836785,11665,929,107,1,NTM
-9.0/F高層B,9.0,高層,B,10967774,11806,929,150,1,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,10182769,10961,929,307,3,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"
+6.0/F中層A,6.0,中層,A,11127562,11978,929,158,2,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"
+9.0/F高層A,9.0,高層,A,11263196,12124,929,165,2,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"
+3.0/F低層B,3.0,低層,B,10705796,11524,929,102,1,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"
+6.0/F中層B,6.0,中層,B,10836785,11665,929,107,1,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"
+9.0/F高層B,9.0,高層,B,10967774,11806,929,150,1,NTM,"AQUA BLUE(Block 5),TSING FAT ST|浪濤灣5座,青發街"

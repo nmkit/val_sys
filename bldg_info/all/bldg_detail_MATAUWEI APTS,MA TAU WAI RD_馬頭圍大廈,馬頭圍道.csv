@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層12,3.0,低層,12,,,,,,KHH
-4.0/F中層12,4.0,中層,12,,,,,,KHH
-4.0/F高層12,4.0,高層,12,,,,,,KHH
-3.0/F低層B10,3.0,低層,B10,,,,,,KHH
-4.0/F中層B10,4.0,中層,B10,,,,,,KHH
-4.0/F高層B10,4.0,高層,B10,,,,,,KHH
-3.0/F低層B6,3.0,低層,B6,,,,,,KHH
-4.0/F中層B6,4.0,中層,B6,,,,,,KHH
-4.0/F高層B6,4.0,高層,B6,,,,,,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層12,3.0,低層,12,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F中層12,4.0,中層,12,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F高層12,4.0,高層,12,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+3.0/F低層B10,3.0,低層,B10,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F中層B10,4.0,中層,B10,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F高層B10,4.0,高層,B10,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+3.0/F低層B6,3.0,低層,B6,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F中層B6,4.0,中層,B6,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"
+4.0/F高層B6,4.0,高層,B6,,,,,,KHH,"MATAUWEI APTS,MA TAU WAI RD|馬頭圍大廈,馬頭圍道"

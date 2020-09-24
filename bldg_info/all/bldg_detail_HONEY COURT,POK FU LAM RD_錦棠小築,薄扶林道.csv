@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,15662175,13775,1137,105,1,HMW
-6.0/F中層A,6.0,中層,A,16098783,14159,1137,99,1,HMW
-8.0/F高層A,8.0,高層,A,16318224,14352,1137,96,1,HMW
-2.0/F低層B,2.0,低層,B,,,,,,HMW
-6.0/F中層B,6.0,中層,B,,,,,,HMW
-8.0/F高層B,8.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,15662175,13775,1137,105,1,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"
+6.0/F中層A,6.0,中層,A,16098783,14159,1137,99,1,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"
+8.0/F高層A,8.0,高層,A,16318224,14352,1137,96,1,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"
+2.0/F低層B,2.0,低層,B,,,,,,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"
+6.0/F中層B,6.0,中層,B,,,,,,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"
+8.0/F高層B,8.0,高層,B,,,,,,HMW,"HONEY COURT,POK FU LAM RD|錦棠小築,薄扶林道"

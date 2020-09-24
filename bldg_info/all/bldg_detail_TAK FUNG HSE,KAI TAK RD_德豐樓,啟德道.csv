@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層F.P.,5.0,低層,F.P.,3935656,10196,386,90,1,KKC
-6.0/F中層F.P.,6.0,中層,F.P.,3474120,10218,340,77,1,KKC
-7.0/F高層F.P.,7.0,高層,F.P.,3501660,10299,340,75,1,KKC
-5.0/F低層R.P.,5.0,低層,R.P.,2635080,9411,280,91,1,KKC
-6.0/F中層R.P.,6.0,中層,R.P.,2549680,9106,280,242,2,KKC
-7.0/F高層R.P.,7.0,高層,R.P.,2776572,9846,282,244,2,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層F.P.,5.0,低層,F.P.,3935656,10196,386,90,1,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"
+6.0/F中層F.P.,6.0,中層,F.P.,3499280,10292,340,77,1,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"
+7.0/F高層F.P.,7.0,高層,F.P.,3526820,10373,340,75,1,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"
+5.0/F低層R.P.,5.0,低層,R.P.,2639840,9428,280,91,1,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"
+6.0/F中層R.P.,6.0,中層,R.P.,2551640,9113,280,242,2,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"
+7.0/F高層R.P.,7.0,高層,R.P.,2778264,9852,282,244,2,KKC,"TAK FUNG HSE,KAI TAK RD|德豐樓,啟德道"

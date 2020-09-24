@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,HSW
-6.0/F中層A,6.0,中層,A,,,,,,HSW
-8.0/F高層A,8.0,高層,A,,,,,,HSW
-3.0/F低層B,3.0,低層,B,7626450,19555,390,75,1,HSW
-6.0/F中層B,6.0,中層,B,7782840,19956,390,79,1,HSW
-8.0/F高層B,8.0,高層,B,7886970,20223,390,82,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"
+6.0/F中層A,6.0,中層,A,,,,,,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"
+8.0/F高層A,8.0,高層,A,,,,,,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"
+3.0/F低層B,3.0,低層,B,7725900,19810,390,75,1,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"
+6.0/F中層B,6.0,中層,B,7884630,20217,390,79,1,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"
+8.0/F高層B,8.0,高層,B,7990320,20488,390,82,1,HSW,"WING WA MANS,HOSPITAL RD|榮華大廈,醫院道"

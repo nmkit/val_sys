@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HNP
-15.0/F中層A,15.0,中層,A,,,,,,HNP
-21.0/F高層A,21.0,高層,A,,,,,,HNP
-7.0/F低層B,7.0,低層,B,,,,,,HNP
-15.0/F中層B,15.0,中層,B,,,,,,HNP
-21.0/F高層B,21.0,高層,B,,,,,,HNP
-7.0/F低層C,7.0,低層,C,,,,,,HNP
-15.0/F中層C,15.0,中層,C,,,,,,HNP
-21.0/F高層C,21.0,高層,C,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+15.0/F中層A,15.0,中層,A,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+21.0/F高層A,21.0,高層,A,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+7.0/F低層B,7.0,低層,B,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+15.0/F中層B,15.0,中層,B,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+21.0/F高層B,21.0,高層,B,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+7.0/F低層C,7.0,低層,C,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+15.0/F中層C,15.0,中層,C,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"
+21.0/F高層C,21.0,高層,C,,,,,,HNP,"PACIFIC PALISADES(Block 2),BRAEMAR HILL RD|寶馬山花園2座,寶馬山道"

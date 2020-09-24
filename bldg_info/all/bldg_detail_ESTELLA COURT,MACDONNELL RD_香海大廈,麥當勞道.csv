@@ -1,7 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層C,2.0,低層,C,,,,,,HMW
-4.0/F中層C,4.0,中層,C,,,,,,HMW
-5.0/F高層C,5.0,高層,C,,,,,,HMW
-2.0/F低層blank,2.0,低層,blank,27305172,15996,1707,91,1,HMW
-4.0/F中層blank,4.0,中層,blank,23030350,15883,1450,102,1,HMW
-5.0/F高層blank,5.0,高層,blank,27875310,16330,1707,87,1,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+4.0/F中層B,4.0,中層,B,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+5.0/F高層B,5.0,高層,B,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+2.0/F低層C,2.0,低層,C,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+4.0/F中層C,4.0,中層,C,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+5.0/F高層C,5.0,高層,C,,,,,,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+2.0/F低層blank,2.0,低層,blank,28211589,16527,1707,91,1,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+4.0/F中層blank,4.0,中層,blank,23092700,15926,1450,102,1,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"
+5.0/F高層blank,5.0,高層,blank,28802211,16873,1707,87,1,HMW,"ESTELLA COURT,MACDONNELL RD|香海大廈,麥當勞道"

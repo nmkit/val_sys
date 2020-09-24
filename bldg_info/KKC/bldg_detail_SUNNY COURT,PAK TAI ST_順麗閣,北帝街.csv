@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,KKC
-8.0/F中層A,8.0,中層,A,4294420,16517,260,150,1,KKC
-10.0/F高層A,10.0,高層,A,,,,,,KKC
-4.0/F低層B,4.0,低層,B,,,,,,KKC
-8.0/F中層B,8.0,中層,B,,,,,,KKC
-10.0/F高層B,10.0,高層,B,,,,,,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"
+8.0/F中層A,8.0,中層,A,4294420,16517,260,150,1,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"
+10.0/F高層A,10.0,高層,A,,,,,,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"
+4.0/F低層B,4.0,低層,B,,,,,,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"
+8.0/F中層B,8.0,中層,B,,,,,,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"
+10.0/F高層B,10.0,高層,B,,,,,,KKC,"SUNNY COURT,PAK TAI ST|順麗閣,北帝街"

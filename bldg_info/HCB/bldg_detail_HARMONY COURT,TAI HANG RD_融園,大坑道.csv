@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層22,2.0,低層,22,,,,,,HCB
-5.0/F中層22,5.0,中層,22,,,,,,HCB
-7.0/F高層22,7.0,高層,22,,,,,,HCB
-2.0/F低層blank,2.0,低層,blank,,,,,,HCB
-5.0/F中層blank,5.0,中層,blank,,,,,,HCB
-7.0/F高層blank,7.0,高層,blank,,,,,,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層22,2.0,低層,22,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"
+5.0/F中層22,5.0,中層,22,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"
+7.0/F高層22,7.0,高層,22,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"
+2.0/F低層blank,2.0,低層,blank,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"
+5.0/F中層blank,5.0,中層,blank,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"
+7.0/F高層blank,7.0,高層,blank,,,,,,HCB,"HARMONY COURT,TAI HANG RD|融園,大坑道"

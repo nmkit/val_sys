@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,5078275,14305,355,381,3,HKT
-14.0/F中層A,14.0,中層,A,5315415,14973,355,392,3,HKT
-21.0/F高層A,21.0,高層,A,5543680,15616,355,372,3,HKT
-7.0/F低層B,7.0,低層,B,5555086,15517,358,294,3,HKT
-14.0/F中層B,14.0,中層,B,5786354,16163,358,310,3,HKT
-21.0/F高層B,21.0,高層,B,6023708,16826,358,293,3,HKT
-7.0/F低層blank,7.0,低層,blank,,,,,,HKT
-14.0/F中層blank,14.0,中層,blank,,,,,,HKT
-21.0/F高層blank,21.0,高層,blank,,,,,,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,5078275,14305,355,381,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+14.0/F中層A,14.0,中層,A,5315415,14973,355,392,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+21.0/F高層A,21.0,高層,A,5543680,15616,355,372,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+7.0/F低層B,7.0,低層,B,5555802,15519,358,294,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+14.0/F中層B,14.0,中層,B,5787428,16166,358,310,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+21.0/F高層B,21.0,高層,B,6024782,16829,358,293,3,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+7.0/F低層blank,7.0,低層,blank,,,,,,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+14.0/F中層blank,14.0,中層,blank,,,,,,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"
+21.0/F高層blank,21.0,高層,blank,,,,,,HKT,"HAU WO COURT,HAU WO ST|厚威閣,厚和街"

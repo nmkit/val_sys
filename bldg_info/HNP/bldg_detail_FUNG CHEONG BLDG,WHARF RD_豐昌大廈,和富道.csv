@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,5774670,17499,330,229,3,HNP
-12.0/F中層A,12.0,中層,A,6015900,18230,330,233,3,HNP
-19.0/F高層A,19.0,高層,A,6266040,18988,330,223,3,HNP
-5.0/F低層B,5.0,低層,B,,,,,,HNP
-12.0/F中層B,12.0,中層,B,,,,,,HNP
-19.0/F高層B,19.0,高層,B,,,,,,HNP
-5.0/F低層C,5.0,低層,C,,,,,,HNP
-12.0/F中層C,12.0,中層,C,,,,,,HNP
-19.0/F高層C,19.0,高層,C,,,,,,HNP
-5.0/F低層D,5.0,低層,D,,,,,,HNP
-12.0/F中層D,12.0,中層,D,,,,,,HNP
-19.0/F高層D,19.0,高層,D,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,5703720,17284,330,229,3,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+12.0/F中層A,12.0,中層,A,5927130,17961,330,233,3,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+19.0/F高層A,19.0,高層,A,6151530,18641,330,223,3,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+5.0/F低層B,5.0,低層,B,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+12.0/F中層B,12.0,中層,B,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+19.0/F高層B,19.0,高層,B,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+5.0/F低層C,5.0,低層,C,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+12.0/F中層C,12.0,中層,C,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+19.0/F高層C,19.0,高層,C,5962250,17035,350,150,1,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+5.0/F低層D,5.0,低層,D,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+12.0/F中層D,12.0,中層,D,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"
+19.0/F高層D,19.0,高層,D,,,,,,HNP,"FUNG CHEONG BLDG,WHARF RD|豐昌大廈,和富道"

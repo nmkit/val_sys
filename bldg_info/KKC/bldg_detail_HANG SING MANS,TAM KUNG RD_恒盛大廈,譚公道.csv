@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,4013100,11466,350,80,1,KKC
-6.0/F中層B,6.0,中層,B,4108650,11739,350,77,1,KKC
-9.0/F高層B,9.0,高層,B,4204200,12012,350,74,1,KKC
-3.0/F低層blank,3.0,低層,blank,3395084,11023,308,236,2,KKC
-6.0/F中層blank,6.0,中層,blank,3974250,11355,350,212,2,KKC
-9.0/F高層blank,9.0,高層,blank,3724336,12092,308,374,3,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,3980550,11373,350,80,1,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"
+6.0/F中層B,6.0,中層,B,4075400,11644,350,77,1,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"
+9.0/F高層B,9.0,高層,B,4169900,11914,350,74,1,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"
+3.0/F低層blank,3.0,低層,blank,3395084,11023,308,236,2,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"
+6.0/F中層blank,6.0,中層,blank,3941700,11262,350,212,2,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"
+9.0/F高層blank,9.0,高層,blank,3724336,12092,308,374,3,KKC,"HANG SING MANS,TAM KUNG RD|恒盛大廈,譚公道"

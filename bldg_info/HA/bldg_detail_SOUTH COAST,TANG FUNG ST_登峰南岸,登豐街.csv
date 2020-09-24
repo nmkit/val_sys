@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-22.0/F低層A,22.0,低層,A,9943834,20803,478,355,3,HA
-68.0/F中層A,68.0,中層,A,,,,,,HA
-102.0/F高層A,102.0,高層,A,,,,,,HA
-22.0/F低層B,22.0,低層,B,5447310,21362,255,386,3,HA
-68.0/F中層B,68.0,中層,B,,,,,,HA
-102.0/F高層B,102.0,高層,B,,,,,,HA
-22.0/F低層BC,22.0,低層,BC,8796538,17282,509,63,1,HA
-68.0/F中層BC,68.0,中層,BC,,,,,,HA
-102.0/F高層BC,102.0,高層,BC,,,,,,HA
-22.0/F低層C,22.0,低層,C,5723890,22535,254,354,3,HA
-68.0/F中層C,68.0,中層,C,,,,,,HA
-102.0/F高層C,102.0,高層,C,,,,,,HA
-22.0/F低層D,22.0,低層,D,5544312,21828,254,388,3,HA
-68.0/F中層D,68.0,中層,D,,,,,,HA
-102.0/F高層D,102.0,高層,D,,,,,,HA
-22.0/F低層E,22.0,低層,E,9452960,20960,451,195,2,HA
-68.0/F中層E,68.0,中層,E,,,,,,HA
-102.0/F高層E,102.0,高層,E,,,,,,HA
-22.0/F低層EF,22.0,低層,EF,,,,,,HA
-68.0/F中層EF,68.0,中層,EF,,,,,,HA
-102.0/F高層EF,102.0,高層,EF,,,,,,HA
-22.0/F低層F,22.0,低層,F,5012522,23423,214,210,2,HA
-68.0/F中層F,68.0,中層,F,,,,,,HA
-102.0/F高層F,102.0,高層,F,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+22.0/F低層A,22.0,低層,A,9943834,20803,478,355,3,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層A,68.0,中層,A,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層A,102.0,高層,A,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層B,22.0,低層,B,5446545,21359,255,386,3,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層B,68.0,中層,B,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層B,102.0,高層,B,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層BC,22.0,低層,BC,10028827,19703,509,63,1,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層BC,68.0,中層,BC,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層BC,102.0,高層,BC,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層C,22.0,低層,C,5723890,22535,254,354,3,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層C,68.0,中層,C,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層C,102.0,高層,C,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層D,22.0,低層,D,5545074,21831,254,388,3,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層D,68.0,中層,D,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層D,102.0,高層,D,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層E,22.0,低層,E,9289698,20598,451,344,4,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層E,68.0,中層,E,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層E,102.0,高層,E,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層EF,22.0,低層,EF,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層EF,68.0,中層,EF,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層EF,102.0,高層,EF,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+22.0/F低層F,22.0,低層,F,4771772,22298,214,377,4,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+68.0/F中層F,68.0,中層,F,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"
+102.0/F高層F,102.0,高層,F,,,,,,HA,"SOUTH COAST,TANG FUNG ST|登峰南岸,登豐街"

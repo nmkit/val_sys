@@ -1,22 +1,22 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,,,,,,KKL
-4.0/F中層B,4.0,中層,B,,,,,,KKL
-5.0/F高層B,5.0,高層,B,,,,,,KKL
-2.0/F低層C,2.0,低層,C,,,,,,KKL
-4.0/F中層C,4.0,中層,C,,,,,,KKL
-5.0/F高層C,5.0,高層,C,,,,,,KKL
-2.0/F低層D,2.0,低層,D,,,,,,KKL
-4.0/F中層D,4.0,中層,D,,,,,,KKL
-5.0/F高層D,5.0,高層,D,,,,,,KKL
-2.0/F低層E,2.0,低層,E,,,,,,KKL
-4.0/F中層E,4.0,中層,E,,,,,,KKL
-5.0/F高層E,5.0,高層,E,,,,,,KKL
-2.0/F低層F,2.0,低層,F,,,,,,KKL
-4.0/F中層F,4.0,中層,F,,,,,,KKL
-5.0/F高層F,5.0,高層,F,,,,,,KKL
-2.0/F低層G,2.0,低層,G,,,,,,KKL
-4.0/F中層G,4.0,中層,G,,,,,,KKL
-5.0/F高層G,5.0,高層,G,,,,,,KKL
-2.0/F低層H,2.0,低層,H,,,,,,KKL
-4.0/F中層H,4.0,中層,H,,,,,,KKL
-5.0/F高層H,5.0,高層,H,,,,,,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層B,4.0,中層,B,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層B,5.0,高層,B,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層C,2.0,低層,C,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層C,4.0,中層,C,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層C,5.0,高層,C,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層D,2.0,低層,D,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層D,4.0,中層,D,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層D,5.0,高層,D,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層E,2.0,低層,E,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層E,4.0,中層,E,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層E,5.0,高層,E,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層F,2.0,低層,F,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層F,4.0,中層,F,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層F,5.0,高層,F,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層G,2.0,低層,G,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層G,4.0,中層,G,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層G,5.0,高層,G,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+2.0/F低層H,2.0,低層,H,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+4.0/F中層H,4.0,中層,H,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"
+5.0/F高層H,5.0,高層,H,,,,,,KKL,"ALBION GDN,LA SALLE RD|愛賓花園,喇沙利道"

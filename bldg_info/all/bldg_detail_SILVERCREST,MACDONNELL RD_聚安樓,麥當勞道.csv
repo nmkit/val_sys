@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-12.0/F低層blank,12.0,低層,blank,,,,,,HMW
-18.0/F中層blank,18.0,中層,blank,,,,,,HMW
-22.0/F高層blank,22.0,高層,blank,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+12.0/F低層blank,12.0,低層,blank,,,,,,HMW,"SILVERCREST,MACDONNELL RD|聚安樓,麥當勞道"
+18.0/F中層blank,18.0,中層,blank,,,,,,HMW,"SILVERCREST,MACDONNELL RD|聚安樓,麥當勞道"
+22.0/F高層blank,22.0,高層,blank,,,,,,HMW,"SILVERCREST,MACDONNELL RD|聚安樓,麥當勞道"

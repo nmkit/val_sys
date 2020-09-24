@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,6476223,8229,787,344,4,KHH
-4.0/F中層blank,4.0,中層,blank,4912320,8772,560,373,3,KHH
-6.0/F高層blank,6.0,高層,blank,5090568,8106,628,356,3,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,6491176,8248,787,344,4,KHH,"EIVER HSE,WING KWONG ST|愛華大廈,榮光街"
+4.0/F中層blank,4.0,中層,blank,4912320,8772,560,373,3,KHH,"EIVER HSE,WING KWONG ST|愛華大廈,榮光街"
+6.0/F高層blank,6.0,高層,blank,5091824,8108,628,356,3,KHH,"EIVER HSE,WING KWONG ST|愛華大廈,榮光街"

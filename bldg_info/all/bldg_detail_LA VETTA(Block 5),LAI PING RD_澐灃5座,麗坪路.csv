@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,40614696,25164,1614,241,2,NST
-3.0/F中層A,3.0,中層,A,40819674,25291,1614,222,2,NST
-4.0/F高層A,4.0,高層,A,65874588,30329,2172,246,2,NST
-2.0/F低層B,2.0,低層,B,40935882,25363,1614,238,2,NST
-3.0/F中層B,3.0,中層,B,41076300,25450,1614,223,2,NST
-4.0/F高層B,4.0,高層,B,66543564,30637,2172,246,2,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,48913884,30306,1614,189,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"
+3.0/F中層A,3.0,中層,A,49117248,30432,1614,191,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"
+4.0/F高層A,4.0,高層,A,49318998,30557,1614,194,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"
+2.0/F低層B,2.0,低層,B,49412610,30615,1614,189,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"
+3.0/F中層B,3.0,中層,B,49615974,30741,1614,191,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"
+4.0/F高層B,4.0,高層,B,66543564,30637,2172,246,2,NST,"LA VETTA(Block 5),LAI PING RD|澐灃5座,麗坪路"

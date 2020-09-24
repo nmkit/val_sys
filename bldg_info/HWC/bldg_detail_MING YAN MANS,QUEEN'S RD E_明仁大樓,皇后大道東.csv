@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,5688930,14587,390,68,1,HWC
-6.0/F中層A,6.0,中層,A,5793450,14855,390,71,1,HWC
-9.0/F高層A,9.0,高層,A,5897970,15123,390,70,1,HWC
-3.0/F低層B,3.0,低層,B,5317508,14812,359,222,2,HWC
-6.0/F中層B,6.0,中層,B,5349100,14900,359,75,1,HWC
-9.0/F高層B,9.0,高層,B,4192608,17616,238,46,1,HWC
-3.0/F低層C,3.0,低層,C,5262918,14867,354,206,2,HWC
-6.0/F中層C,6.0,中層,C,5360268,15142,354,215,2,HWC
-9.0/F高層C,9.0,高層,C,5458680,15420,354,215,2,HWC
-3.0/F低層D,3.0,低層,D,,,,,,HWC
-6.0/F中層D,6.0,中層,D,,,,,,HWC
-9.0/F高層D,9.0,高層,D,,,,,,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,5694000,14600,390,68,1,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+6.0/F中層A,6.0,中層,A,5798520,14868,390,71,1,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+9.0/F高層A,9.0,高層,A,5903430,15137,390,70,1,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+3.0/F低層B,3.0,低層,B,5317867,14813,359,222,2,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+6.0/F中層B,6.0,中層,B,5349818,14902,359,75,1,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+9.0/F高層B,9.0,高層,B,4111212,17274,238,46,1,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+3.0/F低層C,3.0,低層,C,5262918,14867,354,206,2,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+6.0/F中層C,6.0,中層,C,5360268,15142,354,215,2,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+9.0/F高層C,9.0,高層,C,5458680,15420,354,215,2,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+3.0/F低層D,3.0,低層,D,,,,,,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+6.0/F中層D,6.0,中層,D,,,,,,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"
+9.0/F高層D,9.0,高層,D,,,,,,HWC,"MING YAN MANS,QUEEN'S RD E|明仁大樓,皇后大道東"

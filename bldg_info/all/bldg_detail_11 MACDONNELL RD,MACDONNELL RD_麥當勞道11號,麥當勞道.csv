@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-9.0/F低層blank,9.0,低層,blank,28396191,17893,1587,294,3,HMW
-19.0/F中層blank,19.0,中層,blank,30554511,19253,1587,318,3,HMW
-29.0/F高層blank,29.0,高層,blank,32706483,20609,1587,276,3,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層blank,9.0,低層,blank,28396191,17893,1587,294,3,HMW,"11 MACDONNELL RD,MACDONNELL RD|麥當勞道11號,麥當勞道"
+19.0/F中層blank,19.0,中層,blank,30554511,19253,1587,318,3,HMW,"11 MACDONNELL RD,MACDONNELL RD|麥當勞道11號,麥當勞道"
+29.0/F高層blank,29.0,高層,blank,32706483,20609,1587,276,3,HMW,"11 MACDONNELL RD,MACDONNELL RD|麥當勞道11號,麥當勞道"

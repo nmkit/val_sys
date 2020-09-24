@@ -1,22 +1,22 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層B,6.0,低層,B,5694876,9636,591,97,1,NTM
-14.0/F中層B,14.0,中層,B,5874540,9940,591,89,1,NTM
-23.0/F高層B,23.0,高層,B,,,,,,NTM
-6.0/F低層C,6.0,低層,C,5694876,9636,591,97,1,NTM
-14.0/F中層C,14.0,中層,C,5874540,9940,591,89,1,NTM
-23.0/F高層C,23.0,高層,C,,,,,,NTM
-6.0/F低層D,6.0,低層,D,5677960,9640,589,97,1,NTM
-14.0/F中層D,14.0,中層,D,5857605,9945,589,89,1,NTM
-23.0/F高層D,23.0,高層,D,,,,,,NTM
-6.0/F低層E,6.0,低層,E,5677960,9640,589,97,1,NTM
-14.0/F中層E,14.0,中層,E,5857605,9945,589,89,1,NTM
-23.0/F高層E,23.0,高層,E,,,,,,NTM
-6.0/F低層F,6.0,低層,F,5694876,9636,591,97,1,NTM
-14.0/F中層F,14.0,中層,F,5874540,9940,591,89,1,NTM
-23.0/F高層F,23.0,高層,F,,,,,,NTM
-6.0/F低層G,6.0,低層,G,5694876,9636,591,146,1,NTM
-14.0/F中層G,14.0,中層,G,5874540,9940,591,134,1,NTM
-23.0/F高層G,23.0,高層,G,,,,,,NTM
-6.0/F低層H,6.0,低層,H,5677960,9640,589,97,1,NTM
-14.0/F中層H,14.0,中層,H,5916505,10045,589,239,2,NTM
-23.0/F高層H,23.0,高層,H,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層B,6.0,低層,B,5694876,9636,591,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層B,14.0,中層,B,5874540,9940,591,89,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層B,23.0,高層,B,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層C,6.0,低層,C,5694876,9636,591,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層C,14.0,中層,C,5874540,9940,591,89,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層C,23.0,高層,C,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層D,6.0,低層,D,5677960,9640,589,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層D,14.0,中層,D,5857016,9944,589,89,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層D,23.0,高層,D,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層E,6.0,低層,E,5677960,9640,589,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層E,14.0,中層,E,5857016,9944,589,89,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層E,23.0,高層,E,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層F,6.0,低層,F,5694876,9636,591,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層F,14.0,中層,F,5874540,9940,591,89,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層F,23.0,高層,F,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層G,6.0,低層,G,5694876,9636,591,146,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層G,14.0,中層,G,5874540,9940,591,134,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層G,23.0,高層,G,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+6.0/F低層H,6.0,低層,H,5677960,9640,589,97,1,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+14.0/F中層H,14.0,中層,H,5916505,10045,589,239,2,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"
+23.0/F高層H,23.0,高層,H,,,,,,NTM,"MELODY GDN(Block 7),WU CHUI RD|美樂花園7座,湖翠路"

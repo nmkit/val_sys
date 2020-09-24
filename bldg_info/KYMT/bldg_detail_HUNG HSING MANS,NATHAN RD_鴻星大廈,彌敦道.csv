@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,12358305,26577,465,208,2,KYMT
-9.0/F中層blank,9.0,中層,blank,16158290,26489,610,278,2,KYMT
-13.0/F高層blank,13.0,高層,blank,17260644,27268,633,281,2,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,12498735,26879,465,208,2,KYMT,"HUNG HSING MANS,NATHAN RD|鴻星大廈,彌敦道"
+9.0/F中層blank,9.0,中層,blank,16582240,27184,610,409,3,KYMT,"HUNG HSING MANS,NATHAN RD|鴻星大廈,彌敦道"
+13.0/F高層blank,13.0,高層,blank,17780970,28090,633,410,3,KYMT,"HUNG HSING MANS,NATHAN RD|鴻星大廈,彌敦道"

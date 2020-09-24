@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-10.0/F低層A,10.0,低層,A,,,,,,NTW
-16.0/F中層A,16.0,中層,A,,,,,,NTW
-19.0/F高層A,19.0,高層,A,,,,,,NTW
-10.0/F低層B,10.0,低層,B,,,,,,NTW
-16.0/F中層B,16.0,中層,B,,,,,,NTW
-19.0/F高層B,19.0,高層,B,,,,,,NTW
-10.0/F低層C,10.0,低層,C,11440968,12628,906,150,1,NTW
-16.0/F中層C,16.0,中層,C,11691930,12905,906,99,1,NTW
-19.0/F高層C,19.0,高層,C,11817864,13044,906,95,1,NTW
-10.0/F低層D,10.0,低層,D,11793600,12600,936,97,1,NTW
-16.0/F中層D,16.0,中層,D,12053808,12878,936,94,1,NTW
-19.0/F高層D,19.0,高層,D,12183912,13017,936,90,1,NTW
-10.0/F低層E,10.0,低層,E,,,,,,NTW
-16.0/F中層E,16.0,中層,E,,,,,,NTW
-19.0/F高層E,19.0,高層,E,,,,,,NTW
-10.0/F低層F,10.0,低層,F,,,,,,NTW
-16.0/F中層F,16.0,中層,F,,,,,,NTW
-19.0/F高層F,19.0,高層,F,,,,,,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+10.0/F低層A,10.0,低層,A,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層A,16.0,中層,A,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層A,19.0,高層,A,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+10.0/F低層B,10.0,低層,B,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層B,16.0,中層,B,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層B,19.0,高層,B,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+10.0/F低層C,10.0,低層,C,11440968,12628,906,150,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層C,16.0,中層,C,11691930,12905,906,99,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層C,19.0,高層,C,11817864,13044,906,95,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+10.0/F低層D,10.0,低層,D,11793600,12600,936,97,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層D,16.0,中層,D,12053808,12878,936,94,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層D,19.0,高層,D,12183912,13017,936,90,1,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+10.0/F低層E,10.0,低層,E,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層E,16.0,中層,E,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層E,19.0,高層,E,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+10.0/F低層F,10.0,低層,F,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+16.0/F中層F,16.0,中層,F,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"
+19.0/F高層F,19.0,高層,F,,,,,,NTW,"THE CAIRNHILL(Block 11),ROUTE TWISK|朗逸峰11座,荃錦公路"

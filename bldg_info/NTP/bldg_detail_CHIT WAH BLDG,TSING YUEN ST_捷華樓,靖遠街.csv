@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,2600656,8786,296,249,2,NTP
-3.0/F中層blank,3.0,中層,blank,2386944,8064,296,100,1,NTP
-4.0/F高層blank,4.0,高層,blank,2582896,8726,296,252,2,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,2600656,8786,296,249,2,NTP,"CHIT WAH BLDG,TSING YUEN ST|捷華樓,靖遠街"
+3.0/F中層blank,3.0,中層,blank,2386944,8064,296,100,1,NTP,"CHIT WAH BLDG,TSING YUEN ST|捷華樓,靖遠街"
+4.0/F高層blank,4.0,高層,blank,2582896,8726,296,252,2,NTP,"CHIT WAH BLDG,TSING YUEN ST|捷華樓,靖遠街"

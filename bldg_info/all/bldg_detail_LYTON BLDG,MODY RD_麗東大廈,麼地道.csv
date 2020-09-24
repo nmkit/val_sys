@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KTST
-6.0/F中層A,6.0,中層,A,,,,,,KTST
-8.0/F高層A,8.0,高層,A,,,,,,KTST
-3.0/F低層B,3.0,低層,B,,,,,,KTST
-6.0/F中層B,6.0,中層,B,,,,,,KTST
-8.0/F高層B,8.0,高層,B,,,,,,KTST
-3.0/F低層C,3.0,低層,C,,,,,,KTST
-6.0/F中層C,6.0,中層,C,,,,,,KTST
-8.0/F高層C,8.0,高層,C,,,,,,KTST
-3.0/F低層CD,3.0,低層,CD,,,,,,KTST
-6.0/F中層CD,6.0,中層,CD,,,,,,KTST
-8.0/F高層CD,8.0,高層,CD,,,,,,KTST
-3.0/F低層D,3.0,低層,D,,,,,,KTST
-6.0/F中層D,6.0,中層,D,,,,,,KTST
-8.0/F高層D,8.0,高層,D,,,,,,KTST
-3.0/F低層E,3.0,低層,E,,,,,,KTST
-6.0/F中層E,6.0,中層,E,,,,,,KTST
-8.0/F高層E,8.0,高層,E,,,,,,KTST
-3.0/F低層F,3.0,低層,F,,,,,,KTST
-6.0/F中層F,6.0,中層,F,,,,,,KTST
-8.0/F高層F,8.0,高層,F,,,,,,KTST
-3.0/F低層G,3.0,低層,G,,,,,,KTST
-6.0/F中層G,6.0,中層,G,,,,,,KTST
-8.0/F高層G,8.0,高層,G,,,,,,KTST
-3.0/F低層H,3.0,低層,H,,,,,,KTST
-6.0/F中層H,6.0,中層,H,,,,,,KTST
-8.0/F高層H,8.0,高層,H,,,,,,KTST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層A,6.0,中層,A,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層A,8.0,高層,A,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層B,3.0,低層,B,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層B,6.0,中層,B,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層B,8.0,高層,B,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層C,3.0,低層,C,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層C,6.0,中層,C,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層C,8.0,高層,C,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層CD,3.0,低層,CD,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層CD,6.0,中層,CD,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層CD,8.0,高層,CD,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層D,3.0,低層,D,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層D,6.0,中層,D,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層D,8.0,高層,D,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層E,3.0,低層,E,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層E,6.0,中層,E,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層E,8.0,高層,E,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層F,3.0,低層,F,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層F,6.0,中層,F,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層F,8.0,高層,F,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層G,3.0,低層,G,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層G,6.0,中層,G,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層G,8.0,高層,G,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+3.0/F低層H,3.0,低層,H,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+6.0/F中層H,6.0,中層,H,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"
+8.0/F高層H,8.0,高層,H,,,,,,KTST,"LYTON BLDG,MODY RD|麗東大廈,麼地道"

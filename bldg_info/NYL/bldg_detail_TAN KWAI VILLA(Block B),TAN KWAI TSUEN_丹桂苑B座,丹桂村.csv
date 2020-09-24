@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層B,1.0,低層,B,2678530,5699,470,150,1,NYL
-1.0/F中層B,1.0,中層,B,2678530,5699,470,150,1,NYL
-1.0/F高層B,1.0,高層,B,2678530,5699,470,150,1,NYL
-1.0/F低層D,1.0,低層,D,3418460,5794,590,73,1,NYL
-1.0/F中層D,1.0,中層,D,3418460,5794,590,73,1,NYL
-1.0/F高層D,1.0,高層,D,3418460,5794,590,73,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層B,1.0,低層,B,2678530,5699,470,150,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"
+1.0/F中層B,1.0,中層,B,2678530,5699,470,150,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"
+1.0/F高層B,1.0,高層,B,2678530,5699,470,150,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"
+1.0/F低層D,1.0,低層,D,3351200,5680,590,73,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"
+1.0/F中層D,1.0,中層,D,3351200,5680,590,73,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"
+1.0/F高層D,1.0,高層,D,3351200,5680,590,73,1,NYL,"TAN KWAI VILLA(Block B),TAN KWAI TSUEN|丹桂苑B座,丹桂村"

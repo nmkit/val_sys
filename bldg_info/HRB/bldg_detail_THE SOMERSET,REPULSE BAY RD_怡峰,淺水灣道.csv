@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,90830376,41589,2184,183,2,HRB
-6.0/F中層A,6.0,中層,A,93215304,42681,2184,189,2,HRB
-10.0/F高層A,10.0,高層,A,96152784,44026,2184,186,2,HRB
-3.0/F低層B,3.0,低層,B,,,,,,HRB
-6.0/F中層B,6.0,中層,B,,,,,,HRB
-10.0/F高層B,10.0,高層,B,,,,,,HRB
-3.0/F低層C,3.0,低層,C,,,,,,HRB
-6.0/F中層C,6.0,中層,C,,,,,,HRB
-10.0/F高層C,10.0,高層,C,,,,,,HRB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,91666848,41972,2184,186,2,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+7.0/F中層A,7.0,中層,A,93922920,43005,2184,189,2,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+10.0/F高層A,10.0,高層,A,96152784,44026,2184,186,2,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+4.0/F低層B,4.0,低層,B,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+7.0/F中層B,7.0,中層,B,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+10.0/F高層B,10.0,高層,B,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+4.0/F低層C,4.0,低層,C,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+7.0/F中層C,7.0,中層,C,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"
+10.0/F高層C,10.0,高層,C,,,,,,HRB,"THE SOMERSET,REPULSE BAY RD|怡峰,淺水灣道"

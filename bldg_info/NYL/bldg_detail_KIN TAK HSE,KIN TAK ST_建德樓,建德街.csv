@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,4123575,11175,369,343,4,NYL
-8.0/F中層A,8.0,中層,A,4159368,11272,369,344,4,NYL
-11.0/F高層A,11.0,高層,A,4219884,11436,369,338,4,NYL
-6.0/F低層B,6.0,低層,B,4302171,11659,369,400,3,NYL
-8.0/F中層B,8.0,中層,B,3874131,10499,369,258,2,NYL
-11.0/F高層B,11.0,高層,B,4418775,11975,369,350,3,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,4123575,11175,369,343,4,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"
+8.0/F中層A,8.0,中層,A,4159368,11272,369,344,4,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"
+11.0/F高層A,11.0,高層,A,4219884,11436,369,338,4,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"
+6.0/F低層B,6.0,低層,B,4302171,11659,369,400,3,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"
+8.0/F中層B,8.0,中層,B,3874131,10499,369,258,2,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"
+11.0/F高層B,11.0,高層,B,4418775,11975,369,350,3,NYL,"KIN TAK HSE,KIN TAK ST|建德樓,建德街"

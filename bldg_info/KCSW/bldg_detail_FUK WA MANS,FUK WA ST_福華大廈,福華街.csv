@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,3395364,5844,581,172,2,KCSW
-4.0/F中層blank,4.0,中層,blank,2285428,5657,404,155,2,KCSW
-7.0/F高層blank,7.0,高層,blank,2328656,5764,404,158,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,3368638,5798,581,172,2,KCSW,"FUK WA MANS,FUK WA ST|福華大廈,福華街"
+4.0/F中層blank,4.0,中層,blank,2308456,5714,404,155,2,KCSW,"FUK WA MANS,FUK WA ST|福華大廈,福華街"
+7.0/F高層blank,7.0,高層,blank,2351684,5821,404,158,2,KCSW,"FUK WA MANS,FUK WA ST|福華大廈,福華街"

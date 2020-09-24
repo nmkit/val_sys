@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,6590602,11114,593,295,3,HWC
-10.0/F中層blank,10.0,中層,blank,6581484,11466,574,403,3,HWC
-14.0/F高層blank,14.0,高層,blank,6855080,11560,593,299,3,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層blank,7.0,低層,blank,6625589,11173,593,295,3,HWC,"OTB BLDG,HENNESSY RD|海外信託銀行大廈,軒尼詩道"
+10.0/F中層blank,10.0,中層,blank,6570004,11446,574,403,3,HWC,"OTB BLDG,HENNESSY RD|海外信託銀行大廈,軒尼詩道"
+14.0/F高層blank,14.0,高層,blank,6890660,11620,593,299,3,HWC,"OTB BLDG,HENNESSY RD|海外信託銀行大廈,軒尼詩道"

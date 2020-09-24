@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KCSW
-3.0/F中層A,3.0,中層,A,,,,,,KCSW
-4.0/F高層A,4.0,高層,A,,,,,,KCSW
-2.0/F低層B,2.0,低層,B,,,,,,KCSW
-3.0/F中層B,3.0,中層,B,3127770,9066,345,150,1,KCSW
-4.0/F高層B,4.0,高層,B,,,,,,KCSW
-2.0/F低層C,2.0,低層,C,,,,,,KCSW
-3.0/F中層C,3.0,中層,C,,,,,,KCSW
-4.0/F高層C,4.0,高層,C,,,,,,KCSW
-2.0/F低層D,2.0,低層,D,,,,,,KCSW
-3.0/F中層D,3.0,中層,D,,,,,,KCSW
-4.0/F高層D,4.0,高層,D,,,,,,KCSW
-2.0/F低層E,2.0,低層,E,,,,,,KCSW
-3.0/F中層E,3.0,中層,E,,,,,,KCSW
-4.0/F高層E,4.0,高層,E,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+3.0/F中層A,3.0,中層,A,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+4.0/F高層A,4.0,高層,A,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+2.0/F低層B,2.0,低層,B,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+3.0/F中層B,3.0,中層,B,3127770,9066,345,150,1,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+4.0/F高層B,4.0,高層,B,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+2.0/F低層C,2.0,低層,C,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+3.0/F中層C,3.0,中層,C,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+4.0/F高層C,4.0,高層,C,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+2.0/F低層D,2.0,低層,D,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+3.0/F中層D,3.0,中層,D,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+4.0/F高層D,4.0,高層,D,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+2.0/F低層E,2.0,低層,E,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+3.0/F中層E,3.0,中層,E,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"
+4.0/F高層E,4.0,高層,E,,,,,,KCSW,"HO KING BLDG,WONG CHUK ST|好景唐樓,黃竹街"

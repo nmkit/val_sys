@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,HKT
-4.0/F中層A,4.0,中層,A,,,,,,HKT
-6.0/F高層A,6.0,高層,A,,,,,,HKT
-2.0/F低層B,2.0,低層,B,5100480,13860,368,95,1,HKT
-4.0/F中層B,4.0,中層,B,5163408,14031,368,98,1,HKT
-6.0/F高層B,6.0,高層,B,5226704,14203,368,101,1,HKT
-2.0/F低層C,2.0,低層,C,5031296,13672,368,99,1,HKT
-4.0/F中層C,4.0,中層,C,5091648,13836,368,96,1,HKT
-6.0/F高層C,6.0,高層,C,5151632,13999,368,93,1,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+4.0/F中層A,4.0,中層,A,,,,,,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+6.0/F高層A,6.0,高層,A,,,,,,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+2.0/F低層B,2.0,低層,B,5100480,13860,368,95,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+4.0/F中層B,4.0,中層,B,5163408,14031,368,98,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+6.0/F高層B,6.0,高層,B,5226704,14203,368,101,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+2.0/F低層C,2.0,低層,C,5031296,13672,368,99,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+4.0/F中層C,4.0,中層,C,5091648,13836,368,96,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"
+6.0/F高層C,6.0,高層,C,5151632,13999,368,93,1,HKT,"KUK FUNG BLDG,CATCHICK ST|吉豐大廈,吉席街"

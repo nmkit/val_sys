@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,16831058,13007,1294,86,1,NYL
-11.0/F中層A,11.0,中層,A,17375832,13428,1294,95,1,NYL
-19.0/F高層A,19.0,高層,A,18103060,13990,1294,107,1,NYL
-5.0/F低層B,5.0,低層,B,17296644,12966,1334,59,1,NYL
-11.0/F中層B,11.0,中層,B,17856924,13386,1334,65,1,NYL
-19.0/F高層B,19.0,高層,B,18603964,13946,1334,73,1,NYL
-5.0/F低層C,5.0,低層,C,,,,,,NYL
-11.0/F中層C,11.0,中層,C,,,,,,NYL
-19.0/F高層C,19.0,高層,C,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,16771534,12961,1294,86,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+11.0/F中層A,11.0,中層,A,17315014,13381,1294,95,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+19.0/F高層A,19.0,高層,A,18039654,13941,1294,107,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+5.0/F低層B,5.0,低層,B,17243284,12926,1334,59,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+11.0/F中層B,11.0,中層,B,17800896,13344,1334,65,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+19.0/F高層B,19.0,高層,B,18546602,13903,1334,73,1,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+5.0/F低層C,5.0,低層,C,,,,,,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+11.0/F中層C,11.0,中層,C,,,,,,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"
+19.0/F高層C,19.0,高層,C,,,,,,NYL,"RIVA(Block 1),HELORUS BOULEVARD|爾巒1座,茵羅洛斯大道"

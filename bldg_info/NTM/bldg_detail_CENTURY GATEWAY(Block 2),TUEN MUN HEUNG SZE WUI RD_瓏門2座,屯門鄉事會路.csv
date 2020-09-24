@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-13.0/F低層A,13.0,低層,A,,,,,,NTM
-26.0/F中層A,26.0,中層,A,,,,,,NTM
-37.0/F高層A,37.0,高層,A,,,,,,NTM
-13.0/F低層B,13.0,低層,B,,,,,,NTM
-26.0/F中層B,26.0,中層,B,,,,,,NTM
-37.0/F高層B,37.0,高層,B,,,,,,NTM
-13.0/F低層C,13.0,低層,C,,,,,,NTM
-26.0/F中層C,26.0,中層,C,,,,,,NTM
-37.0/F高層C,37.0,高層,C,,,,,,NTM
-13.0/F低層D,13.0,低層,D,,,,,,NTM
-26.0/F中層D,26.0,中層,D,,,,,,NTM
-37.0/F高層D,37.0,高層,D,,,,,,NTM
-13.0/F低層E,13.0,低層,E,,,,,,NTM
-26.0/F中層E,26.0,中層,E,,,,,,NTM
-37.0/F高層E,37.0,高層,E,,,,,,NTM
-13.0/F低層F,13.0,低層,F,,,,,,NTM
-26.0/F中層F,26.0,中層,F,,,,,,NTM
-37.0/F高層F,37.0,高層,F,,,,,,NTM
-13.0/F低層G,13.0,低層,G,,,,,,NTM
-26.0/F中層G,26.0,中層,G,14848372,19012,781,150,1,NTM
-37.0/F高層G,37.0,高層,G,,,,,,NTM
-13.0/F低層H,13.0,低層,H,,,,,,NTM
-26.0/F中層H,26.0,中層,H,,,,,,NTM
-37.0/F高層H,37.0,高層,H,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+13.0/F低層A,13.0,低層,A,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層A,26.0,中層,A,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層A,37.0,高層,A,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層B,13.0,低層,B,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層B,26.0,中層,B,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層B,37.0,高層,B,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層C,13.0,低層,C,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層C,26.0,中層,C,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層C,37.0,高層,C,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層D,13.0,低層,D,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層D,26.0,中層,D,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層D,37.0,高層,D,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層E,13.0,低層,E,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層E,26.0,中層,E,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層E,37.0,高層,E,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層F,13.0,低層,F,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層F,26.0,中層,F,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層F,37.0,高層,F,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層G,13.0,低層,G,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層G,26.0,中層,G,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層G,37.0,高層,G,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+13.0/F低層H,13.0,低層,H,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+26.0/F中層H,26.0,中層,H,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"
+37.0/F高層H,37.0,高層,H,,,,,,NTM,"CENTURY GATEWAY(Block 2),TUEN MUN HEUNG SZE WUI RD|瓏門2座,屯門鄉事會路"

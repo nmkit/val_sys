@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層12,2.0,低層,12,3260088,10449,312,74,1,KSPK
-3.0/F中層12,3.0,中層,12,3276312,10501,312,73,1,KSPK
-4.0/F高層12,4.0,高層,12,3292848,10554,312,72,1,KSPK
-2.0/F低層blank,2.0,低層,blank,3270232,10156,322,250,2,KSPK
-3.0/F中層blank,3.0,中層,blank,3271842,10161,322,215,2,KSPK
-4.0/F高層blank,4.0,高層,blank,3178344,10187,312,258,2,KSPK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層12,2.0,低層,12,3278184,10507,312,74,1,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"
+3.0/F中層12,3.0,中層,12,3294720,10560,312,73,1,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"
+4.0/F高層12,4.0,高層,12,3310944,10612,312,72,1,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"
+2.0/F低層blank,2.0,低層,blank,3263148,10134,322,250,2,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"
+3.0/F中層blank,3.0,中層,blank,3263148,10134,322,215,2,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"
+4.0/F高層blank,4.0,高層,blank,3186144,10212,312,258,2,KSPK,"KIN WONG BLDG,NGAN FUNG ST|建煌樓,銀鳳街"

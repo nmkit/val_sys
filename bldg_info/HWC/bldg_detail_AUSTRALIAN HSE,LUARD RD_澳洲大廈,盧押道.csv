@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,6005484,14506,414,309,4,HWC
-6.0/F中層A,6.0,中層,A,6077106,14679,414,305,4,HWC
-9.0/F高層A,9.0,高層,A,6185160,14940,414,297,4,HWC
-4.0/F低層blank,4.0,低層,blank,5522976,14496,381,394,3,HWC
-6.0/F中層blank,6.0,中層,blank,5614416,14736,381,356,3,HWC
-9.0/F高層blank,9.0,高層,blank,5714238,14998,381,349,3,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,6016662,14533,414,309,4,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"
+6.0/F中層A,6.0,中層,A,6088698,14707,414,305,4,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"
+9.0/F高層A,9.0,高層,A,6197166,14969,414,297,4,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"
+4.0/F低層blank,4.0,低層,blank,5521452,14492,381,394,3,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"
+6.0/F中層blank,6.0,中層,blank,5612892,14732,381,356,3,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"
+9.0/F高層blank,9.0,高層,blank,5712333,14993,381,349,3,HWC,"AUSTRALIAN HSE,LUARD RD|澳洲大廈,盧押道"

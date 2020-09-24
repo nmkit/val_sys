@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-16.0/F低層A,16.0,低層,A,,,,,,HKT
-26.0/F中層A,26.0,中層,A,,,,,,HKT
-36.0/F高層A,36.0,高層,A,,,,,,HKT
-16.0/F低層B,16.0,低層,B,,,,,,HKT
-26.0/F中層B,26.0,中層,B,,,,,,HKT
-36.0/F高層B,36.0,高層,B,,,,,,HKT
-16.0/F低層C,16.0,低層,C,17560881,26487,663,95,1,HKT
-26.0/F中層C,26.0,中層,C,18573945,28015,663,80,1,HKT
-36.0/F高層C,36.0,高層,C,36378474,29794,1221,24,1,HKT
-16.0/F低層D,16.0,低層,D,,,,,,HKT
-26.0/F中層D,26.0,中層,D,,,,,,HKT
-36.0/F高層D,36.0,高層,D,,,,,,HKT
-16.0/F低層blank,16.0,低層,blank,,,,,,HKT
-26.0/F中層blank,26.0,中層,blank,,,,,,HKT
-36.0/F高層blank,36.0,高層,blank,,,,,,HKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+16.0/F低層A,16.0,低層,A,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+26.0/F中層A,26.0,中層,A,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+36.0/F高層A,36.0,高層,A,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+16.0/F低層B,16.0,低層,B,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+26.0/F中層B,26.0,中層,B,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+36.0/F高層B,36.0,高層,B,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+16.0/F低層C,16.0,低層,C,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+26.0/F中層C,26.0,中層,C,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+36.0/F高層C,36.0,高層,C,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+16.0/F低層D,16.0,低層,D,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+26.0/F中層D,26.0,中層,D,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+36.0/F高層D,36.0,高層,D,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+16.0/F低層blank,16.0,低層,blank,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+26.0/F中層blank,26.0,中層,blank,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"
+36.0/F高層blank,36.0,高層,blank,,,,,,HKT,"HARBOUR ONE,DES VOEUX RD W|維壹,德輔道西"

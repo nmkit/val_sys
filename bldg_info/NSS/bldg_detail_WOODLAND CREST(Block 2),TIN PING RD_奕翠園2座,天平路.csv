@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,11859420,11514,1030,89,1,NSS
-6.0/F中層A,6.0,中層,A,12025250,11675,1030,95,1,NSS
-9.0/F高層A,9.0,高層,A,12150910,11797,1030,99,1,NSS
-2.0/F低層B,2.0,低層,B,,,,,,NSS
-6.0/F中層B,6.0,中層,B,,,,,,NSS
-9.0/F高層B,9.0,高層,B,,,,,,NSS
-2.0/F低層C,2.0,低層,C,,,,,,NSS
-6.0/F中層C,6.0,中層,C,,,,,,NSS
-9.0/F高層C,9.0,高層,C,,,,,,NSS
-2.0/F低層D,2.0,低層,D,,,,,,NSS
-6.0/F中層D,6.0,中層,D,,,,,,NSS
-9.0/F高層D,9.0,高層,D,,,,,,NSS
-2.0/F低層E,2.0,低層,E,,,,,,NSS
-6.0/F中層E,6.0,中層,E,,,,,,NSS
-9.0/F高層E,9.0,高層,E,,,,,,NSS
-2.0/F低層F,2.0,低層,F,,,,,,NSS
-6.0/F中層F,6.0,中層,F,,,,,,NSS
-9.0/F高層F,9.0,高層,F,,,,,,NSS
-2.0/F低層G,2.0,低層,G,10308375,11025,935,150,1,NSS
-6.0/F中層G,6.0,中層,G,,,,,,NSS
-9.0/F高層G,9.0,高層,G,,,,,,NSS
-2.0/F低層H,2.0,低層,H,,,,,,NSS
-6.0/F中層H,6.0,中層,H,,,,,,NSS
-9.0/F高層H,9.0,高層,H,,,,,,NSS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,11859420,11514,1030,89,1,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層A,6.0,中層,A,12025250,11675,1030,95,1,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層A,9.0,高層,A,12150910,11797,1030,99,1,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層B,2.0,低層,B,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層B,6.0,中層,B,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層B,9.0,高層,B,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層C,2.0,低層,C,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層C,6.0,中層,C,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層C,9.0,高層,C,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層D,2.0,低層,D,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層D,6.0,中層,D,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層D,9.0,高層,D,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層E,2.0,低層,E,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層E,6.0,中層,E,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層E,9.0,高層,E,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層F,2.0,低層,F,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層F,6.0,中層,F,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層F,9.0,高層,F,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層G,2.0,低層,G,10308375,11025,935,150,1,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層G,6.0,中層,G,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層G,9.0,高層,G,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+2.0/F低層H,2.0,低層,H,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+6.0/F中層H,6.0,中層,H,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"
+9.0/F高層H,9.0,高層,H,,,,,,NSS,"WOODLAND CREST(Block 2),TIN PING RD|奕翠園2座,天平路"

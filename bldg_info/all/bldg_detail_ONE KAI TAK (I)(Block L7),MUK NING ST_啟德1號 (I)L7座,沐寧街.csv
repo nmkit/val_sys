@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-20.0/F低層blank,20.0,低層,blank,39593736,24172,1638,327,3,KKAI
-66.0/F中層blank,66.0,中層,blank,,,,,,KKAI
-102.0/F高層blank,102.0,高層,blank,,,,,,KKAI
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+20.0/F低層blank,20.0,低層,blank,39562614,24153,1638,327,3,KKAI,"ONE KAI TAK (I)(Block L7),MUK NING ST|啟德1號 (I)L7座,沐寧街"
+66.0/F中層blank,66.0,中層,blank,,,,,,KKAI,"ONE KAI TAK (I)(Block L7),MUK NING ST|啟德1號 (I)L7座,沐寧街"
+102.0/F高層blank,102.0,高層,blank,,,,,,KKAI,"ONE KAI TAK (I)(Block L7),MUK NING ST|啟德1號 (I)L7座,沐寧街"

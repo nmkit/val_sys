@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HMW
-15.0/F中層A,15.0,中層,A,,,,,,HMW
-23.0/F高層A,23.0,高層,A,,,,,,HMW
-6.0/F低層B,6.0,低層,B,,,,,,HMW
-15.0/F中層B,15.0,中層,B,,,,,,HMW
-23.0/F高層B,23.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"
+15.0/F中層A,15.0,中層,A,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"
+23.0/F高層A,23.0,高層,A,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"
+6.0/F低層B,6.0,低層,B,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"
+15.0/F中層B,15.0,中層,B,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"
+23.0/F高層B,23.0,高層,B,,,,,,HMW,"DRAGON COURT,CAINE RD|恒龍閣,堅道"

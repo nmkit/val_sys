@@ -1,13 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-11.0/F低層A,11.0,低層,A,41741128,30602,1364,58,1,HPFL
-22.0/F中層A,22.0,中層,A,44800632,32749,1368,69,1,HPFL
-35.0/F高層A,35.0,高層,A,48209688,35241,1368,74,1,HPFL
-11.0/F低層A & B,11.0,低層,A & B,,,,,,HPFL
-22.0/F中層A & B,22.0,中層,A & B,,,,,,HPFL
-35.0/F高層A & B,35.0,高層,A & B,,,,,,HPFL
-11.0/F低層AB,11.0,低層,AB,,,,,,HPFL
-22.0/F中層AB,22.0,中層,AB,,,,,,HPFL
-35.0/F高層AB,35.0,高層,AB,,,,,,HPFL
-11.0/F低層B,11.0,低層,B,34271842,28897,1186,100,1,HPFL
-22.0/F中層B,22.0,中層,B,36630796,30886,1186,116,1,HPFL
-35.0/F高層B,35.0,高層,B,41052462,33622,1221,121,1,HPFL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+11.0/F低層A,11.0,低層,A,41417860,30365,1364,58,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+22.0/F中層A,22.0,中層,A,44267256,32454,1364,69,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+35.0/F高層A,35.0,高層,A,47780751,34953,1367,74,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+11.0/F低層A & B,11.0,低層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+22.0/F中層A & B,22.0,中層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+35.0/F高層A & B,35.0,高層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+11.0/F低層A&B,11.0,低層,A&B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+22.0/F中層A&B,22.0,中層,A&B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+35.0/F高層A&B,35.0,高層,A&B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+11.0/F低層AB,11.0,低層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+22.0/F中層AB,22.0,中層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+35.0/F高層AB,35.0,高層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+11.0/F低層B,11.0,低層,B,34265912,28892,1186,100,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+22.0/F中層B,22.0,中層,B,36623680,30880,1186,116,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"
+35.0/F高層B,35.0,高層,B,40980423,33563,1221,121,1,HPFL,"RESIDENCE BEL-AIR(Block 3),BEL-AIR AVE|貝沙灣3座,貝沙灣道"

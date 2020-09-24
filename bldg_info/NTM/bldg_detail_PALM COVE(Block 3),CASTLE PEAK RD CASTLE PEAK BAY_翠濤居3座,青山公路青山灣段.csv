@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,8814736,10444,844,60,1,NTM
-8.0/F中層A,8.0,中層,A,8921924,10571,844,63,1,NTM
-12.0/F高層A,12.0,高層,A,9064560,10740,844,61,1,NTM
-5.0/F低層B,5.0,低層,B,7933564,10564,751,66,1,NTM
-8.0/F中層B,8.0,中層,B,8029692,10692,751,69,1,NTM
-12.0/F高層B,12.0,高層,B,8158113,10863,751,67,1,NTM
-5.0/F低層C,5.0,低層,C,7489638,10669,702,105,1,NTM
-8.0/F中層C,8.0,中層,C,7580196,10798,702,109,1,NTM
-12.0/F高層C,12.0,高層,C,7701642,10971,702,106,1,NTM
-5.0/F低層D,5.0,低層,D,6056592,10992,551,53,1,NTM
-8.0/F中層D,8.0,中層,D,6129875,11125,551,56,1,NTM
-12.0/F高層D,12.0,高層,D,6227953,11303,551,54,1,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+8.0/F中層A,8.0,中層,A,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+12.0/F高層A,12.0,高層,A,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+5.0/F低層B,5.0,低層,B,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+8.0/F中層B,8.0,中層,B,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+12.0/F高層B,12.0,高層,B,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+5.0/F低層C,5.0,低層,C,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+8.0/F中層C,8.0,中層,C,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+12.0/F高層C,12.0,高層,C,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+5.0/F低層D,5.0,低層,D,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+8.0/F中層D,8.0,中層,D,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"
+12.0/F高層D,12.0,高層,D,,,,,,NTM,"PALM COVE(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|翠濤居3座,青山公路青山灣段"

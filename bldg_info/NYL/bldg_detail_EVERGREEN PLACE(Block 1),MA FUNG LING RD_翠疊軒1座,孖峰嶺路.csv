@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,,,,,,NYL
-2.0/F中層B,2.0,中層,B,,,,,,NYL
-3.0/F高層B,3.0,高層,B,,,,,,NYL
-2.0/F低層C,2.0,低層,C,,,,,,NYL
-2.0/F中層C,2.0,中層,C,,,,,,NYL
-3.0/F高層C,3.0,高層,C,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-2.0/F中層D,2.0,中層,D,,,,,,NYL
-3.0/F高層D,3.0,高層,D,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,27110976,32352,838,165,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+2.0/F中層B,2.0,中層,B,27110976,32352,838,165,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+3.0/F高層B,3.0,高層,B,27250084,32518,838,165,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+2.0/F低層C,2.0,低層,C,22251609,33261,669,236,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+2.0/F中層C,2.0,中層,C,22251609,33261,669,236,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+3.0/F高層C,3.0,高層,C,22365339,33431,669,236,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+2.0/F低層D,2.0,低層,D,22384071,33459,669,237,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+2.0/F中層D,2.0,中層,D,22384071,33459,669,237,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"
+3.0/F高層D,3.0,高層,D,22499139,33631,669,238,2,NYL,"EVERGREEN PLACE(Block 1),MA FUNG LING RD|翠疊軒1座,孖峰嶺路"

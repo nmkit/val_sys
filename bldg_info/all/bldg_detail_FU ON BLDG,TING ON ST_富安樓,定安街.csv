@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層A,1.0,低層,A,3515400,11160,315,133,1,KKT
-2.0/F中層A,2.0,中層,A,3494790,11310,309,150,1,KKT
-3.0/F高層A,3.0,高層,A,3512403,11367,309,135,1,KKT
-1.0/F低層B,1.0,低層,B,2835924,10388,273,333,3,KKT
-2.0/F中層B,2.0,中層,B,2870595,10515,273,283,3,KKT
-3.0/F高層B,3.0,高層,B,2860767,10479,273,328,3,KKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層A,1.0,低層,A,3648960,11584,315,283,2,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"
+2.0/F中層A,2.0,中層,A,3494790,11310,309,150,1,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"
+3.0/F高層A,3.0,高層,A,3512403,11367,309,135,1,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"
+1.0/F低層B,1.0,低層,B,2713893,9941,273,251,2,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"
+2.0/F中層B,2.0,中層,B,2723448,9976,273,200,2,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"
+3.0/F高層B,3.0,高層,B,2733822,10014,273,246,2,KKT,"FU ON BLDG,TING ON ST|富安樓,定安街"

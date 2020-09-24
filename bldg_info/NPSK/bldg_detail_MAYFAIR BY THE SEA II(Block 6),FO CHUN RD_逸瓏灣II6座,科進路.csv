@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-20.0/F低層A,20.0,低層,A,,,,,,NPSK
-66.0/F中層A,66.0,中層,A,,,,,,NPSK
-102.0/F高層A,102.0,高層,A,,,,,,NPSK
-20.0/F低層AB,20.0,低層,AB,,,,,,NPSK
-66.0/F中層AB,66.0,中層,AB,,,,,,NPSK
-102.0/F高層AB,102.0,高層,AB,,,,,,NPSK
-20.0/F低層B,20.0,低層,B,,,,,,NPSK
-66.0/F中層B,66.0,中層,B,,,,,,NPSK
-102.0/F高層B,102.0,高層,B,,,,,,NPSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+20.0/F低層A,20.0,低層,A,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+66.0/F中層A,66.0,中層,A,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+102.0/F高層A,102.0,高層,A,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+20.0/F低層AB,20.0,低層,AB,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+66.0/F中層AB,66.0,中層,AB,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+102.0/F高層AB,102.0,高層,AB,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+20.0/F低層B,20.0,低層,B,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+66.0/F中層B,66.0,中層,B,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"
+102.0/F高層B,102.0,高層,B,,,,,,NPSK,"MAYFAIR BY THE SEA II(Block 6),FO CHUN RD|逸瓏灣II6座,科進路"

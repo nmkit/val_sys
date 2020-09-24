@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,HNP
-13.0/F中層A,13.0,中層,A,,,,,,HNP
-21.0/F高層A,21.0,高層,A,,,,,,HNP
-5.0/F低層B,5.0,低層,B,,,,,,HNP
-13.0/F中層B,13.0,中層,B,,,,,,HNP
-21.0/F高層B,21.0,高層,B,,,,,,HNP
-5.0/F低層C,5.0,低層,C,,,,,,HNP
-13.0/F中層C,13.0,中層,C,,,,,,HNP
-21.0/F高層C,21.0,高層,C,,,,,,HNP
-5.0/F低層D,5.0,低層,D,,,,,,HNP
-13.0/F中層D,13.0,中層,D,,,,,,HNP
-21.0/F高層D,21.0,高層,D,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,53362881,50677,1053,156,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+13.0/F中層A,13.0,中層,A,55897452,53084,1053,144,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+21.0/F高層A,21.0,高層,A,58461507,55519,1053,128,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+5.0/F低層B,5.0,低層,B,57472800,52248,1100,153,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+13.0/F中層B,13.0,中層,B,60201900,54729,1100,141,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+21.0/F高層B,21.0,高層,B,62962900,57239,1100,125,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+5.0/F低層C,5.0,低層,C,28320360,39720,713,239,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+13.0/F中層C,13.0,中層,C,29656522,41594,713,225,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+21.0/F高層C,21.0,高層,C,31016926,43502,713,205,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+5.0/F低層D,5.0,低層,D,29903904,40032,747,238,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+13.0/F中層D,13.0,中層,D,31310505,41915,747,222,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"
+21.0/F高層D,21.0,高層,D,32743998,43834,747,202,2,HNP,"PROVIDENT CTR(Block 15),WHARF RD|和富中心15座,和富道"

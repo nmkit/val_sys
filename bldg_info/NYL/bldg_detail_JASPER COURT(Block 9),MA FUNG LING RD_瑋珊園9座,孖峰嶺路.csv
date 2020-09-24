@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,6441120,7560,852,77,1,NYL
-2.0/F中層A,2.0,中層,A,6441120,7560,852,77,1,NYL
-4.0/F高層A,4.0,高層,A,6505020,7635,852,75,1,NYL
-2.0/F低層B,2.0,低層,B,5778420,7485,772,243,2,NYL
-2.0/F中層B,2.0,中層,B,5778420,7485,772,243,2,NYL
-4.0/F高層B,4.0,高層,B,5819336,7538,772,212,2,NYL
-2.0/F低層C,2.0,低層,C,6234460,7603,820,79,1,NYL
-2.0/F中層C,2.0,中層,C,6234460,7603,820,79,1,NYL
-4.0/F高層C,4.0,高層,C,6295960,7678,820,77,1,NYL
-2.0/F低層D,2.0,低層,D,6074089,7679,791,81,1,NYL
-2.0/F中層D,2.0,中層,D,6074089,7679,791,81,1,NYL
-4.0/F高層D,4.0,高層,D,6134205,7755,791,79,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F中層A,2.0,中層,A,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+4.0/F高層A,4.0,高層,A,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F中層B,2.0,中層,B,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F低層C,2.0,低層,C,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F中層C,2.0,中層,C,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+4.0/F高層C,4.0,高層,C,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+2.0/F中層D,2.0,中層,D,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"JASPER COURT(Block 9),MA FUNG LING RD|瑋珊園9座,孖峰嶺路"

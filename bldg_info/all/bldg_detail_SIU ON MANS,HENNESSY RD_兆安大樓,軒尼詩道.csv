@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,6623835,12381,535,150,1,HWC
-8.0/F中層blank,8.0,中層,blank,4807510,8986,535,131,1,HWC
-12.0/F高層blank,12.0,高層,blank,4925210,9206,535,150,1,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,6623835,12381,535,150,1,HWC,"SIU ON MANS,HENNESSY RD|兆安大樓,軒尼詩道"
+8.0/F中層blank,8.0,中層,blank,4807510,8986,535,131,1,HWC,"SIU ON MANS,HENNESSY RD|兆安大樓,軒尼詩道"
+12.0/F高層blank,12.0,高層,blank,4925210,9206,535,150,1,HWC,"SIU ON MANS,HENNESSY RD|兆安大樓,軒尼詩道"

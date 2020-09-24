@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,NTP
-12.0/F中層A,12.0,中層,A,,,,,,NTP
-19.0/F高層A,19.0,高層,A,,,,,,NTP
-6.0/F低層B,6.0,低層,B,,,,,,NTP
-12.0/F中層B,12.0,中層,B,,,,,,NTP
-19.0/F高層B,19.0,高層,B,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+12.0/F中層A,12.0,中層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+19.0/F高層A,19.0,高層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+6.0/F低層B,6.0,低層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+12.0/F中層B,12.0,中層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+19.0/F高層B,19.0,高層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"

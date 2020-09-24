@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,9705150,15405,630,131,1,HSW
-12.0/F中層A,12.0,中層,A,10143000,16100,630,120,1,HSW
-18.0/F高層A,18.0,高層,A,10517850,16695,630,111,1,HSW
-5.0/F低層B,5.0,低層,B,8769352,15439,568,166,2,HSW
-12.0/F中層B,12.0,中層,B,9165816,16137,568,149,2,HSW
-18.0/F高層B,18.0,高層,B,9506048,16736,568,134,2,HSW
-5.0/F低層C,5.0,低層,C,8612490,15518,555,166,2,HSW
-12.0/F中層C,12.0,中層,C,9000990,16218,555,148,2,HSW
-18.0/F高層C,18.0,高層,C,6971700,16404,425,85,2,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+12.0/F中層A,12.0,中層,A,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+18.0/F高層A,18.0,高層,A,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+5.0/F低層B,5.0,低層,B,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+12.0/F中層B,12.0,中層,B,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+18.0/F高層B,18.0,高層,B,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+5.0/F低層C,5.0,低層,C,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+12.0/F中層C,12.0,中層,C,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"
+18.0/F高層C,18.0,高層,C,,,,,,HSW,"CARAVAN COURT,CAINE RD|嘉年華閣,堅道"

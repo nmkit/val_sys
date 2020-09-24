@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,KKL
-8.0/F中層A,8.0,中層,A,,,,,,KKL
-11.0/F高層A,11.0,高層,A,,,,,,KKL
-6.0/F低層AB,6.0,低層,AB,,,,,,KKL
-8.0/F中層AB,8.0,中層,AB,,,,,,KKL
-11.0/F高層AB,11.0,高層,AB,,,,,,KKL
-6.0/F低層B,6.0,低層,B,,,,,,KKL
-8.0/F中層B,8.0,中層,B,,,,,,KKL
-11.0/F高層B,11.0,高層,B,,,,,,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+8.0/F中層A,8.0,中層,A,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+11.0/F高層A,11.0,高層,A,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+6.0/F低層AB,6.0,低層,AB,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+8.0/F中層AB,8.0,中層,AB,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+11.0/F高層AB,11.0,高層,AB,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+6.0/F低層B,6.0,低層,B,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+8.0/F中層B,8.0,中層,B,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"
+11.0/F高層B,11.0,高層,B,,,,,,KKL,"1 & 3 EDE RD(Block 2),EDE RD|blank2座,義德道"

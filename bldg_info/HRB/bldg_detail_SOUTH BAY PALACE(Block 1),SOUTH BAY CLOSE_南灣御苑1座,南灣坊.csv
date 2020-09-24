@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,40551735,21287,1905,277,2,HRB
-6.0/F中層A,6.0,中層,A,41831746,21982,1903,259,2,HRB
-8.0/F高層A,8.0,高層,A,42571035,22347,1905,235,2,HRB
-3.0/F低層B,3.0,低層,B,25385648,17827,1424,120,2,HRB
-6.0/F中層B,6.0,中層,B,26103344,18331,1424,120,2,HRB
-8.0/F高層B,8.0,高層,B,83911146,29567,2838,117,2,HRB
-3.0/F低層C,3.0,低層,C,23961596,17452,1373,114,2,HRB
-6.0/F中層C,6.0,中層,C,24642604,17948,1373,114,2,HRB
-8.0/F高層C,8.0,高層,C,25076472,18264,1373,110,2,HRB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+6.0/F中層A,6.0,中層,A,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+8.0/F高層A,8.0,高層,A,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+3.0/F低層B,3.0,低層,B,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+6.0/F中層B,6.0,中層,B,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+8.0/F高層B,8.0,高層,B,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+3.0/F低層C,3.0,低層,C,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+6.0/F中層C,6.0,中層,C,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"
+8.0/F高層C,8.0,高層,C,,,,,,HRB,"SOUTH BAY PALACE(Block 1),SOUTH BAY CLOSE|南灣御苑1座,南灣坊"

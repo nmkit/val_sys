@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,7643532,15076,507,352,3,HHV
-6.0/F中層blank,6.0,中層,blank,7777887,15341,507,356,3,HHV
-9.0/F高層blank,9.0,高層,blank,7868133,15519,507,402,3,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,7643532,15076,507,352,3,HHV,"ASCOT VILLAS,KING KWONG ST|雅仕閣,景光街"
+6.0/F中層blank,6.0,中層,blank,7777887,15341,507,356,3,HHV,"ASCOT VILLAS,KING KWONG ST|雅仕閣,景光街"
+9.0/F高層blank,9.0,高層,blank,7868133,15519,507,402,3,HHV,"ASCOT VILLAS,KING KWONG ST|雅仕閣,景光街"

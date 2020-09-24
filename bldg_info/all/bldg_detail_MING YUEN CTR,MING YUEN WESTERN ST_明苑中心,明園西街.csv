@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HNP
-16.0/F中層A,16.0,中層,A,,,,,,HNP
-24.0/F高層A,24.0,高層,A,,,,,,HNP
-7.0/F低層B,7.0,低層,B,,,,,,HNP
-16.0/F中層B,16.0,中層,B,,,,,,HNP
-24.0/F高層B,24.0,高層,B,,,,,,HNP
-7.0/F低層C,7.0,低層,C,,,,,,HNP
-16.0/F中層C,16.0,中層,C,,,,,,HNP
-24.0/F高層C,24.0,高層,C,,,,,,HNP
-7.0/F低層D,7.0,低層,D,,,,,,HNP
-16.0/F中層D,16.0,中層,D,,,,,,HNP
-24.0/F高層D,24.0,高層,D,,,,,,HNP
-7.0/F低層E,7.0,低層,E,,,,,,HNP
-16.0/F中層E,16.0,中層,E,,,,,,HNP
-24.0/F高層E,24.0,高層,E,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+16.0/F中層A,16.0,中層,A,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+24.0/F高層A,24.0,高層,A,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+7.0/F低層B,7.0,低層,B,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+16.0/F中層B,16.0,中層,B,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+24.0/F高層B,24.0,高層,B,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+7.0/F低層C,7.0,低層,C,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+16.0/F中層C,16.0,中層,C,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+24.0/F高層C,24.0,高層,C,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+7.0/F低層D,7.0,低層,D,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+16.0/F中層D,16.0,中層,D,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+24.0/F高層D,24.0,高層,D,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+7.0/F低層E,7.0,低層,E,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+16.0/F中層E,16.0,中層,E,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"
+24.0/F高層E,24.0,高層,E,,,,,,HNP,"MING YUEN CTR,MING YUEN WESTERN ST|明苑中心,明園西街"

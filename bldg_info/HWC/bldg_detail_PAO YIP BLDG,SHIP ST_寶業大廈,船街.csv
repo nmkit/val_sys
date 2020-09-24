@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層1,6.0,低層,1,,,,,,HWC
-11.0/F中層1,11.0,中層,1,,,,,,HWC
-17.0/F高層1,17.0,高層,1,,,,,,HWC
-6.0/F低層2,6.0,低層,2,,,,,,HWC
-11.0/F中層2,11.0,中層,2,,,,,,HWC
-17.0/F高層2,17.0,高層,2,,,,,,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層1,6.0,低層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+10.0/F中層1,10.0,中層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+16.0/F高層1,16.0,高層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+6.0/F低層2,6.0,低層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+10.0/F中層2,10.0,中層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+16.0/F高層2,16.0,高層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"

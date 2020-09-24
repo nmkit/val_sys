@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層A,1.0,低層,A,,,,,,NST
-1.0/F中層A,1.0,中層,A,,,,,,NST
-1.0/F高層A,1.0,高層,A,,,,,,NST
-1.0/F低層B,1.0,低層,B,,,,,,NST
-1.0/F中層B,1.0,中層,B,,,,,,NST
-1.0/F高層B,1.0,高層,B,,,,,,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層A,1.0,低層,A,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"
+1.0/F中層A,1.0,中層,A,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"
+1.0/F高層A,1.0,高層,A,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"
+1.0/F低層B,1.0,低層,B,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"
+1.0/F中層B,1.0,中層,B,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"
+1.0/F高層B,1.0,高層,B,,,,,,NST,"WOODCREST HILLS(Block 10),TAI PO RD SHATIN HEIGHTS|桂園10座,大埔公路沙田嶺段"

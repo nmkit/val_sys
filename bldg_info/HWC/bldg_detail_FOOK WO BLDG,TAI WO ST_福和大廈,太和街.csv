@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HWC
-13.0/F中層A,13.0,中層,A,,,,,,HWC
-20.0/F高層A,20.0,高層,A,,,,,,HWC
-6.0/F低層B,6.0,低層,B,,,,,,HWC
-13.0/F中層B,13.0,中層,B,,,,,,HWC
-20.0/F高層B,20.0,高層,B,,,,,,HWC
-6.0/F低層C,6.0,低層,C,,,,,,HWC
-13.0/F中層C,13.0,中層,C,,,,,,HWC
-20.0/F高層C,20.0,高層,C,,,,,,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+13.0/F中層A,13.0,中層,A,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+20.0/F高層A,20.0,高層,A,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+6.0/F低層B,6.0,低層,B,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+13.0/F中層B,13.0,中層,B,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+20.0/F高層B,20.0,高層,B,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+6.0/F低層C,6.0,低層,C,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+13.0/F中層C,13.0,中層,C,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"
+20.0/F高層C,20.0,高層,C,,,,,,HWC,"FOOK WO BLDG,TAI WO ST|福和大廈,太和街"

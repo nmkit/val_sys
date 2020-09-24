@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,22134300,12435,1780,89,1,HMW
-6.0/F中層A,6.0,中層,A,22632700,12715,1780,93,1,HMW
-10.0/F高層A,10.0,高層,A,23296640,13088,1780,99,1,HMW
-3.0/F低層B,3.0,低層,B,20250720,12054,1680,93,1,HMW
-6.0/F中層B,6.0,中層,B,20685840,12313,1680,150,1,HMW
-10.0/F高層B,10.0,高層,B,21267120,12659,1680,91,1,HMW
-3.0/F低層C,3.0,低層,C,,,,,,HMW
-6.0/F中層C,6.0,中層,C,,,,,,HMW
-10.0/F高層C,10.0,高層,C,,,,,,HMW
-3.0/F低層D,3.0,低層,D,,,,,,HMW
-6.0/F中層D,6.0,中層,D,,,,,,HMW
-10.0/F高層D,10.0,高層,D,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+6.0/F中層A,6.0,中層,A,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+10.0/F高層A,10.0,高層,A,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+3.0/F低層B,3.0,低層,B,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+6.0/F中層B,6.0,中層,B,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+10.0/F高層B,10.0,高層,B,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+3.0/F低層C,3.0,低層,C,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+6.0/F中層C,6.0,中層,C,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+10.0/F高層C,10.0,高層,C,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+3.0/F低層D,3.0,低層,D,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+6.0/F中層D,6.0,中層,D,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"
+10.0/F高層D,10.0,高層,D,,,,,,HMW,"BELMONT COURT,KOTEWALL RD|清暉大廈,旭龢道"

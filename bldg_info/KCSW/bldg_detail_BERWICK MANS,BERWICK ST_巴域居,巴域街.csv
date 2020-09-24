@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,4697620,12170,386,240,2,KCSW
-8.0/F中層blank,8.0,中層,blank,4652458,12053,386,295,2,KCSW
-9.0/F高層blank,9.0,高層,blank,4762468,12338,386,243,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層blank,7.0,低層,blank,4697620,12170,386,240,2,KCSW,"BERWICK MANS,BERWICK ST|巴域居,巴域街"
+8.0/F中層blank,8.0,中層,blank,4652458,12053,386,295,2,KCSW,"BERWICK MANS,BERWICK ST|巴域居,巴域街"
+9.0/F高層blank,9.0,高層,blank,4762468,12338,386,243,2,KCSW,"BERWICK MANS,BERWICK ST|巴域居,巴域街"

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層blank,7.0,低層,blank,5883304,13556,434,383,3,KCSW
-12.0/F中層blank,12.0,中層,blank,6072094,13991,434,400,3,KCSW
-17.0/F高層blank,17.0,高層,blank,6255676,14414,434,392,3,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層blank,7.0,低層,blank,5883304,13556,434,383,3,KCSW,"SEA PANORAMA COURT,FUK WA ST|君凱豪庭,福華街"
+12.0/F中層blank,12.0,中層,blank,6072094,13991,434,400,3,KCSW,"SEA PANORAMA COURT,FUK WA ST|君凱豪庭,福華街"
+17.0/F高層blank,17.0,高層,blank,6255676,14414,434,392,3,KCSW,"SEA PANORAMA COURT,FUK WA ST|君凱豪庭,福華街"

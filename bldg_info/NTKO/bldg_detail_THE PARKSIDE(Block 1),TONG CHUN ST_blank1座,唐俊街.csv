@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-8.0/F低層A,8.0,低層,A,,,,,,NTKO
-18.0/F中層A,18.0,中層,A,,,,,,NTKO
-27.0/F高層A,27.0,高層,A,,,,,,NTKO
-8.0/F低層B,8.0,低層,B,15152397,14043,1079,89,2,NTKO
-18.0/F中層B,18.0,中層,B,15614209,14471,1079,109,2,NTKO
-27.0/F高層B,27.0,高層,B,16008728,14878,1076,125,2,NTKO
-8.0/F低層C,8.0,低層,C,9178065,16965,541,390,4,NTKO
-18.0/F中層C,18.0,中層,C,9271658,17138,541,344,3,NTKO
-27.0/F高層C,27.0,高層,C,9523223,17603,541,369,3,NTKO
-8.0/F低層D,8.0,低層,D,8915595,17585,507,335,3,NTKO
-18.0/F中層D,18.0,中層,D,9138675,18025,507,345,3,NTKO
-27.0/F高層D,27.0,高層,D,9353643,18449,507,342,3,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+8.0/F低層A,8.0,低層,A,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+18.0/F中層A,18.0,中層,A,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+27.0/F高層A,27.0,高層,A,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+8.0/F低層B,8.0,低層,B,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+18.0/F中層B,18.0,中層,B,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+27.0/F高層B,27.0,高層,B,,,,,,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+8.0/F低層C,8.0,低層,C,9839708,18188,541,85,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+18.0/F中層C,18.0,中層,C,10124274,18714,541,75,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+27.0/F高層C,27.0,高層,C,10380708,19188,541,66,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+8.0/F低層D,8.0,低層,D,9387105,18515,507,134,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+18.0/F中層D,18.0,中層,D,9658857,19051,507,119,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"
+27.0/F高層D,27.0,高層,D,9903738,19534,507,106,1,NTKO,"THE PARKSIDE(Block 1),TONG CHUN ST|blank1座,唐俊街"

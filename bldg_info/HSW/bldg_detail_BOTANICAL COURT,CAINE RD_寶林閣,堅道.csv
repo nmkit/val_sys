@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,26300300,20231,1300,93,1,HSW
-12.0/F中層blank,12.0,中層,blank,28484300,21911,1300,252,2,HSW
-19.0/F高層blank,19.0,高層,blank,28774200,22134,1300,112,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,26300300,20231,1300,93,1,HSW,"BOTANICAL COURT,CAINE RD|寶林閣,堅道"
+12.0/F中層blank,12.0,中層,blank,28484300,21911,1300,252,2,HSW,"BOTANICAL COURT,CAINE RD|寶林閣,堅道"
+19.0/F高層blank,19.0,高層,blank,28774200,22134,1300,112,1,HSW,"BOTANICAL COURT,CAINE RD|寶林閣,堅道"

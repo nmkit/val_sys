@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HNP
-14.0/F中層A,14.0,中層,A,,,,,,HNP
-21.0/F高層A,21.0,高層,A,8388360,20712,405,150,1,HNP
-6.0/F低層B,6.0,低層,B,,,,,,HNP
-14.0/F中層B,14.0,中層,B,,,,,,HNP
-21.0/F高層B,21.0,高層,B,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"
+14.0/F中層A,14.0,中層,A,,,,,,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"
+21.0/F高層A,21.0,高層,A,8388360,20712,405,150,1,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"
+6.0/F低層B,6.0,低層,B,,,,,,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"
+14.0/F中層B,14.0,中層,B,,,,,,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"
+21.0/F高層B,21.0,高層,B,,,,,,HNP,"KING FAI COURT,TIN HAU TEMPLE RD|景暉閣,天后廟道"

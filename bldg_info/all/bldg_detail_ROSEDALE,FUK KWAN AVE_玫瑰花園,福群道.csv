@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,30936520,17092,1810,245,2,HCB
-8.0/F中層blank,8.0,中層,blank,31930210,17641,1810,248,2,HCB
-10.0/F高層blank,10.0,高層,blank,32795390,18119,1810,398,3,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,30692170,16957,1810,242,2,HCB,"ROSEDALE,FUK KWAN AVE|玫瑰花園,福群道"
+7.0/F中層blank,7.0,中層,blank,31680430,17503,1810,248,2,HCB,"ROSEDALE,FUK KWAN AVE|玫瑰花園,福群道"
+10.0/F高層blank,10.0,高層,blank,32795390,18119,1810,398,3,HCB,"ROSEDALE,FUK KWAN AVE|玫瑰花園,福群道"

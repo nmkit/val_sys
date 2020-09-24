@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層15A,2.0,低層,15A,,,,,,HP
-3.0/F中層15A,3.0,中層,15A,,,,,,HP
-4.0/F高層15A,4.0,高層,15A,,,,,,HP
-2.0/F低層A,2.0,低層,A,,,,,,HP
-3.0/F中層A,3.0,中層,A,,,,,,HP
-4.0/F高層A,4.0,高層,A,,,,,,HP
-2.0/F低層B,2.0,低層,B,,,,,,HP
-3.0/F中層B,3.0,中層,B,,,,,,HP
-4.0/F高層B,4.0,高層,B,75278880,41136,1830,150,1,HP
-2.0/F低層C,2.0,低層,C,,,,,,HP
-3.0/F中層C,3.0,中層,C,,,,,,HP
-4.0/F高層C,4.0,高層,C,,,,,,HP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層15A,2.0,低層,15A,81832764,35564,2301,99,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+3.0/F中層15A,3.0,中層,15A,82585191,35891,2301,97,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+4.0/F高層15A,4.0,高層,15A,83339919,36219,2301,96,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+2.0/F低層A,2.0,低層,A,50998400,31874,1600,102,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+3.0/F中層A,3.0,中層,A,51476800,32173,1600,150,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+4.0/F高層A,4.0,高層,A,51955200,32472,1600,102,1,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+2.0/F低層B,2.0,低層,B,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+3.0/F中層B,3.0,中層,B,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+4.0/F高層B,4.0,高層,B,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+2.0/F低層C,2.0,低層,C,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+3.0/F中層C,3.0,中層,C,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"
+4.0/F高層C,4.0,高層,C,,,,,,HP,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道"

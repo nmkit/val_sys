@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層C1,3.0,低層,C1,,,,,,KKT
-6.0/F中層C1,6.0,中層,C1,,,,,,KKT
-10.0/F高層C1,10.0,高層,C1,,,,,,KKT
-3.0/F低層C2,3.0,低層,C2,,,,,,KKT
-6.0/F中層C2,6.0,中層,C2,,,,,,KKT
-10.0/F高層C2,10.0,高層,C2,,,,,,KKT
-3.0/F低層C3,3.0,低層,C3,,,,,,KKT
-6.0/F中層C3,6.0,中層,C3,,,,,,KKT
-10.0/F高層C3,10.0,高層,C3,,,,,,KKT
-3.0/F低層C4,3.0,低層,C4,5648693,12751,443,95,1,KKT
-6.0/F中層C4,6.0,中層,C4,5737293,12951,443,100,1,KKT
-10.0/F高層C4,10.0,高層,C4,5855574,13218,443,106,1,KKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層C1,3.0,低層,C1,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+6.0/F中層C1,6.0,中層,C1,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+10.0/F高層C1,10.0,高層,C1,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+3.0/F低層C2,3.0,低層,C2,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+6.0/F中層C2,6.0,中層,C2,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+10.0/F高層C2,10.0,高層,C2,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+3.0/F低層C3,3.0,低層,C3,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+6.0/F中層C3,6.0,中層,C3,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+10.0/F高層C3,10.0,高層,C3,,,,,,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+3.0/F低層C4,3.0,低層,C4,5648693,12751,443,95,1,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+6.0/F中層C4,6.0,中層,C4,5737293,12951,443,100,1,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"
+10.0/F高層C4,10.0,高層,C4,5855574,13218,443,106,1,KKT,"TIN SHING COURT(Block C),YUET WAH ST|天星樓C座,月華街"

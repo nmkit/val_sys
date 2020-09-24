@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,,,,,,HHV
-11.0/F中層blank,11.0,中層,blank,,,,,,HHV
-19.0/F高層blank,19.0,高層,blank,,,,,,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,,,,,,HHV,"KAREN COURT,YIK YAM ST|啟蔭閣,奕蔭街"
+11.0/F中層blank,11.0,中層,blank,,,,,,HHV,"KAREN COURT,YIK YAM ST|啟蔭閣,奕蔭街"
+19.0/F高層blank,19.0,高層,blank,,,,,,HHV,"KAREN COURT,YIK YAM ST|啟蔭閣,奕蔭街"

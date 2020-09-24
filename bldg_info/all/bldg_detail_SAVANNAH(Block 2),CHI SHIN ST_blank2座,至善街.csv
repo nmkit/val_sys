@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-20.0/F低層A,20.0,低層,A,26492440,39190,676,311,4,NTKO
-66.0/F中層A,66.0,中層,A,,,,,,NTKO
-102.0/F高層A,102.0,高層,A,,,,,,NTKO
-20.0/F低層B,20.0,低層,B,20452600,41740,490,367,4,NTKO
-66.0/F中層B,66.0,中層,B,,,,,,NTKO
-102.0/F高層B,102.0,高層,B,,,,,,NTKO
-20.0/F低層C,20.0,低層,C,20026766,41897,478,326,3,NTKO
-66.0/F中層C,66.0,中層,C,,,,,,NTKO
-102.0/F高層C,102.0,高層,C,,,,,,NTKO
-20.0/F低層D,20.0,低層,D,21238784,41482,512,372,3,NTKO
-66.0/F中層D,66.0,中層,D,,,,,,NTKO
-102.0/F高層D,102.0,高層,D,,,,,,NTKO
-20.0/F低層E,20.0,低層,E,19960584,41934,476,328,3,NTKO
-66.0/F中層E,66.0,中層,E,,,,,,NTKO
-102.0/F高層E,102.0,高層,E,,,,,,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+20.0/F低層A,20.0,低層,A,27968148,41373,676,311,4,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+66.0/F中層A,66.0,中層,A,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+102.0/F高層A,102.0,高層,A,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+20.0/F低層B,20.0,低層,B,20448680,41732,490,367,4,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+66.0/F中層B,66.0,中層,B,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+102.0/F高層B,102.0,高層,B,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+20.0/F低層C,20.0,低層,C,20017206,41877,478,326,3,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+66.0/F中層C,66.0,中層,C,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+102.0/F高層C,102.0,高層,C,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+20.0/F低層D,20.0,低層,D,21249536,41503,512,372,3,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+66.0/F中層D,66.0,中層,D,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+102.0/F高層D,102.0,高層,D,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+20.0/F低層E,20.0,低層,E,20353284,42759,476,367,3,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+66.0/F中層E,66.0,中層,E,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"
+102.0/F高層E,102.0,高層,E,,,,,,NTKO,"SAVANNAH(Block 2),CHI SHIN ST|blank2座,至善街"

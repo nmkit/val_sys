@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,KKL
-6.0/F中層A,6.0,中層,A,,,,,,KKL
-8.0/F高層A,8.0,高層,A,,,,,,KKL
-4.0/F低層B1 & B2,4.0,低層,B1 & B2,,,,,,KKL
-6.0/F中層B1 & B2,6.0,中層,B1 & B2,,,,,,KKL
-8.0/F高層B1 & B2,8.0,高層,B1 & B2,,,,,,KKL
-4.0/F低層B1-2,4.0,低層,B1-2,,,,,,KKL
-6.0/F中層B1-2,6.0,中層,B1-2,,,,,,KKL
-8.0/F高層B1-2,8.0,高層,B1-2,,,,,,KKL
-4.0/F低層B1-B2,4.0,低層,B1-B2,,,,,,KKL
-6.0/F中層B1-B2,6.0,中層,B1-B2,,,,,,KKL
-8.0/F高層B1-B2,8.0,高層,B1-B2,,,,,,KKL
-4.0/F低層B1B2,4.0,低層,B1B2,,,,,,KKL
-6.0/F中層B1B2,6.0,中層,B1B2,,,,,,KKL
-8.0/F高層B1B2,8.0,高層,B1B2,,,,,,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+6.0/F中層A,6.0,中層,A,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+8.0/F高層A,8.0,高層,A,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+4.0/F低層B1 & B2,4.0,低層,B1 & B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+6.0/F中層B1 & B2,6.0,中層,B1 & B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+8.0/F高層B1 & B2,8.0,高層,B1 & B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+4.0/F低層B1-2,4.0,低層,B1-2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+6.0/F中層B1-2,6.0,中層,B1-2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+8.0/F高層B1-2,8.0,高層,B1-2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+4.0/F低層B1-B2,4.0,低層,B1-B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+6.0/F中層B1-B2,6.0,中層,B1-B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+8.0/F高層B1-B2,8.0,高層,B1-B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+4.0/F低層B1B2,4.0,低層,B1B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+6.0/F中層B1B2,6.0,中層,B1B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"
+8.0/F高層B1B2,8.0,高層,B1B2,,,,,,KKL,"WAH HING BLDG,BOUNDARY ST|華興大廈,界限街"

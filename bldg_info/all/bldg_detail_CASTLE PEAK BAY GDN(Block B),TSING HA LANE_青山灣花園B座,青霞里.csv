@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層11,1.0,低層,11,2699711,11893,227,150,1,NTM
-2.0/F中層11,2.0,中層,11,,,,,,NTM
-3.0/F高層11,3.0,高層,11,,,,,,NTM
-1.0/F低層12,1.0,低層,12,4022095,11795,341,128,1,NTM
-2.0/F中層12,2.0,中層,12,4038122,11842,341,150,1,NTM
-3.0/F高層12,3.0,高層,12,4054149,11889,341,128,1,NTM
-1.0/F低層15,1.0,低層,15,,,,,,NTM
-2.0/F中層15,2.0,中層,15,,,,,,NTM
-3.0/F高層15,3.0,高層,15,,,,,,NTM
-1.0/F低層17,1.0,低層,17,3830236,12121,316,81,1,NTM
-2.0/F中層17,2.0,中層,17,3845720,12170,316,82,1,NTM
-3.0/F高層17,3.0,高層,17,3860888,12218,316,81,1,NTM
-1.0/F低層18,1.0,低層,18,,,,,,NTM
-2.0/F中層18,2.0,中層,18,,,,,,NTM
-3.0/F高層18,3.0,高層,18,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層11,1.0,低層,11,2699711,11893,227,150,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+2.0/F中層11,2.0,中層,11,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+3.0/F高層11,3.0,高層,11,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+1.0/F低層12,1.0,低層,12,4022095,11795,341,128,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+2.0/F中層12,2.0,中層,12,4038122,11842,341,150,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+3.0/F高層12,3.0,高層,12,4054149,11889,341,128,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+1.0/F低層15,1.0,低層,15,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+2.0/F中層15,2.0,中層,15,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+3.0/F高層15,3.0,高層,15,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+1.0/F低層17,1.0,低層,17,3828656,12116,316,81,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+2.0/F中層17,2.0,中層,17,3843824,12164,316,82,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+3.0/F高層17,3.0,高層,17,3859308,12213,316,81,1,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+1.0/F低層18,1.0,低層,18,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+2.0/F中層18,2.0,中層,18,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"
+3.0/F高層18,3.0,高層,18,,,,,,NTM,"CASTLE PEAK BAY GDN(Block B),TSING HA LANE|青山灣花園B座,青霞里"

@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,4950082,11174,443,61,1,NTM
-13.0/F中層A,13.0,中層,A,,,,,,NTM
-21.0/F高層A,21.0,高層,A,,,,,,NTM
-5.0/F低層B,5.0,低層,B,5839338,10874,537,148,2,NTM
-13.0/F中層B,13.0,中層,B,6038028,11244,537,162,2,NTM
-21.0/F高層B,21.0,高層,B,6241551,11623,537,166,2,NTM
-5.0/F低層C,5.0,低層,C,,,,,,NTM
-13.0/F中層C,13.0,中層,C,,,,,,NTM
-21.0/F高層C,21.0,高層,C,,,,,,NTM
-5.0/F低層D,5.0,低層,D,,,,,,NTM
-13.0/F中層D,13.0,中層,D,,,,,,NTM
-21.0/F高層D,21.0,高層,D,,,,,,NTM
-5.0/F低層E,5.0,低層,E,,,,,,NTM
-13.0/F中層E,13.0,中層,E,,,,,,NTM
-21.0/F高層E,21.0,高層,E,,,,,,NTM
-5.0/F低層F,5.0,低層,F,,,,,,NTM
-13.0/F中層F,13.0,中層,F,,,,,,NTM
-21.0/F高層F,21.0,高層,F,,,,,,NTM
-5.0/F低層G,5.0,低層,G,5781879,10767,537,75,1,NTM
-13.0/F中層G,13.0,中層,G,5969292,11116,537,77,1,NTM
-21.0/F高層G,21.0,高層,G,6157242,11466,537,69,1,NTM
-5.0/F低層H,5.0,低層,H,4950082,11174,443,61,1,NTM
-13.0/F中層H,13.0,中層,H,,,,,,NTM
-21.0/F高層H,21.0,高層,H,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層A,13.0,中層,A,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層A,21.0,高層,A,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層B,5.0,低層,B,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層B,13.0,中層,B,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層B,21.0,高層,B,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層C,5.0,低層,C,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層C,13.0,中層,C,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層C,21.0,高層,C,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層D,5.0,低層,D,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層D,13.0,中層,D,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層D,21.0,高層,D,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層E,5.0,低層,E,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層E,13.0,中層,E,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層E,21.0,高層,E,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層F,5.0,低層,F,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層F,13.0,中層,F,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層F,21.0,高層,F,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層G,5.0,低層,G,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層G,13.0,中層,G,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層G,21.0,高層,G,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+5.0/F低層H,5.0,低層,H,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+13.0/F中層H,13.0,中層,H,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"
+21.0/F高層H,21.0,高層,H,,,,,,NTM,"HANFORD GDN(Block 3),CASTLE PEAK RD CASTLE PEAK BAY|恒福花園3座,青山公路青山灣段"

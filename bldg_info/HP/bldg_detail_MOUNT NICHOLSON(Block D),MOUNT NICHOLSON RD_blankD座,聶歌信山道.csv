@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,473806236,103091,4596,407,3,HP
-8.0/F中層blank,8.0,中層,blank,523135104,113824,4596,395,3,HP
-11.0/F高層blank,11.0,高層,blank,548380932,119317,4596,407,3,HP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,473806236,103091,4596,407,3,HP,"MOUNT NICHOLSON(Block D),MOUNT NICHOLSON RD|blankD座,聶歌信山道"
+8.0/F中層blank,8.0,中層,blank,523135104,113824,4596,395,3,HP,"MOUNT NICHOLSON(Block D),MOUNT NICHOLSON RD|blankD座,聶歌信山道"
+11.0/F高層blank,11.0,高層,blank,548380932,119317,4596,407,3,HP,"MOUNT NICHOLSON(Block D),MOUNT NICHOLSON RD|blankD座,聶歌信山道"

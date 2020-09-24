@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,NTW
-8.0/F中層A,8.0,中層,A,,,,,,NTW
-12.0/F高層A,12.0,高層,A,,,,,,NTW
-3.0/F低層B,3.0,低層,B,,,,,,NTW
-8.0/F中層B,8.0,中層,B,,,,,,NTW
-12.0/F高層B,12.0,高層,B,,,,,,NTW
-3.0/F低層C,3.0,低層,C,,,,,,NTW
-8.0/F中層C,8.0,中層,C,,,,,,NTW
-12.0/F高層C,12.0,高層,C,,,,,,NTW
-3.0/F低層D,3.0,低層,D,,,,,,NTW
-8.0/F中層D,8.0,中層,D,,,,,,NTW
-12.0/F高層D,12.0,高層,D,,,,,,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,20218050,26850,753,217,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+8.0/F中層A,8.0,中層,A,20599068,27356,753,229,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+12.0/F高層A,12.0,高層,A,20902527,27759,753,233,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+3.0/F低層B,3.0,低層,B,19148528,26894,712,173,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+8.0/F中層B,8.0,中層,B,19509512,27401,712,183,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+12.0/F高層B,12.0,高層,B,19797160,27805,712,187,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+3.0/F低層C,3.0,低層,C,19135000,26875,712,217,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+8.0/F中層C,8.0,中層,C,19496696,27383,712,229,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+12.0/F高層C,12.0,高層,C,19784344,27787,712,235,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+3.0/F低層D,3.0,低層,D,21749320,26204,830,162,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+8.0/F中層D,8.0,中層,D,22159340,26698,830,172,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"
+12.0/F高層D,12.0,高層,D,22483870,27089,830,176,2,NTW,"GREENVIEW TERR(Block 1),CASTLE PEAK RD TING KAU|翠景臺1座,青山公路汀九段"

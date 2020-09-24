@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,,,,,,HMW
-2.0/F中層blank,2.0,中層,blank,,,,,,HMW
-3.0/F高層blank,3.0,高層,blank,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,HMW,"PEACE COURT,CONDUIT RD|宜安閣,干德道"
+2.0/F中層blank,2.0,中層,blank,,,,,,HMW,"PEACE COURT,CONDUIT RD|宜安閣,干德道"
+3.0/F高層blank,3.0,高層,blank,,,,,,HMW,"PEACE COURT,CONDUIT RD|宜安閣,干德道"

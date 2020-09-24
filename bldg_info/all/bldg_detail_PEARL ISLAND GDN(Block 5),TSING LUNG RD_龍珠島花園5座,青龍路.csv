@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NTM
-3.0/F中層A,3.0,中層,A,,,,,,NTM
-4.0/F高層A,4.0,高層,A,,,,,,NTM
-2.0/F低層B,2.0,低層,B,,,,,,NTM
-3.0/F中層B,3.0,中層,B,,,,,,NTM
-4.0/F高層B,4.0,高層,B,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"
+3.0/F中層A,3.0,中層,A,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"
+4.0/F高層A,4.0,高層,A,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"
+2.0/F低層B,2.0,低層,B,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"
+3.0/F中層B,3.0,中層,B,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"
+4.0/F高層B,4.0,高層,B,,,,,,NTM,"PEARL ISLAND GDN(Block 5),TSING LUNG RD|龍珠島花園5座,青龍路"

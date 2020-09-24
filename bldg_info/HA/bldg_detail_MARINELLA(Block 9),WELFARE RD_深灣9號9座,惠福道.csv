@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-8.0/F低層A,8.0,低層,A,,,,,,HA
-18.0/F中層A,18.0,中層,A,,,,,,HA
-28.0/F高層A,28.0,高層,A,,,,,,HA
-8.0/F低層B,8.0,低層,B,,,,,,HA
-18.0/F中層B,18.0,中層,B,,,,,,HA
-28.0/F高層B,28.0,高層,B,,,,,,HA
-8.0/F低層C,8.0,低層,C,,,,,,HA
-18.0/F中層C,18.0,中層,C,,,,,,HA
-28.0/F高層C,28.0,高層,C,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+8.0/F低層A,8.0,低層,A,97267124,77876,1249,135,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+18.0/F中層A,18.0,中層,A,101980850,81650,1249,144,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+28.0/F高層A,28.0,高層,A,106694576,85424,1249,129,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+8.0/F低層B,8.0,低層,B,87796956,57234,1534,143,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+18.0/F中層B,18.0,中層,B,91911144,59916,1534,131,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+28.0/F高層B,28.0,高層,B,96026866,62599,1534,116,1,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+8.0/F低層C,8.0,低層,C,,,,,,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+18.0/F中層C,18.0,中層,C,,,,,,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"
+28.0/F高層C,28.0,高層,C,,,,,,HA,"MARINELLA(Block 9),WELFARE RD|深灣9號9座,惠福道"

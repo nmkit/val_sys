@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,3084168,9608,321,223,2,NSS
-4.0/F中層A,4.0,中層,A,2934903,9143,321,338,3,NSS
-5.0/F高層A,5.0,高層,A,3103428,9668,321,186,2,NSS
-3.0/F低層C,3.0,低層,C,3073896,9576,321,228,2,NSS
-4.0/F中層C,4.0,中層,C,3086415,9615,321,186,2,NSS
-5.0/F高層C,5.0,高層,C,3128466,9746,321,333,3,NSS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,3084168,9608,321,223,2,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"
+4.0/F中層A,4.0,中層,A,2934903,9143,321,338,3,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"
+5.0/F高層A,5.0,高層,A,3103428,9668,321,186,2,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"
+3.0/F低層C,3.0,低層,C,3073896,9576,321,228,2,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"
+4.0/F中層C,4.0,中層,C,3086415,9615,321,186,2,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"
+5.0/F高層C,5.0,高層,C,3128466,9746,321,333,3,NSS,"LUEN WO CTR,WO FUNG ST|聯和中心,和豐街"

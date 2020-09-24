@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,21343806,19074,1119,60,1,HWC
-8.0/F中層A,8.0,中層,A,22002897,19663,1119,65,1,HWC
-13.0/F高層A,13.0,高層,A,22660869,20251,1119,60,1,HWC
-3.0/F低層B,3.0,低層,B,20753700,18867,1100,61,1,HWC
-8.0/F中層B,8.0,中層,B,21393900,19449,1100,66,1,HWC
-13.0/F高層B,13.0,高層,B,22034100,20031,1100,61,1,HWC
-3.0/F低層C,3.0,低層,C,15019200,16688,900,71,1,HWC
-8.0/F中層C,8.0,中層,C,15482700,17203,900,76,1,HWC
-13.0/F高層C,13.0,高層,C,15945300,17717,900,71,1,HWC
-3.0/F低層D,3.0,低層,D,15300690,17587,870,209,2,HWC
-8.0/F中層D,8.0,中層,D,15603450,17935,870,251,2,HWC
-13.0/F高層D,13.0,高層,D,16202010,18623,870,203,2,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+8.0/F中層A,8.0,中層,A,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+13.0/F高層A,13.0,高層,A,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+4.0/F低層B,4.0,低層,B,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+8.0/F中層B,8.0,中層,B,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+13.0/F高層B,13.0,高層,B,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+4.0/F低層C,4.0,低層,C,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+8.0/F中層C,8.0,中層,C,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+13.0/F高層C,13.0,高層,C,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+4.0/F低層D,4.0,低層,D,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+8.0/F中層D,8.0,中層,D,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"
+13.0/F高層D,13.0,高層,D,,,,,,HWC,"PHOENIX COURT(Block 4),KENNEDY RD|鳳凰閣4座,堅尼地道"

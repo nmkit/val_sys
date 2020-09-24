@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,57062328,38977,1464,411,3,KKL
-7.0/F中層A,7.0,中層,A,60857016,41569,1464,418,3,KKL
-10.0/F高層A,10.0,高層,A,63394128,43302,1464,409,3,KKL
-3.0/F低層B,3.0,低層,B,54196380,43013,1260,352,3,KKL
-7.0/F中層B,7.0,中層,B,55044360,43686,1260,352,3,KKL
-10.0/F高層B,10.0,高層,B,58499280,46428,1260,340,3,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,57062328,38977,1464,411,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"
+7.0/F中層A,7.0,中層,A,60857016,41569,1464,418,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"
+10.0/F高層A,10.0,高層,A,63394128,43302,1464,409,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"
+3.0/F低層B,3.0,低層,B,54196380,43013,1260,352,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"
+7.0/F中層B,7.0,中層,B,55044360,43686,1260,352,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"
+10.0/F高層B,10.0,高層,B,58499280,46428,1260,340,3,KKL,"EDEN GATE(Block 2),EDE RD|雲門2座,義德道"

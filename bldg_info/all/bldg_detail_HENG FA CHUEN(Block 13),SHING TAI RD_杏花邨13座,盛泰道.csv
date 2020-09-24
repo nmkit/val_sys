@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層1,7.0,低層,1,,,,,,HCW
-12.0/F中層1,12.0,中層,1,,,,,,HCW
-17.0/F高層1,17.0,高層,1,,,,,,HCW
-7.0/F低層2,7.0,低層,2,,,,,,HCW
-12.0/F中層2,12.0,中層,2,,,,,,HCW
-17.0/F高層2,17.0,高層,2,,,,,,HCW
-7.0/F低層3,7.0,低層,3,,,,,,HCW
-12.0/F中層3,12.0,中層,3,,,,,,HCW
-17.0/F高層3,17.0,高層,3,,,,,,HCW
-7.0/F低層4,7.0,低層,4,,,,,,HCW
-12.0/F中層4,12.0,中層,4,,,,,,HCW
-17.0/F高層4,17.0,高層,4,,,,,,HCW
-7.0/F低層5,7.0,低層,5,,,,,,HCW
-12.0/F中層5,12.0,中層,5,,,,,,HCW
-17.0/F高層5,17.0,高層,5,,,,,,HCW
-7.0/F低層6,7.0,低層,6,,,,,,HCW
-12.0/F中層6,12.0,中層,6,,,,,,HCW
-17.0/F高層6,17.0,高層,6,,,,,,HCW
-7.0/F低層7,7.0,低層,7,8304114,18291,454,97,1,HCW
-12.0/F中層7,12.0,中層,7,8511138,18747,454,104,1,HCW
-17.0/F高層7,17.0,高層,7,8718162,19203,454,100,1,HCW
-7.0/F低層8,7.0,低層,8,,,,,,HCW
-12.0/F中層8,12.0,中層,8,,,,,,HCW
-17.0/F高層8,17.0,高層,8,,,,,,HCW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層1,7.0,低層,1,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層1,12.0,中層,1,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層1,17.0,高層,1,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層2,7.0,低層,2,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層2,12.0,中層,2,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層2,17.0,高層,2,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層3,7.0,低層,3,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層3,12.0,中層,3,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層3,17.0,高層,3,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層4,7.0,低層,4,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層4,12.0,中層,4,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層4,17.0,高層,4,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層5,7.0,低層,5,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層5,12.0,中層,5,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層5,17.0,高層,5,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層6,7.0,低層,6,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層6,12.0,中層,6,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層6,17.0,高層,6,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層7,7.0,低層,7,8304114,18291,454,97,1,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層7,12.0,中層,7,8511138,18747,454,104,1,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層7,17.0,高層,7,8718162,19203,454,100,1,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+7.0/F低層8,7.0,低層,8,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+12.0/F中層8,12.0,中層,8,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"
+17.0/F高層8,17.0,高層,8,,,,,,HCW,"HENG FA CHUEN(Block 13),SHING TAI RD|杏花邨13座,盛泰道"

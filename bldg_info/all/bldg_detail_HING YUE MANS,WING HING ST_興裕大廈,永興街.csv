@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,,,,,,HNP
-6.0/F中層blank,6.0,中層,blank,,,,,,HNP
-9.0/F高層blank,9.0,高層,blank,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,HNP,"HING YUE MANS,WING HING ST|興裕大廈,永興街"
+6.0/F中層blank,6.0,中層,blank,,,,,,HNP,"HING YUE MANS,WING HING ST|興裕大廈,永興街"
+9.0/F高層blank,9.0,高層,blank,,,,,,HNP,"HING YUE MANS,WING HING ST|興裕大廈,永興街"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,NTM
-6.0/F中層A,6.0,中層,A,,,,,,NTM
-9.0/F高層A,9.0,高層,A,,,,,,NTM
-3.0/F低層B,3.0,低層,B,,,,,,NTM
-6.0/F中層B,6.0,中層,B,,,,,,NTM
-9.0/F高層B,9.0,高層,B,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"
+6.0/F中層A,6.0,中層,A,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"
+9.0/F高層A,9.0,高層,A,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"
+3.0/F低層B,3.0,低層,B,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"
+6.0/F中層B,6.0,中層,B,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"
+9.0/F高層B,9.0,高層,B,,,,,,NTM,"PERIDOT COURT(Block 3),YU CHUI ST|瑜翠園3座,瑜翠街"

@@ -1,49 +1,49 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-21.0/F低層A,21.0,低層,A,12147156,17759,684,109,2,NTKO
-67.0/F中層A,67.0,中層,A,,,,,,NTKO
-102.0/F高層A,102.0,高層,A,,,,,,NTKO
-21.0/F低層AH,21.0,低層,AH,,,,,,NTKO
-67.0/F中層AH,67.0,中層,AH,,,,,,NTKO
-102.0/F高層AH,102.0,高層,AH,,,,,,NTKO
-21.0/F低層AJ,21.0,低層,AJ,,,,,,NTKO
-67.0/F中層AJ,67.0,中層,AJ,,,,,,NTKO
-102.0/F高層AJ,102.0,高層,AJ,,,,,,NTKO
-21.0/F低層B,21.0,低層,B,6892760,24617,280,342,4,NTKO
-67.0/F中層B,67.0,中層,B,,,,,,NTKO
-102.0/F高層B,102.0,高層,B,,,,,,NTKO
-21.0/F低層C,21.0,低層,C,12239404,17687,692,108,2,NTKO
-67.0/F中層C,67.0,中層,C,,,,,,NTKO
-102.0/F高層C,102.0,高層,C,,,,,,NTKO
-21.0/F低層D,21.0,低層,D,16184340,21930,738,165,2,NTKO
-67.0/F中層D,67.0,中層,D,,,,,,NTKO
-102.0/F高層D,102.0,高層,D,,,,,,NTKO
-21.0/F低層DG,21.0,低層,DG,,,,,,NTKO
-67.0/F中層DG,67.0,中層,DG,,,,,,NTKO
-102.0/F高層DG,102.0,高層,DG,,,,,,NTKO
-21.0/F低層DI,21.0,低層,DI,,,,,,NTKO
-67.0/F中層DI,67.0,中層,DI,,,,,,NTKO
-102.0/F高層DI,102.0,高層,DI,,,,,,NTKO
-21.0/F低層E,21.0,低層,E,7749318,21173,366,307,4,NTKO
-67.0/F中層E,67.0,中層,E,,,,,,NTKO
-102.0/F高層E,102.0,高層,E,,,,,,NTKO
-21.0/F低層F,21.0,低層,F,10610298,18846,563,123,2,NTKO
-67.0/F中層F,67.0,中層,F,,,,,,NTKO
-102.0/F高層F,102.0,高層,F,,,,,,NTKO
-21.0/F低層G,21.0,低層,G,8034066,21951,366,352,4,NTKO
-67.0/F中層G,67.0,中層,G,,,,,,NTKO
-102.0/F高層G,102.0,高層,G,,,,,,NTKO
-21.0/F低層H,21.0,低層,H,7845480,21204,370,260,3,NTKO
-67.0/F中層H,67.0,中層,H,,,,,,NTKO
-102.0/F高層H,102.0,高層,H,,,,,,NTKO
-21.0/F低層HI,21.0,低層,HI,,,,,,NTKO
-67.0/F中層HI,67.0,中層,HI,,,,,,NTKO
-102.0/F高層HI,102.0,高層,HI,,,,,,NTKO
-21.0/F低層I,21.0,低層,I,10512848,18908,556,124,2,NTKO
-67.0/F中層I,67.0,中層,I,,,,,,NTKO
-102.0/F高層I,102.0,高層,I,,,,,,NTKO
-21.0/F低層IJ,21.0,低層,IJ,17771460,15589,1140,73,1,NTKO
-67.0/F中層IJ,67.0,中層,IJ,,,,,,NTKO
-102.0/F高層IJ,102.0,高層,IJ,,,,,,NTKO
-21.0/F低層J,21.0,低層,J,10895688,18657,584,120,2,NTKO
-67.0/F中層J,67.0,中層,J,,,,,,NTKO
-102.0/F高層J,102.0,高層,J,,,,,,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+21.0/F低層A,21.0,低層,A,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層A,67.0,中層,A,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層A,102.0,高層,A,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層AH,21.0,低層,AH,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層AH,67.0,中層,AH,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層AH,102.0,高層,AH,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層AJ,21.0,低層,AJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層AJ,67.0,中層,AJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層AJ,102.0,高層,AJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層B,21.0,低層,B,7077280,25276,280,210,2,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層B,67.0,中層,B,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層B,102.0,高層,B,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層C,21.0,低層,C,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層C,67.0,中層,C,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層C,102.0,高層,C,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層D,21.0,低層,D,17045586,23097,738,92,1,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層D,67.0,中層,D,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層D,102.0,高層,D,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層DG,21.0,低層,DG,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層DG,67.0,中層,DG,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層DG,102.0,高層,DG,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層DI,21.0,低層,DI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層DI,67.0,中層,DI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層DI,102.0,高層,DI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層E,21.0,低層,E,8928570,24395,366,57,1,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層E,67.0,中層,E,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層E,102.0,高層,E,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層F,21.0,低層,F,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層F,67.0,中層,F,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層F,102.0,高層,F,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層G,21.0,低層,G,8770458,23963,366,145,2,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層G,67.0,中層,G,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層G,102.0,高層,G,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層H,21.0,低層,H,8981380,24274,370,57,1,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層H,67.0,中層,H,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層H,102.0,高層,H,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層HI,21.0,低層,HI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層HI,67.0,中層,HI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層HI,102.0,高層,HI,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層I,21.0,低層,I,14743452,26517,556,42,1,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層I,67.0,中層,I,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層I,102.0,高層,I,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層IJ,21.0,低層,IJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層IJ,67.0,中層,IJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層IJ,102.0,高層,IJ,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+21.0/F低層J,21.0,低層,J,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+67.0/F中層J,67.0,中層,J,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"
+102.0/F高層J,102.0,高層,J,,,,,,NTKO,"MONTEREY(Block 5),TONG CHUN ST|blank5座,唐俊街"

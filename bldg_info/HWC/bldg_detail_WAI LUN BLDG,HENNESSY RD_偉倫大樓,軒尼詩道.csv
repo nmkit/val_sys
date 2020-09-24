@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層78,5.0,低層,78,6189836,13634,454,296,3,HWC
-9.0/F中層78,9.0,中層,78,6364172,14018,454,239,3,HWC
-14.0/F高層78,14.0,高層,78,6555306,14439,454,226,3,HWC
-5.0/F低層blank,5.0,低層,blank,5524668,14022,394,393,3,HWC
-9.0/F中層blank,9.0,中層,blank,5799248,14794,392,383,3,HWC
-14.0/F高層blank,14.0,高層,blank,6040414,15331,394,396,3,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層78,5.0,低層,78,6208450,13675,454,296,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"
+9.0/F中層78,9.0,中層,78,6388688,14072,454,239,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"
+14.0/F高層78,14.0,高層,78,6581184,14496,454,226,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"
+5.0/F低層blank,5.0,低層,blank,5524668,14022,394,393,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"
+9.0/F中層blank,9.0,中層,blank,5799248,14794,392,383,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"
+14.0/F高層blank,14.0,高層,blank,6040808,15332,394,396,3,HWC,"WAI LUN BLDG,HENNESSY RD|偉倫大樓,軒尼詩道"

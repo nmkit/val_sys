@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,ISL
-3.0/F中層A,3.0,中層,A,,,,,,ISL
-4.0/F高層A,4.0,高層,A,,,,,,ISL
-2.0/F低層B,2.0,低層,B,,,,,,ISL
-3.0/F中層B,3.0,中層,B,,,,,,ISL
-4.0/F高層B,4.0,高層,B,,,,,,ISL
-2.0/F低層C,2.0,低層,C,,,,,,ISL
-3.0/F中層C,3.0,中層,C,,,,,,ISL
-4.0/F高層C,4.0,高層,C,,,,,,ISL
-2.0/F低層D,2.0,低層,D,2873430,9122,315,99,1,ISL
-3.0/F中層D,3.0,中層,D,2888550,9170,315,150,1,ISL
-4.0/F高層D,4.0,高層,D,2903670,9218,315,99,1,ISL
-2.0/F低層E,2.0,低層,E,2673020,8764,305,100,1,ISL
-3.0/F中層E,3.0,中層,E,2687050,8810,305,98,1,ISL
-4.0/F高層E,4.0,高層,E,2700775,8855,305,97,1,ISL
-2.0/F低層F,2.0,低層,F,,,,,,ISL
-3.0/F中層F,3.0,中層,F,,,,,,ISL
-4.0/F高層F,4.0,高層,F,2408390,7769,310,150,1,ISL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層A,3.0,中層,A,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層A,4.0,高層,A,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+2.0/F低層B,2.0,低層,B,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層B,3.0,中層,B,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層B,4.0,高層,B,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+2.0/F低層C,2.0,低層,C,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層C,3.0,中層,C,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層C,4.0,高層,C,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+2.0/F低層D,2.0,低層,D,2873430,9122,315,99,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層D,3.0,中層,D,2888550,9170,315,150,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層D,4.0,高層,D,2903670,9218,315,99,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+2.0/F低層E,2.0,低層,E,2673020,8764,305,100,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層E,3.0,中層,E,2687050,8810,305,98,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層E,4.0,高層,E,2700775,8855,305,97,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+2.0/F低層F,2.0,低層,F,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+3.0/F中層F,3.0,中層,F,,,,,,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"
+4.0/F高層F,4.0,高層,F,2408390,7769,310,150,1,ISL,"GRANDVIEW BLDG,MUI WO FERRY PIER RD|銀輝大廈,梅窩碼頭路"

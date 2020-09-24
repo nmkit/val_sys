@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-8.0/F低層B,8.0,低層,B,14966614,15574,961,409,3,NSS
-10.0/F中層B,10.0,中層,B,15154009,15769,961,409,3,NSS
-14.0/F高層B,14.0,高層,B,15178995,15795,961,371,3,NSS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+8.0/F低層B,8.0,低層,B,14966614,15574,961,409,3,NSS,"EDEN MANOR(Block 6),CASTLE PEAK RD KWU TUNG|高爾夫御苑6座,青山公路古洞段"
+10.0/F中層B,10.0,中層,B,15154009,15769,961,409,3,NSS,"EDEN MANOR(Block 6),CASTLE PEAK RD KWU TUNG|高爾夫御苑6座,青山公路古洞段"
+14.0/F高層B,14.0,高層,B,15178995,15795,961,371,3,NSS,"EDEN MANOR(Block 6),CASTLE PEAK RD KWU TUNG|高爾夫御苑6座,青山公路古洞段"

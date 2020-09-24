@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KSKM
-4.0/F中層A,4.0,中層,A,,,,,,KSKM
-7.0/F高層A,7.0,高層,A,,,,,,KSKM
-2.0/F低層B,2.0,低層,B,,,,,,KSKM
-4.0/F中層B,4.0,中層,B,,,,,,KSKM
-7.0/F高層B,7.0,高層,B,,,,,,KSKM
-2.0/F低層C,2.0,低層,C,17389450,21575,806,100,1,KSKM
-4.0/F中層C,4.0,中層,C,17644952,21892,806,97,1,KSKM
-7.0/F高層C,7.0,高層,C,18027802,22367,806,92,1,KSKM
-2.0/F低層D,2.0,低層,D,20400666,25311,806,100,1,KSKM
-4.0/F中層D,4.0,中層,D,20700498,25683,806,97,1,KSKM
-7.0/F高層D,7.0,高層,D,21149440,26240,806,92,1,KSKM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+4.0/F中層A,4.0,中層,A,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+7.0/F高層A,7.0,高層,A,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+2.0/F低層B,2.0,低層,B,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+4.0/F中層B,4.0,中層,B,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+7.0/F高層B,7.0,高層,B,,,,,,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+2.0/F低層C,2.0,低層,C,17389450,21575,806,100,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+4.0/F中層C,4.0,中層,C,17644952,21892,806,97,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+7.0/F高層C,7.0,高層,C,18027802,22367,806,92,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+2.0/F低層D,2.0,低層,D,20400666,25311,806,100,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+4.0/F中層D,4.0,中層,D,20700498,25683,806,97,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"
+7.0/F高層D,7.0,高層,D,21149440,26240,806,92,1,KSKM,"VILLAGE GDNS(Block B14),FA PO ST|又一村花園B14座,花圃街"

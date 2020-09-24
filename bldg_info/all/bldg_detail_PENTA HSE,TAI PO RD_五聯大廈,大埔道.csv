@@ -1,37 +1,37 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KCSW
-6.0/F中層A,6.0,中層,A,,,,,,KCSW
-8.0/F高層A,8.0,高層,A,,,,,,KCSW
-3.0/F低層B,3.0,低層,B,,,,,,KCSW
-6.0/F中層B,6.0,中層,B,,,,,,KCSW
-8.0/F高層B,8.0,高層,B,,,,,,KCSW
-3.0/F低層C,3.0,低層,C,5786880,8768,660,150,1,KCSW
-6.0/F中層C,6.0,中層,C,,,,,,KCSW
-8.0/F高層C,8.0,高層,C,,,,,,KCSW
-3.0/F低層D,3.0,低層,D,,,,,,KCSW
-6.0/F中層D,6.0,中層,D,,,,,,KCSW
-8.0/F高層D,8.0,高層,D,,,,,,KCSW
-3.0/F低層D3,3.0,低層,D3,,,,,,KCSW
-6.0/F中層D3,6.0,中層,D3,,,,,,KCSW
-8.0/F高層D3,8.0,高層,D3,,,,,,KCSW
-3.0/F低層E,3.0,低層,E,3311700,9462,350,105,1,KCSW
-6.0/F中層E,6.0,中層,E,3374700,9642,350,101,1,KCSW
-8.0/F高層E,8.0,高層,E,3416700,9762,350,98,1,KCSW
-3.0/F低層F,3.0,低層,F,,,,,,KCSW
-6.0/F中層F,6.0,中層,F,,,,,,KCSW
-8.0/F高層F,8.0,高層,F,,,,,,KCSW
-3.0/F低層G,3.0,低層,G,,,,,,KCSW
-6.0/F中層G,6.0,中層,G,,,,,,KCSW
-8.0/F高層G,8.0,高層,G,5340600,8901,600,150,1,KCSW
-3.0/F低層G3,3.0,低層,G3,,,,,,KCSW
-6.0/F中層G3,6.0,中層,G3,,,,,,KCSW
-8.0/F高層G3,8.0,高層,G3,,,,,,KCSW
-3.0/F低層H,3.0,低層,H,,,,,,KCSW
-6.0/F中層H,6.0,中層,H,,,,,,KCSW
-8.0/F高層H,8.0,高層,H,,,,,,KCSW
-3.0/F低層I,3.0,低層,I,,,,,,KCSW
-6.0/F中層I,6.0,中層,I,,,,,,KCSW
-8.0/F高層I,8.0,高層,I,,,,,,KCSW
-3.0/F低層J,3.0,低層,J,,,,,,KCSW
-6.0/F中層J,6.0,中層,J,,,,,,KCSW
-8.0/F高層J,8.0,高層,J,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層A,6.0,中層,A,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層A,8.0,高層,A,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層B,3.0,低層,B,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層B,6.0,中層,B,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層B,8.0,高層,B,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層C,3.0,低層,C,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層C,6.0,中層,C,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層C,8.0,高層,C,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層D,3.0,低層,D,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層D,6.0,中層,D,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層D,8.0,高層,D,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層D3,3.0,低層,D3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層D3,6.0,中層,D3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層D3,8.0,高層,D3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層E,3.0,低層,E,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層E,6.0,中層,E,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層E,8.0,高層,E,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層F,3.0,低層,F,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層F,6.0,中層,F,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層F,8.0,高層,F,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層G,3.0,低層,G,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層G,6.0,中層,G,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層G,8.0,高層,G,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層G3,3.0,低層,G3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層G3,6.0,中層,G3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層G3,8.0,高層,G3,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層H,3.0,低層,H,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層H,6.0,中層,H,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層H,8.0,高層,H,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層I,3.0,低層,I,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層I,6.0,中層,I,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層I,8.0,高層,I,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+3.0/F低層J,3.0,低層,J,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+6.0/F中層J,6.0,中層,J,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"
+8.0/F高層J,8.0,高層,J,,,,,,KCSW,"PENTA HSE,TAI PO RD|五聯大廈,大埔道"

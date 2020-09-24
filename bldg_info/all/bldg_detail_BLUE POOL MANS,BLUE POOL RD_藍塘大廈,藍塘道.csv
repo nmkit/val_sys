@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,13050144,16272,802,112,1,HHV
-4.0/F中層blank,4.0,中層,blank,18666870,16817,1110,144,1,HHV
-7.0/F高層blank,7.0,高層,blank,23936882,17434,1373,122,1,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,13223376,16488,802,112,1,HHV,"BLUE POOL MANS,BLUE POOL RD|藍塘大廈,藍塘道"
+4.0/F中層blank,4.0,中層,blank,18666870,16817,1110,144,1,HHV,"BLUE POOL MANS,BLUE POOL RD|藍塘大廈,藍塘道"
+7.0/F高層blank,7.0,高層,blank,23674639,17243,1373,122,1,HHV,"BLUE POOL MANS,BLUE POOL RD|藍塘大廈,藍塘道"

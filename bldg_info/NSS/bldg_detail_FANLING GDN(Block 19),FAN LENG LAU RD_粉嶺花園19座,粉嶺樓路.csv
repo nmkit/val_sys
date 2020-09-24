@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NSS
-2.0/F中層A,2.0,中層,A,,,,,,NSS
-3.0/F高層A,3.0,高層,A,,,,,,NSS
-2.0/F低層B,2.0,低層,B,,,,,,NSS
-2.0/F中層B,2.0,中層,B,,,,,,NSS
-3.0/F高層B,3.0,高層,B,,,,,,NSS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"
+2.0/F中層A,2.0,中層,A,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"
+3.0/F高層A,3.0,高層,A,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"
+2.0/F低層B,2.0,低層,B,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"
+2.0/F中層B,2.0,中層,B,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"
+3.0/F高層B,3.0,高層,B,,,,,,NSS,"FANLING GDN(Block 19),FAN LENG LAU RD|粉嶺花園19座,粉嶺樓路"

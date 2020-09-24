@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,NTM
-8.0/F中層A,8.0,中層,A,,,,,,NTM
-13.0/F高層A,13.0,高層,A,,,,,,NTM
-4.0/F低層B,4.0,低層,B,,,,,,NTM
-8.0/F中層B,8.0,中層,B,,,,,,NTM
-13.0/F高層B,13.0,高層,B,,,,,,NTM
-4.0/F低層C,4.0,低層,C,,,,,,NTM
-8.0/F中層C,8.0,中層,C,,,,,,NTM
-13.0/F高層C,13.0,高層,C,,,,,,NTM
-4.0/F低層D,4.0,低層,D,,,,,,NTM
-8.0/F中層D,8.0,中層,D,,,,,,NTM
-13.0/F高層D,13.0,高層,D,,,,,,NTM
-4.0/F低層E,4.0,低層,E,,,,,,NTM
-8.0/F中層E,8.0,中層,E,,,,,,NTM
-13.0/F高層E,13.0,高層,E,,,,,,NTM
-4.0/F低層F,4.0,低層,F,,,,,,NTM
-8.0/F中層F,8.0,中層,F,,,,,,NTM
-13.0/F高層F,13.0,高層,F,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層A,8.0,中層,A,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層A,13.0,高層,A,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+4.0/F低層B,4.0,低層,B,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層B,8.0,中層,B,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層B,13.0,高層,B,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+4.0/F低層C,4.0,低層,C,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層C,8.0,中層,C,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層C,13.0,高層,C,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+4.0/F低層D,4.0,低層,D,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層D,8.0,中層,D,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層D,13.0,高層,D,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+4.0/F低層E,4.0,低層,E,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層E,8.0,中層,E,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層E,13.0,高層,E,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+4.0/F低層F,4.0,低層,F,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+8.0/F中層F,8.0,中層,F,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"
+13.0/F高層F,13.0,高層,F,,,,,,NTM,"HANDSOME COURT(Block 9),CASTLE PEAK RD CASTLE PEAK BAY|恒順園9座,青山公路青山灣段"

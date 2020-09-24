@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,4781140,12922,370,380,3,KKT
-15.0/F中層blank,15.0,中層,blank,4995740,13502,370,384,3,KKT
-22.0/F高層blank,22.0,高層,blank,5160020,13946,370,374,3,KKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,4781140,12922,370,380,3,KKT,"KATHY'S COURT,TING FU ST|家利閣,定富街"
+15.0/F中層blank,15.0,中層,blank,4995740,13502,370,384,3,KKT,"KATHY'S COURT,TING FU ST|家利閣,定富街"
+22.0/F高層blank,22.0,高層,blank,5160020,13946,370,374,3,KKT,"KATHY'S COURT,TING FU ST|家利閣,定富街"

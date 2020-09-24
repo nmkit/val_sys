@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,9910930,48346,205,421,3,HSKW
-11.0/F中層blank,11.0,中層,blank,9999695,48779,205,414,3,HSKW
-17.0/F高層blank,17.0,高層,blank,10285055,50171,205,411,3,HSKW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,9910930,48346,205,421,3,HSKW,"TRUECOURSE TOWER,TAI SHEK ST|恒安閣,大石街"
+11.0/F中層blank,11.0,中層,blank,9999695,48779,205,414,3,HSKW,"TRUECOURSE TOWER,TAI SHEK ST|恒安閣,大石街"
+17.0/F高層blank,17.0,高層,blank,10285055,50171,205,411,3,HSKW,"TRUECOURSE TOWER,TAI SHEK ST|恒安閣,大石街"

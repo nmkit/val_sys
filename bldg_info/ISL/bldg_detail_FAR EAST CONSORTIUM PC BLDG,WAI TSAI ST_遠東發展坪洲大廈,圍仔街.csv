@@ -1,10 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,2346552,5014,468,150,1,ISL
-4.0/F中層B,4.0,中層,B,2358720,5040,468,102,1,ISL
-5.0/F高層B,5.0,高層,B,2370888,5066,468,101,1,ISL
-3.0/F低層G,3.0,低層,G,,,,,,ISL
-4.0/F中層G,4.0,中層,G,,,,,,ISL
-5.0/F高層G,5.0,高層,G,,,,,,ISL
-3.0/F低層H,3.0,低層,H,,,,,,ISL
-4.0/F中層H,4.0,中層,H,,,,,,ISL
-5.0/F高層H,5.0,高層,H,2208444,5172,427,150,1,ISL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+4.0/F中層A,4.0,中層,A,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+5.0/F高層A,5.0,高層,A,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+3.0/F低層B,3.0,低層,B,2346552,5014,468,150,1,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+4.0/F中層B,4.0,中層,B,2358720,5040,468,102,1,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+5.0/F高層B,5.0,高層,B,2370888,5066,468,101,1,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+3.0/F低層G,3.0,低層,G,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+4.0/F中層G,4.0,中層,G,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+5.0/F高層G,5.0,高層,G,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+3.0/F低層H,3.0,低層,H,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+4.0/F中層H,4.0,中層,H,,,,,,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"
+5.0/F高層H,5.0,高層,H,2208444,5172,427,150,1,ISL,"FAR EAST CONSORTIUM PC BLDG,WAI TSAI ST|遠東發展坪洲大廈,圍仔街"

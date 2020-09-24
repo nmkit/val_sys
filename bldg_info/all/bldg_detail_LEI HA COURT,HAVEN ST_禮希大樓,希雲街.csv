@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層11A,3.0,低層,11A,9062240,20596,440,352,5,HCB
-6.0/F中層11A,6.0,中層,11A,8904280,20237,440,354,5,HCB
-10.0/F高層11A,10.0,高層,11A,9153320,20803,440,356,5,HCB
-3.0/F低層blank,3.0,低層,blank,7307520,16608,440,368,3,HCB
-6.0/F中層blank,6.0,中層,blank,7912450,16835,470,369,3,HCB
-10.0/F高層blank,10.0,高層,blank,6942152,18712,371,373,3,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層11A,3.0,低層,11A,8922760,20279,440,352,5,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"
+6.0/F中層11A,6.0,中層,11A,8758640,19906,440,354,5,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"
+10.0/F高層11A,10.0,高層,11A,8997120,20448,440,356,5,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"
+3.0/F低層blank,3.0,低層,blank,7318080,16632,440,368,3,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"
+6.0/F中層blank,6.0,中層,blank,7874380,16754,470,369,3,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"
+10.0/F高層blank,10.0,高層,blank,7114667,19177,371,363,3,HCB,"LEI HA COURT,HAVEN ST|禮希大樓,希雲街"

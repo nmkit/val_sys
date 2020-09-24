@@ -1,22 +1,22 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,KKC
-8.0/F中層A,8.0,中層,A,,,,,,KKC
-11.0/F高層A,11.0,高層,A,,,,,,KKC
-6.0/F低層B,6.0,低層,B,,,,,,KKC
-8.0/F中層B,8.0,中層,B,,,,,,KKC
-11.0/F高層B,11.0,高層,B,,,,,,KKC
-6.0/F低層C,6.0,低層,C,,,,,,KKC
-8.0/F中層C,8.0,中層,C,,,,,,KKC
-11.0/F高層C,11.0,高層,C,,,,,,KKC
-6.0/F低層D,6.0,低層,D,,,,,,KKC
-8.0/F中層D,8.0,中層,D,,,,,,KKC
-11.0/F高層D,11.0,高層,D,,,,,,KKC
-6.0/F低層E,6.0,低層,E,,,,,,KKC
-8.0/F中層E,8.0,中層,E,,,,,,KKC
-11.0/F高層E,11.0,高層,E,,,,,,KKC
-6.0/F低層F,6.0,低層,F,,,,,,KKC
-8.0/F中層F,8.0,中層,F,,,,,,KKC
-11.0/F高層F,11.0,高層,F,,,,,,KKC
-6.0/F低層G,6.0,低層,G,,,,,,KKC
-8.0/F中層G,8.0,中層,G,,,,,,KKC
-11.0/F高層G,11.0,高層,G,,,,,,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層A,8.0,中層,A,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層A,11.0,高層,A,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層B,6.0,低層,B,13511123,19553,691,140,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層B,8.0,中層,B,13725333,19863,691,137,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層B,11.0,高層,B,14046648,20328,691,133,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層C,6.0,低層,C,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層C,8.0,中層,C,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層C,11.0,高層,C,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層D,6.0,低層,D,8839664,19051,464,64,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層D,8.0,中層,D,8979792,19353,464,62,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層D,11.0,高層,D,9190448,19807,464,59,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層E,6.0,低層,E,9221919,19093,483,67,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層E,8.0,中層,E,9368268,19396,483,65,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層E,11.0,高層,E,9587550,19850,483,62,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層F,6.0,低層,F,9101160,19080,477,66,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層F,8.0,中層,F,9245214,19382,477,64,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層F,11.0,高層,F,9462249,19837,477,61,1,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+6.0/F低層G,6.0,低層,G,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+8.0/F中層G,8.0,中層,G,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"
+11.0/F高層G,11.0,高層,G,,,,,,KKC,"KAM WO BLDG,LOK SHAN RD|金和大廈,落山道"

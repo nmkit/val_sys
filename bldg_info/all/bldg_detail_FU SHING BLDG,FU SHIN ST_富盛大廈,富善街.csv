@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,3413880,12644,270,223,2,NTP
-6.0/F中層A,6.0,中層,A,3463290,12827,270,232,2,NTP
-10.0/F高層A,10.0,高層,A,3529170,13071,270,244,2,NTP
-3.0/F低層B,3.0,低層,B,3534250,14137,250,64,1,NTP
-6.0/F中層B,6.0,中層,B,3585500,14342,250,67,1,NTP
-10.0/F高層B,10.0,高層,B,3653500,14614,250,71,1,NTP
-3.0/F低層C,3.0,低層,C,3517980,13796,255,66,1,NTP
-6.0/F中層C,6.0,中層,C,3568725,13995,255,69,1,NTP
-10.0/F高層C,10.0,高層,C,3636555,14261,255,73,1,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+6.0/F中層A,6.0,中層,A,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+10.0/F高層A,10.0,高層,A,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+3.0/F低層B,3.0,低層,B,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+6.0/F中層B,6.0,中層,B,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+10.0/F高層B,10.0,高層,B,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+3.0/F低層C,3.0,低層,C,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+6.0/F中層C,6.0,中層,C,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"
+10.0/F高層C,10.0,高層,C,,,,,,NTP,"FU SHING BLDG,FU SHIN ST|富盛大廈,富善街"

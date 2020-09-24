@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層4C,2.0,低層,4C,8612334,10026,859,150,1,KHH
-2.0/F中層4C,2.0,中層,4C,8612334,10026,859,150,1,KHH
-2.0/F高層4C,2.0,高層,4C,8612334,10026,859,150,1,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層4C,2.0,低層,4C,,,,,,KHH,"THE EVERGREEN,CHATHAM RD N|長豐園,漆咸道北"
+2.0/F中層4C,2.0,中層,4C,,,,,,KHH,"THE EVERGREEN,CHATHAM RD N|長豐園,漆咸道北"
+2.0/F高層4C,2.0,高層,4C,,,,,,KHH,"THE EVERGREEN,CHATHAM RD N|長豐園,漆咸道北"

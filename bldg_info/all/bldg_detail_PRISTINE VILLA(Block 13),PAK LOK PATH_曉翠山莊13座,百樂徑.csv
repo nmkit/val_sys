@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,11400336,13971,816,103,1,NST
-6.0/F中層A,6.0,中層,A,11541504,14144,816,105,1,NST
-9.0/F高層A,9.0,高層,A,11682672,14317,816,100,1,NST
-3.0/F低層B,3.0,低層,B,16240534,13682,1187,180,2,NST
-6.0/F中層B,6.0,中層,B,16371104,13792,1187,235,2,NST
-9.0/F高層B,9.0,高層,B,16773497,14131,1187,248,2,NST
-3.0/F低層C,3.0,低層,C,,,,,,NST
-6.0/F中層C,6.0,中層,C,,,,,,NST
-9.0/F高層C,9.0,高層,C,,,,,,NST
-3.0/F低層D,3.0,低層,D,,,,,,NST
-6.0/F中層D,6.0,中層,D,,,,,,NST
-9.0/F高層D,9.0,高層,D,,,,,,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,11400336,13971,816,103,1,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+6.0/F中層A,6.0,中層,A,11541504,14144,816,105,1,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+9.0/F高層A,9.0,高層,A,11682672,14317,816,100,1,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+3.0/F低層B,3.0,低層,B,16240534,13682,1187,180,2,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+6.0/F中層B,6.0,中層,B,16371104,13792,1187,235,2,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+9.0/F高層B,9.0,高層,B,16773497,14131,1187,248,2,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+3.0/F低層C,3.0,低層,C,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+6.0/F中層C,6.0,中層,C,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+9.0/F高層C,9.0,高層,C,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+3.0/F低層D,3.0,低層,D,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+6.0/F中層D,6.0,中層,D,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"
+9.0/F高層D,9.0,高層,D,,,,,,NST,"PRISTINE VILLA(Block 13),PAK LOK PATH|曉翠山莊13座,百樂徑"

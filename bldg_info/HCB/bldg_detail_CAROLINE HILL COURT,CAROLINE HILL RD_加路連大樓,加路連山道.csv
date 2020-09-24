@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,8371792,14636,572,419,3,HCB
-6.0/F中層blank,6.0,中層,blank,7811280,17130,456,381,3,HCB
-10.0/F高層blank,10.0,高層,blank,9662224,16892,572,380,3,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,9178312,16046,572,340,3,HCB,"CAROLINE HILL COURT,CAROLINE HILL RD|加路連大樓,加路連山道"
+6.0/F中層blank,6.0,中層,blank,7811280,17130,456,381,3,HCB,"CAROLINE HILL COURT,CAROLINE HILL RD|加路連大樓,加路連山道"
+10.0/F高層blank,10.0,高層,blank,9662224,16892,572,380,3,HCB,"CAROLINE HILL COURT,CAROLINE HILL RD|加路連大樓,加路連山道"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層D,2.0,低層,D,3091600,6550,472,266,3,KYMT
-4.0/F中層D,4.0,中層,D,3135968,6644,472,265,3,KYMT
-6.0/F高層D,6.0,高層,D,3181752,6741,472,262,3,KYMT
-2.0/F低層blank,2.0,低層,blank,3052424,6467,472,247,2,KYMT
-4.0/F中層blank,4.0,中層,blank,2981110,6610,451,242,2,KYMT
-6.0/F高層blank,6.0,高層,blank,3151072,6676,472,267,2,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層D,2.0,低層,D,3091600,6550,472,266,3,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"
+4.0/F中層D,4.0,中層,D,3135968,6644,472,265,3,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"
+6.0/F高層D,6.0,高層,D,3181752,6741,472,262,3,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"
+2.0/F低層blank,2.0,低層,blank,3052424,6467,472,247,2,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"
+4.0/F中層blank,4.0,中層,blank,2986973,6623,451,242,2,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"
+6.0/F高層blank,6.0,高層,blank,3151072,6676,472,267,2,KYMT,"KWONG YUE MANS,BATTERY ST|光裕大廈,炮台街"

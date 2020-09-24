@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,,,,,,KHMT
-6.0/F中層blank,6.0,中層,blank,,,,,,KHMT
-6.0/F高層blank,6.0,高層,blank,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,,,,,,KHMT,"NAIRN COURT,PRINCESS MARGARET RD|楠苑,公主道"
+6.0/F中層blank,6.0,中層,blank,,,,,,KHMT,"NAIRN COURT,PRINCESS MARGARET RD|楠苑,公主道"
+6.0/F高層blank,6.0,高層,blank,,,,,,KHMT,"NAIRN COURT,PRINCESS MARGARET RD|楠苑,公主道"

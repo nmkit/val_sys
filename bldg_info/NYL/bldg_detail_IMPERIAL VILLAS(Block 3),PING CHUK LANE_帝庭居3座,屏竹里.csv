@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,5035248,11496,438,126,2,NYL
-2.0/F中層A,2.0,中層,A,5035248,11496,438,126,2,NYL
-4.0/F高層A,4.0,高層,A,5360693,11479,467,140,2,NYL
-2.0/F低層B,2.0,低層,B,5744594,10502,547,63,1,NYL
-2.0/F中層B,2.0,中層,B,5744594,10502,547,63,1,NYL
-4.0/F高層B,4.0,高層,B,5802029,10607,547,63,1,NYL
-2.0/F低層C,2.0,低層,C,,,,,,NYL
-2.0/F中層C,2.0,中層,C,,,,,,NYL
-4.0/F高層C,4.0,高層,C,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-2.0/F中層D,2.0,中層,D,,,,,,NYL
-4.0/F高層D,4.0,高層,D,,,,,,NYL
-2.0/F低層E,2.0,低層,E,5311208,11158,476,150,2,NYL
-2.0/F中層E,2.0,中層,E,5311208,11158,476,150,2,NYL
-4.0/F高層E,4.0,高層,E,5614590,11118,505,147,2,NYL
-2.0/F低層F,2.0,低層,F,5677568,11089,512,149,2,NYL
-2.0/F中層F,2.0,中層,F,5677568,11089,512,149,2,NYL
-4.0/F高層F,4.0,高層,F,5737472,11206,512,152,2,NYL
-2.0/F低層G,2.0,低層,G,,,,,,NYL
-2.0/F中層G,2.0,中層,G,,,,,,NYL
-4.0/F高層G,4.0,高層,G,,,,,,NYL
-2.0/F低層H,2.0,低層,H,4826612,10822,446,46,1,NYL
-2.0/F中層H,2.0,中層,H,4826612,10822,446,46,1,NYL
-4.0/F高層H,4.0,高層,H,4874780,10930,446,46,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層A,2.0,中層,A,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層A,4.0,高層,A,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層B,2.0,中層,B,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層C,2.0,低層,C,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層C,2.0,中層,C,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層C,4.0,高層,C,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層D,2.0,中層,D,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層E,2.0,低層,E,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層E,2.0,中層,E,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層E,4.0,高層,E,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層F,2.0,低層,F,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層F,2.0,中層,F,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層F,4.0,高層,F,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層G,2.0,低層,G,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層G,2.0,中層,G,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層G,4.0,高層,G,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F低層H,2.0,低層,H,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+2.0/F中層H,2.0,中層,H,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"
+4.0/F高層H,4.0,高層,H,,,,,,NYL,"IMPERIAL VILLAS(Block 3),PING CHUK LANE|帝庭居3座,屏竹里"

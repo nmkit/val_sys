@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,4144325,8545,485,93,1,KYT
-4.0/F中層blank,4.0,中層,blank,3747110,7726,485,244,2,KYT
-5.0/F高層blank,5.0,高層,blank,4128022,8618,479,150,1,KYT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,,,,,,KYT,"KAR HING BLDG,CHA KWO LING RD|嘉慶樓,茶果嶺道"
+4.0/F中層blank,4.0,中層,blank,,,,,,KYT,"KAR HING BLDG,CHA KWO LING RD|嘉慶樓,茶果嶺道"
+5.0/F高層blank,5.0,高層,blank,,,,,,KYT,"KAR HING BLDG,CHA KWO LING RD|嘉慶樓,茶果嶺道"

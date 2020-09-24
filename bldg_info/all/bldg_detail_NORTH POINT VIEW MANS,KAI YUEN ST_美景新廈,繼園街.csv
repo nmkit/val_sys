@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,9716772,12207,796,95,1,HNP
-4.0/F中層A,4.0,中層,A,9836172,12357,796,98,1,HNP
-5.0/F高層A,5.0,高層,A,9895076,12431,796,150,1,HNP
-2.0/F低層C,2.0,低層,C,9103150,11746,775,236,2,HNP
-4.0/F中層C,4.0,中層,C,9204675,11877,775,195,2,HNP
-5.0/F高層C,5.0,高層,C,9246525,11931,775,254,2,HNP
-2.0/F低層E,2.0,低層,E,,,,,,HNP
-4.0/F中層E,4.0,中層,E,,,,,,HNP
-5.0/F高層E,5.0,高層,E,,,,,,HNP
-2.0/F低層E1,2.0,低層,E1,,,,,,HNP
-4.0/F中層E1,4.0,中層,E1,,,,,,HNP
-5.0/F高層E1,5.0,高層,E1,,,,,,HNP
-2.0/F低層F,2.0,低層,F,,,,,,HNP
-4.0/F中層F,4.0,中層,F,,,,,,HNP
-5.0/F高層F,5.0,高層,F,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,9716772,12207,796,95,1,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+4.0/F中層A,4.0,中層,A,9836172,12357,796,98,1,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+5.0/F高層A,5.0,高層,A,9895076,12431,796,150,1,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+2.0/F低層C,2.0,低層,C,9103150,11746,775,236,2,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+4.0/F中層C,4.0,中層,C,9204675,11877,775,195,2,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+5.0/F高層C,5.0,高層,C,9246525,11931,775,254,2,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+2.0/F低層E,2.0,低層,E,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+4.0/F中層E,4.0,中層,E,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+5.0/F高層E,5.0,高層,E,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+2.0/F低層E1,2.0,低層,E1,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+4.0/F中層E1,4.0,中層,E1,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+5.0/F高層E1,5.0,高層,E1,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+2.0/F低層F,2.0,低層,F,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+4.0/F中層F,4.0,中層,F,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"
+5.0/F高層F,5.0,高層,F,,,,,,HNP,"NORTH POINT VIEW MANS,KAI YUEN ST|美景新廈,繼園街"

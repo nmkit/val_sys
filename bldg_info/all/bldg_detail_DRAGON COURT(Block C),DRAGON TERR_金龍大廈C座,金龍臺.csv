@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層1,5.0,低層,1,20897340,18331,1140,162,2,HNP
-13.0/F中層1,13.0,中層,1,21939300,19245,1140,162,2,HNP
-21.0/F高層1,21.0,高層,1,22991520,20168,1140,162,2,HNP
-5.0/F低層2,5.0,低層,2,15819375,17875,885,216,3,HNP
-13.0/F中層2,13.0,中層,2,16825620,19012,885,324,3,HNP
-21.0/F高層2,21.0,高層,2,17493795,19767,885,231,3,HNP
-5.0/F低層3,5.0,低層,3,15241470,17222,885,127,2,HNP
-13.0/F中層3,13.0,中層,3,15999030,18078,885,127,2,HNP
-21.0/F高層3,21.0,高層,3,16766325,18945,885,127,2,HNP
-5.0/F低層4,5.0,低層,4,20814120,18258,1140,340,3,HNP
-13.0/F中層4,13.0,中層,4,21849240,19166,1140,328,3,HNP
-21.0/F高層4,21.0,高層,4,22895760,20084,1140,318,3,HNP
-5.0/F低層5,5.0,低層,5,,,,,,HNP
-13.0/F中層5,13.0,中層,5,,,,,,HNP
-21.0/F高層5,21.0,高層,5,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層1,5.0,低層,1,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+13.0/F中層1,13.0,中層,1,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+21.0/F高層1,21.0,高層,1,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+5.0/F低層2,5.0,低層,2,16647735,18811,885,89,1,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+13.0/F中層2,13.0,中層,2,17090235,19311,885,251,2,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+21.0/F高層2,21.0,高層,2,18386760,20776,885,104,1,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+5.0/F低層3,5.0,低層,3,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+13.0/F中層3,13.0,中層,3,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+21.0/F高層3,21.0,高層,3,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+5.0/F低層4,5.0,低層,4,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+13.0/F中層4,13.0,中層,4,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+21.0/F高層4,21.0,高層,4,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+5.0/F低層5,5.0,低層,5,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+13.0/F中層5,13.0,中層,5,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"
+21.0/F高層5,21.0,高層,5,,,,,,HNP,"DRAGON COURT(Block C),DRAGON TERR|金龍大廈C座,金龍臺"

@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,3975036,11973,332,94,1,KCSW
-8.0/F中層A,8.0,中層,A,4077292,12281,332,90,1,KCSW
-11.0/F高層A,11.0,高層,A,4153652,12511,332,87,1,KCSW
-4.0/F低層B,4.0,低層,B,4003380,11604,345,235,2,KCSW
-8.0/F中層B,8.0,中層,B,4098600,11880,345,230,2,KCSW
-11.0/F高層B,11.0,高層,B,4171395,12091,345,230,2,KCSW
-4.0/F低層C,4.0,低層,C,4108260,11908,345,96,1,KCSW
-8.0/F中層C,8.0,中層,C,4213830,12214,345,92,1,KCSW
-11.0/F高層C,11.0,高層,C,4292835,12443,345,89,1,KCSW
-4.0/F低層D,4.0,低層,D,3975036,11973,332,94,1,KCSW
-8.0/F中層D,8.0,中層,D,4077292,12281,332,90,1,KCSW
-11.0/F高層D,11.0,高層,D,4153652,12511,332,87,1,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+8.0/F中層A,8.0,中層,A,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+11.0/F高層A,11.0,高層,A,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+4.0/F低層B,4.0,低層,B,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+8.0/F中層B,8.0,中層,B,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+11.0/F高層B,11.0,高層,B,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+4.0/F低層C,4.0,低層,C,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+8.0/F中層C,8.0,中層,C,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+11.0/F高層C,11.0,高層,C,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+4.0/F低層D,4.0,低層,D,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+8.0/F中層D,8.0,中層,D,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"
+11.0/F高層D,11.0,高層,D,,,,,,KCSW,"GRANDVIEW MANS,APLIU ST|美景大廈,鴨寮街"

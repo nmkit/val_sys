@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層F.P.,2.0,低層,F.P.,3180630,10930,291,139,1,KKC
-3.0/F中層F.P.,3.0,中層,F.P.,3206238,11018,291,140,1,KKC
-4.0/F高層F.P.,4.0,高層,F.P.,3232137,11107,291,150,1,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層F.P.,2.0,低層,F.P.,3180630,10930,291,139,1,KKC,"KAM FAI MANS,NGA TSIN WAI RD|金輝樓,衙前圍道"
+3.0/F中層F.P.,3.0,中層,F.P.,3206238,11018,291,140,1,KKC,"KAM FAI MANS,NGA TSIN WAI RD|金輝樓,衙前圍道"
+4.0/F高層F.P.,4.0,高層,F.P.,3232137,11107,291,150,1,KKC,"KAM FAI MANS,NGA TSIN WAI RD|金輝樓,衙前圍道"

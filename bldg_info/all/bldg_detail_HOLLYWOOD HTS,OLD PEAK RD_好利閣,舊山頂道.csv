@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HMW
-11.0/F中層A,11.0,中層,A,,,,,,HMW
-17.0/F高層A,17.0,高層,A,,,,,,HMW
-6.0/F低層B,6.0,低層,B,,,,,,HMW
-11.0/F中層B,11.0,中層,B,,,,,,HMW
-17.0/F高層B,17.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"
+12.0/F中層A,12.0,中層,A,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"
+18.0/F高層A,18.0,高層,A,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"
+6.0/F低層B,6.0,低層,B,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"
+12.0/F中層B,12.0,中層,B,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"
+18.0/F高層B,18.0,高層,B,,,,,,HMW,"HOLLYWOOD HTS,OLD PEAK RD|好利閣,舊山頂道"

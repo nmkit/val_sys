@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,46324854,18702,2477,372,3,HPFL
-16.0/F中層blank,16.0,中層,blank,49334409,19917,2477,383,3,HPFL
-26.0/F高層blank,26.0,高層,blank,52007092,20996,2477,347,3,HPFL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,51016292,20596,2477,91,1,HPFL,"BAGUIO VILLA(Block 47),VICTORIA RD|碧瑤灣47座,域多利道"
+16.0/F中層blank,16.0,中層,blank,54003554,21802,2477,103,1,HPFL,"BAGUIO VILLA(Block 47),VICTORIA RD|碧瑤灣47座,域多利道"
+26.0/F高層blank,26.0,高層,blank,56990816,23008,2477,88,1,HPFL,"BAGUIO VILLA(Block 47),VICTORIA RD|碧瑤灣47座,域多利道"

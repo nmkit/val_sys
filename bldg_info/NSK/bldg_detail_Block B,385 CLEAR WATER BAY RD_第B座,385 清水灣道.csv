@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層F.P.,1.0,低層,F.P.,,,,,,NSK
-2.0/F中層F.P.,2.0,中層,F.P.,,,,,,NSK
-2.0/F高層F.P.,2.0,高層,F.P.,,,,,,NSK
-1.0/F低層R.P.,1.0,低層,R.P.,,,,,,NSK
-2.0/F中層R.P.,2.0,中層,R.P.,,,,,,NSK
-2.0/F高層R.P.,2.0,高層,R.P.,,,,,,NSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層F.P.,1.0,低層,F.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"
+2.0/F中層F.P.,2.0,中層,F.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"
+2.0/F高層F.P.,2.0,高層,F.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"
+1.0/F低層R.P.,1.0,低層,R.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"
+2.0/F中層R.P.,2.0,中層,R.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"
+2.0/F高層R.P.,2.0,高層,R.P.,,,,,,NSK,"Block B,385 CLEAR WATER BAY RD|第B座,385 清水灣道"

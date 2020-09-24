@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,4887015,14945,327,117,1,HSW
-8.0/F中層blank,8.0,中層,blank,5057382,15466,327,124,1,HSW
-12.0/F高層blank,12.0,高層,blank,5194068,15884,327,130,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,4887015,14945,327,117,1,HSW,"SHING WAN BLDG,DES VOEUX RD W|昇雲大廈,德輔道西"
+8.0/F中層blank,8.0,中層,blank,5057382,15466,327,124,1,HSW,"SHING WAN BLDG,DES VOEUX RD W|昇雲大廈,德輔道西"
+12.0/F高層blank,12.0,高層,blank,5194068,15884,327,130,1,HSW,"SHING WAN BLDG,DES VOEUX RD W|昇雲大廈,德輔道西"

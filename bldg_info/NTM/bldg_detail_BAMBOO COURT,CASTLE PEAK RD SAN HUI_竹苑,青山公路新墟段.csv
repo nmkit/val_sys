@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,4149600,10374,400,96,1,NTM
-6.0/F中層A,6.0,中層,A,3436800,8592,400,150,1,NTM
-9.0/F高層A,9.0,高層,A,4250000,10625,400,96,1,NTM
-3.0/F低層B,3.0,低層,B,4149600,10374,400,145,1,NTM
-6.0/F中層B,6.0,中層,B,4200000,10500,400,150,1,NTM
-9.0/F高層B,9.0,高層,B,4250000,10625,400,145,1,NTM
-3.0/F低層C,3.0,低層,C,3839325,10815,355,89,1,NTM
-6.0/F中層C,6.0,中層,C,3885830,10946,355,92,1,NTM
-9.0/F高層C,9.0,高層,C,3931980,11076,355,89,1,NTM
-3.0/F低層D,3.0,低層,D,3839325,10815,355,89,1,NTM
-6.0/F中層D,6.0,中層,D,3885830,10946,355,92,1,NTM
-9.0/F高層D,9.0,高層,D,3931980,11076,355,89,1,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+6.0/F中層A,6.0,中層,A,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+9.0/F高層A,9.0,高層,A,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+3.0/F低層B,3.0,低層,B,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+6.0/F中層B,6.0,中層,B,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+9.0/F高層B,9.0,高層,B,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+3.0/F低層C,3.0,低層,C,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+6.0/F中層C,6.0,中層,C,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+9.0/F高層C,9.0,高層,C,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+3.0/F低層D,3.0,低層,D,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+6.0/F中層D,6.0,中層,D,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"
+9.0/F高層D,9.0,高層,D,,,,,,NTM,"BAMBOO COURT,CASTLE PEAK RD SAN HUI|竹苑,青山公路新墟段"

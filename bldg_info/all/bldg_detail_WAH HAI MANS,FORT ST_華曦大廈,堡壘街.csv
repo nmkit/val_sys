@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HNP
-13.0/F中層A,13.0,中層,A,,,,,,HNP
-20.0/F高層A,20.0,高層,A,,,,,,HNP
-6.0/F低層B,6.0,低層,B,8123010,11522,705,118,2,HNP
-13.0/F中層B,13.0,中層,B,8176680,12204,670,147,2,HNP
-20.0/F高層B,20.0,高層,B,8610086,12718,677,166,2,HNP
-6.0/F低層C,6.0,低層,C,,,,,,HNP
-13.0/F中層C,13.0,中層,C,,,,,,HNP
-20.0/F高層C,20.0,高層,C,,,,,,HNP
-6.0/F低層D,6.0,低層,D,,,,,,HNP
-13.0/F中層D,13.0,中層,D,11006575,11899,925,150,1,HNP
-20.0/F高層D,20.0,高層,D,,,,,,HNP
-6.0/F低層E,6.0,低層,E,,,,,,HNP
-13.0/F中層E,13.0,中層,E,,,,,,HNP
-20.0/F高層E,20.0,高層,E,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+13.0/F中層A,13.0,中層,A,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+20.0/F高層A,20.0,高層,A,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+6.0/F低層B,6.0,低層,B,8001045,11349,705,118,2,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+13.0/F中層B,13.0,中層,B,8086230,12069,670,147,2,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+20.0/F高層B,20.0,高層,B,8508536,12568,677,166,2,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+6.0/F低層C,6.0,低層,C,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+13.0/F中層C,13.0,中層,C,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+20.0/F高層C,20.0,高層,C,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+6.0/F低層D,6.0,低層,D,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+13.0/F中層D,13.0,中層,D,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+20.0/F高層D,20.0,高層,D,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+6.0/F低層E,6.0,低層,E,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+13.0/F中層E,13.0,中層,E,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"
+20.0/F高層E,20.0,高層,E,,,,,,HNP,"WAH HAI MANS,FORT ST|華曦大廈,堡壘街"

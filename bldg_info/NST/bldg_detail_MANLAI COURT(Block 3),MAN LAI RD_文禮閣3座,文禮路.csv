@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,9624329,15301,629,112,1,NST
-10.0/F中層A,10.0,中層,A,9860833,15677,629,106,1,NST
-17.0/F高層A,17.0,高層,A,10137593,16117,629,96,1,NST
-4.0/F低層B,4.0,低層,B,9790634,15274,641,74,1,NST
-10.0/F中層B,10.0,中層,B,10031650,15650,641,70,1,NST
-17.0/F高層B,17.0,高層,B,10313049,16089,641,63,1,NST
-4.0/F低層C,4.0,低層,C,9790634,15274,641,74,1,NST
-10.0/F中層C,10.0,中層,C,10031650,15650,641,70,1,NST
-17.0/F高層C,17.0,高層,C,10313049,16089,641,63,1,NST
-4.0/F低層D,4.0,低層,D,9624329,15301,629,75,1,NST
-10.0/F中層D,10.0,中層,D,9860833,15677,629,71,1,NST
-17.0/F高層D,17.0,高層,D,10137593,16117,629,64,1,NST
-4.0/F低層E,4.0,低層,E,9624329,15301,629,75,1,NST
-10.0/F中層E,10.0,中層,E,9860833,15677,629,71,1,NST
-17.0/F高層E,17.0,高層,E,10137593,16117,629,64,1,NST
-4.0/F低層F,4.0,低層,F,9790634,15274,641,74,1,NST
-10.0/F中層F,10.0,中層,F,10031650,15650,641,70,1,NST
-17.0/F高層F,17.0,高層,F,10313049,16089,641,63,1,NST
-4.0/F低層G,4.0,低層,G,9790634,15274,641,74,1,NST
-10.0/F中層G,10.0,中層,G,10031650,15650,641,70,1,NST
-17.0/F高層G,17.0,高層,G,10313049,16089,641,63,1,NST
-4.0/F低層H,4.0,低層,H,9624329,15301,629,75,1,NST
-10.0/F中層H,10.0,中層,H,9860833,15677,629,71,1,NST
-17.0/F高層H,17.0,高層,H,10137593,16117,629,64,1,NST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層A,10.0,中層,A,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層A,17.0,高層,A,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層B,4.0,低層,B,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層B,10.0,中層,B,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層B,17.0,高層,B,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層C,4.0,低層,C,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層C,10.0,中層,C,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層C,17.0,高層,C,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層D,4.0,低層,D,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層D,10.0,中層,D,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層D,17.0,高層,D,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層E,4.0,低層,E,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層E,10.0,中層,E,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層E,17.0,高層,E,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層F,4.0,低層,F,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層F,10.0,中層,F,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層F,17.0,高層,F,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層G,4.0,低層,G,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層G,10.0,中層,G,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層G,17.0,高層,G,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+4.0/F低層H,4.0,低層,H,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+10.0/F中層H,10.0,中層,H,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"
+17.0/F高層H,17.0,高層,H,,,,,,NST,"MANLAI COURT(Block 3),MAN LAI RD|文禮閣3座,文禮路"

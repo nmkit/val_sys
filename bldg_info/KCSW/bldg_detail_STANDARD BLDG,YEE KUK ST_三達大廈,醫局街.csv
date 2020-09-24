@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KCSW
-4.0/F中層A,4.0,中層,A,,,,,,KCSW
-5.0/F高層A,5.0,高層,A,,,,,,KCSW
-3.0/F低層C,3.0,低層,C,,,,,,KCSW
-4.0/F中層C,4.0,中層,C,,,,,,KCSW
-5.0/F高層C,5.0,高層,C,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"
+4.0/F中層A,4.0,中層,A,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"
+5.0/F高層A,5.0,高層,A,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"
+3.0/F低層C,3.0,低層,C,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"
+4.0/F中層C,4.0,中層,C,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"
+5.0/F高層C,5.0,高層,C,,,,,,KCSW,"STANDARD BLDG,YEE KUK ST|三達大廈,醫局街"

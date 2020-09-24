@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,,,,,,HMW
-6.0/F中層blank,6.0,中層,blank,,,,,,HMW
-8.0/F高層blank,8.0,高層,blank,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,HMW,"HORIZON MANS,MACDONNELL RD|崇華大廈,麥當勞道"
+6.0/F中層blank,6.0,中層,blank,,,,,,HMW,"HORIZON MANS,MACDONNELL RD|崇華大廈,麥當勞道"
+8.0/F高層blank,8.0,高層,blank,,,,,,HMW,"HORIZON MANS,MACDONNELL RD|崇華大廈,麥當勞道"

@@ -1,13 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KKL
-4.0/F中層A,4.0,中層,A,,,,,,KKL
-6.0/F高層A,6.0,高層,A,,,,,,KKL
-2.0/F低層B,2.0,低層,B,,,,,,KKL
-4.0/F中層B,4.0,中層,B,,,,,,KKL
-6.0/F高層B,6.0,高層,B,,,,,,KKL
-2.0/F低層C,2.0,低層,C,20407385,77009,265,425,3,KKL
-4.0/F中層C,4.0,中層,C,20877230,78782,265,416,3,KKL
-6.0/F高層C,6.0,高層,C,21345220,80548,265,407,3,KKL
-2.0/F低層D,2.0,低層,D,21047936,75712,278,437,3,KKL
-4.0/F中層D,4.0,中層,D,21544444,77498,278,434,3,KKL
-6.0/F高層D,6.0,高層,D,22199968,79856,278,432,3,KKL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+4.0/F中層A,4.0,中層,A,,,,,,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+6.0/F高層A,6.0,高層,A,,,,,,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+2.0/F低層B,2.0,低層,B,20178210,50070,403,311,4,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+4.0/F中層B,4.0,中層,B,21235682,52694,403,309,4,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+6.0/F高層B,6.0,高層,B,21728551,53917,403,307,4,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+2.0/F低層C,2.0,低層,C,19748330,74522,265,425,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+4.0/F中層C,4.0,中層,C,20203865,76241,265,416,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+6.0/F高層C,6.0,高層,C,20658075,77955,265,407,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+2.0/F低層D,2.0,低層,D,21047936,75712,278,437,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+4.0/F中層D,4.0,中層,D,21544444,77498,278,434,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+6.0/F高層D,6.0,高層,D,22199968,79856,278,432,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+2.0/F低層E,2.0,低層,E,20802908,72484,287,331,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+4.0/F中層E,4.0,中層,E,21458703,74769,287,327,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"
+6.0/F高層E,6.0,高層,E,22034712,76776,287,324,3,KKL,"AYTON(Block 2),INVERNESS RD|雋睿2座,延文禮士道"

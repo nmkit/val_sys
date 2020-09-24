@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,19416135,17635,1101,118,1,KYMT
-4.0/F中層blank,4.0,中層,blank,15821793,19461,813,258,2,KYMT
-6.0/F高層blank,6.0,高層,blank,16031547,19719,813,260,2,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,20609619,18719,1101,266,2,KYMT,"KUNG SHEUNG MANS,SHANGHAI ST|工商大廈,上海街"
+4.0/F中層blank,4.0,中層,blank,15749436,19372,813,258,2,KYMT,"KUNG SHEUNG MANS,SHANGHAI ST|工商大廈,上海街"
+6.0/F高層blank,6.0,高層,blank,15960816,19632,813,260,2,KYMT,"KUNG SHEUNG MANS,SHANGHAI ST|工商大廈,上海街"

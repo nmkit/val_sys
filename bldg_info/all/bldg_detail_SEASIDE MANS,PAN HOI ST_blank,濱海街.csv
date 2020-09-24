@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,29148770,50170,581,236,2,HQB
-4.0/F中層blank,4.0,中層,blank,34688284,49484,701,218,2,HQB
-6.0/F高層blank,6.0,高層,blank,23682600,52628,450,292,2,HQB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,29019207,49947,581,236,2,HQB,"SEASIDE MANS,PAN HOI ST|blank,濱海街"
+4.0/F中層blank,4.0,中層,blank,34390359,49059,701,218,2,HQB,"SEASIDE MANS,PAN HOI ST|blank,濱海街"
+6.0/F高層blank,6.0,高層,blank,23706450,52681,450,292,2,HQB,"SEASIDE MANS,PAN HOI ST|blank,濱海街"

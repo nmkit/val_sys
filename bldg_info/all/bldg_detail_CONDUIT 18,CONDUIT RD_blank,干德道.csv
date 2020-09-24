@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-9.0/F低層A,9.0,低層,A,,,,,,HMW
-16.0/F中層A,16.0,中層,A,,,,,,HMW
-20.0/F高層A,20.0,高層,A,,,,,,HMW
-9.0/F低層B,9.0,低層,B,,,,,,HMW
-16.0/F中層B,16.0,中層,B,,,,,,HMW
-20.0/F高層B,20.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,39365172,42603,924,144,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"
+16.0/F中層A,16.0,中層,A,41275080,44670,924,133,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"
+20.0/F高層A,20.0,高層,A,42366324,45851,924,127,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"
+9.0/F低層B,9.0,低層,B,39365172,42603,924,96,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"
+16.0/F中層B,16.0,中層,B,41275080,44670,924,89,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"
+20.0/F高層B,20.0,高層,B,42366324,45851,924,85,1,HMW,"CONDUIT 18,CONDUIT RD|blank,干德道"

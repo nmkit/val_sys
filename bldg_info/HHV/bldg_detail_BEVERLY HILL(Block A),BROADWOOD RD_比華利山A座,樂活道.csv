@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層1,7.0,低層,1,33654100,20092,1675,145,2,HHV
-18.0/F中層1,18.0,中層,1,36260400,21648,1675,160,2,HHV
-29.0/F高層1,29.0,高層,1,38910016,23216,1676,134,2,HHV
-7.0/F低層2,7.0,低層,2,28552860,19530,1462,96,1,HHV
-18.0/F中層2,18.0,中層,2,33028042,22591,1462,262,2,HHV
-29.0/F高層2,29.0,高層,2,33125996,22658,1462,99,1,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層1,7.0,低層,1,,,,,,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"
+18.0/F中層1,18.0,中層,1,,,,,,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"
+29.0/F高層1,29.0,高層,1,,,,,,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"
+7.0/F低層2,7.0,低層,2,34911098,23879,1462,93,1,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"
+18.0/F中層2,18.0,中層,2,37627494,25737,1462,100,1,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"
+29.0/F高層2,29.0,高層,2,40343890,27595,1462,84,1,HHV,"BEVERLY HILL(Block A),BROADWOOD RD|比華利山A座,樂活道"

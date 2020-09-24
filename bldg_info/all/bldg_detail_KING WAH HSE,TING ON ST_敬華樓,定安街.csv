@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KKT
-2.0/F中層A,2.0,中層,A,,,,,,KKT
-4.0/F高層A,4.0,高層,A,,,,,,KKT
-2.0/F低層B,2.0,低層,B,,,,,,KKT
-2.0/F中層B,2.0,中層,B,,,,,,KKT
-4.0/F高層B,4.0,高層,B,,,,,,KKT
-2.0/F低層C,2.0,低層,C,,,,,,KKT
-2.0/F中層C,2.0,中層,C,,,,,,KKT
-4.0/F高層C,4.0,高層,C,,,,,,KKT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+2.0/F中層A,2.0,中層,A,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+4.0/F高層A,4.0,高層,A,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+2.0/F低層B,2.0,低層,B,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+2.0/F中層B,2.0,中層,B,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+4.0/F高層B,4.0,高層,B,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+2.0/F低層C,2.0,低層,C,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+2.0/F中層C,2.0,中層,C,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"
+4.0/F高層C,4.0,高層,C,,,,,,KKT,"KING WAH HSE,TING ON ST|敬華樓,定安街"

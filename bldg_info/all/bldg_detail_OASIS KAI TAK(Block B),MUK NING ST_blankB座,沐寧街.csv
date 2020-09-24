@@ -1,7 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,44839410,30503,1470,237,2,KKAI
-2.0/F中層A,2.0,中層,A,44839410,30503,1470,237,2,KKAI
-2.0/F高層A,2.0,高層,A,44839410,30503,1470,237,2,KKAI
-2.0/F低層C,2.0,低層,C,45610920,31155,1464,225,2,KKAI
-2.0/F中層C,2.0,中層,C,45610920,31155,1464,225,2,KKAI
-2.0/F高層C,2.0,高層,C,45610920,31155,1464,225,2,KKAI
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F中層A,2.0,中層,A,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F高層A,2.0,高層,A,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F低層B,2.0,低層,B,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F中層B,2.0,中層,B,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F高層B,2.0,高層,B,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F低層C,2.0,低層,C,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F中層C,2.0,中層,C,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"
+2.0/F高層C,2.0,高層,C,,,,,,KKAI,"OASIS KAI TAK(Block B),MUK NING ST|blankB座,沐寧街"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,13256530,17794,745,150,1,HSW
-8.0/F中層A,8.0,中層,A,13602210,18258,745,87,1,HSW
-13.0/F高層A,13.0,高層,A,13626000,18925,720,76,1,HSW
-4.0/F低層B,4.0,低層,B,,,,,,HSW
-8.0/F中層B,8.0,中層,B,,,,,,HSW
-13.0/F高層B,13.0,高層,B,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,42590160,57168,745,96,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"
+8.0/F中層A,8.0,中層,A,43701700,58660,745,92,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"
+13.0/F高層A,13.0,高層,A,43778880,60804,720,85,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"
+4.0/F低層B,4.0,低層,B,42590160,57168,745,150,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"
+8.0/F中層B,8.0,中層,B,43701700,58660,745,138,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"
+13.0/F高層B,13.0,高層,B,43778880,60804,720,127,1,HSW,"CHONG YUEN,HOSPITAL RD|暢苑,醫院道"

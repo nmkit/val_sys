@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,6478755,18779,345,162,2,HSW
-12.0/F中層A,12.0,中層,A,6760620,19596,345,177,2,HSW
-20.0/F高層A,20.0,高層,A,7135980,20684,345,197,2,HSW
-6.0/F低層B,6.0,低層,B,6673680,19344,345,320,3,HSW
-12.0/F中層B,12.0,中層,B,6737160,19528,345,185,2,HSW
-20.0/F高層B,20.0,高層,B,7103895,20591,345,355,3,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"
+13.0/F中層A,13.0,中層,A,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"
+20.0/F高層A,20.0,高層,A,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"
+6.0/F低層B,6.0,低層,B,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"
+13.0/F中層B,13.0,中層,B,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"
+20.0/F高層B,20.0,高層,B,,,,,,HSW,"LILIAN COURT,SHELLEY ST|莉景閣,些利街"

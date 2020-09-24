@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層D,1.0,低層,D,,,,,,HCB
-2.0/F中層D,2.0,中層,D,,,,,,HCB
-3.0/F高層D,3.0,高層,D,,,,,,HCB
-1.0/F低層E,1.0,低層,E,,,,,,HCB
-2.0/F中層E,2.0,中層,E,,,,,,HCB
-3.0/F高層E,3.0,高層,E,,,,,,HCB
-1.0/F低層F,1.0,低層,F,,,,,,HCB
-2.0/F中層F,2.0,中層,F,,,,,,HCB
-3.0/F高層F,3.0,高層,F,,,,,,HCB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層D,1.0,低層,D,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+2.0/F中層D,2.0,中層,D,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+3.0/F高層D,3.0,高層,D,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+1.0/F低層E,1.0,低層,E,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+2.0/F中層E,2.0,中層,E,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+3.0/F高層E,3.0,高層,E,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+1.0/F低層F,1.0,低層,F,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+2.0/F中層F,2.0,中層,F,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"
+3.0/F高層F,3.0,高層,F,,,,,,HCB,"VERDE GREEN,WANG FUNG TERR|怡翠軒,宏豐臺"

@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,6187662,7677,806,150,1,NYL
-2.0/F中層A,2.0,中層,A,6187662,7677,806,150,1,NYL
-4.0/F高層A,4.0,高層,A,6248918,7753,806,105,1,NYL
-2.0/F低層B,2.0,低層,B,,,,,,NYL
-2.0/F中層B,2.0,中層,B,,,,,,NYL
-4.0/F高層B,4.0,高層,B,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-2.0/F中層D,2.0,中層,D,,,,,,NYL
-4.0/F高層D,4.0,高層,D,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,6187662,7677,806,150,1,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+2.0/F中層A,2.0,中層,A,6187662,7677,806,150,1,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+4.0/F高層A,4.0,高層,A,6248918,7753,806,105,1,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+2.0/F中層B,2.0,中層,B,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+2.0/F中層D,2.0,中層,D,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"JASPER COURT(Block 3),MA FUNG LING RD|瑋珊園3座,孖峰嶺路"

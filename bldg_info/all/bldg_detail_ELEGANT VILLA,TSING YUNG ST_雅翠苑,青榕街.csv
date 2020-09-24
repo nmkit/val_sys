@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,NTM
-14.0/F中層A,14.0,中層,A,,,,,,NTM
-21.0/F高層A,21.0,高層,A,,,,,,NTM
-6.0/F低層B,6.0,低層,B,,,,,,NTM
-14.0/F中層B,14.0,中層,B,,,,,,NTM
-21.0/F高層B,21.0,高層,B,,,,,,NTM
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,28005120,20592,1360,203,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"
+14.0/F中層A,14.0,中層,A,28957120,21292,1360,223,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"
+21.0/F高層A,21.0,高層,A,29788080,21903,1360,238,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"
+6.0/F低層B,6.0,低層,B,27935760,20541,1360,201,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"
+14.0/F中層B,14.0,中層,B,28889120,21242,1360,221,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"
+21.0/F高層B,21.0,高層,B,29722800,21855,1360,237,2,NTM,"ELEGANT VILLA,TSING YUNG ST|雅翠苑,青榕街"

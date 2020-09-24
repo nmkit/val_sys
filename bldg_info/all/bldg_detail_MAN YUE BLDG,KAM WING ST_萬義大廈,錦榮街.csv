@@ -1,22 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層1,2.0,低層,1,3720435,7671,485,170,2,KSPK
-3.0/F中層1,3.0,中層,1,3738865,7709,485,172,2,KSPK
-4.0/F高層1,4.0,高層,1,3725770,7682,485,229,2,KSPK
-2.0/F低層11,2.0,低層,11,2592520,7880,329,154,2,KSPK
-3.0/F中層11,3.0,中層,11,2605351,7919,329,156,2,KSPK
-4.0/F高層11,4.0,高層,11,2616208,7952,329,157,2,KSPK
-2.0/F低層3,2.0,低層,3,3266214,8186,399,78,1,KSPK
-3.0/F中層3,3.0,中層,3,3282573,8227,399,79,1,KSPK
-4.0/F高層3,4.0,高層,3,3298932,8268,399,78,1,KSPK
-2.0/F低層4,2.0,低層,4,3756480,7826,480,229,2,KSPK
-3.0/F中層4,3.0,中層,4,3800088,7884,482,178,2,KSPK
-4.0/F高層4,4.0,高層,4,3819368,7924,482,176,2,KSPK
-2.0/F低層5,2.0,低層,5,3843468,7974,482,79,1,KSPK
-3.0/F中層5,3.0,中層,5,3862748,8014,482,80,1,KSPK
-4.0/F高層5,4.0,高層,5,3882028,8054,482,79,1,KSPK
-2.0/F低層7,2.0,低層,7,3551949,8091,439,127,1,KSPK
-3.0/F中層7,3.0,中層,7,3569509,8131,439,150,1,KSPK
-4.0/F高層7,4.0,高層,7,3587508,8172,439,127,1,KSPK
-2.0/F低層8,2.0,低層,8,3962000,7924,500,77,1,KSPK
-3.0/F中層8,3.0,中層,8,3982000,7964,500,78,1,KSPK
-4.0/F高層8,4.0,高層,8,4002000,8004,500,77,1,KSPK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層1,2.0,低層,1,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層1,3.0,中層,1,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層1,4.0,高層,1,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層11,2.0,低層,11,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層11,3.0,中層,11,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層11,4.0,高層,11,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層3,2.0,低層,3,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層3,3.0,中層,3,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層3,4.0,高層,3,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層4,2.0,低層,4,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層4,3.0,中層,4,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層4,4.0,高層,4,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層5,2.0,低層,5,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層5,3.0,中層,5,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層5,4.0,高層,5,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層6,2.0,低層,6,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層6,3.0,中層,6,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層6,4.0,高層,6,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層7,2.0,低層,7,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層7,3.0,中層,7,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層7,4.0,高層,7,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+2.0/F低層8,2.0,低層,8,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+3.0/F中層8,3.0,中層,8,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"
+4.0/F高層8,4.0,高層,8,,,,,,KSPK,"MAN YUE BLDG,KAM WING ST|萬義大廈,錦榮街"

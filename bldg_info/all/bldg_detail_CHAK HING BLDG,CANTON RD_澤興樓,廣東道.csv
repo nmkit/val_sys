@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KYMT
-5.0/F中層A,5.0,中層,A,,,,,,KYMT
-8.0/F高層A,8.0,高層,A,,,,,,KYMT
-2.0/F低層B,2.0,低層,B,4437940,8788,505,105,1,KYMT
-5.0/F中層B,5.0,中層,B,4533890,8978,505,100,1,KYMT
-8.0/F高層B,8.0,高層,B,3354124,9694,346,54,1,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"
+5.0/F中層A,5.0,中層,A,,,,,,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"
+8.0/F高層A,8.0,高層,A,,,,,,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"
+2.0/F低層B,2.0,低層,B,4437940,8788,505,105,1,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"
+5.0/F中層B,5.0,中層,B,4533890,8978,505,100,1,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"
+8.0/F高層B,8.0,高層,B,3264510,9435,346,54,1,KYMT,"CHAK HING BLDG,CANTON RD|澤興樓,廣東道"

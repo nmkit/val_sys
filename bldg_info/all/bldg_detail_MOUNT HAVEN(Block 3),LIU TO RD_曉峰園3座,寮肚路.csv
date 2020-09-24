@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,9708880,12560,773,265,3,NTY
-12.0/F中層A,12.0,中層,A,9906768,12816,773,286,3,NTY
-20.0/F高層A,20.0,高層,A,10153355,13135,773,288,3,NTY
-6.0/F低層B,6.0,低層,B,7196884,13133,548,237,3,NTY
-12.0/F中層B,12.0,中層,B,7343200,13400,548,258,3,NTY
-20.0/F高層B,20.0,高層,B,7536644,13753,548,249,3,NTY
-6.0/F低層C,6.0,低層,C,7196336,13132,548,191,3,NTY
-12.0/F中層C,12.0,中層,C,7342652,13399,548,209,3,NTY
-20.0/F高層C,20.0,高層,C,7535548,13751,548,203,3,NTY
-6.0/F低層D,6.0,低層,D,9867276,12618,782,223,3,NTY
-12.0/F中層D,12.0,中層,D,10068250,12875,782,241,3,NTY
-20.0/F高層D,20.0,高層,D,10322400,13200,782,235,3,NTY
-6.0/F低層E,6.0,低層,E,10294280,12554,820,290,4,NTY
-12.0/F中層E,12.0,中層,E,10667380,13009,820,238,3,NTY
-20.0/F高層E,20.0,高層,E,10932240,13332,820,232,3,NTY
-6.0/F低層F,6.0,低層,F,7196336,13132,548,191,3,NTY
-12.0/F中層F,12.0,中層,F,7342652,13399,548,209,3,NTY
-20.0/F高層F,20.0,高層,F,7525136,13732,548,353,4,NTY
-6.0/F低層G,6.0,低層,G,7196336,13132,548,191,3,NTY
-12.0/F中層G,12.0,中層,G,7342652,13399,548,209,3,NTY
-20.0/F高層G,20.0,高層,G,7535548,13751,548,203,3,NTY
-6.0/F低層H,6.0,低層,H,10173069,12513,813,326,4,NTY
-12.0/F中層H,12.0,中層,H,10471440,12880,813,315,3,NTY
-20.0/F高層H,20.0,高層,H,10781193,13261,813,267,3,NTY
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層A,12.0,中層,A,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層A,20.0,高層,A,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層B,6.0,低層,B,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層B,12.0,中層,B,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層B,20.0,高層,B,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層C,6.0,低層,C,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層C,12.0,中層,C,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層C,20.0,高層,C,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層D,6.0,低層,D,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層D,12.0,中層,D,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層D,20.0,高層,D,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層E,6.0,低層,E,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層E,12.0,中層,E,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層E,20.0,高層,E,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層F,6.0,低層,F,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層F,12.0,中層,F,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層F,20.0,高層,F,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層G,6.0,低層,G,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層G,12.0,中層,G,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層G,20.0,高層,G,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+6.0/F低層H,6.0,低層,H,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+12.0/F中層H,12.0,中層,H,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"
+20.0/F高層H,20.0,高層,H,,,,,,NTY,"MOUNT HAVEN(Block 3),LIU TO RD|曉峰園3座,寮肚路"

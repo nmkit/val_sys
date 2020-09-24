@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,6741260,10873,620,208,2,HSW
-5.0/F中層blank,5.0,中層,blank,5654185,10979,515,180,2,HSW
-8.0/F高層blank,8.0,高層,blank,7027236,11316,621,260,2,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,,,,,,HSW,"KAM LING COURT,WHITTY ST|金陵大廈,屈地街"
+5.0/F中層blank,5.0,中層,blank,,,,,,HSW,"KAM LING COURT,WHITTY ST|金陵大廈,屈地街"
+8.0/F高層blank,8.0,高層,blank,,,,,,HSW,"KAM LING COURT,WHITTY ST|金陵大廈,屈地街"

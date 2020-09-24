@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,9219123,17971,513,382,3,HSW
-14.0/F中層blank,14.0,中層,blank,10092249,19673,513,415,3,HSW
-21.0/F高層blank,21.0,高層,blank,10118412,19724,513,390,3,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,9177570,17890,513,381,3,HSW,"TIM PO COURT,CAINE RD|添寶閣,堅道"
+13.0/F中層blank,13.0,中層,blank,9658251,18827,513,393,3,HSW,"TIM PO COURT,CAINE RD|添寶閣,堅道"
+21.0/F高層blank,21.0,高層,blank,10141497,19769,513,390,3,HSW,"TIM PO COURT,CAINE RD|添寶閣,堅道"

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,2633454,6361,414,109,1,NYL
-4.0/F中層blank,4.0,中層,blank,3330630,8045,414,150,1,NYL
-4.0/F高層blank,4.0,高層,blank,3330630,8045,414,150,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,2640492,6378,414,109,1,NYL,"MAN WAH BLDG,YUEN LONG PAU CHEUNG SQUARE|萬華樓,元朗炮仗坊"
+4.0/F中層blank,4.0,中層,blank,3330630,8045,414,150,1,NYL,"MAN WAH BLDG,YUEN LONG PAU CHEUNG SQUARE|萬華樓,元朗炮仗坊"
+4.0/F高層blank,4.0,高層,blank,3330630,8045,414,150,1,NYL,"MAN WAH BLDG,YUEN LONG PAU CHEUNG SQUARE|萬華樓,元朗炮仗坊"

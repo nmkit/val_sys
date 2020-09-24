@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-22.0/F低層A,22.0,低層,A,14400539,29329,491,362,4,HSKW
-68.0/F中層A,68.0,中層,A,,,,,,HSKW
-102.0/F高層A,102.0,高層,A,,,,,,HSKW
-22.0/F低層B,22.0,低層,B,11147046,31137,358,347,3,HSKW
-68.0/F中層B,68.0,中層,B,,,,,,HSKW
-102.0/F高層B,102.0,高層,B,,,,,,HSKW
-22.0/F低層C,22.0,低層,C,13081239,26751,489,348,3,HSKW
-68.0/F中層C,68.0,中層,C,,,,,,HSKW
-102.0/F高層C,102.0,高層,C,,,,,,HSKW
-22.0/F低層D,22.0,低層,D,13192764,26706,494,340,3,HSKW
-68.0/F中層D,68.0,中層,D,,,,,,HSKW
-102.0/F高層D,102.0,高層,D,,,,,,HSKW
-22.0/F低層DF,22.0,低層,DF,,,,,,HSKW
-68.0/F中層DF,68.0,中層,DF,,,,,,HSKW
-102.0/F高層DF,102.0,高層,DF,,,,,,HSKW
-22.0/F低層E,22.0,低層,E,9637355,26845,359,406,3,HSKW
-68.0/F中層E,68.0,中層,E,,,,,,HSKW
-102.0/F高層E,102.0,高層,E,,,,,,HSKW
-22.0/F低層F,22.0,低層,F,11100836,25756,431,320,3,HSKW
-68.0/F中層F,68.0,中層,F,,,,,,HSKW
-102.0/F高層F,102.0,高層,F,,,,,,HSKW
-22.0/F低層G,22.0,低層,G,9179100,27900,329,359,5,HSKW
-68.0/F中層G,68.0,中層,G,,,,,,HSKW
-102.0/F高層G,102.0,高層,G,,,,,,HSKW
-22.0/F低層H,22.0,低層,H,8305310,28639,290,330,3,HSKW
-68.0/F中層H,68.0,中層,H,,,,,,HSKW
-102.0/F高層H,102.0,高層,H,,,,,,HSKW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+22.0/F低層A,22.0,低層,A,14489901,29511,491,338,4,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層A,68.0,中層,A,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層A,102.0,高層,A,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層B,22.0,低層,B,11147046,31137,358,347,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層B,68.0,中層,B,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層B,102.0,高層,B,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層C,22.0,低層,C,12855810,26290,489,366,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層C,68.0,中層,C,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層C,102.0,高層,C,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層D,22.0,低層,D,12928474,26171,494,404,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層D,68.0,中層,D,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層D,102.0,高層,D,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層DF,22.0,低層,DF,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層DF,68.0,中層,DF,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層DF,102.0,高層,DF,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層E,22.0,低層,E,10042307,27973,359,393,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層E,68.0,中層,E,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層E,102.0,高層,E,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層F,22.0,低層,F,11068511,25681,431,320,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層F,68.0,中層,F,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層F,102.0,高層,F,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層G,22.0,低層,G,9169888,27872,329,359,5,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層G,68.0,中層,G,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層G,102.0,高層,G,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+22.0/F低層H,22.0,低層,H,8305310,28639,290,330,3,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+68.0/F中層H,68.0,中層,H,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"
+102.0/F高層H,102.0,高層,H,,,,,,HSKW,"LIME GALA(Block 1B),SHAU KEI WAN RD|形薈1B座,筲箕灣道"

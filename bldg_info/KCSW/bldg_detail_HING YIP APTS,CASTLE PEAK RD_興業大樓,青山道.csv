@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層F.P.,3.0,低層,F.P.,5773800,9623,600,212,2,KCSW
-6.0/F中層F.P.,6.0,中層,F.P.,6047880,9980,606,164,2,KCSW
-9.0/F高層F.P.,9.0,高層,F.P.,4942548,9204,537,329,4,KCSW
-3.0/F低層R.P.,3.0,低層,R.P.,3154571,9197,343,199,2,KCSW
-6.0/F中層R.P.,6.0,中層,R.P.,3319605,9351,355,209,2,KCSW
-9.0/F高層R.P.,9.0,高層,R.P.,3189524,9607,332,213,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層F.P.,3.0,低層,F.P.,5576400,9294,600,304,3,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"
+6.0/F中層F.P.,6.0,中層,F.P.,5769120,9520,606,255,3,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"
+9.0/F高層F.P.,9.0,高層,F.P.,4925364,9172,537,329,4,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"
+3.0/F低層R.P.,3.0,低層,R.P.,3166233,9231,343,199,2,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"
+6.0/F中層R.P.,6.0,中層,R.P.,3325995,9369,355,209,2,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"
+9.0/F高層R.P.,9.0,高層,R.P.,3208116,9663,332,213,2,KCSW,"HING YIP APTS,CASTLE PEAK RD|興業大樓,青山道"

@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,7461678,12313,606,121,1,NTP
-6.0/F中層A,6.0,中層,A,7602876,12546,606,127,1,NTP
-8.0/F高層A,8.0,高層,A,7673778,12663,606,127,1,NTP
-2.0/F低層B,2.0,低層,B,9261531,11889,779,67,1,NTP
-6.0/F中層B,6.0,中層,B,9437585,12115,779,71,1,NTP
-8.0/F高層B,8.0,高層,B,9525612,12228,779,71,1,NTP
-2.0/F低層C,2.0,低層,C,8766570,12009,730,70,1,NTP
-6.0/F中層C,6.0,中層,C,9249830,12671,730,224,2,NTP
-8.0/F高層C,8.0,高層,C,8878990,12163,730,224,2,NTP
-2.0/F低層D,2.0,低層,D,8960750,12275,730,169,2,NTP
-6.0/F中層D,6.0,中層,D,9127920,12504,730,176,2,NTP
-8.0/F高層D,8.0,高層,D,9210410,12617,730,173,2,NTP
-2.0/F低層E,2.0,低層,E,8960287,11963,749,69,1,NTP
-6.0/F中層E,6.0,中層,E,9130310,12190,749,73,1,NTP
-8.0/F高層E,8.0,高層,E,9215696,12304,749,73,1,NTP
-2.0/F低層F,2.0,低層,F,9121860,11924,765,68,1,NTP
-6.0/F中層F,6.0,中層,F,9294750,12150,765,72,1,NTP
-8.0/F高層F,8.0,高層,F,9381195,12263,765,72,1,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層A,6.0,中層,A,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層A,8.0,高層,A,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+2.0/F低層B,2.0,低層,B,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層B,6.0,中層,B,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層B,8.0,高層,B,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+2.0/F低層C,2.0,低層,C,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層C,6.0,中層,C,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層C,8.0,高層,C,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+2.0/F低層D,2.0,低層,D,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層D,6.0,中層,D,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層D,8.0,高層,D,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+2.0/F低層E,2.0,低層,E,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層E,6.0,中層,E,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層E,8.0,高層,E,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+2.0/F低層F,2.0,低層,F,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+6.0/F中層F,6.0,中層,F,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"
+8.0/F高層F,8.0,高層,F,,,,,,NTP,"CLASSICAL GDN(Block 9),MA WO RD|新峰花園9座,馬窩路"

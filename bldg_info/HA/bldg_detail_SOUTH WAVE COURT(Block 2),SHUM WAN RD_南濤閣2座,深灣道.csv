@@ -1,31 +1,31 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HA
-19.0/F中層A,19.0,中層,A,,,,,,HA
-30.0/F高層A,30.0,高層,A,,,,,,HA
-7.0/F低層B,7.0,低層,B,,,,,,HA
-19.0/F中層B,19.0,中層,B,,,,,,HA
-30.0/F高層B,30.0,高層,B,,,,,,HA
-7.0/F低層C,7.0,低層,C,,,,,,HA
-19.0/F中層C,19.0,中層,C,,,,,,HA
-30.0/F高層C,30.0,高層,C,,,,,,HA
-7.0/F低層D,7.0,低層,D,,,,,,HA
-19.0/F中層D,19.0,中層,D,,,,,,HA
-30.0/F高層D,30.0,高層,D,,,,,,HA
-7.0/F低層E,7.0,低層,E,,,,,,HA
-19.0/F中層E,19.0,中層,E,,,,,,HA
-30.0/F高層E,30.0,高層,E,,,,,,HA
-7.0/F低層F,7.0,低層,F,,,,,,HA
-19.0/F中層F,19.0,中層,F,,,,,,HA
-30.0/F高層F,30.0,高層,F,,,,,,HA
-7.0/F低層G,7.0,低層,G,,,,,,HA
-19.0/F中層G,19.0,中層,G,,,,,,HA
-30.0/F高層G,30.0,高層,G,,,,,,HA
-7.0/F低層H,7.0,低層,H,,,,,,HA
-19.0/F中層H,19.0,中層,H,,,,,,HA
-30.0/F高層H,30.0,高層,H,,,,,,HA
-7.0/F低層J,7.0,低層,J,,,,,,HA
-19.0/F中層J,19.0,中層,J,,,,,,HA
-30.0/F高層J,30.0,高層,J,,,,,,HA
-7.0/F低層K,7.0,低層,K,,,,,,HA
-19.0/F中層K,19.0,中層,K,,,,,,HA
-30.0/F高層K,30.0,高層,K,,,,,,HA
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層A,19.0,中層,A,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層A,30.0,高層,A,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層B,7.0,低層,B,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層B,19.0,中層,B,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層B,30.0,高層,B,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層C,7.0,低層,C,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層C,19.0,中層,C,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層C,30.0,高層,C,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層D,7.0,低層,D,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層D,19.0,中層,D,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層D,30.0,高層,D,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層E,7.0,低層,E,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層E,19.0,中層,E,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層E,30.0,高層,E,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層F,7.0,低層,F,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層F,19.0,中層,F,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層F,30.0,高層,F,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層G,7.0,低層,G,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層G,19.0,中層,G,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層G,30.0,高層,G,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層H,7.0,低層,H,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層H,19.0,中層,H,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層H,30.0,高層,H,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層J,7.0,低層,J,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層J,19.0,中層,J,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層J,30.0,高層,J,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+7.0/F低層K,7.0,低層,K,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+19.0/F中層K,19.0,中層,K,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"
+30.0/F高層K,30.0,高層,K,,,,,,HA,"SOUTH WAVE COURT(Block 2),SHUM WAN RD|南濤閣2座,深灣道"

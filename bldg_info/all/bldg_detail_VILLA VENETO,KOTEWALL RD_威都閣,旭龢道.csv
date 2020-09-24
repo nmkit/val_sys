@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-10.0/F低層A,10.0,低層,A,,,,,,HMW
-20.0/F中層A,20.0,中層,A,,,,,,HMW
-28.0/F高層A,28.0,高層,A,,,,,,HMW
-10.0/F低層B,10.0,低層,B,,,,,,HMW
-20.0/F中層B,20.0,中層,B,,,,,,HMW
-28.0/F高層B,28.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,108179804,45607,2372,83,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"
+19.0/F中層A,19.0,中層,A,116545848,49134,2372,93,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"
+28.0/F高層A,28.0,高層,A,124076948,52309,2372,90,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"
+9.0/F低層B,9.0,低層,B,108534298,45641,2378,125,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"
+19.0/F中層B,19.0,中層,B,116928638,49171,2378,140,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"
+28.0/F高層B,28.0,高層,B,124481166,52347,2378,136,1,HMW,"VILLA VENETO,KOTEWALL RD|威都閣,旭龢道"

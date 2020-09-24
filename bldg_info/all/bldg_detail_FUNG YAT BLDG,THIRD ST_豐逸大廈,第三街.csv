@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,4476450,16278,275,75,1,HSW
-12.0/F中層A,12.0,中層,A,4670875,16985,275,84,1,HSW
-19.0/F高層A,19.0,高層,A,4897475,17809,275,95,1,HSW
-6.0/F低層B,6.0,低層,B,6139440,17054,360,94,1,HSW
-12.0/F中層B,12.0,中層,B,6396480,17768,360,103,1,HSW
-19.0/F高層B,19.0,高層,B,6696360,18601,360,105,1,HSW
-6.0/F低層C,6.0,低層,C,5588450,15967,350,75,1,HSW
-12.0/F中層C,12.0,中層,C,5822600,16636,350,84,1,HSW
-19.0/F高層C,19.0,高層,C,5640640,17627,320,77,1,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+12.0/F中層A,12.0,中層,A,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+19.0/F高層A,19.0,高層,A,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+6.0/F低層B,6.0,低層,B,6139440,17054,360,94,1,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+12.0/F中層B,12.0,中層,B,6396480,17768,360,103,1,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+19.0/F高層B,19.0,高層,B,6696360,18601,360,105,1,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+6.0/F低層C,6.0,低層,C,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+12.0/F中層C,12.0,中層,C,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"
+19.0/F高層C,19.0,高層,C,,,,,,HSW,"FUNG YAT BLDG,THIRD ST|豐逸大廈,第三街"

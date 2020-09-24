@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層277,7.0,低層,277,,,,,,HWC
-12.0/F中層277,12.0,中層,277,,,,,,HWC
-17.0/F高層277,17.0,高層,277,,,,,,HWC
-7.0/F低層A,7.0,低層,A,,,,,,HWC
-12.0/F中層A,12.0,中層,A,,,,,,HWC
-17.0/F高層A,17.0,高層,A,,,,,,HWC
-7.0/F低層B,7.0,低層,B,,,,,,HWC
-12.0/F中層B,12.0,中層,B,,,,,,HWC
-17.0/F高層B,17.0,高層,B,,,,,,HWC
-7.0/F低層blank,7.0,低層,blank,5502240,15284,360,92,1,HWC
-12.0/F中層blank,12.0,中層,blank,5823060,15738,370,99,1,HWC
-17.0/F高層blank,17.0,高層,blank,5996220,16206,370,91,1,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層277,7.0,低層,277,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+12.0/F中層277,12.0,中層,277,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+17.0/F高層277,17.0,高層,277,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+7.0/F低層A,7.0,低層,A,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+12.0/F中層A,12.0,中層,A,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+17.0/F高層A,17.0,高層,A,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+7.0/F低層B,7.0,低層,B,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+12.0/F中層B,12.0,中層,B,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+17.0/F高層B,17.0,高層,B,,,,,,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+7.0/F低層blank,7.0,低層,blank,5500800,15280,360,92,1,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+12.0/F中層blank,12.0,中層,blank,5823060,15738,370,99,1,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"
+17.0/F高層blank,17.0,高層,blank,5996220,16206,370,91,1,HWC,"KAM LOK MANS,LOCKHART RD|金樂大廈,駱克道"

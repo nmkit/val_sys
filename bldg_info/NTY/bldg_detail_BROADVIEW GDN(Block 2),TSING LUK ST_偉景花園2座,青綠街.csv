@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,NTY
-18.0/F中層A,18.0,中層,A,,,,,,NTY
-28.0/F高層A,28.0,高層,A,,,,,,NTY
-7.0/F低層B,7.0,低層,B,,,,,,NTY
-18.0/F中層B,18.0,中層,B,,,,,,NTY
-28.0/F高層B,28.0,高層,B,,,,,,NTY
-7.0/F低層C,7.0,低層,C,,,,,,NTY
-18.0/F中層C,18.0,中層,C,,,,,,NTY
-28.0/F高層C,28.0,高層,C,,,,,,NTY
-7.0/F低層D,7.0,低層,D,,,,,,NTY
-18.0/F中層D,18.0,中層,D,,,,,,NTY
-28.0/F高層D,28.0,高層,D,,,,,,NTY
-7.0/F低層E,7.0,低層,E,,,,,,NTY
-18.0/F中層E,18.0,中層,E,,,,,,NTY
-28.0/F高層E,28.0,高層,E,,,,,,NTY
-7.0/F低層F,7.0,低層,F,,,,,,NTY
-18.0/F中層F,18.0,中層,F,,,,,,NTY
-28.0/F高層F,28.0,高層,F,,,,,,NTY
-7.0/F低層G,7.0,低層,G,6794150,12353,550,89,1,NTY
-18.0/F中層G,18.0,中層,G,7047700,12814,550,100,1,NTY
-28.0/F高層G,28.0,高層,G,7277600,13232,550,85,1,NTY
-7.0/F低層H,7.0,低層,H,,,,,,NTY
-18.0/F中層H,18.0,中層,H,,,,,,NTY
-28.0/F高層H,28.0,高層,H,,,,,,NTY
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層A,18.0,中層,A,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層A,28.0,高層,A,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層B,7.0,低層,B,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層B,18.0,中層,B,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層B,28.0,高層,B,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層C,7.0,低層,C,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層C,18.0,中層,C,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層C,28.0,高層,C,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層D,7.0,低層,D,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層D,18.0,中層,D,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層D,28.0,高層,D,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層E,7.0,低層,E,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層E,18.0,中層,E,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層E,28.0,高層,E,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層F,7.0,低層,F,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層F,18.0,中層,F,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層F,28.0,高層,F,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層G,7.0,低層,G,6794150,12353,550,89,1,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層G,18.0,中層,G,7047700,12814,550,100,1,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層G,28.0,高層,G,7277600,13232,550,85,1,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+7.0/F低層H,7.0,低層,H,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+18.0/F中層H,18.0,中層,H,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"
+28.0/F高層H,28.0,高層,H,,,,,,NTY,"BROADVIEW GDN(Block 2),TSING LUK ST|偉景花園2座,青綠街"

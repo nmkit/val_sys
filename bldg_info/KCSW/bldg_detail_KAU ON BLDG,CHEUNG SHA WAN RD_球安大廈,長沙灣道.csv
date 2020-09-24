@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,4249280,8672,490,258,2,KCSW
-7.0/F中層blank,7.0,中層,blank,4133856,10132,408,332,3,KCSW
-10.0/F高層blank,10.0,高層,blank,5251686,10158,517,305,3,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,4249280,8672,490,258,2,KCSW,"KAU ON BLDG,CHEUNG SHA WAN RD|球安大廈,長沙灣道"
+7.0/F中層blank,7.0,中層,blank,4162416,10202,408,332,3,KCSW,"KAU ON BLDG,CHEUNG SHA WAN RD|球安大廈,長沙灣道"
+10.0/F高層blank,10.0,高層,blank,5238244,10132,517,305,3,KCSW,"KAU ON BLDG,CHEUNG SHA WAN RD|球安大廈,長沙灣道"

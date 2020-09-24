@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,4057524,8247,492,342,3,KCSW
-2.0/F中層B,2.0,中層,B,4057524,8247,492,342,3,KCSW
-4.0/F高層B,4.0,高層,B,3918288,7964,492,190,2,KCSW
-2.0/F低層C,2.0,低層,C,3513900,7950,442,195,2,KCSW
-2.0/F中層C,2.0,中層,C,3513900,7950,442,195,2,KCSW
-4.0/F高層C,4.0,高層,C,3558100,8050,442,192,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,4050636,8233,492,342,3,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"
+2.0/F中層B,2.0,中層,B,4050636,8233,492,342,3,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"
+4.0/F高層B,4.0,高層,B,3905496,7938,492,190,2,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"
+2.0/F低層C,2.0,低層,C,3522298,7969,442,195,2,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"
+2.0/F中層C,2.0,中層,C,3522298,7969,442,195,2,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"
+4.0/F高層C,4.0,高層,C,3566498,8069,442,192,2,KCSW,"CHIP TAK BLDG,FUK WA ST|捷德樓,福華街"

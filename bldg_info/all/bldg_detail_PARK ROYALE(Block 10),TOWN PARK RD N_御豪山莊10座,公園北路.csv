@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,NYL
-6.0/F中層A,6.0,中層,A,,,,,,NYL
-9.0/F高層A,9.0,高層,A,,,,,,NYL
-3.0/F低層B,3.0,低層,B,,,,,,NYL
-6.0/F中層B,6.0,中層,B,,,,,,NYL
-9.0/F高層B,9.0,高層,B,,,,,,NYL
-3.0/F低層C,3.0,低層,C,,,,,,NYL
-6.0/F中層C,6.0,中層,C,,,,,,NYL
-9.0/F高層C,9.0,高層,C,,,,,,NYL
-3.0/F低層D,3.0,低層,D,,,,,,NYL
-6.0/F中層D,6.0,中層,D,,,,,,NYL
-9.0/F高層D,9.0,高層,D,,,,,,NYL
-3.0/F低層E,3.0,低層,E,,,,,,NYL
-6.0/F中層E,6.0,中層,E,,,,,,NYL
-9.0/F高層E,9.0,高層,E,,,,,,NYL
-3.0/F低層F,3.0,低層,F,,,,,,NYL
-6.0/F中層F,6.0,中層,F,,,,,,NYL
-9.0/F高層F,9.0,高層,F,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層A,6.0,中層,A,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層A,9.0,高層,A,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+3.0/F低層B,3.0,低層,B,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層B,6.0,中層,B,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層B,9.0,高層,B,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+3.0/F低層C,3.0,低層,C,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層C,6.0,中層,C,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層C,9.0,高層,C,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+3.0/F低層D,3.0,低層,D,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層D,6.0,中層,D,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層D,9.0,高層,D,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+3.0/F低層E,3.0,低層,E,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層E,6.0,中層,E,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層E,9.0,高層,E,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+3.0/F低層F,3.0,低層,F,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+6.0/F中層F,6.0,中層,F,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"
+9.0/F高層F,9.0,高層,F,,,,,,NYL,"PARK ROYALE(Block 10),TOWN PARK RD N|御豪山莊10座,公園北路"

@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,3877491,12797,303,93,1,NTW
-11.0/F中層A,11.0,中層,A,3950817,13039,303,101,1,NTW
-16.0/F高層A,16.0,高層,A,4024143,13281,303,105,1,NTW
-6.0/F低層B,6.0,低層,B,,,,,,NTW
-11.0/F中層B,11.0,中層,B,,,,,,NTW
-16.0/F高層B,16.0,高層,B,,,,,,NTW
-6.0/F低層C,6.0,低層,C,,,,,,NTW
-11.0/F中層C,11.0,中層,C,,,,,,NTW
-16.0/F高層C,16.0,高層,C,,,,,,NTW
-6.0/F低層D,6.0,低層,D,,,,,,NTW
-11.0/F中層D,11.0,中層,D,,,,,,NTW
-16.0/F高層D,16.0,高層,D,,,,,,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,3877491,12797,303,93,1,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+11.0/F中層A,11.0,中層,A,3950817,13039,303,101,1,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+16.0/F高層A,16.0,高層,A,4024143,13281,303,105,1,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+6.0/F低層B,6.0,低層,B,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+11.0/F中層B,11.0,中層,B,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+16.0/F高層B,16.0,高層,B,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+6.0/F低層C,6.0,低層,C,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+11.0/F中層C,11.0,中層,C,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+16.0/F高層C,16.0,高層,C,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+6.0/F低層D,6.0,低層,D,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+11.0/F中層D,11.0,中層,D,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"
+16.0/F高層D,16.0,高層,D,,,,,,NTW,"HEUNG SHING BLDG,HEUNG SHING ST|香城大廈,享成街"

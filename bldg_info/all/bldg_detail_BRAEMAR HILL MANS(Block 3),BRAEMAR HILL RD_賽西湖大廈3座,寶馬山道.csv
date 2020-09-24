@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,HNP
-13.0/F中層A,13.0,中層,A,,,,,,HNP
-21.0/F高層A,21.0,高層,A,,,,,,HNP
-5.0/F低層B,5.0,低層,B,,,,,,HNP
-13.0/F中層B,13.0,中層,B,,,,,,HNP
-21.0/F高層B,21.0,高層,B,,,,,,HNP
-5.0/F低層C,5.0,低層,C,,,,,,HNP
-13.0/F中層C,13.0,中層,C,,,,,,HNP
-21.0/F高層C,21.0,高層,C,,,,,,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,57315245,51869,1105,80,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+13.0/F中層A,13.0,中層,A,60410350,54670,1105,88,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+21.0/F高層A,21.0,高層,A,63505455,57471,1105,96,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+5.0/F低層B,5.0,低層,B,57315245,51869,1105,120,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+13.0/F中層B,13.0,中層,B,60410350,54670,1105,132,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+21.0/F高層B,21.0,高層,B,63505455,57471,1105,144,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+5.0/F低層C,5.0,低層,C,57315245,51869,1105,80,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+13.0/F中層C,13.0,中層,C,60410350,54670,1105,88,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"
+21.0/F高層C,21.0,高層,C,63505455,57471,1105,96,1,HNP,"BRAEMAR HILL MANS(Block 3),BRAEMAR HILL RD|賽西湖大廈3座,寶馬山道"

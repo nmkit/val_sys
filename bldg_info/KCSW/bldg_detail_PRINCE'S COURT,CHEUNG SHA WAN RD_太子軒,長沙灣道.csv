@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,4521556,12701,356,244,2,KCSW
-8.0/F中層blank,8.0,中層,blank,4611980,12955,356,400,3,KCSW
-12.0/F高層blank,12.0,高層,blank,4723408,13268,356,244,2,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,4521556,12701,356,244,2,KCSW,"PRINCE'S COURT,CHEUNG SHA WAN RD|太子軒,長沙灣道"
+8.0/F中層blank,8.0,中層,blank,4611980,12955,356,400,3,KCSW,"PRINCE'S COURT,CHEUNG SHA WAN RD|太子軒,長沙灣道"
+12.0/F高層blank,12.0,高層,blank,4723408,13268,356,244,2,KCSW,"PRINCE'S COURT,CHEUNG SHA WAN RD|太子軒,長沙灣道"

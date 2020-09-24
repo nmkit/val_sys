@@ -1,22 +1,22 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層A,1.0,低層,A,,,,,,HME
-2.0/F中層A,2.0,中層,A,,,,,,HME
-3.0/F高層A,3.0,高層,A,,,,,,HME
-1.0/F低層B,1.0,低層,B,,,,,,HME
-2.0/F中層B,2.0,中層,B,,,,,,HME
-3.0/F高層B,3.0,高層,B,,,,,,HME
-1.0/F低層C,1.0,低層,C,,,,,,HME
-2.0/F中層C,2.0,中層,C,,,,,,HME
-3.0/F高層C,3.0,高層,C,,,,,,HME
-1.0/F低層D,1.0,低層,D,17301600,24300,712,87,1,HME
-2.0/F中層D,2.0,中層,D,17515912,24601,712,88,1,HME
-3.0/F高層D,3.0,高層,D,17730936,24903,712,150,1,HME
-1.0/F低層E,1.0,低層,E,,,,,,HME
-2.0/F中層E,2.0,中層,E,,,,,,HME
-3.0/F高層E,3.0,高層,E,,,,,,HME
-1.0/F低層F,1.0,低層,F,,,,,,HME
-2.0/F中層F,2.0,中層,F,,,,,,HME
-3.0/F高層F,3.0,高層,F,,,,,,HME
-1.0/F低層G,1.0,低層,G,,,,,,HME
-2.0/F中層G,2.0,中層,G,,,,,,HME
-3.0/F高層G,3.0,高層,G,,,,,,HME
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層A,1.0,低層,A,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層A,2.0,中層,A,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層A,3.0,高層,A,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層B,1.0,低層,B,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層B,2.0,中層,B,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層B,3.0,高層,B,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層C,1.0,低層,C,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層C,2.0,中層,C,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層C,3.0,高層,C,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層D,1.0,低層,D,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層D,2.0,中層,D,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層D,3.0,高層,D,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層E,1.0,低層,E,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層E,2.0,中層,E,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層E,3.0,高層,E,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層F,1.0,低層,F,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層F,2.0,中層,F,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層F,3.0,高層,F,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+1.0/F低層G,1.0,低層,G,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+2.0/F中層G,2.0,中層,G,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"
+3.0/F高層G,3.0,高層,G,,,,,,HME,"RICHERY GDN,TUNG SHAN TERR|德信花園,東山臺"

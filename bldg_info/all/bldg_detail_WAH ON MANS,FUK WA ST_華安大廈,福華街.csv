@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,5855040,8560,684,124,1,KCSW
-6.0/F中層A,6.0,中層,A,5970636,8729,684,129,1,KCSW
-7.0/F高層A,7.0,高層,A,6009624,8786,684,150,1,KCSW
-3.0/F低層B,3.0,低層,B,5001030,8145,614,226,2,KCSW
-6.0/F中層B,6.0,中層,B,5242332,8538,614,79,1,KCSW
-7.0/F高層B,7.0,高層,B,5276102,8593,614,80,1,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,5855040,8560,684,124,1,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"
+6.0/F中層A,6.0,中層,A,5970636,8729,684,129,1,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"
+7.0/F高層A,7.0,高層,A,6009624,8786,684,150,1,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"
+3.0/F低層B,3.0,低層,B,5010240,8160,614,226,2,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"
+6.0/F中層B,6.0,中層,B,5269348,8582,614,79,1,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"
+7.0/F高層B,7.0,高層,B,5303118,8637,614,80,1,KCSW,"WAH ON MANS,FUK WA ST|華安大廈,福華街"

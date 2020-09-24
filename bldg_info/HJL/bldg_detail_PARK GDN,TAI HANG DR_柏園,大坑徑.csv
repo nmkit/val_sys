@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,27287500,23125,1180,82,1,HJL
-12.0/F中層A,12.0,中層,A,29197920,24744,1180,79,1,HJL
-19.0/F高層A,19.0,高層,A,31107160,26362,1180,72,1,HJL
-5.0/F低層B,5.0,低層,B,25351320,22238,1140,217,2,HJL
-12.0/F中層B,12.0,中層,B,27055620,23733,1140,202,2,HJL
-19.0/F高層B,19.0,高層,B,28777020,25243,1140,181,2,HJL
-5.0/F低層C,5.0,低層,C,24462120,21458,1140,84,1,HJL
-12.0/F中層C,12.0,中層,C,26962140,23651,1140,231,2,HJL
-19.0/F高層C,19.0,高層,C,27886680,24462,1140,74,1,HJL
-5.0/F低層D,5.0,低層,D,27287500,23125,1180,82,1,HJL
-12.0/F中層D,12.0,中層,D,29197920,24744,1180,79,1,HJL
-19.0/F高層D,19.0,高層,D,31107160,26362,1180,72,1,HJL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+12.0/F中層A,12.0,中層,A,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+19.0/F高層A,19.0,高層,A,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+5.0/F低層B,5.0,低層,B,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+12.0/F中層B,12.0,中層,B,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+19.0/F高層B,19.0,高層,B,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+5.0/F低層C,5.0,低層,C,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+12.0/F中層C,12.0,中層,C,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+19.0/F高層C,19.0,高層,C,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+5.0/F低層D,5.0,低層,D,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+12.0/F中層D,12.0,中層,D,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"
+19.0/F高層D,19.0,高層,D,,,,,,HJL,"PARK GDN,TAI HANG DR|柏園,大坑徑"

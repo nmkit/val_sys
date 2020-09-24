@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,4870071,15363,317,200,2,KTST
-8.0/F中層blank,8.0,中層,blank,4904307,15471,317,244,2,KTST
-11.0/F高層blank,11.0,高層,blank,5065026,15978,317,191,2,KTST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,4870071,15363,317,200,2,KTST,"KAMLY COURT,TEMPLE ST|金利閣,廟街"
+8.0/F中層blank,8.0,中層,blank,4904307,15471,317,244,2,KTST,"KAMLY COURT,TEMPLE ST|金利閣,廟街"
+11.0/F高層blank,11.0,高層,blank,5065026,15978,317,191,2,KTST,"KAMLY COURT,TEMPLE ST|金利閣,廟街"

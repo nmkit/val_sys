@@ -1,31 +1,31 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,5421980,12580,431,150,1,NTP
-14.0/F中層A,14.0,中層,A,,,,,,NTP
-22.0/F高層A,22.0,高層,A,,,,,,NTP
-6.0/F低層B,6.0,低層,B,,,,,,NTP
-14.0/F中層B,14.0,中層,B,,,,,,NTP
-22.0/F高層B,22.0,高層,B,,,,,,NTP
-6.0/F低層C,6.0,低層,C,,,,,,NTP
-14.0/F中層C,14.0,中層,C,,,,,,NTP
-22.0/F高層C,22.0,高層,C,,,,,,NTP
-6.0/F低層D,6.0,低層,D,7462160,12605,592,89,1,NTP
-14.0/F中層D,14.0,中層,D,7733296,13063,592,77,1,NTP
-22.0/F高層D,22.0,高層,D,8005024,13522,592,65,1,NTP
-6.0/F低層E,6.0,低層,E,,,,,,NTP
-14.0/F中層E,14.0,中層,E,,,,,,NTP
-22.0/F高層E,22.0,高層,E,,,,,,NTP
-6.0/F低層F,6.0,低層,F,,,,,,NTP
-14.0/F中層F,14.0,中層,F,,,,,,NTP
-22.0/F高層F,22.0,高層,F,,,,,,NTP
-6.0/F低層G,6.0,低層,G,,,,,,NTP
-14.0/F中層G,14.0,中層,G,,,,,,NTP
-22.0/F高層G,22.0,高層,G,,,,,,NTP
-6.0/F低層H,6.0,低層,H,,,,,,NTP
-14.0/F中層H,14.0,中層,H,,,,,,NTP
-22.0/F高層H,22.0,高層,H,,,,,,NTP
-6.0/F低層J,6.0,低層,J,,,,,,NTP
-14.0/F中層J,14.0,中層,J,,,,,,NTP
-22.0/F高層J,22.0,高層,J,,,,,,NTP
-6.0/F低層K,6.0,低層,K,,,,,,NTP
-14.0/F中層K,14.0,中層,K,5579008,9424,592,150,1,NTP
-22.0/F高層K,22.0,高層,K,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,5421980,12580,431,150,1,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層A,14.0,中層,A,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層A,22.0,高層,A,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層B,6.0,低層,B,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層B,14.0,中層,B,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層B,22.0,高層,B,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層C,6.0,低層,C,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層C,14.0,中層,C,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層C,22.0,高層,C,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層D,6.0,低層,D,7462160,12605,592,89,1,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層D,14.0,中層,D,7733296,13063,592,77,1,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層D,22.0,高層,D,8005024,13522,592,65,1,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層E,6.0,低層,E,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層E,14.0,中層,E,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層E,22.0,高層,E,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層F,6.0,低層,F,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層F,14.0,中層,F,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層F,22.0,高層,F,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層G,6.0,低層,G,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層G,14.0,中層,G,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層G,22.0,高層,G,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層H,6.0,低層,H,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層H,14.0,中層,H,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層H,22.0,高層,H,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層J,6.0,低層,J,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層J,14.0,中層,J,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層J,22.0,高層,J,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+6.0/F低層K,6.0,低層,K,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+14.0/F中層K,14.0,中層,K,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"
+22.0/F高層K,22.0,高層,K,,,,,,NTP,"ELEGANCE GDN(Block 1),NAM WAN RD|富雅花園1座,南運路"

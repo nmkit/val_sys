@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層A,1.0,低層,A,7357770,6870,1071,314,3,NYL
-2.0/F中層A,2.0,中層,A,7394184,6904,1071,315,3,NYL
-3.0/F高層A,3.0,高層,A,7453089,6959,1071,336,3,NYL
-1.0/F低層C,1.0,低層,C,7242102,6762,1071,369,3,NYL
-2.0/F中層C,2.0,中層,C,7272090,6790,1071,365,3,NYL
-3.0/F高層C,3.0,高層,C,7282800,6800,1071,379,3,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層A,1.0,低層,A,7357770,6870,1071,314,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"
+2.0/F中層A,2.0,中層,A,7394184,6904,1071,315,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"
+3.0/F高層A,3.0,高層,A,7453089,6959,1071,336,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"
+1.0/F低層C,1.0,低層,C,7242102,6762,1071,369,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"
+2.0/F中層C,2.0,中層,C,7272090,6790,1071,365,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"
+3.0/F高層C,3.0,高層,C,7282800,6800,1071,379,3,NYL,"THE ELDORADO(Block 3),SHA TSENG RD|金碧花園3座,沙井路"

@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,7200282,7446,967,71,1,NYL
-3.0/F中層B,3.0,中層,B,7236061,7483,967,72,1,NYL
-5.0/F高層B,5.0,高層,B,8118897,7401,1097,68,1,NYL
-2.0/F低層D,2.0,低層,D,6939986,8098,857,220,2,NYL
-3.0/F中層D,3.0,中層,D,7062537,8241,857,269,2,NYL
-5.0/F高層D,5.0,高層,D,6983693,8149,857,251,2,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,7214787,7461,967,71,1,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"
+3.0/F中層B,3.0,中層,B,7250566,7498,967,72,1,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"
+5.0/F高層B,5.0,高層,B,8155098,7434,1097,68,1,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"
+2.0/F低層D,2.0,低層,D,6939986,8098,857,220,2,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"
+3.0/F中層D,3.0,中層,D,7062537,8241,857,269,2,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"
+5.0/F高層D,5.0,高層,D,6983693,8149,857,251,2,NYL,"CASA DE ORO(Block 2),HUNG SHUI KIU MAIN ST|金閣豪園2座,洪水橋大街"

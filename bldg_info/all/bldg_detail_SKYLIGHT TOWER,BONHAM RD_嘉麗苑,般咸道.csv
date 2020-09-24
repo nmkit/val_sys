@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,HMW
-16.0/F中層A,16.0,中層,A,,,,,,HMW
-24.0/F高層A,24.0,高層,A,,,,,,HMW
-7.0/F低層B,7.0,低層,B,,,,,,HMW
-16.0/F中層B,16.0,中層,B,,,,,,HMW
-24.0/F高層B,24.0,高層,B,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"
+16.0/F中層A,16.0,中層,A,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"
+25.0/F高層A,25.0,高層,A,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"
+7.0/F低層B,7.0,低層,B,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"
+16.0/F中層B,16.0,中層,B,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"
+25.0/F高層B,25.0,高層,B,,,,,,HMW,"SKYLIGHT TOWER,BONHAM RD|嘉麗苑,般咸道"

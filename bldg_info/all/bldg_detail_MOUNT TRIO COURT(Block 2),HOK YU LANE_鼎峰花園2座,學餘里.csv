@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,16219120,13982,1160,237,2,KHMT
-9.0/F中層A,9.0,中層,A,17042720,14692,1160,179,2,KHMT
-14.0/F高層A,14.0,高層,A,17867480,15403,1160,226,2,KHMT
-4.0/F低層B,4.0,低層,B,,,,,,KHMT
-9.0/F中層B,9.0,中層,B,,,,,,KHMT
-14.0/F高層B,14.0,高層,B,,,,,,KHMT
-4.0/F低層C,4.0,低層,C,16351815,13799,1185,91,1,KHMT
-9.0/F中層C,9.0,中層,C,17081775,14415,1185,99,1,KHMT
-14.0/F高層C,14.0,高層,C,17810550,15030,1185,100,1,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,16219120,13982,1160,237,2,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+9.0/F中層A,9.0,中層,A,17042720,14692,1160,179,2,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+14.0/F高層A,14.0,高層,A,17867480,15403,1160,226,2,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+4.0/F低層B,4.0,低層,B,,,,,,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+9.0/F中層B,9.0,中層,B,,,,,,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+14.0/F高層B,14.0,高層,B,,,,,,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+4.0/F低層C,4.0,低層,C,16351815,13799,1185,91,1,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+9.0/F中層C,9.0,中層,C,17081775,14415,1185,99,1,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"
+14.0/F高層C,14.0,高層,C,17810550,15030,1185,100,1,KHMT,"MOUNT TRIO COURT(Block 2),HOK YU LANE|鼎峰花園2座,學餘里"

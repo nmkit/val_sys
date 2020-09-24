@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,KCSW
-8.0/F中層A,8.0,中層,A,,,,,,KCSW
-10.0/F高層A,10.0,高層,A,,,,,,KCSW
-4.0/F低層B,4.0,低層,B,,,,,,KCSW
-8.0/F中層B,8.0,中層,B,,,,,,KCSW
-10.0/F高層B,10.0,高層,B,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"
+8.0/F中層A,8.0,中層,A,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"
+10.0/F高層A,10.0,高層,A,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"
+4.0/F低層B,4.0,低層,B,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"
+8.0/F中層B,8.0,中層,B,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"
+10.0/F高層B,10.0,高層,B,,,,,,KCSW,"THE CALDECOTT(Block 1),CALDECOTT RD|嘉珀山1座,郝德傑道"

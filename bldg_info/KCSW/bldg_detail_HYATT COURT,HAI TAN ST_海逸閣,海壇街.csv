@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層B,5.0,低層,B,12371952,23082,536,145,1,KCSW
-6.0/F中層B,6.0,中層,B,12450744,23229,536,144,1,KCSW
-6.0/F高層B,6.0,高層,B,12450744,23229,536,144,1,KCSW
-5.0/F低層C,5.0,低層,C,,,,,,KCSW
-6.0/F中層C,6.0,中層,C,,,,,,KCSW
-6.0/F高層C,6.0,高層,C,,,,,,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層B,5.0,低層,B,12371952,23082,536,145,1,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"
+6.0/F中層B,6.0,中層,B,12450744,23229,536,144,1,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"
+6.0/F高層B,6.0,高層,B,12450744,23229,536,144,1,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"
+5.0/F低層C,5.0,低層,C,,,,,,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"
+6.0/F中層C,6.0,中層,C,,,,,,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"
+6.0/F高層C,6.0,高層,C,,,,,,KCSW,"HYATT COURT,HAI TAN ST|海逸閣,海壇街"

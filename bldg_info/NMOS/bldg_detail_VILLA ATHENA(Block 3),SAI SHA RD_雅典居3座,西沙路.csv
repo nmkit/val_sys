@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,NMOS
-15.0/F中層A,15.0,中層,A,,,,,,NMOS
-23.0/F高層A,23.0,高層,A,,,,,,NMOS
-6.0/F低層B,6.0,低層,B,,,,,,NMOS
-15.0/F中層B,15.0,中層,B,,,,,,NMOS
-23.0/F高層B,23.0,高層,B,,,,,,NMOS
-6.0/F低層C,6.0,低層,C,,,,,,NMOS
-15.0/F中層C,15.0,中層,C,,,,,,NMOS
-23.0/F高層C,23.0,高層,C,,,,,,NMOS
-6.0/F低層D,6.0,低層,D,,,,,,NMOS
-15.0/F中層D,15.0,中層,D,,,,,,NMOS
-23.0/F高層D,23.0,高層,D,,,,,,NMOS
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,21357501,28139,759,324,3,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+15.0/F中層A,15.0,中層,A,22190883,29237,759,322,3,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+23.0/F高層A,23.0,高層,A,22870188,30132,759,374,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+6.0/F低層B,6.0,低層,B,24884196,27466,906,377,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+15.0/F中層B,15.0,中層,B,25859052,28542,906,390,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+23.0/F高層B,23.0,高層,B,26738778,29513,906,360,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+6.0/F低層C,6.0,低層,C,24914094,27499,906,334,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+15.0/F中層C,15.0,中層,C,25888044,28574,906,342,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+23.0/F高層C,23.0,高層,C,26765958,29543,906,314,4,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+6.0/F低層D,6.0,低層,D,21380271,28169,759,369,3,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+15.0/F中層D,15.0,中層,D,22211376,29264,759,369,3,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"
+23.0/F高層D,23.0,高層,D,22962786,30254,759,337,3,NMOS,"VILLA ATHENA(Block 3),SAI SHA RD|雅典居3座,西沙路"

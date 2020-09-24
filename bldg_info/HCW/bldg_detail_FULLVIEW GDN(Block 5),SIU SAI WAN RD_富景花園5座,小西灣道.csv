@@ -1,28 +1,28 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HCW
-14.0/F中層A,14.0,中層,A,,,,,,HCW
-24.0/F高層A,24.0,高層,A,,,,,,HCW
-6.0/F低層B,6.0,低層,B,,,,,,HCW
-14.0/F中層B,14.0,中層,B,,,,,,HCW
-24.0/F高層B,24.0,高層,B,,,,,,HCW
-6.0/F低層C,6.0,低層,C,,,,,,HCW
-14.0/F中層C,14.0,中層,C,,,,,,HCW
-24.0/F高層C,24.0,高層,C,,,,,,HCW
-6.0/F低層D,6.0,低層,D,,,,,,HCW
-14.0/F中層D,14.0,中層,D,,,,,,HCW
-24.0/F高層D,24.0,高層,D,,,,,,HCW
-6.0/F低層E,6.0,低層,E,,,,,,HCW
-14.0/F中層E,14.0,中層,E,,,,,,HCW
-24.0/F高層E,24.0,高層,E,,,,,,HCW
-6.0/F低層F,6.0,低層,F,,,,,,HCW
-14.0/F中層F,14.0,中層,F,,,,,,HCW
-24.0/F高層F,24.0,高層,F,,,,,,HCW
-6.0/F低層G,6.0,低層,G,,,,,,HCW
-14.0/F中層G,14.0,中層,G,,,,,,HCW
-24.0/F高層G,24.0,高層,G,,,,,,HCW
-6.0/F低層H,6.0,低層,H,,,,,,HCW
-14.0/F中層H,14.0,中層,H,,,,,,HCW
-24.0/F高層H,24.0,高層,H,,,,,,HCW
-6.0/F低層K,6.0,低層,K,,,,,,HCW
-14.0/F中層K,14.0,中層,K,,,,,,HCW
-24.0/F高層K,24.0,高層,K,,,,,,HCW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層A,14.0,中層,A,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層A,24.0,高層,A,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層B,6.0,低層,B,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層B,14.0,中層,B,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層B,24.0,高層,B,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層C,6.0,低層,C,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層C,14.0,中層,C,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層C,24.0,高層,C,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層D,6.0,低層,D,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層D,14.0,中層,D,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層D,24.0,高層,D,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層E,6.0,低層,E,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層E,14.0,中層,E,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層E,24.0,高層,E,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層F,6.0,低層,F,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層F,14.0,中層,F,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層F,24.0,高層,F,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層G,6.0,低層,G,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層G,14.0,中層,G,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層G,24.0,高層,G,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層H,6.0,低層,H,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層H,14.0,中層,H,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層H,24.0,高層,H,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+6.0/F低層K,6.0,低層,K,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+14.0/F中層K,14.0,中層,K,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"
+24.0/F高層K,24.0,高層,K,,,,,,HCW,"FULLVIEW GDN(Block 5),SIU SAI WAN RD|富景花園5座,小西灣道"

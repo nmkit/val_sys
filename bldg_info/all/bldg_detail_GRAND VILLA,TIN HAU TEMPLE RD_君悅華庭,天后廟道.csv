@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,6418548,15579,412,132,1,HNP
-14.0/F中層A,14.0,中層,A,6720132,16311,412,120,1,HNP
-22.0/F高層A,22.0,高層,A,7022128,17044,412,108,1,HNP
-6.0/F低層B,6.0,低層,B,11389376,16064,709,370,3,HNP
-14.0/F中層B,14.0,中層,B,11935306,16834,709,346,3,HNP
-22.0/F高層B,22.0,高層,B,12728677,17953,709,376,3,HNP
-6.0/F低層blank,6.0,低層,blank,18647700,18300,1019,78,1,HNP
-14.0/F中層blank,14.0,中層,blank,19550534,19186,1019,72,1,HNP
-22.0/F高層blank,22.0,高層,blank,20454387,20073,1019,64,1,HNP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+14.0/F中層A,14.0,中層,A,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+22.0/F高層A,22.0,高層,A,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+6.0/F低層B,6.0,低層,B,11389376,16064,709,370,3,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+14.0/F中層B,14.0,中層,B,11935306,16834,709,346,3,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+22.0/F高層B,22.0,高層,B,12728677,17953,709,376,3,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+6.0/F低層blank,6.0,低層,blank,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+14.0/F中層blank,14.0,中層,blank,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"
+22.0/F高層blank,22.0,高層,blank,,,,,,HNP,"GRAND VILLA,TIN HAU TEMPLE RD|君悅華庭,天后廟道"

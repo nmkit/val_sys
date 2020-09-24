@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,112492800,45360,2480,76,1,HRB
-6.0/F中層A,6.0,中層,A,120104856,47304,2539,74,1,HRB
-10.0/F高層A,10.0,高層,A,124284050,48950,2539,70,1,HRB
-3.0/F低層B,3.0,低層,B,112492800,45360,2480,115,1,HRB
-6.0/F中層B,6.0,中層,B,115508480,46576,2480,113,1,HRB
-10.0/F高層B,10.0,高層,B,124284050,48950,2539,105,1,HRB
-3.0/F低層blank,3.0,低層,blank,,,,,,HRB
-6.0/F中層blank,6.0,中層,blank,,,,,,HRB
-10.0/F高層blank,10.0,高層,blank,,,,,,HRB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,112492800,45360,2480,76,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+6.0/F中層A,6.0,中層,A,118741413,46767,2539,74,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+10.0/F高層A,10.0,高層,A,122872366,48394,2539,70,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+3.0/F低層B,3.0,低層,B,112492800,45360,2480,115,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+6.0/F中層B,6.0,中層,B,115508480,46576,2480,113,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+10.0/F高層B,10.0,高層,B,122872366,48394,2539,105,1,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+3.0/F低層blank,3.0,低層,blank,,,,,,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+6.0/F中層blank,6.0,中層,blank,,,,,,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"
+10.0/F高層blank,10.0,高層,blank,,,,,,HRB,"FORTUNA COURT,REPULSE BAY RD|福慧大廈,淺水灣道"

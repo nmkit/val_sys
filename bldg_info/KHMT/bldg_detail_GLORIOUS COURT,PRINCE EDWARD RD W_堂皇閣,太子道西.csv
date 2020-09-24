@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,,,,,,KHMT
-6.0/F中層blank,6.0,中層,blank,,,,,,KHMT
-9.0/F高層blank,9.0,高層,blank,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,,,,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
+6.0/F中層blank,6.0,中層,blank,,,,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
+9.0/F高層blank,9.0,高層,blank,,,,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"

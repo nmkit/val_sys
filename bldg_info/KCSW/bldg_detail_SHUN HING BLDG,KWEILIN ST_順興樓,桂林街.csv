@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層D,2.0,低層,D,2497200,8324,300,150,1,KCSW
-3.0/F中層D,3.0,中層,D,2513100,8377,300,108,1,KCSW
-4.0/F高層D,4.0,高層,D,2529000,8430,300,107,1,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層D,2.0,低層,D,2497200,8324,300,150,1,KCSW,"SHUN HING BLDG,KWEILIN ST|順興樓,桂林街"
+3.0/F中層D,3.0,中層,D,2513100,8377,300,108,1,KCSW,"SHUN HING BLDG,KWEILIN ST|順興樓,桂林街"
+4.0/F高層D,4.0,高層,D,2529000,8430,300,107,1,KCSW,"SHUN HING BLDG,KWEILIN ST|順興樓,桂林街"

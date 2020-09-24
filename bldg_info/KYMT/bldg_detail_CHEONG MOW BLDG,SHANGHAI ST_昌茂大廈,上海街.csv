@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,KYMT
-9.0/F中層A,9.0,中層,A,,,,,,KYMT
-15.0/F高層A,15.0,高層,A,,,,,,KYMT
-5.0/F低層B,5.0,低層,B,,,,,,KYMT
-9.0/F中層B,9.0,中層,B,,,,,,KYMT
-15.0/F高層B,15.0,高層,B,,,,,,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,15274000,43640,350,138,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"
+9.0/F中層A,9.0,中層,A,15725850,44931,350,141,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"
+15.0/F高層A,15.0,高層,A,16403450,46867,350,132,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"
+5.0/F低層B,5.0,低層,B,15550563,43559,357,91,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"
+9.0/F中層B,9.0,中層,B,16010379,44847,357,93,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"
+15.0/F高層B,15.0,高層,B,16700460,46780,357,87,1,KYMT,"CHEONG MOW BLDG,SHANGHAI ST|昌茂大廈,上海街"

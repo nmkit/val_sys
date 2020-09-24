@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,30416813,18181,1673,349,3,HMW
-4.0/F中層blank,4.0,中層,blank,31040632,18389,1688,345,3,HMW
-5.0/F高層blank,5.0,高層,blank,31332656,18562,1688,293,3,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,30403429,18173,1673,349,3,HMW,"LAI CHEUNG HSE,ROBINSON RD|麗祥樓,羅便臣道"
+4.0/F中層blank,4.0,中層,blank,31067640,18405,1688,345,3,HMW,"LAI CHEUNG HSE,ROBINSON RD|麗祥樓,羅便臣道"
+5.0/F高層blank,5.0,高層,blank,31364728,18581,1688,293,3,HMW,"LAI CHEUNG HSE,ROBINSON RD|麗祥樓,羅便臣道"

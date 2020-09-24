@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-11.0/F低層A,11.0,低層,A,36620474,28213,1298,335,4,HPFL
-23.0/F中層A,23.0,中層,A,37373314,28793,1298,338,4,HPFL
-36.0/F高層A,36.0,高層,A,37871165,28157,1345,301,3,HPFL
-11.0/F低層A & B,11.0,低層,A & B,,,,,,HPFL
-23.0/F中層A & B,23.0,中層,A & B,,,,,,HPFL
-36.0/F高層A & B,36.0,高層,A & B,,,,,,HPFL
-11.0/F低層AB,11.0,低層,AB,,,,,,HPFL
-23.0/F中層AB,23.0,中層,AB,,,,,,HPFL
-36.0/F高層AB,36.0,高層,AB,,,,,,HPFL
-11.0/F低層B,11.0,低層,B,40014238,29293,1366,345,4,HPFL
-23.0/F中層B,23.0,中層,B,42408836,31046,1366,339,4,HPFL
-36.0/F高層B,36.0,高層,B,46267628,33143,1396,303,4,HPFL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+11.0/F低層A,11.0,低層,A,36663308,28246,1298,335,4,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+25.0/F中層A,25.0,中層,A,37595876,29054,1294,332,4,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+38.0/F高層A,38.0,高層,A,38668750,28750,1345,234,3,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+11.0/F低層A & B,11.0,低層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+25.0/F中層A & B,25.0,中層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+38.0/F高層A & B,38.0,高層,A & B,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+11.0/F低層AB,11.0,低層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+25.0/F中層AB,25.0,中層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+38.0/F高層AB,38.0,高層,AB,,,,,,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+11.0/F低層B,11.0,低層,B,40000578,29283,1366,345,4,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+25.0/F中層B,25.0,中層,B,42792682,31327,1366,334,4,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"
+38.0/F高層B,38.0,高層,B,46115464,33034,1396,346,4,HPFL,"RESIDENCE BEL-AIR(Block 5),BEL-AIR AVE|貝沙灣5座,貝沙灣道"

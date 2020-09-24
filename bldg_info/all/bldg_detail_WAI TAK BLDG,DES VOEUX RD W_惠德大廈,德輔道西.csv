@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,HSW
-9.0/F中層A,9.0,中層,A,,,,,,HSW
-12.0/F高層A,12.0,高層,A,,,,,,HSW
-6.0/F低層B,6.0,低層,B,,,,,,HSW
-9.0/F中層B,9.0,中層,B,,,,,,HSW
-12.0/F高層B,12.0,高層,B,,,,,,HSW
-6.0/F低層C,6.0,低層,C,,,,,,HSW
-9.0/F中層C,9.0,中層,C,,,,,,HSW
-12.0/F高層C,12.0,高層,C,,,,,,HSW
-6.0/F低層D,6.0,低層,D,,,,,,HSW
-9.0/F中層D,9.0,中層,D,,,,,,HSW
-12.0/F高層D,12.0,高層,D,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+9.0/F中層A,9.0,中層,A,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+12.0/F高層A,12.0,高層,A,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+6.0/F低層B,6.0,低層,B,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+9.0/F中層B,9.0,中層,B,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+12.0/F高層B,12.0,高層,B,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+6.0/F低層C,6.0,低層,C,4606833,12691,363,87,1,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+9.0/F中層C,9.0,中層,C,4700850,12950,363,91,1,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+12.0/F高層C,12.0,高層,C,4794504,13208,363,150,1,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+6.0/F低層D,6.0,低層,D,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+9.0/F中層D,9.0,中層,D,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"
+12.0/F高層D,12.0,高層,D,,,,,,HSW,"WAI TAK BLDG,DES VOEUX RD W|惠德大廈,德輔道西"

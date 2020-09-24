@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-10.0/F低層A,10.0,低層,A,,,,,,HHV
-18.0/F中層A,18.0,中層,A,,,,,,HHV
-27.0/F高層A,27.0,高層,A,15199520,26480,574,77,1,HHV
-10.0/F低層B,10.0,低層,B,,,,,,HHV
-18.0/F中層B,18.0,中層,B,,,,,,HHV
-27.0/F高層B,27.0,高層,B,14715207,28353,519,39,1,HHV
-10.0/F低層C,10.0,低層,C,,,,,,HHV
-18.0/F中層C,18.0,中層,C,,,,,,HHV
-27.0/F高層C,27.0,高層,C,,,,,,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+10.0/F低層A,10.0,低層,A,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+18.0/F中層A,18.0,中層,A,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+27.0/F高層A,27.0,高層,A,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+10.0/F低層B,10.0,低層,B,7187400,24200,297,103,1,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+18.0/F中層B,18.0,中層,B,7569639,25487,297,91,1,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+27.0/F高層B,27.0,高層,B,16679103,32137,519,39,1,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+10.0/F低層C,10.0,低層,C,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+18.0/F中層C,18.0,中層,C,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"
+27.0/F高層C,27.0,高層,C,,,,,,HHV,"LE VILLAGE,VILLAGE RD|駿愉居,山村道"

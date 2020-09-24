@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,4740505,8795,539,363,3,KKC
-2.0/F中層blank,2.0,中層,blank,4740505,8795,539,363,3,KKC
-3.0/F高層blank,3.0,高層,blank,4831596,8964,539,350,3,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,4740505,8795,539,363,3,KKC,"KAM PO BLDG,SA PO RD|blank,沙浦道"
+2.0/F中層blank,2.0,中層,blank,4740505,8795,539,363,3,KKC,"KAM PO BLDG,SA PO RD|blank,沙浦道"
+3.0/F高層blank,3.0,高層,blank,4831596,8964,539,350,3,KKC,"KAM PO BLDG,SA PO RD|blank,沙浦道"

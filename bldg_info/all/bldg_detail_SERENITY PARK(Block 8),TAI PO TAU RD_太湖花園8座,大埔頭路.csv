@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,NTP
-12.0/F中層A,12.0,中層,A,,,,,,NTP
-20.0/F高層A,20.0,高層,A,,,,,,NTP
-5.0/F低層B,5.0,低層,B,,,,,,NTP
-12.0/F中層B,12.0,中層,B,,,,,,NTP
-20.0/F高層B,20.0,高層,B,,,,,,NTP
-5.0/F低層C,5.0,低層,C,8413405,15785,533,71,1,NTP
-12.0/F中層C,12.0,中層,C,8708154,16338,533,81,1,NTP
-20.0/F高層C,20.0,高層,C,9045010,16970,533,93,1,NTP
-5.0/F低層D,5.0,低層,D,,,,,,NTP
-12.0/F中層D,12.0,中層,D,,,,,,NTP
-20.0/F高層D,20.0,高層,D,,,,,,NTP
-5.0/F低層E,5.0,低層,E,,,,,,NTP
-12.0/F中層E,12.0,中層,E,,,,,,NTP
-20.0/F高層E,20.0,高層,E,,,,,,NTP
-5.0/F低層F,5.0,低層,F,,,,,,NTP
-12.0/F中層F,12.0,中層,F,,,,,,NTP
-20.0/F高層F,20.0,高層,F,,,,,,NTP
-5.0/F低層G,5.0,低層,G,,,,,,NTP
-12.0/F中層G,12.0,中層,G,,,,,,NTP
-20.0/F高層G,20.0,高層,G,,,,,,NTP
-5.0/F低層H,5.0,低層,H,,,,,,NTP
-12.0/F中層H,12.0,中層,H,,,,,,NTP
-20.0/F高層H,20.0,高層,H,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層A,5.0,低層,A,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層A,12.0,中層,A,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層A,20.0,高層,A,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層B,5.0,低層,B,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層B,12.0,中層,B,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層B,20.0,高層,B,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層C,5.0,低層,C,8413405,15785,533,71,1,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層C,12.0,中層,C,8708154,16338,533,81,1,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層C,20.0,高層,C,9045010,16970,533,93,1,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層D,5.0,低層,D,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層D,12.0,中層,D,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層D,20.0,高層,D,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層E,5.0,低層,E,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層E,12.0,中層,E,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層E,20.0,高層,E,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層F,5.0,低層,F,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層F,12.0,中層,F,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層F,20.0,高層,F,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層G,5.0,低層,G,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層G,12.0,中層,G,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層G,20.0,高層,G,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+5.0/F低層H,5.0,低層,H,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+12.0/F中層H,12.0,中層,H,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"
+20.0/F高層H,20.0,高層,H,,,,,,NTP,"SERENITY PARK(Block 8),TAI PO TAU RD|太湖花園8座,大埔頭路"

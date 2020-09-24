@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-8.0/F低層blank,8.0,低層,blank,,,,,,KYMT
-10.0/F中層blank,10.0,中層,blank,,,,,,KYMT
-11.0/F高層blank,11.0,高層,blank,,,,,,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+8.0/F低層blank,8.0,低層,blank,12322420,31196,395,274,2,KYMT,"TAK YUE MANS,SHANGHAI ST|得如樓大廈,上海街"
+10.0/F中層blank,10.0,中層,blank,11508680,31880,361,276,2,KYMT,"TAK YUE MANS,SHANGHAI ST|得如樓大廈,上海街"
+11.0/F高層blank,11.0,高層,blank,11584851,32091,361,283,2,KYMT,"TAK YUE MANS,SHANGHAI ST|得如樓大廈,上海街"

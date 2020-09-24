@@ -1,37 +1,37 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層A,6.0,低層,A,,,,,,NTKO
-15.0/F中層A,15.0,中層,A,,,,,,NTKO
-25.0/F高層A,25.0,高層,A,,,,,,NTKO
-6.0/F低層B,6.0,低層,B,,,,,,NTKO
-15.0/F中層B,15.0,中層,B,,,,,,NTKO
-25.0/F高層B,25.0,高層,B,,,,,,NTKO
-6.0/F低層C,6.0,低層,C,,,,,,NTKO
-15.0/F中層C,15.0,中層,C,,,,,,NTKO
-25.0/F高層C,25.0,高層,C,,,,,,NTKO
-6.0/F低層D,6.0,低層,D,,,,,,NTKO
-15.0/F中層D,15.0,中層,D,,,,,,NTKO
-25.0/F高層D,25.0,高層,D,,,,,,NTKO
-6.0/F低層E,6.0,低層,E,,,,,,NTKO
-15.0/F中層E,15.0,中層,E,,,,,,NTKO
-25.0/F高層E,25.0,高層,E,,,,,,NTKO
-6.0/F低層F,6.0,低層,F,,,,,,NTKO
-15.0/F中層F,15.0,中層,F,,,,,,NTKO
-25.0/F高層F,25.0,高層,F,,,,,,NTKO
-6.0/F低層G,6.0,低層,G,,,,,,NTKO
-15.0/F中層G,15.0,中層,G,,,,,,NTKO
-25.0/F高層G,25.0,高層,G,,,,,,NTKO
-6.0/F低層H,6.0,低層,H,,,,,,NTKO
-15.0/F中層H,15.0,中層,H,,,,,,NTKO
-25.0/F高層H,25.0,高層,H,,,,,,NTKO
-6.0/F低層J,6.0,低層,J,,,,,,NTKO
-15.0/F中層J,15.0,中層,J,,,,,,NTKO
-25.0/F高層J,25.0,高層,J,,,,,,NTKO
-6.0/F低層K,6.0,低層,K,,,,,,NTKO
-15.0/F中層K,15.0,中層,K,,,,,,NTKO
-25.0/F高層K,25.0,高層,K,,,,,,NTKO
-6.0/F低層L,6.0,低層,L,,,,,,NTKO
-15.0/F中層L,15.0,中層,L,,,,,,NTKO
-25.0/F高層L,25.0,高層,L,,,,,,NTKO
-6.0/F低層M,6.0,低層,M,,,,,,NTKO
-15.0/F中層M,15.0,中層,M,,,,,,NTKO
-25.0/F高層M,25.0,高層,M,,,,,,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層A,6.0,低層,A,11277526,22829,494,322,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層A,15.0,中層,A,11560588,23402,494,332,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層A,25.0,高層,A,11879218,24047,494,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層B,6.0,低層,B,13141179,22311,589,374,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層B,15.0,中層,B,13476320,22880,589,381,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層B,25.0,高層,B,13850924,23516,589,370,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層C,6.0,低層,C,11277526,22829,494,322,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層C,15.0,中層,C,11560588,23402,494,332,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層C,25.0,高層,C,11879218,24047,494,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層D,6.0,低層,D,10511908,23308,451,297,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層D,15.0,中層,D,10774390,23890,451,307,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層D,25.0,高層,D,11070697,24547,451,301,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層E,6.0,低層,E,13119386,22274,589,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層E,15.0,中層,E,13453938,22842,589,336,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層E,25.0,高層,E,13829720,23480,589,330,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層F,6.0,低層,F,11294910,22818,495,322,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層F,15.0,中層,F,11578050,23390,495,332,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層F,25.0,高層,F,11897325,24035,495,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層G,6.0,低層,G,11294910,22818,495,322,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層G,15.0,中層,G,11578050,23390,495,332,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層G,25.0,高層,G,11897325,24035,495,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層H,6.0,低層,H,13119386,22274,589,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層H,15.0,中層,H,13453938,22842,589,336,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層H,25.0,高層,H,13829720,23480,589,330,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層J,6.0,低層,J,11302830,22834,495,369,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層J,15.0,中層,J,11587950,23410,495,379,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層J,25.0,高層,J,11908215,24057,495,368,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層K,6.0,低層,K,10493550,23319,450,296,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層K,15.0,中層,K,10755900,23902,450,306,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層K,25.0,高層,K,11051100,24558,450,300,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層L,6.0,低層,L,13061075,22175,589,399,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層L,15.0,中層,L,13290196,22564,589,334,3,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層L,25.0,高層,L,13681881,23229,589,345,3,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+6.0/F低層M,6.0,低層,M,11277526,22829,494,322,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+15.0/F中層M,15.0,中層,M,11560588,23402,494,332,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"
+25.0/F高層M,25.0,高層,M,11879218,24047,494,326,4,NTKO,"HONG SING GDN(Block 5),PO LAM RD N|康盛花園5座,寶琳北路"

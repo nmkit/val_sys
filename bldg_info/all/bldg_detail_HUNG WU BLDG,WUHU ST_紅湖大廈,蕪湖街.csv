@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層blank,5.0,低層,blank,5930580,10190,582,419,3,KHH
-7.0/F中層blank,7.0,中層,blank,5042323,10483,481,321,3,KHH
-9.0/F高層blank,9.0,高層,blank,5751158,10514,547,333,3,KHH
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5.0/F低層blank,5.0,低層,blank,5932908,10194,582,419,3,KHH,"HUNG WU BLDG,WUHU ST|紅湖大廈,蕪湖街"
+7.0/F中層blank,7.0,中層,blank,5061563,10523,481,321,3,KHH,"HUNG WU BLDG,WUHU ST|紅湖大廈,蕪湖街"
+9.0/F高層blank,9.0,高層,blank,5751705,10515,547,333,3,KHH,"HUNG WU BLDG,WUHU ST|紅湖大廈,蕪湖街"

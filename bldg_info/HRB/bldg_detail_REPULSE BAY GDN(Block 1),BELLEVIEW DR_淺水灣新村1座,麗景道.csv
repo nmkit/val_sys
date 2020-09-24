@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,56860280,26948,2110,232,2,HRB
-9.0/F中層blank,9.0,中層,blank,59434480,28168,2110,268,2,HRB
-15.0/F高層blank,15.0,高層,blank,63084780,29898,2110,247,2,HRB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,56860280,26948,2110,232,2,HRB,"REPULSE BAY GDN(Block 1),BELLEVIEW DR|淺水灣新村1座,麗景道"
+9.0/F中層blank,9.0,中層,blank,59434480,28168,2110,268,2,HRB,"REPULSE BAY GDN(Block 1),BELLEVIEW DR|淺水灣新村1座,麗景道"
+15.0/F高層blank,15.0,高層,blank,63084780,29898,2110,247,2,HRB,"REPULSE BAY GDN(Block 1),BELLEVIEW DR|淺水灣新村1座,麗景道"

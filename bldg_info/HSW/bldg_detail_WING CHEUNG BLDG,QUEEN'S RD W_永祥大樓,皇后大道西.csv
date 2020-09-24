@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層145,2.0,低層,145,6311520,17532,360,331,3,HSW
-3.0/F中層145,3.0,中層,145,6347520,17632,360,338,3,HSW
-4.0/F高層145,4.0,高層,145,6391080,17753,360,331,3,HSW
-2.0/F低層blank,2.0,低層,blank,6308330,15890,397,431,3,HSW
-3.0/F中層blank,3.0,中層,blank,6347633,15989,397,432,3,HSW
-4.0/F高層blank,4.0,高層,blank,6228746,15809,394,440,3,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層145,2.0,低層,145,6312600,17535,360,331,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"
+3.0/F中層145,3.0,中層,145,6348600,17635,360,338,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"
+4.0/F高層145,4.0,高層,145,6392160,17756,360,331,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"
+2.0/F低層blank,2.0,低層,blank,6777187,17071,397,415,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"
+3.0/F中層blank,3.0,中層,blank,6830782,17206,397,406,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"
+4.0/F高層blank,4.0,高層,blank,6968979,17379,401,402,3,HSW,"WING CHEUNG BLDG,QUEEN'S RD W|永祥大樓,皇后大道西"

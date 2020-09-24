@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層B,2.0,低層,B,,,,,,NYL
-3.0/F中層B,3.0,中層,B,,,,,,NYL
-4.0/F高層B,4.0,高層,B,,,,,,NYL
-2.0/F低層C,2.0,低層,C,,,,,,NYL
-3.0/F中層C,3.0,中層,C,,,,,,NYL
-4.0/F高層C,4.0,高層,C,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-3.0/F中層D,3.0,中層,D,,,,,,NYL
-4.0/F高層D,4.0,高層,D,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+3.0/F中層B,3.0,中層,B,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+2.0/F低層C,2.0,低層,C,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+3.0/F中層C,3.0,中層,C,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+4.0/F高層C,4.0,高層,C,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+3.0/F中層D,3.0,中層,D,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"SHIU YAT HSE(Block 2),CHUN YIN SQUARE|兆日樓2座,俊賢坊"

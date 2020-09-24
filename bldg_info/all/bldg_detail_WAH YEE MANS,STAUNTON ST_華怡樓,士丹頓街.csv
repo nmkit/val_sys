@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層53,2.0,低層,53,,,,,,HSW
-3.0/F中層53,3.0,中層,53,,,,,,HSW
-4.0/F高層53,4.0,高層,53,,,,,,HSW
-2.0/F低層55,2.0,低層,55,8372160,19380,432,93,1,HSW
-3.0/F中層55,3.0,中層,55,8427888,19509,432,94,1,HSW
-4.0/F高層55,4.0,高層,55,8483616,19638,432,96,1,HSW
-2.0/F低層57,2.0,低層,57,7186752,16636,432,95,1,HSW
-3.0/F中層57,3.0,中層,57,7233408,16744,432,93,1,HSW
-4.0/F高層57,4.0,高層,57,7280064,16852,432,92,1,HSW
-2.0/F低層blank,2.0,低層,blank,5660823,19453,291,326,3,HSW
-3.0/F中層blank,3.0,中層,blank,5924380,19235,308,334,3,HSW
-4.0/F高層blank,4.0,高層,blank,7489755,18135,413,378,4,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層53,2.0,低層,53,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+3.0/F中層53,3.0,中層,53,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+4.0/F高層53,4.0,高層,53,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+2.0/F低層55,2.0,低層,55,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+3.0/F中層55,3.0,中層,55,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+4.0/F高層55,4.0,高層,55,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+2.0/F低層57,2.0,低層,57,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+3.0/F中層57,3.0,中層,57,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+4.0/F高層57,4.0,高層,57,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+2.0/F低層blank,2.0,低層,blank,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+3.0/F中層blank,3.0,中層,blank,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"
+4.0/F高層blank,4.0,高層,blank,,,,,,HSW,"WAH YEE MANS,STAUNTON ST|華怡樓,士丹頓街"

@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,KHMT
-6.0/F中層A,6.0,中層,A,,,,,,KHMT
-9.0/F高層A,9.0,高層,A,,,,,,KHMT
-3.0/F低層AB,3.0,低層,AB,,,,,,KHMT
-6.0/F中層AB,6.0,中層,AB,,,,,,KHMT
-9.0/F高層AB,9.0,高層,AB,,,,,,KHMT
-3.0/F低層B,3.0,低層,B,,,,,,KHMT
-6.0/F中層B,6.0,中層,B,,,,,,KHMT
-9.0/F高層B,9.0,高層,B,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+6.0/F中層A,6.0,中層,A,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+9.0/F高層A,9.0,高層,A,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+3.0/F低層AB,3.0,低層,AB,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+6.0/F中層AB,6.0,中層,AB,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+9.0/F高層AB,9.0,高層,AB,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+3.0/F低層B,3.0,低層,B,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+6.0/F中層B,6.0,中層,B,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"
+9.0/F高層B,9.0,高層,B,,,,,,KHMT,"MANTIN COURT,HO MAN TIN HILL RD|文田閣,何文田山道"

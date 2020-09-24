@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-1.0/F低層B,1.0,低層,B,1458450,4167,350,95,1,ISL
-2.0/F中層B,2.0,中層,B,1465800,4188,350,94,1,ISL
-2.0/F高層B,2.0,高層,B,1465800,4188,350,94,1,ISL
-1.0/F低層G,1.0,低層,G,1458450,4167,350,150,1,ISL
-2.0/F中層G,2.0,中層,G,1465800,4188,350,142,1,ISL
-2.0/F高層G,2.0,高層,G,1465800,4188,350,142,1,ISL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層B,1.0,低層,B,1458450,4167,350,95,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"
+2.0/F中層B,2.0,中層,B,1465800,4188,350,94,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"
+2.0/F高層B,2.0,高層,B,1465800,4188,350,94,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"
+1.0/F低層G,1.0,低層,G,1458450,4167,350,150,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"
+2.0/F中層G,2.0,中層,G,1465800,4188,350,142,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"
+2.0/F高層G,2.0,高層,G,1465800,4188,350,142,1,ISL,"BELA VISTA VILLA(Block 11),TUNG WAN|東堤小築11座,東灣"

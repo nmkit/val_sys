@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,24317487,23911,1017,150,1,HTT
-10.0/F中層A,10.0,中層,A,,,,,,HTT
-15.0/F高層A,15.0,高層,A,,,,,,HTT
-4.0/F低層B,4.0,低層,B,23811696,21726,1096,83,1,HTT
-10.0/F中層B,10.0,中層,B,25136172,24716,1017,248,2,HTT
-15.0/F高層B,15.0,高層,B,26615264,24284,1096,99,1,HTT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,24317487,23911,1017,150,1,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"
+10.0/F中層A,10.0,中層,A,,,,,,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"
+15.0/F高層A,15.0,高層,A,,,,,,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"
+4.0/F低層B,4.0,低層,B,23424808,21373,1096,83,1,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"
+10.0/F中層B,10.0,中層,B,25136172,24716,1017,248,2,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"
+15.0/F高層B,15.0,高層,B,26183440,23890,1096,99,1,HTT,"THE REDHILL PENINSULA(Block 2),PAK PAT SHAN RD|紅山半島2座,白筆山道"

@@ -1,31 +1,31 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-7.0/F低層A,7.0,低層,A,,,,,,NTKO
-20.0/F中層A,20.0,中層,A,6859578,11766,583,150,1,NTKO
-32.0/F高層A,32.0,高層,A,,,,,,NTKO
-7.0/F低層B,7.0,低層,B,6482362,12049,538,89,1,NTKO
-20.0/F中層B,20.0,中層,B,6735222,12519,538,102,1,NTKO
-32.0/F高層B,32.0,高層,B,6968714,12953,538,84,1,NTKO
-7.0/F低層C,7.0,低層,C,,,,,,NTKO
-20.0/F中層C,20.0,中層,C,,,,,,NTKO
-32.0/F高層C,32.0,高層,C,,,,,,NTKO
-7.0/F低層D,7.0,低層,D,,,,,,NTKO
-20.0/F中層D,20.0,中層,D,,,,,,NTKO
-32.0/F高層D,32.0,高層,D,,,,,,NTKO
-7.0/F低層E,7.0,低層,E,7079369,12143,583,98,1,NTKO
-20.0/F中層E,20.0,中層,E,7349881,12607,583,91,1,NTKO
-32.0/F高層E,32.0,高層,E,7599405,13035,583,73,1,NTKO
-7.0/F低層F,7.0,低層,F,,,,,,NTKO
-20.0/F中層F,20.0,中層,F,,,,,,NTKO
-32.0/F高層F,32.0,高層,F,,,,,,NTKO
-7.0/F低層G,7.0,低層,G,,,,,,NTKO
-20.0/F中層G,20.0,中層,G,,,,,,NTKO
-32.0/F高層G,32.0,高層,G,,,,,,NTKO
-7.0/F低層H,7.0,低層,H,,,,,,NTKO
-20.0/F中層H,20.0,中層,H,,,,,,NTKO
-32.0/F高層H,32.0,高層,H,,,,,,NTKO
-7.0/F低層J,7.0,低層,J,5917125,12725,465,243,2,NTKO
-20.0/F中層J,20.0,中層,J,6310050,13570,465,92,1,NTKO
-32.0/F高層J,32.0,高層,J,6525810,14034,465,74,1,NTKO
-7.0/F低層K,7.0,低層,K,,,,,,NTKO
-20.0/F中層K,20.0,中層,K,,,,,,NTKO
-32.0/F高層K,32.0,高層,K,,,,,,NTKO
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+7.0/F低層A,7.0,低層,A,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層A,20.0,中層,A,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層A,32.0,高層,A,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層B,7.0,低層,B,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層B,20.0,中層,B,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層B,32.0,高層,B,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層C,7.0,低層,C,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層C,20.0,中層,C,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層C,32.0,高層,C,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層D,7.0,低層,D,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層D,20.0,中層,D,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層D,32.0,高層,D,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層E,7.0,低層,E,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層E,20.0,中層,E,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層E,32.0,高層,E,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層F,7.0,低層,F,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層F,20.0,中層,F,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層F,32.0,高層,F,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層G,7.0,低層,G,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層G,20.0,中層,G,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層G,32.0,高層,G,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層H,7.0,低層,H,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層H,20.0,中層,H,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層H,32.0,高層,H,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層J,7.0,低層,J,6076620,13068,465,93,1,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層J,20.0,中層,J,6310050,13570,465,92,1,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層J,32.0,高層,J,6525810,14034,465,74,1,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+7.0/F低層K,7.0,低層,K,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+20.0/F中層K,20.0,中層,K,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"
+32.0/F高層K,32.0,高層,K,,,,,,NTKO,"ON NING GDN(Block 2),SHEUNG NING RD|安寧花園2座,常寧路"

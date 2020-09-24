@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,3705504,7656,484,223,2,NTP
-3.0/F中層A,3.0,中層,A,3728736,7704,484,263,2,NTP
-4.0/F高層A,4.0,高層,A,3734544,7716,484,261,2,NTP
-2.0/F低層B,2.0,低層,B,4154904,7527,552,134,2,NTP
-3.0/F中層B,3.0,中層,B,4174224,7562,552,136,2,NTP
-4.0/F高層B,4.0,高層,B,4192992,7596,552,136,2,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,3705504,7656,484,223,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"
+3.0/F中層A,3.0,中層,A,3728736,7704,484,263,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"
+4.0/F高層A,4.0,高層,A,3734544,7716,484,261,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"
+2.0/F低層B,2.0,低層,B,4185264,7582,552,134,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"
+3.0/F中層B,3.0,中層,B,4204584,7617,552,136,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"
+4.0/F高層B,4.0,高層,B,4223904,7652,552,136,2,NTP,"HANG LOK BLDG,PO HEUNG ST|行樂樓,寶鄉街"

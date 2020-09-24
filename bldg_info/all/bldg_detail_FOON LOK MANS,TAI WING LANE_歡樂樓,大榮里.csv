@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NTP
-3.0/F中層A,3.0,中層,A,,,,,,NTP
-4.0/F高層A,4.0,高層,A,,,,,,NTP
-2.0/F低層B,2.0,低層,B,,,,,,NTP
-3.0/F中層B,3.0,中層,B,,,,,,NTP
-4.0/F高層B,4.0,高層,B,,,,,,NTP
-2.0/F低層D,2.0,低層,D,,,,,,NTP
-3.0/F中層D,3.0,中層,D,,,,,,NTP
-4.0/F高層D,4.0,高層,D,,,,,,NTP
-2.0/F低層G,2.0,低層,G,,,,,,NTP
-3.0/F中層G,3.0,中層,G,,,,,,NTP
-4.0/F高層G,4.0,高層,G,,,,,,NTP
-2.0/F低層H,2.0,低層,H,4528077,8339,543,150,1,NTP
-3.0/F中層H,3.0,中層,H,,,,,,NTP
-4.0/F高層H,4.0,高層,H,,,,,,NTP
-2.0/F低層I,2.0,低層,I,,,,,,NTP
-3.0/F中層I,3.0,中層,I,,,,,,NTP
-4.0/F高層I,4.0,高層,I,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層A,3.0,中層,A,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層A,4.0,高層,A,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+2.0/F低層B,2.0,低層,B,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層B,3.0,中層,B,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層B,4.0,高層,B,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+2.0/F低層D,2.0,低層,D,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層D,3.0,中層,D,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層D,4.0,高層,D,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+2.0/F低層G,2.0,低層,G,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層G,3.0,中層,G,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層G,4.0,高層,G,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+2.0/F低層H,2.0,低層,H,4528077,8339,543,150,1,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層H,3.0,中層,H,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層H,4.0,高層,H,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+2.0/F低層I,2.0,低層,I,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+3.0/F中層I,3.0,中層,I,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"
+4.0/F高層I,4.0,高層,I,,,,,,NTP,"FOON LOK MANS,TAI WING LANE|歡樂樓,大榮里"

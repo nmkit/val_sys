@@ -1,10 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層B,3.0,低層,B,3301857,8073,409,221,2,NYL
-4.0/F中層B,4.0,中層,B,2970976,7264,409,72,1,NYL
-5.0/F高層B,5.0,高層,B,2985700,7300,409,71,1,NYL
-3.0/F低層E,3.0,低層,E,2938000,7345,400,211,2,NYL
-4.0/F中層E,4.0,中層,E,2947600,7369,400,253,2,NYL
-5.0/F高層E,5.0,高層,E,2974400,7436,400,259,2,NYL
-3.0/F低層F,3.0,低層,F,2725236,7446,366,67,1,NYL
-4.0/F中層F,4.0,中層,F,2738778,7483,366,68,1,NYL
-5.0/F高層F,5.0,高層,F,2752320,7520,366,67,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,3467093,8477,409,150,1,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+4.0/F中層B,4.0,中層,B,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+5.0/F高層B,5.0,高層,B,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+3.0/F低層C,3.0,低層,C,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+4.0/F中層C,4.0,中層,C,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+5.0/F高層C,5.0,高層,C,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+3.0/F低層E,3.0,低層,E,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+4.0/F中層E,4.0,中層,E,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+5.0/F高層E,5.0,高層,E,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+3.0/F低層F,3.0,低層,F,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+4.0/F中層F,4.0,中層,F,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"
+5.0/F高層F,5.0,高層,F,,,,,,NYL,"TAK HING BLDG,CASTLE PEAK RD HUNG SHUI KIU|德興樓,青山公路洪水橋段"

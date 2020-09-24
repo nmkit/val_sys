@@ -1,31 +1,31 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A1,3.0,低層,A1,,,,,,NTP
-4.0/F中層A1,4.0,中層,A1,,,,,,NTP
-4.0/F高層A1,4.0,高層,A1,,,,,,NTP
-3.0/F低層A2,3.0,低層,A2,,,,,,NTP
-4.0/F中層A2,4.0,中層,A2,,,,,,NTP
-4.0/F高層A2,4.0,高層,A2,,,,,,NTP
-3.0/F低層A3,3.0,低層,A3,,,,,,NTP
-4.0/F中層A3,4.0,中層,A3,,,,,,NTP
-4.0/F高層A3,4.0,高層,A3,,,,,,NTP
-3.0/F低層B2,3.0,低層,B2,,,,,,NTP
-4.0/F中層B2,4.0,中層,B2,,,,,,NTP
-4.0/F高層B2,4.0,高層,B2,,,,,,NTP
-3.0/F低層C1,3.0,低層,C1,,,,,,NTP
-4.0/F中層C1,4.0,中層,C1,,,,,,NTP
-4.0/F高層C1,4.0,高層,C1,,,,,,NTP
-3.0/F低層C2,3.0,低層,C2,,,,,,NTP
-4.0/F中層C2,4.0,中層,C2,,,,,,NTP
-4.0/F高層C2,4.0,高層,C2,,,,,,NTP
-3.0/F低層C3,3.0,低層,C3,,,,,,NTP
-4.0/F中層C3,4.0,中層,C3,,,,,,NTP
-4.0/F高層C3,4.0,高層,C3,,,,,,NTP
-3.0/F低層D1,3.0,低層,D1,,,,,,NTP
-4.0/F中層D1,4.0,中層,D1,,,,,,NTP
-4.0/F高層D1,4.0,高層,D1,,,,,,NTP
-3.0/F低層D3,3.0,低層,D3,,,,,,NTP
-4.0/F中層D3,4.0,中層,D3,,,,,,NTP
-4.0/F高層D3,4.0,高層,D3,,,,,,NTP
-3.0/F低層E1,3.0,低層,E1,,,,,,NTP
-4.0/F中層E1,4.0,中層,E1,,,,,,NTP
-4.0/F高層E1,4.0,高層,E1,,,,,,NTP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A1,3.0,低層,A1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層A1,4.0,中層,A1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層A1,4.0,高層,A1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層A2,3.0,低層,A2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層A2,4.0,中層,A2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層A2,4.0,高層,A2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層A3,3.0,低層,A3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層A3,4.0,中層,A3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層A3,4.0,高層,A3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層B2,3.0,低層,B2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層B2,4.0,中層,B2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層B2,4.0,高層,B2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層C1,3.0,低層,C1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層C1,4.0,中層,C1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層C1,4.0,高層,C1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層C2,3.0,低層,C2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層C2,4.0,中層,C2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層C2,4.0,高層,C2,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層C3,3.0,低層,C3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層C3,4.0,中層,C3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層C3,4.0,高層,C3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層D1,3.0,低層,D1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層D1,4.0,中層,D1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層D1,4.0,高層,D1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層D3,3.0,低層,D3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層D3,4.0,中層,D3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層D3,4.0,高層,D3,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+3.0/F低層E1,3.0,低層,E1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F中層E1,4.0,中層,E1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"
+4.0/F高層E1,4.0,高層,E1,,,,,,NTP,"PO WAH HSE,TAI MING LANE|寶華樓,大明里"

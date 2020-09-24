@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,HWC
-7.0/F中層A,7.0,中層,A,,,,,,HWC
-10.0/F高層A,10.0,高層,A,,,,,,HWC
-3.0/F低層B,3.0,低層,B,,,,,,HWC
-7.0/F中層B,7.0,中層,B,,,,,,HWC
-10.0/F高層B,10.0,高層,B,,,,,,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"
+7.0/F中層A,7.0,中層,A,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"
+10.0/F高層A,10.0,高層,A,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"
+3.0/F低層B,3.0,低層,B,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"
+7.0/F中層B,7.0,中層,B,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"
+10.0/F高層B,10.0,高層,B,,,,,,HWC,"GREENLAND HSE,SAU WA FONG|建華閣,秀華坊"

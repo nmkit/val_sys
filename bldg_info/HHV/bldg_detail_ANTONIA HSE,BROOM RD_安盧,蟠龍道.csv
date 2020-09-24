@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,45254832,23856,1897,209,2,HHV
-2.0/F中層blank,2.0,中層,blank,45254832,23856,1897,209,2,HHV
-3.0/F高層blank,3.0,高層,blank,,,,,,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,45323124,23892,1897,209,2,HHV,"ANTONIA HSE,BROOM RD|安盧,蟠龍道"
+2.0/F中層blank,2.0,中層,blank,45323124,23892,1897,209,2,HHV,"ANTONIA HSE,BROOM RD|安盧,蟠龍道"
+3.0/F高層blank,3.0,高層,blank,,,,,,HHV,"ANTONIA HSE,BROOM RD|安盧,蟠龍道"

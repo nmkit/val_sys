@@ -1,13 +1,13 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,HWC
-9.0/F中層A,9.0,中層,A,,,,,,HWC
-14.0/F高層A,14.0,高層,A,,,,,,HWC
-4.0/F低層B,4.0,低層,B,,,,,,HWC
-9.0/F中層B,9.0,中層,B,,,,,,HWC
-14.0/F高層B,14.0,高層,B,,,,,,HWC
-4.0/F低層C,4.0,低層,C,,,,,,HWC
-9.0/F中層C,9.0,中層,C,,,,,,HWC
-14.0/F高層C,14.0,高層,C,,,,,,HWC
-4.0/F低層D,4.0,低層,D,,,,,,HWC
-9.0/F中層D,9.0,中層,D,,,,,,HWC
-14.0/F高層D,14.0,高層,D,,,,,,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+9.0/F中層A,9.0,中層,A,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+14.0/F高層A,14.0,高層,A,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+4.0/F低層B,4.0,低層,B,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+9.0/F中層B,9.0,中層,B,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+14.0/F高層B,14.0,高層,B,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+4.0/F低層C,4.0,低層,C,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+9.0/F中層C,9.0,中層,C,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+14.0/F高層C,14.0,高層,C,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+4.0/F低層D,4.0,低層,D,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+9.0/F中層D,9.0,中層,D,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"
+14.0/F高層D,14.0,高層,D,,,,,,HWC,"KAM SHING BLDG,STONE NULLAH LANE|金勝大廈,石水渠街"

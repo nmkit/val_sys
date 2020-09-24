@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,5841990,11802,495,379,3,KTST
-8.0/F中層blank,8.0,中層,blank,6005835,12133,495,313,3,KTST
-13.0/F高層blank,13.0,高層,blank,6233040,12592,495,300,3,KTST
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,5841990,11802,495,379,3,KTST,"CREATIVE MANS,CHATHAM COURT|紀德樓,漆咸圍"
+8.0/F中層blank,8.0,中層,blank,6005835,12133,495,313,3,KTST,"CREATIVE MANS,CHATHAM COURT|紀德樓,漆咸圍"
+13.0/F高層blank,13.0,高層,blank,6233040,12592,495,300,3,KTST,"CREATIVE MANS,CHATHAM COURT|紀德樓,漆咸圍"

@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A1,4.0,低層,A1,,,,,,NPSK
-10.0/F中層A1,10.0,中層,A1,,,,,,NPSK
-17.0/F高層A1,17.0,高層,A1,,,,,,NPSK
-4.0/F低層A2,4.0,低層,A2,10295370,20187,510,278,5,NPSK
-10.0/F中層A2,10.0,中層,A2,10728870,21037,510,270,5,NPSK
-17.0/F高層A2,17.0,高層,A2,11253660,22066,510,256,5,NPSK
-4.0/F低層A3,4.0,低層,A3,,,,,,NPSK
-10.0/F中層A3,10.0,中層,A3,,,,,,NPSK
-17.0/F高層A3,17.0,高層,A3,,,,,,NPSK
-4.0/F低層B1,4.0,低層,B1,,,,,,NPSK
-10.0/F中層B1,10.0,中層,B1,,,,,,NPSK
-17.0/F高層B1,17.0,高層,B1,,,,,,NPSK
-4.0/F低層B2,4.0,低層,B2,,,,,,NPSK
-10.0/F中層B2,10.0,中層,B2,,,,,,NPSK
-17.0/F高層B2,17.0,高層,B2,,,,,,NPSK
-4.0/F低層B3,4.0,低層,B3,,,,,,NPSK
-10.0/F中層B3,10.0,中層,B3,,,,,,NPSK
-17.0/F高層B3,17.0,高層,B3,,,,,,NPSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A1,4.0,低層,A1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層A1,10.0,中層,A1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層A1,17.0,高層,A1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+4.0/F低層A2,4.0,低層,A2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層A2,10.0,中層,A2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層A2,17.0,高層,A2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+4.0/F低層A3,4.0,低層,A3,38795807,47837,811,427,3,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層A3,10.0,中層,A3,40637588,50108,811,441,3,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層A3,17.0,高層,A3,42394214,52274,811,420,3,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+4.0/F低層B1,4.0,低層,B1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層B1,10.0,中層,B1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層B1,17.0,高層,B1,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+4.0/F低層B2,4.0,低層,B2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層B2,10.0,中層,B2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層B2,17.0,高層,B2,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+4.0/F低層B3,4.0,低層,B3,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+10.0/F中層B3,10.0,中層,B3,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"
+17.0/F高層B3,17.0,高層,B3,,,,,,NPSK,"ST MARTIN(Block 6),FO CHUN RD|雲滙6座,科進路"

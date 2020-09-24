@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,KKC
-6.0/F中層A,6.0,中層,A,,,,,,KKC
-8.0/F高層A,8.0,高層,A,,,,,,KKC
-2.0/F低層B,2.0,低層,B,,,,,,KKC
-6.0/F中層B,6.0,中層,B,,,,,,KKC
-8.0/F高層B,8.0,高層,B,,,,,,KKC
-2.0/F低層C,2.0,低層,C,,,,,,KKC
-6.0/F中層C,6.0,中層,C,,,,,,KKC
-8.0/F高層C,8.0,高層,C,,,,,,KKC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,37964304,37663,1008,142,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+6.0/F中層A,6.0,中層,A,39208176,38897,1008,145,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+8.0/F高層A,8.0,高層,A,39831120,39515,1008,142,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+2.0/F低層B,2.0,低層,B,38633472,37728,1024,93,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+6.0/F中層B,6.0,中層,B,40722892,39044,1043,94,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+8.0/F高層B,8.0,高層,B,41369552,39664,1043,92,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+2.0/F低層C,2.0,低層,C,36383730,37509,970,92,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+6.0/F中層C,6.0,中層,C,37575860,38738,970,94,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"
+8.0/F高層C,8.0,高層,C,38172410,39353,970,92,1,KKC,"KA WAH COURT,PRINCE EDWARD RD W|嘉華閣,太子道西"

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,5991432,16106,372,379,3,HHV
-4.0/F中層blank,4.0,中層,blank,6062112,16296,372,391,3,HHV
-6.0/F高層blank,6.0,高層,blank,6025660,15857,380,384,3,HHV
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,5991432,16106,372,379,3,HHV,"CHEONG MING BLDG,SING WOO RD|昌明大樓,成和道"
+4.0/F中層blank,4.0,中層,blank,6062112,16296,372,391,3,HHV,"CHEONG MING BLDG,SING WOO RD|昌明大樓,成和道"
+6.0/F高層blank,6.0,高層,blank,6295080,16566,380,334,3,HHV,"CHEONG MING BLDG,SING WOO RD|昌明大樓,成和道"

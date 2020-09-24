@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,7635600,10908,700,206,2,HSW
-6.0/F中層blank,6.0,中層,blank,7939008,11088,716,197,2,HSW
-9.0/F高層blank,9.0,高層,blank,8090084,11299,716,188,2,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,7635600,10908,700,206,2,HSW,"SZE YAP BLDG,DES VOEUX RD W|四邑大廈,德輔道西"
+6.0/F中層blank,6.0,中層,blank,7939008,11088,716,197,2,HSW,"SZE YAP BLDG,DES VOEUX RD W|四邑大廈,德輔道西"
+9.0/F高層blank,9.0,高層,blank,8090084,11299,716,188,2,HSW,"SZE YAP BLDG,DES VOEUX RD W|四邑大廈,德輔道西"

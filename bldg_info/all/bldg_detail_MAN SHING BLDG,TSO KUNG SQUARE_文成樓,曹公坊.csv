@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層blank,2.0,低層,blank,3216450,5230,615,98,1,NTW
-3.0/F中層blank,3.0,中層,blank,3228135,5249,615,99,1,NTW
-4.0/F高層blank,4.0,高層,blank,3239820,5268,615,150,1,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層blank,2.0,低層,blank,3216450,5230,615,98,1,NTW,"MAN SHING BLDG,TSO KUNG SQUARE|文成樓,曹公坊"
+3.0/F中層blank,3.0,中層,blank,3228135,5249,615,99,1,NTW,"MAN SHING BLDG,TSO KUNG SQUARE|文成樓,曹公坊"
+4.0/F高層blank,4.0,高層,blank,3239820,5268,615,150,1,NTW,"MAN SHING BLDG,TSO KUNG SQUARE|文成樓,曹公坊"

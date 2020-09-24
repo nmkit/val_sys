@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層blank,3.0,低層,blank,10894200,13550,804,407,3,HQB
-7.0/F中層blank,7.0,中層,blank,11399916,14179,804,398,3,HQB
-11.0/F高層blank,11.0,高層,blank,11649960,14490,804,389,3,HQB
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層blank,3.0,低層,blank,10891788,13547,804,407,3,HQB,"LAI WAH MANS,KING'S RD|麗華樓,英皇道"
+7.0/F中層blank,7.0,中層,blank,11389464,14166,804,398,3,HQB,"LAI WAH MANS,KING'S RD|麗華樓,英皇道"
+11.0/F高層blank,11.0,高層,blank,11640312,14478,804,389,3,HQB,"LAI WAH MANS,KING'S RD|麗華樓,英皇道"

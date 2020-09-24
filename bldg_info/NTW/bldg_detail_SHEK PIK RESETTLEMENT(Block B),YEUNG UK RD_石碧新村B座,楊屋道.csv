@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層13,2.0,低層,13,5466120,8888,615,100,1,NTW
-3.0/F中層13,3.0,中層,13,5486415,8921,615,150,1,NTW
-4.0/F高層13,4.0,高層,13,5506710,8954,615,100,1,NTW
-2.0/F低層16,2.0,低層,16,5440905,8847,615,95,1,NTW
-3.0/F中層16,3.0,中層,16,5461200,8880,615,96,1,NTW
-4.0/F高層16,4.0,高層,16,5480880,8912,615,150,1,NTW
-2.0/F低層29,2.0,低層,29,,,,,,NTW
-3.0/F中層29,3.0,中層,29,,,,,,NTW
-4.0/F高層29,4.0,高層,29,,,,,,NTW
-2.0/F低層32,2.0,低層,32,,,,,,NTW
-3.0/F中層32,3.0,中層,32,,,,,,NTW
-4.0/F高層32,4.0,高層,32,,,,,,NTW
-2.0/F低層4,2.0,低層,4,,,,,,NTW
-3.0/F中層4,3.0,中層,4,,,,,,NTW
-4.0/F高層4,4.0,高層,4,,,,,,NTW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層13,2.0,低層,13,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+3.0/F中層13,3.0,中層,13,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+4.0/F高層13,4.0,高層,13,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+2.0/F低層16,2.0,低層,16,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+3.0/F中層16,3.0,中層,16,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+4.0/F高層16,4.0,高層,16,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+2.0/F低層29,2.0,低層,29,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+3.0/F中層29,3.0,中層,29,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+4.0/F高層29,4.0,高層,29,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+2.0/F低層32,2.0,低層,32,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+3.0/F中層32,3.0,中層,32,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+4.0/F高層32,4.0,高層,32,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+2.0/F低層4,2.0,低層,4,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+3.0/F中層4,3.0,中層,4,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"
+4.0/F高層4,4.0,高層,4,,,,,,NTW,"SHEK PIK RESETTLEMENT(Block B),YEUNG UK RD|石碧新村B座,楊屋道"

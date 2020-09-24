@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-3.0/F低層A,3.0,低層,A,,,,,,NPSK
-8.0/F中層A,8.0,中層,A,,,,,,NPSK
-14.0/F高層A,14.0,高層,A,,,,,,NPSK
-3.0/F低層B,3.0,低層,B,,,,,,NPSK
-8.0/F中層B,8.0,中層,B,,,,,,NPSK
-14.0/F高層B,14.0,高層,B,,,,,,NPSK
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層A,3.0,低層,A,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"
+8.0/F中層A,8.0,中層,A,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"
+14.0/F高層A,14.0,高層,A,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"
+3.0/F低層B,3.0,低層,B,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"
+8.0/F中層B,8.0,中層,B,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"
+14.0/F高層B,14.0,高層,B,,,,,,NPSK,"PROVIDENCE PEAK(Block 10),FO CHUN RD|(盈)玥10座,科進路"

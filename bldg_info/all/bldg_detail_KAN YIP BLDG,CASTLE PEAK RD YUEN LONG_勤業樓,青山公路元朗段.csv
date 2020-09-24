@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NYL
-3.0/F中層A,3.0,中層,A,,,,,,NYL
-4.0/F高層A,4.0,高層,A,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-3.0/F中層D,3.0,中層,D,,,,,,NYL
-4.0/F高層D,4.0,高層,D,,,,,,NYL
-2.0/F低層E,2.0,低層,E,,,,,,NYL
-3.0/F中層E,3.0,中層,E,,,,,,NYL
-4.0/F高層E,4.0,高層,E,,,,,,NYL
-2.0/F低層F,2.0,低層,F,,,,,,NYL
-3.0/F中層F,3.0,中層,F,,,,,,NYL
-4.0/F高層F,4.0,高層,F,,,,,,NYL
-2.0/F低層G,2.0,低層,G,,,,,,NYL
-3.0/F中層G,3.0,中層,G,,,,,,NYL
-4.0/F高層G,4.0,高層,G,,,,,,NYL
-2.0/F低層H,2.0,低層,H,,,,,,NYL
-3.0/F中層H,3.0,中層,H,,,,,,NYL
-4.0/F高層H,4.0,高層,H,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層A,3.0,中層,A,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層A,4.0,高層,A,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層D,3.0,中層,D,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+2.0/F低層E,2.0,低層,E,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層E,3.0,中層,E,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層E,4.0,高層,E,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+2.0/F低層F,2.0,低層,F,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層F,3.0,中層,F,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層F,4.0,高層,F,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+2.0/F低層G,2.0,低層,G,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層G,3.0,中層,G,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層G,4.0,高層,G,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+2.0/F低層H,2.0,低層,H,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+3.0/F中層H,3.0,中層,H,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"
+4.0/F高層H,4.0,高層,H,,,,,,NYL,"KAN YIP BLDG,CASTLE PEAK RD YUEN LONG|勤業樓,青山公路元朗段"

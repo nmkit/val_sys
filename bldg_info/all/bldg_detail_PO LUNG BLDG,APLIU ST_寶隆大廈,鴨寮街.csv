@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-6.0/F低層blank,6.0,低層,blank,4434660,12492,355,423,3,KCSW
-8.0/F中層blank,8.0,中層,blank,4283980,12788,335,382,3,KCSW
-11.0/F高層blank,11.0,高層,blank,4434364,13004,341,383,3,KCSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+6.0/F低層blank,6.0,低層,blank,4426495,12469,355,423,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
+8.0/F中層blank,8.0,中層,blank,4292020,12812,335,382,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
+11.0/F高層blank,11.0,高層,blank,4437092,13012,341,383,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"

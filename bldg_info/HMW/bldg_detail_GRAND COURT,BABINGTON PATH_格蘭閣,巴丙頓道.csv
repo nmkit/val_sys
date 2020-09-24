@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層blank,4.0,低層,blank,,,,,,HMW
-9.0/F中層blank,9.0,中層,blank,,,,,,HMW
-16.0/F高層blank,16.0,高層,blank,,,,,,HMW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層blank,4.0,低層,blank,,,,,,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
+9.0/F中層blank,9.0,中層,blank,,,,,,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
+16.0/F高層blank,16.0,高層,blank,,,,,,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"

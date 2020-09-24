@@ -1,7 +1,7 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層A,5.0,低層,A,,,,,,HSW
-10.0/F中層A,10.0,中層,A,,,,,,HSW
-15.0/F高層A,15.0,高層,A,,,,,,HSW
-5.0/F低層B,5.0,低層,B,,,,,,HSW
-10.0/F中層B,10.0,中層,B,,,,,,HSW
-15.0/F高層B,15.0,高層,B,,,,,,HSW
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,16726416,49781,336,372,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"
+10.0/F中層A,10.0,中層,A,17400432,51787,336,360,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"
+15.0/F高層A,15.0,高層,A,17965920,53470,336,350,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"
+4.0/F低層B,4.0,低層,B,16809408,50028,336,320,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"
+10.0/F中層B,10.0,中層,B,17501568,52088,336,317,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"
+15.0/F高層B,15.0,高層,B,18085872,53827,336,318,3,HSW,"KAM LEI BLDG,PEEL ST|金莉大廈,卑利街"

@@ -1,4 +1,4 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-10.0/F低層B,10.0,低層,B,4703475,8959,525,99,1,KYMT
-12.0/F中層B,12.0,中層,B,4770675,9087,525,96,1,KYMT
-16.0/F高層B,16.0,高層,B,4906125,9345,525,90,1,KYMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+10.0/F低層B,10.0,低層,B,4703475,8959,525,99,1,KYMT,"LAI SHING BLDG,MAN MING LANE|麗星大廈,文明里"
+12.0/F中層B,12.0,中層,B,4770675,9087,525,96,1,KYMT,"LAI SHING BLDG,MAN MING LANE|麗星大廈,文明里"
+16.0/F高層B,16.0,高層,B,4906125,9345,525,90,1,KYMT,"LAI SHING BLDG,MAN MING LANE|麗星大廈,文明里"

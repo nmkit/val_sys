@@ -1,16 +1,16 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-2.0/F低層A,2.0,低層,A,,,,,,NYL
-2.0/F中層A,2.0,中層,A,,,,,,NYL
-4.0/F高層A,4.0,高層,A,,,,,,NYL
-2.0/F低層B,2.0,低層,B,,,,,,NYL
-2.0/F中層B,2.0,中層,B,,,,,,NYL
-4.0/F高層B,4.0,高層,B,,,,,,NYL
-2.0/F低層C,2.0,低層,C,,,,,,NYL
-2.0/F中層C,2.0,中層,C,,,,,,NYL
-4.0/F高層C,4.0,高層,C,,,,,,NYL
-2.0/F低層D,2.0,低層,D,,,,,,NYL
-2.0/F中層D,2.0,中層,D,,,,,,NYL
-4.0/F高層D,4.0,高層,D,,,,,,NYL
-2.0/F低層F,2.0,低層,F,6871289,9077,757,96,1,NYL
-2.0/F中層F,2.0,中層,F,6871289,9077,757,96,1,NYL
-4.0/F高層F,4.0,高層,F,6939419,9167,757,96,1,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F中層A,2.0,中層,A,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+4.0/F高層A,4.0,高層,A,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F低層B,2.0,低層,B,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F中層B,2.0,中層,B,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+4.0/F高層B,4.0,高層,B,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F低層C,2.0,低層,C,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F中層C,2.0,中層,C,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+4.0/F高層C,4.0,高層,C,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F低層D,2.0,低層,D,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F中層D,2.0,中層,D,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+4.0/F高層D,4.0,高層,D,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F低層F,2.0,低層,F,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+2.0/F中層F,2.0,中層,F,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"
+4.0/F高層F,4.0,高層,F,,,,,,NYL,"MEADOWLANDS(Block 33),TAN KWAI TSUEN RD|菁雅居33座,丹桂村路"

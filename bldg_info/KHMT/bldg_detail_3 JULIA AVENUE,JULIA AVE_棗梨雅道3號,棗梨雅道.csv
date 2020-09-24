@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-22.0/F低層A,22.0,低層,A,27634319,25283,1093,98,2,KHMT
-68.0/F中層A,68.0,中層,A,,,,,,KHMT
-102.0/F高層A,102.0,高層,A,,,,,,KHMT
-22.0/F低層B,22.0,低層,B,16943355,23697,715,173,2,KHMT
-68.0/F中層B,68.0,中層,B,,,,,,KHMT
-102.0/F高層B,102.0,高層,B,,,,,,KHMT
-22.0/F低層C,22.0,低層,C,14664795,22389,655,323,3,KHMT
-68.0/F中層C,68.0,中層,C,,,,,,KHMT
-102.0/F高層C,102.0,高層,C,,,,,,KHMT
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+22.0/F低層A,22.0,低層,A,26527110,24270,1093,98,2,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+68.0/F中層A,68.0,中層,A,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+102.0/F高層A,102.0,高層,A,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+22.0/F低層B,22.0,低層,B,17014855,23797,715,173,2,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+68.0/F中層B,68.0,中層,B,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+102.0/F高層B,102.0,高層,B,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+22.0/F低層C,22.0,低層,C,14629425,22335,655,323,3,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+68.0/F中層C,68.0,中層,C,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"
+102.0/F高層C,102.0,高層,C,,,,,,KHMT,"3 JULIA AVENUE,JULIA AVE|棗梨雅道3號,棗梨雅道"

@@ -1,25 +1,25 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-4.0/F低層A,4.0,低層,A,,,,,,HWC
-8.0/F中層A,8.0,中層,A,,,,,,HWC
-11.0/F高層A,11.0,高層,A,,,,,,HWC
-4.0/F低層B,4.0,低層,B,,,,,,HWC
-8.0/F中層B,8.0,中層,B,,,,,,HWC
-11.0/F高層B,11.0,高層,B,,,,,,HWC
-4.0/F低層C,4.0,低層,C,,,,,,HWC
-8.0/F中層C,8.0,中層,C,,,,,,HWC
-11.0/F高層C,11.0,高層,C,,,,,,HWC
-4.0/F低層D,4.0,低層,D,,,,,,HWC
-8.0/F中層D,8.0,中層,D,5860470,15222,385,150,1,HWC
-11.0/F高層D,11.0,高層,D,,,,,,HWC
-4.0/F低層E,4.0,低層,E,5823125,15125,385,94,1,HWC
-8.0/F中層E,8.0,中層,E,5968270,15502,385,100,1,HWC
-11.0/F高層E,11.0,高層,E,5755365,14949,385,300,2,HWC
-4.0/F低層F,4.0,低層,F,,,,,,HWC
-8.0/F中層F,8.0,中層,F,,,,,,HWC
-11.0/F高層F,11.0,高層,F,,,,,,HWC
-4.0/F低層G,4.0,低層,G,4962750,12725,390,150,1,HWC
-8.0/F中層G,8.0,中層,G,,,,,,HWC
-11.0/F高層G,11.0,高層,G,,,,,,HWC
-4.0/F低層H,4.0,低層,H,5487300,14070,390,90,1,HWC
-8.0/F中層H,8.0,中層,H,5621850,14415,390,150,1,HWC
-11.0/F高層H,11.0,高層,H,5722860,14674,390,91,1,HWC
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4.0/F低層A,4.0,低層,A,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層A,8.0,中層,A,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層A,11.0,高層,A,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層B,4.0,低層,B,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層B,8.0,中層,B,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層B,11.0,高層,B,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層C,4.0,低層,C,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層C,8.0,中層,C,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層C,11.0,高層,C,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層D,4.0,低層,D,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層D,8.0,中層,D,5860470,15222,385,150,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層D,11.0,高層,D,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層E,4.0,低層,E,5823125,15125,385,94,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層E,8.0,中層,E,5968270,15502,385,100,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層E,11.0,高層,E,5755365,14949,385,300,2,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層F,4.0,低層,F,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層F,8.0,中層,F,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層F,11.0,高層,F,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層G,4.0,低層,G,4962750,12725,390,150,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層G,8.0,中層,G,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層G,11.0,高層,G,,,,,,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+4.0/F低層H,4.0,低層,H,5487300,14070,390,90,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+8.0/F中層H,8.0,中層,H,5621850,14415,390,150,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"
+11.0/F高層H,11.0,高層,H,5722860,14674,390,91,1,HWC,"MING FUNG BLDG,WAN CHAI RD|明豐大廈,灣仔道"

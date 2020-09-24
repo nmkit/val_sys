@@ -1,19 +1,19 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-9.0/F低層A,9.0,低層,A,,,,,,NYL
-24.0/F中層A,24.0,中層,A,,,,,,NYL
-38.0/F高層A,38.0,高層,A,,,,,,NYL
-9.0/F低層B,9.0,低層,B,6177000,12354,500,56,1,NYL
-24.0/F中層B,24.0,中層,B,6682500,13365,500,71,1,NYL
-38.0/F高層B,38.0,高層,B,7142187,14313,499,65,1,NYL
-9.0/F低層C,9.0,低層,C,,,,,,NYL
-24.0/F中層C,24.0,中層,C,,,,,,NYL
-38.0/F高層C,38.0,高層,C,,,,,,NYL
-9.0/F低層D,9.0,低層,D,,,,,,NYL
-24.0/F中層D,24.0,中層,D,,,,,,NYL
-38.0/F高層D,38.0,高層,D,,,,,,NYL
-9.0/F低層E,9.0,低層,E,6177000,12354,500,56,1,NYL
-24.0/F中層E,24.0,中層,E,6682500,13365,500,71,1,NYL
-38.0/F高層E,38.0,高層,E,7142187,14313,499,65,1,NYL
-9.0/F低層F,9.0,低層,F,5866157,13007,451,84,1,NYL
-24.0/F中層F,24.0,中層,F,6286489,13939,451,61,1,NYL
-38.0/F高層F,38.0,高層,F,,,,,,NYL
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+9.0/F低層A,9.0,低層,A,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層A,24.0,中層,A,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層A,38.0,高層,A,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+9.0/F低層B,9.0,低層,B,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層B,24.0,中層,B,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層B,38.0,高層,B,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+9.0/F低層C,9.0,低層,C,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層C,24.0,中層,C,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層C,38.0,高層,C,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+9.0/F低層D,9.0,低層,D,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層D,24.0,中層,D,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層D,38.0,高層,D,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+9.0/F低層E,9.0,低層,E,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層E,24.0,中層,E,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層E,38.0,高層,E,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+9.0/F低層F,9.0,低層,F,5866157,13007,451,84,1,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+24.0/F中層F,24.0,中層,F,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"
+38.0/F高層F,38.0,高層,F,,,,,,NYL,"GREENFIELDS(Block 1),FUNG KAM ST|雍翠豪園1座,鳳琴街"

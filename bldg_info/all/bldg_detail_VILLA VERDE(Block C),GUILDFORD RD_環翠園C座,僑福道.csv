@@ -1,10 +1,10 @@
-,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district
-5.0/F低層1,5.0,低層,1,,,,,,HP
-6.0/F中層1,6.0,中層,1,,,,,,HP
-8.0/F高層1,8.0,高層,1,,,,,,HP
-5.0/F低層2,5.0,低層,2,,,,,,HP
-6.0/F中層2,6.0,中層,2,,,,,,HP
-8.0/F高層2,8.0,高層,2,,,,,,HP
-5.0/F低層C1002,5.0,低層,C1002,,,,,,HP
-6.0/F中層C1002,6.0,中層,C1002,,,,,,HP
-8.0/F高層C1002,8.0,高層,C1002,,,,,,HP
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層1,2.0,低層,1,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+5.0/F中層1,5.0,中層,1,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+8.0/F高層1,8.0,高層,1,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+2.0/F低層2,2.0,低層,2,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+5.0/F中層2,5.0,中層,2,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+8.0/F高層2,8.0,高層,2,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+2.0/F低層C1002,2.0,低層,C1002,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+5.0/F中層C1002,5.0,中層,C1002,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
+8.0/F高層C1002,8.0,高層,C1002,,,,,,HP,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道"
