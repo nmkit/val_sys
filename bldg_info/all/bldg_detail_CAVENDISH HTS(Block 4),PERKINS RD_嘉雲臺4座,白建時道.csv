@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
-13.0/F中層A,13.0,中層,A,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
-20.0/F高層A,20.0,高層,A,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
-6.0/F低層B,6.0,低層,B,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
-13.0/F中層B,13.0,中層,B,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
-20.0/F高層B,20.0,高層,B,,,,,,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+6.0/F低層A,6.0,低層,A,43648546,29314,1489,186,2,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+13.0/F中層A,13.0,中層,A,45008003,30227,1489,340,3,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+20.0/F高層A,20.0,高層,A,50086982,33638,1489,193,2,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+6.0/F低層B,6.0,低層,B,44013351,29559,1489,200,2,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+13.0/F中層B,13.0,中層,B,47083669,31621,1489,197,2,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"
+20.0/F高層B,20.0,高層,B,50206102,33718,1489,193,2,HJL,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道"

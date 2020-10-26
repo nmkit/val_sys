@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-7.0/F低層5,7.0,低層,5,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
-16.0/F中層5,16.0,中層,5,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
-26.0/F高層5,26.0,高層,5,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
-7.0/F低層6,7.0,低層,6,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
-16.0/F中層6,16.0,中層,6,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
-26.0/F高層6,26.0,高層,6,,,,,,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+7.0/F低層5,7.0,低層,5,48486965,25915,1871,254,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+16.0/F中層5,16.0,中層,5,49587636,27564,1799,278,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+26.0/F高層5,26.0,高層,5,52917585,29415,1799,252,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+7.0/F低層6,7.0,低層,6,46818975,26025,1799,423,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+16.0/F中層6,16.0,中層,6,49573244,27556,1799,423,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"
+26.0/F高層6,26.0,高層,6,52917585,29415,1799,379,3,HHV,"VENTRIS PLACE(Block C),VENTRIS RD|雲地利台C座,雲地利道"

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-10.0/F低層A,10.0,低層,A,31208100,16212,1925,254,3,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
-18.0/F中層A,18.0,中層,A,33015675,17151,1925,284,3,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
-26.0/F高層A,26.0,高層,A,34834800,18096,1925,263,3,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
+10.0/F低層A,10.0,低層,A,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
+18.0/F中層A,18.0,中層,A,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
+26.0/F高層A,26.0,高層,A,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
 10.0/F低層B,10.0,低層,B,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
 18.0/F中層B,18.0,中層,B,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"
 26.0/F高層B,26.0,高層,B,,,,,,HMW,"SERENE COURT,KOTEWALL RD|秀麗閣,旭龢道"

@@ -1,27 +1,27 @@
-,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
-0,"SWISS TOWERS(Block 3),TAI HANG RD|瑞士花園3座,大坑道",,,1286.0,,,1286.0,,,1286.0,6.0,11.0,17.0,"['E', 'F']",17,34,1971/07,49,SWISS TOWERS,瑞士花園
-1,"TAI HANG TERR,CHUN FAI RD|大坑台,春暉道",10450972.0,20452.0,511.0,11228203.0,21973.0,511.0,23649186.0,37718.0,627.0,5.0,12.0,18.0,"['1', '10', '11', '12', '1612', '1708', '1808', '2', '3', '310', '4', '5', '6', '7', '8', '9']",20,320,1975/06,45,blank,blank
-2,"FLORA GDN(Block 1),CHUN FAI RD|慧景園1座,春暉道",,,,,,,,,,4.0,10.0,17.0,"['A', 'B', 'C', 'D']",20,80,1987/10,33,FLORA GDN,慧景園
-3,"YICK KING BLDG,CHUN FAI RD|億景樓,春暉道",23020550.0,19345.0,1190.0,24778180.0,20822.0,1190.0,25680330.0,21949.0,1170.0,4.0,11.0,18.0,"['A', 'B']",21,42,1975/07,45,blank,blank
-4,"ELM TREE TOWER(Block A),CHUN FAI RD|愉富大廈A座,春暉道",,,,,,,,,,6.0,16.0,25.0,"['1', '2']",30,60,1983/11,37,ELM TREE TOWER,愉富大廈
-5,"CAVENDISH HTS(Block 3),PERKINS RD|嘉雲臺3座,白建時道",,,,,,,,,,5.0,12.0,21.0,"['A', 'B']",24,48,1986/12,34,CAVENDISH HTS,嘉雲臺
-6,"BUTLER TOWER,BOYCE RD|柏麗園,布思道",,,1420.0,,,1420.0,,,1492.0,5.0,11.0,17.0,"['A', 'B', 'B1', 'C', 'C2', 'D', 'E', 'F']",19,152,1974/12,46,blank,blank
-7,"SWISS TOWERS(Block 2),TAI HANG RD|瑞士花園2座,大坑道",,,1286.0,,,1286.0,,,1286.0,5.0,11.0,18.0,"['C', 'D']",19,38,1971/07,49,SWISS TOWERS,瑞士花園
-8,"ELM TREE TOWER(Block B),CHUN FAI RD|愉富大廈B座,春暉道",,,,,,,,,,5.0,12.0,21.0,"['1', '2']",24,48,1983/11,37,ELM TREE TOWER,愉富大廈
-9,"BELLEVUE HTS,TAI HANG DR|碧蘭閣,大坑徑",,,1260.0,,,1260.0,,,1320.0,5.0,14.0,22.0,"['A', 'B']",26,52,1973/11,47,blank,blank
-10,"PARK GDN,TAI HANG DR|柏園,大坑徑",,,,,,,,,,5.0,12.0,19.0,"['A', 'B', 'C', 'D']",22,88,1972/08,48,blank,blank
-11,"CAVENDISH HTS(Block 8),PERKINS RD|嘉雲臺8座,白建時道",,,1337.0,,,1337.0,,,1337.0,5.0,12.0,19.0,"['A', 'B']",23,46,1988/04,32,CAVENDISH HTS,嘉雲臺
-12,"CAVENDISH HTS(Block 6),PERKINS RD|嘉雲臺6座,白建時道",46679319.0,29751.0,1569.0,50946999.0,32471.0,1569.0,55595946.0,35434.0,1569.0,6.0,16.0,26.0,"['A', 'B']",30,60,1986/12,34,CAVENDISH HTS,嘉雲臺
-13,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道",,,,,,,,,,6.0,13.0,20.0,"['A', 'B']",23,46,1986/12,34,CAVENDISH HTS,嘉雲臺
-14,"LINDEN HTS,BOYCE RD|年達園,布思道",,,960.0,,,960.0,,,960.0,5.0,10.0,14.0,"['A', 'B']",16,32,1975/01,45,blank,blank
-15,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道",,,,,,,,,,7.0,16.0,25.0,"['A', 'B']",28,56,1986/12,34,CAVENDISH HTS,嘉雲臺
-16,"WING ON TOWERS(Block 2),BOYCE RD|永安閣2座,布思道",,,1260.0,,,1260.0,,,2385.0,5.0,9.0,15.0,"['A', 'B']",13,26,1974/08,46,WING ON TOWERS,永安閣
-17,"CAVENDISH HTS(Block 7),PERKINS RD|嘉雲臺7座,白建時道",,,1569.0,,,1569.0,,,1569.0,6.0,16.0,26.0,"['A', 'B']",29,58,1986/12,34,CAVENDISH HTS,嘉雲臺
-18,"WING ON TOWERS(Block 1),BOYCE RD|永安閣1座,布思道",,,,,,,,,,4.0,9.0,14.0,"['A', 'B']",15,30,1974/08,46,WING ON TOWERS,永安閣
-19,"PINEWOOD GDN,PERKINS RD|松峰園,白建時道",,,1005.0,,,1005.0,,,1005.0,2.0,2.0,3.0,"['A', 'A & C', 'B', 'C', 'D']",4,20,1968/10,52,PINEWOOD GDN,松峰園
-20,"SERENE VILLA,PERKINS RD|寧苑,白建時道",65662068.0,46868.0,1401.0,66054348.0,47148.0,1401.0,66254691.0,47291.0,1401.0,1.0,2.0,3.0,['blank'],3,3,1965/03,55,blank,blank
-21,"FLORA GDN(Block 2),CHUN FAI RD|慧景園2座,春暉道",,,,,,,,,,5.0,10.0,16.0,"['A', 'B', 'C', 'D']",18,72,1987/10,33,FLORA GDN,慧景園
-22,"FLORA GDN(Block 3),CHUN FAI RD|慧景園3座,春暉道",,,,,,,,,,4.0,10.0,16.0,"['A', 'B', 'C', 'D']",19,76,1987/10,33,FLORA GDN,慧景園
-23,"NEW HAVEN COURT,WILSON RD|復園,衛信道",,,,,,,,,,2.0,2.0,2.0,['blank'],1,1,1961/11,59,blank,blank
-24,"CYPRESS COURT,WILSON RD|blank,衛信道",,,1262.0,,,1262.0,,,1443.0,2.0,2.0,3.0,['blank'],2,2,1963/06,57,blank,blank
-25,"DUKES PLACE,PERKINS RD|皇第,白建時道",530606307.0,186243.0,2846.0,548164694.0,192406.0,2846.0,595727552.0,209174.0,2849.0,7.0,10.0,16.0,"['A', 'B']",12,24,2018/06,2,blank,blank
+,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,value_avg,npsf_avg,unitSize_avg,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
+0,"SWISS TOWERS(Block 3),TAI HANG RD|瑞士花園3座,大坑道",,,1286.0,,,1286.0,,,1286.0,6.0,11.0,17.0,"['E', 'F']",,,,17,34,1971/07,49,SWISS TOWERS,瑞士花園
+1,"TAI HANG TERR,CHUN FAI RD|大坑台,春暉道",10644346.0,20122.0,511.0,11398366.0,21702.0,511.0,24945195.0,39785.0,627.0,5.0,12.0,18.0,"['1', '10', '11', '12', '1612', '1708', '1808', '2', '3', '310', '4', '5', '6', '7', '8', '9']",,,,20,320,1975/06,45,blank,blank
+2,"FLORA GDN(Block 1),CHUN FAI RD|慧景園1座,春暉道",,,1000.0,,,1000.0,,,1200.0,4.0,10.0,17.0,"['A', 'B', 'C', 'D']",,,,20,80,1987/10,33,FLORA GDN,慧景園
+3,"YICK KING BLDG,CHUN FAI RD|億景樓,春暉道",,,1190.0,,,1190.0,,,1170.0,4.0,11.0,18.0,"['A', 'B']",,,,21,42,1975/07,45,blank,blank
+4,"ELM TREE TOWER(Block A),CHUN FAI RD|愉富大廈A座,春暉道",38487065.0,23831.0,1615.0,43772960.0,27104.0,1615.0,47288815.0,29281.0,1615.0,6.0,16.0,25.0,"['1', '2']",,,,30,60,1983/11,37,ELM TREE TOWER,愉富大廈
+5,"CAVENDISH HTS(Block 3),PERKINS RD|嘉雲臺3座,白建時道",,,,,,,,,,5.0,12.0,21.0,"['A', 'B']",,,,24,48,1986/12,34,CAVENDISH HTS,嘉雲臺
+6,"BUTLER TOWER,BOYCE RD|柏麗園,布思道",,,1420.0,,,1420.0,,,1492.0,5.0,11.0,17.0,"['A', 'B', 'B1', 'C', 'C2', 'D', 'E', 'F']",,,,19,152,1974/12,46,blank,blank
+7,"SWISS TOWERS(Block 2),TAI HANG RD|瑞士花園2座,大坑道",,,1286.0,,,1286.0,,,1286.0,5.0,11.0,18.0,"['C', 'D']",,,,19,38,1971/07,49,SWISS TOWERS,瑞士花園
+8,"ELM TREE TOWER(Block B),CHUN FAI RD|愉富大廈B座,春暉道",,,1880.0,,,1880.0,,,1972.0,5.0,12.0,21.0,"['1', '2']",,,,24,48,1983/11,37,ELM TREE TOWER,愉富大廈
+9,"BELLEVUE HTS,TAI HANG DR|碧蘭閣,大坑徑",,,1260.0,,,1260.0,,,1320.0,5.0,14.0,22.0,"['A', 'B']",,,,26,52,1973/11,47,blank,blank
+10,"PARK GDN,TAI HANG DR|柏園,大坑徑",,,1140.0,26509560.0,23254.0,1140.0,,,1180.0,5.0,12.0,19.0,"['A', 'B', 'C', 'D']",,,,22,88,1972/08,48,blank,blank
+11,"CAVENDISH HTS(Block 8),PERKINS RD|嘉雲臺8座,白建時道",,,1337.0,,,1337.0,,,1337.0,5.0,12.0,19.0,"['A', 'B']",,,,23,46,1988/04,32,CAVENDISH HTS,嘉雲臺
+12,"CAVENDISH HTS(Block 6),PERKINS RD|嘉雲臺6座,白建時道",,,1569.0,,,1569.0,,,1569.0,6.0,16.0,26.0,"['A', 'B']",,,,30,60,1986/12,34,CAVENDISH HTS,嘉雲臺
+13,"CAVENDISH HTS(Block 4),PERKINS RD|嘉雲臺4座,白建時道",,,1489.0,45008003.0,30227.0,1489.0,,,1489.0,6.0,13.0,20.0,"['A', 'B']",,,,23,46,1986/12,34,CAVENDISH HTS,嘉雲臺
+14,"LINDEN HTS,BOYCE RD|年達園,布思道",,,960.0,,,960.0,,,960.0,5.0,10.0,14.0,"['A', 'B']",,,,16,32,1975/01,45,blank,blank
+15,"CAVENDISH HTS(Block 1),PERKINS RD|嘉雲臺1座,白建時道",,,,,,,,,,7.0,16.0,25.0,"['A', 'B']",,,,28,56,1986/12,34,CAVENDISH HTS,嘉雲臺
+16,"WING ON TOWERS(Block 2),BOYCE RD|永安閣2座,布思道",,,1260.0,,,1260.0,,,2385.0,5.0,9.0,15.0,"['A', 'B']",,,,13,26,1974/08,46,WING ON TOWERS,永安閣
+17,"CAVENDISH HTS(Block 7),PERKINS RD|嘉雲臺7座,白建時道",,,1569.0,,,1569.0,,,1569.0,6.0,16.0,26.0,"['A', 'B']",,,,29,58,1986/12,34,CAVENDISH HTS,嘉雲臺
+18,"WING ON TOWERS(Block 1),BOYCE RD|永安閣1座,布思道",,,,,,,,,,4.0,9.0,14.0,"['A', 'B']",,,,15,30,1974/08,46,WING ON TOWERS,永安閣
+19,"PINEWOOD GDN,PERKINS RD|松峰園,白建時道",,,,,,,,,,2.0,2.0,3.0,"['A', 'A & C', 'B', 'C', 'D']",,,,4,20,1968/10,52,PINEWOOD GDN,松峰園
+20,"SERENE VILLA,PERKINS RD|寧苑,白建時道",64604313.0,46113.0,1401.0,64857894.0,46294.0,1401.0,65048430.0,46430.0,1401.0,1.0,2.0,3.0,['blank'],,,,3,3,1965/03,55,blank,blank
+21,"FLORA GDN(Block 2),CHUN FAI RD|慧景園2座,春暉道",,,,,,,,,,5.0,10.0,16.0,"['A', 'B', 'C', 'D']",,,,18,72,1987/10,33,FLORA GDN,慧景園
+22,"FLORA GDN(Block 3),CHUN FAI RD|慧景園3座,春暉道",,,1017.0,,,1017.0,,,1199.0,4.0,10.0,16.0,"['A', 'B', 'C', 'D']",,,,19,76,1987/10,33,FLORA GDN,慧景園
+23,"NEW HAVEN COURT,WILSON RD|復園,衛信道",,,,,,,,,,2.0,2.0,2.0,['blank'],,,,1,1,1961/11,59,blank,blank
+24,"CYPRESS COURT,WILSON RD|blank,衛信道",,,1262.0,,,1262.0,,,1443.0,2.0,2.0,3.0,['blank'],,,,2,2,1963/06,57,blank,blank
+25,"DUKES PLACE,PERKINS RD|皇第,白建時道",170079602.0,59698.0,2846.0,181250531.0,63619.0,2846.0,211831392.0,74379.0,2849.0,7.0,10.0,16.0,"['A', 'B']",,,,12,24,2018/06,2,blank,blank

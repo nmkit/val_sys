@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-9.0/F低層A,9.0,低層,A,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
-18.0/F中層A,18.0,中層,A,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
-24.0/F高層A,24.0,高層,A,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
-9.0/F低層B,9.0,低層,B,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
-18.0/F中層B,18.0,中層,B,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
-24.0/F高層B,24.0,高層,B,,,,,,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+9.0/F低層A,9.0,低層,A,10020640,17894,560,119,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+18.0/F中層A,18.0,中層,A,10701600,19110,560,132,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+24.0/F高層A,24.0,高層,A,11155760,19921,560,141,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+9.0/F低層B,9.0,低層,B,7473200,13345,560,82,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+18.0/F中層B,18.0,中層,B,7973840,14239,560,96,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
+24.0/F高層B,24.0,高層,B,8307600,14835,560,150,1,HHV,"GREENWAY TERR(Block 1),LINK RD|匯翠臺1座,連道"
