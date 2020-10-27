@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
-9.0/F中層A,9.0,中層,A,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
-14.0/F高層A,14.0,高層,A,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
-5.0/F低層B,5.0,低層,B,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
-9.0/F中層B,9.0,中層,B,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
-14.0/F高層B,14.0,高層,B,,,,,,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+5.0/F低層A,5.0,低層,A,4215120,16212,260,327,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+9.0/F中層A,9.0,中層,A,4321200,16620,260,323,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+14.0/F高層A,14.0,高層,A,4472780,17203,260,363,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+5.0/F低層B,5.0,低層,B,4025840,15484,260,353,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+9.0/F中層B,9.0,中層,B,4128020,15877,260,343,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"
+14.0/F高層B,14.0,高層,B,4249180,16343,260,326,3,HWC,"FU WING COURT,CROSS ST|富榮閣,交加街"

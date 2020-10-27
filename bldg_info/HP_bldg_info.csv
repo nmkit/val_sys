@@ -1,32 +1,32 @@
-,final_address,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch
-0,"EVERGREEN VILLA(Block B),STUBBS RD|松柏新村B座,司徒拔道",,,2363.0,,,2363.0,,,2380.0,5.0,10.0,15.0,"['1', '2', 'B1']",16,48,1970/11,50,EVERGREEN VILLA,松柏新村
-1,"VILLA VERDE(Block B),GUILDFORD RD|環翠園B座,僑福道",,,,,,,,,,3.0,6.0,10.0,"['1', '2']",12,24,1970/08,50,VILLA VERDE,環翠園
-2,"EVERGREEN VILLA(Block C),STUBBS RD|松柏新村C座,司徒拔道",,,,,,,,,,5.0,10.0,16.0,"['1', '2']",15,30,1972/03,48,EVERGREEN VILLA,松柏新村
-3,47A STUBBS RD|47A 司徒拔道,,,1920.0,,,1920.0,,,1920.0,3.0,6.0,10.0,"['A', 'B']",12,24,1976/07,44,blank,blank
-4,"NICHOLSON TOWER(Block A),WONG NAI CHUNG GAP RD|蔚豪苑A座,黃泥涌峽道",,,1662.0,,,1662.0,,,1662.0,9.0,18.0,25.0,"['1', '2']",24,48,1990/11,30,NICHOLSON TOWER,蔚豪苑
-5,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道",,,1600.0,,,1600.0,,,2301.0,2.0,3.0,4.0,"['15A', 'A', 'B', 'C']",5,20,1961/01,59,blank,blank
-6,"VILLA MONTE ROSA(Block A),STUBBS RD|玫瑰新村A座,司徒拔道",,,2580.0,,,2580.0,,,2590.0,5.0,10.0,17.0,"['1', '2']",18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村
-7,"VILLA MONTE ROSA(Block D),STUBBS RD|玫瑰新村D座,司徒拔道",,,2062.0,,,2062.0,,,2074.0,4.0,10.0,16.0,"['1', '2']",18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村
-8,"EVERGREEN VILLA(Block A),STUBBS RD|松柏新村A座,司徒拔道",69327020.0,29129.0,2380.0,73620540.0,30933.0,2380.0,77937860.0,32747.0,2380.0,4.0,10.0,16.0,"['1', '2']",18,36,1970/11,50,EVERGREEN VILLA,松柏新村
-9,"CAMERON HSE,MAGAZINE GAP RD|嘉樂苑,馬己仙峽道",,,2580.0,,,2580.0,,,2580.0,2.0,4.0,6.0,"['A', 'B']",6,12,1983/11,37,blank,blank
-10,"NICHOLSON TOWER(Block B),WONG NAI CHUNG GAP RD|蔚豪苑B座,黃泥涌峽道",,,1662.0,,,1662.0,,,1662.0,9.0,16.0,23.0,"['1', '2']",20,40,1990/11,30,NICHOLSON TOWER,蔚豪苑
-11,"VILLA MONTE ROSA(Block F),STUBBS RD|玫瑰新村F座,司徒拔道",,,2920.0,,,2920.0,,,2920.0,5.0,10.0,17.0,"['1', '2']",17,34,1965/04,55,VILLA MONTE ROSA,玫瑰新村
-12,"VILLA MONTE ROSA(Block E),STUBBS RD|玫瑰新村E座,司徒拔道",,,2062.0,,,2062.0,,,2062.0,4.0,10.0,16.0,"['1', '2']",18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村
-13,"EREDINE,MOUNT KELLETT RD|七重天大廈,加列山道",94819200.0,33864.0,2800.0,96661600.0,34522.0,2800.0,105603360.0,37448.0,2900.0,2.0,4.0,6.0,"['A', 'B', 'C']",7,21,1965/10,55,blank,blank
-14,"EVERGREEN VILLA(Block F),STUBBS RD|松柏新村F座,司徒拔道",,,,,,,,,,7.0,12.0,18.0,"['1', '2']",15,30,1972/08,48,EVERGREEN VILLA,松柏新村
-15,"EVERGREEN VILLA(Block E),STUBBS RD|松柏新村E座,司徒拔道",28872400.0,18995.0,1520.0,30237360.0,19893.0,1520.0,32365360.0,21293.0,1520.0,6.0,11.0,17.0,"['1', '2']",15,30,1972/08,48,EVERGREEN VILLA,松柏新村
-16,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道",,,,,,,,,,2.0,5.0,8.0,"['1', '2', 'C1002']",9,27,1970/03,50,VILLA VERDE,環翠園
-17,"MOUNTAIN LODGE,MOUNT KELLETT RD|崑廬,加列山道",,,2213.0,,,2213.0,,,2213.0,3.0,7.0,10.0,"['A', 'B']",11,22,1972/09,48,blank,blank
-18,"CAROLINA GDNS(Block C),COOMBE RD|嘉樂園C座,甘道",,,2448.0,,,2448.0,,,2700.0,2.0,3.0,4.0,"['11', '12', '22', '32', '41', '52']",5,30,1964/05,56,CAROLINA GDNS,嘉樂園
-19,"GUILDFORD COURT,GUILDFORD RD|blank,僑福道",,,,,,,,,,2.0,3.0,5.0,"['A2', 'A3', 'A7', 'B2', 'B6', 'B7']",5,30,1971/11,49,blank,blank
-20,"VILLA MONTE ROSA(Block B),STUBBS RD|玫瑰新村B座,司徒拔道",,,2138.0,,,2138.0,,,2138.0,6.0,10.0,16.0,"['1', '2']",16,32,1965/04,55,VILLA MONTE ROSA,玫瑰新村
-21,"CAROLINA GDNS(Block B),COOMBE RD|嘉樂園B座,甘道",,,,,,,,,,5.0,6.0,6.0,"['10', '14', '15', '7']",4,16,1964/05,56,CAROLINA GDNS,嘉樂園
-22,"BELLEVUE COURT(Block C),STUBBS RD|碧蕙園C座,司徒拔道",,,2270.0,,,2270.0,,,2270.0,3.0,6.0,10.0,"['49', '51', '53', '54', '55', '58', '59', '60', '62', '66', '69', '70', '72']",12,156,1964/12,56,BELLEVUE COURT,碧蕙園
-23,"HIGHCLIFF,STUBBS RD|曉廬,司徒拔道",,,,,,,,,,33.0,46.0,59.0,"['A', 'A & B', 'B']",36,108,2003/01,17,blank,blank
-24,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道",,,,,,,,,,5.0,7.0,9.0,"['A', 'B']",7,14,2004/01,16,8-12 PEAK RD,山頂道8-12號
-25,"8-12 PEAK RD(Block A2),PEAK RD|山頂道8-12號A2座,山頂道",,,,,,,,,,3.0,6.0,8.0,"['A', 'B']",7,14,2005/08,15,8-12 PEAK RD,山頂道8-12號
-26,"MOUNT NICHOLSON(Block A),MOUNT NICHOLSON RD|blankA座,聶歌信山道",,,,,,,,,,6.0,6.0,7.0,['blank'],4,4,2016/02,4,MOUNT NICHOLSON,blank
-27,"MOUNT NICHOLSON(Block A-B),MOUNT NICHOLSON RD|blankA-B座,聶歌信山道",,,,,,,,,,6.0,8.0,11.0,['blank'],10,10,2016/02,4,MOUNT NICHOLSON,blank
-28,"MOUNT NICHOLSON(Block B),MOUNT NICHOLSON RD|blankB座,聶歌信山道",,,4289.0,,,4289.0,,,4264.0,6.0,8.0,11.0,['blank'],8,8,2016/02,4,MOUNT NICHOLSON,blank
-29,"MOUNT NICHOLSON(Block C),MOUNT NICHOLSON RD|blankC座,聶歌信山道",412372890.0,96665.0,4266.0,442055718.0,103623.0,4266.0,550766196.0,129106.0,4266.0,6.0,8.0,11.0,['blank'],8,8,2016/02,4,MOUNT NICHOLSON,blank
-30,"MOUNT NICHOLSON(Block D),MOUNT NICHOLSON RD|blankD座,聶歌信山道",473806236.0,103091.0,4596.0,523135104.0,113824.0,4596.0,548380932.0,119317.0,4596.0,6.0,8.0,11.0,['blank'],8,8,2016/02,4,MOUNT NICHOLSON,blank
+,final_address,district,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,value_avg,npsf_avg,unitSize_avg,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch,est_orNot,est_bldgNo,est_flatNo
+0,"EVERGREEN VILLA(Block B),STUBBS RD|松柏新村B座,司徒拔道",HP,,,2363.0,,,2363.0,,,2380.0,5.0,10.0,15.0,"['1', '2', 'B1']",,,,16,48,1970/11,50,EVERGREEN VILLA,松柏新村,True,5.0,170.0
+1,"VILLA VERDE(Block B),GUILDFORD RD|環翠園B座,僑福道",HP,,,,,,,,,,3.0,6.0,10.0,"['1', '2']",,,,12,24,1970/08,50,VILLA VERDE,環翠園,True,2.0,40.0
+2,"EVERGREEN VILLA(Block C),STUBBS RD|松柏新村C座,司徒拔道",HP,,,2280.0,,,2280.0,,,2353.0,5.0,10.0,16.0,"['1', '2']",,,,15,30,1972/03,48,EVERGREEN VILLA,松柏新村,True,5.0,170.0
+3,47A STUBBS RD|47A 司徒拔道,HP,,,1920.0,,,1920.0,,,1920.0,3.0,6.0,10.0,"['A', 'B']",,,,12,24,1976/07,44,blank,blank,False,,
+4,"NICHOLSON TOWER(Block A),WONG NAI CHUNG GAP RD|蔚豪苑A座,黃泥涌峽道",HP,,,1662.0,,,1662.0,,,1662.0,9.0,18.0,25.0,"['1', '2']",,,,24,48,1990/11,30,NICHOLSON TOWER,蔚豪苑,True,2.0,88.0
+5,"VIVIAN COURT,MOUNT KELLETT RD|瑞燕大廈,加列山道",HP,,,1600.0,,,1600.0,,,2301.0,2.0,3.0,4.0,"['15A', 'A', 'B', 'C']",,,,5,20,1961/01,59,blank,blank,False,,
+6,"VILLA MONTE ROSA(Block A),STUBBS RD|玫瑰新村A座,司徒拔道",HP,,,2580.0,,,2580.0,,,2590.0,5.0,10.0,17.0,"['1', '2']",,,,18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村,True,5.0,170.0
+7,"VILLA MONTE ROSA(Block D),STUBBS RD|玫瑰新村D座,司徒拔道",HP,,,2074.0,,,2074.0,,,2074.0,4.0,10.0,16.0,"['1', '2']",,,,18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村,True,5.0,170.0
+8,"EVERGREEN VILLA(Block A),STUBBS RD|松柏新村A座,司徒拔道",HP,62015660.0,26057.0,2380.0,65680860.0,27597.0,2380.0,69441260.0,29177.0,2380.0,4.0,10.0,16.0,"['1', '2']",65712593.333333336,27610.333333333332,2380.0,18,36,1970/11,50,EVERGREEN VILLA,松柏新村,True,5.0,170.0
+9,"CAMERON HSE,MAGAZINE GAP RD|嘉樂苑,馬己仙峽道",HP,,,2580.0,,,2580.0,,,2580.0,2.0,4.0,6.0,"['A', 'B']",,,,6,12,1983/11,37,blank,blank,False,,
+10,"NICHOLSON TOWER(Block B),WONG NAI CHUNG GAP RD|蔚豪苑B座,黃泥涌峽道",HP,,,1662.0,,,1662.0,,,1662.0,9.0,16.0,23.0,"['1', '2']",,,,20,40,1990/11,30,NICHOLSON TOWER,蔚豪苑,True,2.0,88.0
+11,"VILLA MONTE ROSA(Block F),STUBBS RD|玫瑰新村F座,司徒拔道",HP,,,2920.0,,,2920.0,,,2920.0,5.0,10.0,17.0,"['1', '2']",,,,17,34,1965/04,55,VILLA MONTE ROSA,玫瑰新村,True,5.0,170.0
+12,"VILLA MONTE ROSA(Block E),STUBBS RD|玫瑰新村E座,司徒拔道",HP,,,2062.0,,,2062.0,,,2062.0,4.0,10.0,16.0,"['1', '2']",,,,18,36,1965/04,55,VILLA MONTE ROSA,玫瑰新村,True,5.0,170.0
+13,"EREDINE,MOUNT KELLETT RD|七重天大廈,加列山道",HP,93676800.0,33456.0,2800.0,95508000.0,34110.0,2800.0,101955300.0,35857.0,2900.0,2.0,4.0,6.0,"['A', 'B', 'C']",101047106.66666667,35349.0,2857.7777777777774,7,21,1965/10,55,blank,blank,False,,
+14,"EVERGREEN VILLA(Block F),STUBBS RD|松柏新村F座,司徒拔道",HP,,,,,,,,,,7.0,12.0,18.0,"['1', '2']",,,,15,30,1972/08,48,EVERGREEN VILLA,松柏新村,True,5.0,170.0
+15,"EVERGREEN VILLA(Block E),STUBBS RD|松柏新村E座,司徒拔道",HP,28758400.0,18920.0,1520.0,30086880.0,19794.0,1520.0,31889600.0,20980.0,1520.0,6.0,11.0,17.0,"['1', '2']",30259400.0,19907.5,1520.0,15,30,1972/08,48,EVERGREEN VILLA,松柏新村,True,5.0,170.0
+16,"VILLA VERDE(Block C),GUILDFORD RD|環翠園C座,僑福道",HP,,,,,,,,,,2.0,5.0,8.0,"['1', '2', 'C1002']",,,,9,27,1970/03,50,VILLA VERDE,環翠園,True,2.0,40.0
+17,"MOUNTAIN LODGE,MOUNT KELLETT RD|崑廬,加列山道",HP,,,2213.0,,,2213.0,,,2213.0,3.0,7.0,10.0,"['A', 'B']",,,,11,22,1972/09,48,blank,blank,False,,
+18,"CAROLINA GDNS(Block C),COOMBE RD|嘉樂園C座,甘道",HP,,,2448.0,,,2448.0,,,2700.0,2.0,3.0,4.0,"['11', '12', '22', '32', '41', '52']",,,,5,30,1964/05,56,CAROLINA GDNS,嘉樂園,True,1.0,16.0
+19,"GUILDFORD COURT,GUILDFORD RD|blank,僑福道",HP,,,,,,,,,,2.0,3.0,5.0,"['A2', 'A3', 'A7', 'B2', 'B6', 'B7']",,,,5,30,1971/11,49,blank,blank,False,,
+20,"VILLA MONTE ROSA(Block B),STUBBS RD|玫瑰新村B座,司徒拔道",HP,,,2138.0,,,2138.0,,,2138.0,6.0,10.0,16.0,"['1', '2']",,,,16,32,1965/04,55,VILLA MONTE ROSA,玫瑰新村,True,5.0,170.0
+21,"CAROLINA GDNS(Block B),COOMBE RD|嘉樂園B座,甘道",HP,,,2448.0,,,2448.0,,,2700.0,5.0,6.0,6.0,"['10', '14', '15', '7']",,,,4,16,1964/05,56,CAROLINA GDNS,嘉樂園,True,1.0,16.0
+22,"BELLEVUE COURT(Block C),STUBBS RD|碧蕙園C座,司徒拔道",HP,53424450.0,23535.0,2270.0,54911300.0,24190.0,2270.0,56917980.0,25074.0,2270.0,3.0,6.0,10.0,"['49', '51', '53', '54', '55', '58', '59', '60', '62', '66', '69', '70', '72']",55400611.11111111,24405.55555555556,2270.0,12,156,1964/12,56,BELLEVUE COURT,碧蕙園,True,2.0,187.0
+23,"HIGHCLIFF,STUBBS RD|曉廬,司徒拔道",HP,,,,,,,,,,33.0,46.0,59.0,"['A', 'A & B', 'B']",,,,36,108,2003/01,17,blank,blank,False,,
+24,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道",HP,,,,,,,,,,5.0,7.0,9.0,"['A', 'B']",,,,7,14,2004/01,16,8-12 PEAK RD,山頂道8-12號,True,2.0,28.0
+25,"8-12 PEAK RD(Block A2),PEAK RD|山頂道8-12號A2座,山頂道",HP,,,,,,,,,,3.0,6.0,8.0,"['A', 'B']",,,,7,14,2005/08,15,8-12 PEAK RD,山頂道8-12號,True,2.0,28.0
+26,"MOUNT NICHOLSON(Block A),MOUNT NICHOLSON RD|blankA座,聶歌信山道",HP,,,,,,,,,,6.0,6.0,7.0,['blank'],,,,4,4,2016/02,4,MOUNT NICHOLSON,blank,True,5.0,38.0
+27,"MOUNT NICHOLSON(Block A-B),MOUNT NICHOLSON RD|blankA-B座,聶歌信山道",HP,,,,,,,,,,6.0,8.0,11.0,['blank'],,,,10,10,2016/02,4,MOUNT NICHOLSON,blank,True,5.0,38.0
+28,"MOUNT NICHOLSON(Block B),MOUNT NICHOLSON RD|blankB座,聶歌信山道",HP,,,4289.0,,,4289.0,,,4264.0,6.0,8.0,11.0,['blank'],,,,8,8,2016/02,4,MOUNT NICHOLSON,blank,True,5.0,38.0
+29,"MOUNT NICHOLSON(Block C),MOUNT NICHOLSON RD|blankC座,聶歌信山道",HP,413349804.0,96894.0,4266.0,420341778.0,98533.0,4266.0,556341858.0,130413.0,4266.0,6.0,8.0,11.0,['blank'],463344480.0,108613.33333333333,4266.0,8,8,2016/02,4,MOUNT NICHOLSON,blank,True,5.0,38.0
+30,"MOUNT NICHOLSON(Block D),MOUNT NICHOLSON RD|blankD座,聶歌信山道",HP,490508100.0,106725.0,4596.0,507835020.0,110495.0,4596.0,561277308.0,122123.0,4596.0,6.0,8.0,11.0,['blank'],519873476.0,113114.33333333333,4596.0,8,8,2016/02,4,MOUNT NICHOLSON,blank,True,5.0,38.0

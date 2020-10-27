@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層C,2.0,低層,C,,,,,,KCSW,172 YEE KUK ST|172 醫局街
-4.0/F中層C,4.0,中層,C,,,,,,KCSW,172 YEE KUK ST|172 醫局街
-5.0/F高層C,5.0,高層,C,,,,,,KCSW,172 YEE KUK ST|172 醫局街
+2.0/F低層C,2.0,低層,C,720615,6863,105,143,1,KCSW,172 YEE KUK ST|172 醫局街
+4.0/F中層C,4.0,中層,C,729960,6952,105,150,1,KCSW,172 YEE KUK ST|172 醫局街
+5.0/F高層C,5.0,高層,C,734685,6997,105,145,1,KCSW,172 YEE KUK ST|172 醫局街
 2.0/F低層blank,2.0,低層,blank,,,,,,KCSW,172 YEE KUK ST|172 醫局街
 4.0/F中層blank,4.0,中層,blank,,,,,,KCSW,172 YEE KUK ST|172 醫局街
 5.0/F高層blank,5.0,高層,blank,,,,,,KCSW,172 YEE KUK ST|172 醫局街

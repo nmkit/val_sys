@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
-8.0/F中層A,8.0,中層,A,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
-13.0/F高層A,13.0,高層,A,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
-3.0/F低層B,3.0,低層,B,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
-8.0/F中層B,8.0,中層,B,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
-13.0/F高層B,13.0,高層,B,,,,,,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+3.0/F低層A,3.0,低層,A,3699500,15100,245,307,3,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+8.0/F中層A,8.0,中層,A,3823715,15607,245,327,3,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+13.0/F高層A,13.0,高層,A,3951115,16127,245,329,3,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+3.0/F低層B,3.0,低層,B,3571857,14699,243,347,3,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+8.0/F中層B,8.0,中層,B,3834297,15779,243,210,2,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"
+13.0/F高層B,13.0,高層,B,3957984,16288,243,218,2,KCSW,"FU CHEONG BLDG,HAI TAN ST|富昌大廈,海壇街"

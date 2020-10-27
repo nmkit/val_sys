@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,29102978,18178,1601,92,1,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
-6.0/F中層A,6.0,中層,A,30166042,18842,1601,97,1,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
-10.0/F高層A,10.0,高層,A,31581326,19726,1601,97,1,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
+3.0/F低層A,3.0,低層,A,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
+6.0/F中層A,6.0,中層,A,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
+10.0/F高層A,10.0,高層,A,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
 3.0/F低層B,3.0,低層,B,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
 6.0/F中層B,6.0,中層,B,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"
 10.0/F高層B,10.0,高層,B,,,,,,KKL,"BEVERLY VILLAS(Block 8),LA SALLE RD|碧華花園8座,喇沙利道"

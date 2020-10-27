@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
 4.0/F低層B,4.0,低層,B,,,,,,KKC,41 SOUTH WALL RD|41 城南道
 4.0/F中層B,4.0,中層,B,,,,,,KKC,41 SOUTH WALL RD|41 城南道
-5.0/F高層B,5.0,高層,B,,,,,,KKC,41 SOUTH WALL RD|41 城南道
-4.0/F低層blank,4.0,低層,blank,15190902,24462,621,150,1,KKC,41 SOUTH WALL RD|41 城南道
-4.0/F中層blank,4.0,中層,blank,15190902,24462,621,150,1,KKC,41 SOUTH WALL RD|41 城南道
-5.0/F高層blank,5.0,高層,blank,15312618,24658,621,142,1,KKC,41 SOUTH WALL RD|41 城南道
+5.0/F高層B,5.0,高層,B,2123648,11296,188,150,1,KKC,41 SOUTH WALL RD|41 城南道
+4.0/F低層blank,4.0,低層,blank,5225094,8414,621,300,2,KKC,41 SOUTH WALL RD|41 城南道
+4.0/F中層blank,4.0,中層,blank,5225094,8414,621,300,2,KKC,41 SOUTH WALL RD|41 城南道
+5.0/F高層blank,5.0,高層,blank,5739903,9243,621,145,1,KKC,41 SOUTH WALL RD|41 城南道

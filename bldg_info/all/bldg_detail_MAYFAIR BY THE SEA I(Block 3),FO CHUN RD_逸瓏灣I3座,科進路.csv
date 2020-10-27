@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
-8.0/F中層A,8.0,中層,A,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
-11.0/F高層A,11.0,高層,A,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
-3.0/F低層B,3.0,低層,B,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
-8.0/F中層B,8.0,中層,B,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
-11.0/F高層B,11.0,高層,B,,,,,,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+3.0/F低層A,3.0,低層,A,49731033,25257,1969,241,2,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+8.0/F中層A,8.0,中層,A,49809793,25297,1969,236,2,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+11.0/F高層A,11.0,高層,A,40193197,20413,1969,119,1,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+3.0/F低層B,3.0,低層,B,36533756,20594,1774,145,1,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+8.0/F中層B,8.0,中層,B,37803940,21310,1774,138,1,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"
+11.0/F高層B,11.0,高層,B,38566760,21740,1774,133,1,NPSK,"MAYFAIR BY THE SEA I(Block 3),FO CHUN RD|逸瓏灣I3座,科進路"

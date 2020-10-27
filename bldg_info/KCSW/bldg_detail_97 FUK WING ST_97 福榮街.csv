@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,,,,KCSW,97 FUK WING ST|97 福榮街
-4.0/F中層A,4.0,中層,A,,,,,,KCSW,97 FUK WING ST|97 福榮街
-4.0/F高層A,4.0,高層,A,,,,,,KCSW,97 FUK WING ST|97 福榮街
-3.0/F低層B,3.0,低層,B,,,,,,KCSW,97 FUK WING ST|97 福榮街
-4.0/F中層B,4.0,中層,B,,,,,,KCSW,97 FUK WING ST|97 福榮街
-4.0/F高層B,4.0,高層,B,,,,,,KCSW,97 FUK WING ST|97 福榮街
+3.0/F低層A,3.0,低層,A,2564196,10509,244,187,2,KCSW,97 FUK WING ST|97 福榮街
+4.0/F中層A,4.0,中層,A,2578836,10569,244,188,2,KCSW,97 FUK WING ST|97 福榮街
+4.0/F高層A,4.0,高層,A,2578836,10569,244,188,2,KCSW,97 FUK WING ST|97 福榮街
+3.0/F低層B,3.0,低層,B,2701568,11072,244,142,1,KCSW,97 FUK WING ST|97 福榮街
+4.0/F中層B,4.0,中層,B,2684732,11003,244,291,2,KCSW,97 FUK WING ST|97 福榮街
+4.0/F高層B,4.0,高層,B,2684732,11003,244,291,2,KCSW,97 FUK WING ST|97 福榮街

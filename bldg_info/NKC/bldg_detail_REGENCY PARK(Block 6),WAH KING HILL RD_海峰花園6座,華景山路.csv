@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
-9.0/F中層A,9.0,中層,A,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
-15.0/F高層A,15.0,高層,A,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
-5.0/F低層B,5.0,低層,B,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
-9.0/F中層B,9.0,中層,B,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
-15.0/F高層B,15.0,高層,B,,,,,,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+5.0/F低層A,5.0,低層,A,17190730,13378,1285,212,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+9.0/F中層A,9.0,中層,A,17470860,13596,1285,215,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+15.0/F高層A,15.0,高層,A,17911615,13939,1285,200,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+5.0/F低層B,5.0,低層,B,19057420,13564,1405,221,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+9.0/F中層B,9.0,中層,B,19367925,13785,1405,223,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"
+15.0/F高層B,15.0,高層,B,19859675,14135,1405,208,2,NKC,"REGENCY PARK(Block 6),WAH KING HILL RD|海峰花園6座,華景山路"

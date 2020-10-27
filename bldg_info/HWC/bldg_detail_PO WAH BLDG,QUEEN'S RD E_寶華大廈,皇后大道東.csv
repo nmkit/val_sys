@@ -1,6 +1,6 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,11121365,15865,701,72,1,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
-6.0/F中層A,6.0,中層,A,11318346,16146,701,68,1,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
+3.0/F低層A,3.0,低層,A,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
+6.0/F中層A,6.0,中層,A,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 10.0/F高層A,10.0,高層,A,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 3.0/F低層B,3.0,低層,B,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 6.0/F中層B,6.0,中層,B,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
@@ -17,7 +17,7 @@
 3.0/F低層F,3.0,低層,F,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 6.0/F中層F,6.0,中層,F,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 10.0/F高層F,10.0,高層,F,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
-3.0/F低層G,3.0,低層,G,6499200,21664,300,150,1,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
+3.0/F低層G,3.0,低層,G,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 6.0/F中層G,6.0,中層,G,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 10.0/F高層G,10.0,高層,G,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"
 3.0/F低層H,3.0,低層,H,,,,,,HWC,"PO WAH BLDG,QUEEN'S RD E|寶華大廈,皇后大道東"

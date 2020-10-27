@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
-6.0/F中層A,6.0,中層,A,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
-9.0/F高層A,9.0,高層,A,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
-3.0/F低層B,3.0,低層,B,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
-6.0/F中層B,6.0,中層,B,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
-9.0/F高層B,9.0,高層,B,,,,,,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+3.0/F低層A,3.0,低層,A,6571260,15282,430,368,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+6.0/F中層A,6.0,中層,A,6689080,15556,430,367,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+9.0/F高層A,9.0,高層,A,6798730,15811,430,372,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+3.0/F低層B,3.0,低層,B,6413880,14916,430,387,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+6.0/F中層B,6.0,中層,B,6708860,15602,430,324,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"
+9.0/F高層B,9.0,高層,B,6828400,15880,430,320,3,KMK,"FUK TSUN MANS,FUK TSUN ST|福全大廈,福全街"

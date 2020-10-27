@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
-14.0/F中層A,14.0,中層,A,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
-21.0/F高層A,21.0,高層,A,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
-6.0/F低層B,6.0,低層,B,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
-14.0/F中層B,14.0,中層,B,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
-21.0/F高層B,21.0,高層,B,,,,,,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+6.0/F低層A,6.0,低層,A,4106100,13687,300,434,3,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+14.0/F中層A,14.0,中層,A,4480500,14935,300,415,3,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+21.0/F高層A,21.0,高層,A,4722600,15742,300,390,3,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+6.0/F低層B,6.0,低層,B,4360800,14536,300,366,4,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+14.0/F中層B,14.0,中層,B,4425600,14752,300,361,4,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"
+21.0/F高層B,21.0,高層,B,4665000,15550,300,337,4,KKC,"PO FAI BLDG,CHATHAM RD N|寶暉大廈,漆咸道北"

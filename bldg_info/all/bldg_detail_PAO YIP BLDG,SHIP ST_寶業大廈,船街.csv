@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層1,6.0,低層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
-10.0/F中層1,10.0,中層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
-16.0/F高層1,16.0,高層,1,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
-6.0/F低層2,6.0,低層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
-10.0/F中層2,10.0,中層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
-16.0/F高層2,16.0,高層,2,,,,,,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+6.0/F低層1,6.0,低層,1,6589050,14170,465,209,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+10.0/F中層1,10.0,中層,1,6753195,14523,465,219,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+16.0/F高層1,16.0,高層,1,6990345,15033,465,210,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+6.0/F低層2,6.0,低層,2,6840475,14401,475,202,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+10.0/F中層2,10.0,中層,2,7039025,14819,475,242,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
+16.0/F高層2,16.0,高層,2,7255150,15274,475,201,2,HWC,"PAO YIP BLDG,SHIP ST|寶業大廈,船街"
