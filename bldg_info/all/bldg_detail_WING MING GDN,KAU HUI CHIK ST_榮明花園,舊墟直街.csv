@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-8.0/F低層A,8.0,低層,A,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
-14.0/F中層A,14.0,中層,A,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
-20.0/F高層A,20.0,高層,A,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
-8.0/F低層B,8.0,低層,B,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
-14.0/F中層B,14.0,中層,B,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
-20.0/F高層B,20.0,高層,B,,,,,,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+8.0/F低層A,8.0,低層,A,5429440,11552,470,350,3,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+14.0/F中層A,14.0,中層,A,5531430,11769,470,368,3,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+20.0/F高層A,20.0,高層,A,5692640,12112,470,377,3,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+8.0/F低層B,8.0,低層,B,4903900,10324,475,312,3,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+14.0/F中層B,14.0,中層,B,5691475,11735,485,396,4,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"
+20.0/F高層B,20.0,高層,B,5691700,12110,470,405,4,NTP,"WING MING GDN,KAU HUI CHIK ST|榮明花園,舊墟直街"

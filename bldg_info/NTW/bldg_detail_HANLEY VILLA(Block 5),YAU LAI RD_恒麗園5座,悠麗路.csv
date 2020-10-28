@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-9.0/F低層A,9.0,低層,A,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
-16.0/F中層A,16.0,中層,A,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
-22.0/F高層A,22.0,高層,A,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
-9.0/F低層B,9.0,低層,B,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
-16.0/F中層B,16.0,中層,B,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
-22.0/F高層B,22.0,高層,B,,,,,,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+9.0/F低層A,9.0,低層,A,8001826,11318,707,423,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+16.0/F中層A,16.0,中層,A,8204735,11605,707,409,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+22.0/F高層A,22.0,高層,A,8381485,11855,707,382,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+9.0/F低層B,9.0,低層,B,8432424,12168,693,356,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+16.0/F中層B,16.0,中層,B,8674974,12518,693,351,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"
+22.0/F高層B,22.0,高層,B,8881488,12816,693,336,3,NTW,"HANLEY VILLA(Block 5),YAU LAI RD|恒麗園5座,悠麗路"

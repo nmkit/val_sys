@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層A,4.0,低層,A,4629660,10220,453,136,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
-8.0/F中層A,8.0,中層,A,4724790,10430,453,144,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
-11.0/F高層A,11.0,高層,A,4795458,10586,453,146,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
-4.0/F低層B,4.0,低層,B,4629660,10220,453,205,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
-8.0/F中層B,8.0,中層,B,4724790,10430,453,217,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
-11.0/F高層B,11.0,高層,B,4795458,10586,453,220,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+4.0/F低層A,4.0,低層,A,,,,,,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+8.0/F中層A,8.0,中層,A,,,,,,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+11.0/F高層A,11.0,高層,A,,,,,,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+4.0/F低層B,4.0,低層,B,4641438,10246,453,188,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+8.0/F中層B,8.0,中層,B,4736568,10456,453,200,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"
+11.0/F高層B,11.0,高層,B,4807689,10613,453,203,2,NYL,"FU ON BLDG,KIN TAK ST|富安大廈,建德街"

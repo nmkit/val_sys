@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
-12.0/F中層A,12.0,中層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
-19.0/F高層A,19.0,高層,A,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
-6.0/F低層B,6.0,低層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
-12.0/F中層B,12.0,中層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
-19.0/F高層B,19.0,高層,B,,,,,,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+6.0/F低層A,6.0,低層,A,3437580,12972,265,371,3,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+12.0/F中層A,12.0,中層,A,3622550,13670,265,402,4,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+19.0/F高層A,19.0,高層,A,3637125,13725,265,386,4,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+6.0/F低層B,6.0,低層,B,3569815,13471,265,412,3,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+12.0/F中層B,12.0,中層,B,3672105,13857,265,409,3,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"
+19.0/F高層B,19.0,高層,B,3644545,13753,265,423,3,NTP,"PO HONG BLDG,PO HEUNG ST|寶康大廈,寶鄉街"

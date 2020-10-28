@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層F,2.0,低層,F,3495834,6438,543,98,1,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
-2.0/F中層F,2.0,中層,F,3495834,6438,543,98,1,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
-3.0/F高層F,3.0,高層,F,3512124,6468,543,99,1,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
+2.0/F低層F,2.0,低層,F,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
+2.0/F中層F,2.0,中層,F,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
+3.0/F高層F,3.0,高層,F,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
 2.0/F低層H,2.0,低層,H,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
 2.0/F中層H,2.0,中層,H,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
-3.0/F高層H,3.0,高層,H,2933286,5402,543,150,1,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"
+3.0/F高層H,3.0,高層,H,,,,,,NTP,"CHING FAT BLDG,KWONG FUK LANE|正發樓,廣福里"

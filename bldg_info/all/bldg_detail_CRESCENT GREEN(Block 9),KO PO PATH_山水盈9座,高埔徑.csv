@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
-8.0/F中層A,8.0,中層,A,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
-11.0/F高層A,11.0,高層,A,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
-6.0/F低層B,6.0,低層,B,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
-8.0/F中層B,8.0,中層,B,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
-11.0/F高層B,11.0,高層,B,,,,,,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+6.0/F低層A,6.0,低層,A,12508764,12559,996,436,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+8.0/F中層A,8.0,中層,A,13021704,13074,996,433,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+11.0/F高層A,11.0,高層,A,12825492,12877,996,411,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+6.0/F低層B,6.0,低層,B,12609059,12647,997,433,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+8.0/F中層B,8.0,中層,B,12667882,12706,997,427,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
+11.0/F高層B,11.0,高層,B,12843354,12882,997,399,3,NYL,"CRESCENT GREEN(Block 9),KO PO PATH|山水盈9座,高埔徑"
