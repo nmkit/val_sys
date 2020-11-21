@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-11.0/F低層E,11.0,低層,E,,,,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
-22.0/F中層E,22.0,中層,E,,,,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
-34.0/F高層E,34.0,高層,E,,,,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
-11.0/F低層F,11.0,低層,F,66771900,21950,3042,196,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
-22.0/F中層F,22.0,中層,F,71830746,23613,3042,163,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
-34.0/F高層F,34.0,高層,F,77351976,25428,3042,127,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+11.0/F低層E,11.0,低層,E,,,3042,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+22.0/F中層E,22.0,中層,E,,,3042,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+34.0/F高層E,34.0,高層,E,,,3042,,,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+11.0/F低層F,11.0,低層,F,69892992,22976,3042,196,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+22.0/F中層F,22.0,中層,F,75189114,24717,3042,163,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"
+34.0/F高層F,34.0,高層,F,80965872,26616,3042,127,2,HMW,"ESTORIL COURT(Block 3),GARDEN RD|愛都大廈3座,花園道"

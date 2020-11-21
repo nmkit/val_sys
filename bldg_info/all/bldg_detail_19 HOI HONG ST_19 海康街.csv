@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層blank,2.0,低層,blank,7198720,18944,380,375,3,HQB,19 HOI HONG ST|19 海康街
-5.0/F中層blank,5.0,中層,blank,7387200,19440,380,383,3,HQB,19 HOI HONG ST|19 海康街
-7.0/F高層blank,7.0,高層,blank,7416460,19517,380,338,3,HQB,19 HOI HONG ST|19 海康街
+2.0/F低層whole floor,2.0,低層,whole floor,7121580,18741,380,375,3,HQB,19 HOI HONG ST|19 海康街
+5.0/F中層whole floor,5.0,中層,whole floor,7309300,19235,380,383,3,HQB,19 HOI HONG ST|19 海康街
+7.0/F高層whole floor,7.0,高層,whole floor,7338940,19313,380,338,3,HQB,19 HOI HONG ST|19 海康街

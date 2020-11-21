@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層blank,4.0,低層,blank,,,,,,HNP,60 KAI YUEN ST|60 繼園街
-4.0/F中層blank,4.0,中層,blank,,,,,,HNP,60 KAI YUEN ST|60 繼園街
-4.0/F高層blank,4.0,高層,blank,,,,,,HNP,60 KAI YUEN ST|60 繼園街
+4.0/F低層whole floor,4.0,低層,whole floor,,,1010,,,HNP,60 KAI YUEN ST|60 繼園街
+4.0/F中層whole floor,4.0,中層,whole floor,,,1010,,,HNP,60 KAI YUEN ST|60 繼園街
+4.0/F高層whole floor,4.0,高層,whole floor,,,1010,,,HNP,60 KAI YUEN ST|60 繼園街

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,2502604,11324,221,185,2,HSKW,8 PO MAN ST|8 寶文街
-4.0/F中層A,4.0,中層,A,2509455,11355,221,244,2,HSKW,8 PO MAN ST|8 寶文街
-4.0/F高層A,4.0,高層,A,2509455,11355,221,244,2,HSKW,8 PO MAN ST|8 寶文街
-3.0/F低層B,3.0,低層,B,2653584,11244,236,146,1,HSKW,8 PO MAN ST|8 寶文街
-4.0/F中層B,4.0,中層,B,2666800,11300,236,147,1,HSKW,8 PO MAN ST|8 寶文街
-4.0/F高層B,4.0,高層,B,2666800,11300,236,147,1,HSKW,8 PO MAN ST|8 寶文街
+3.0/F低層A,3.0,低層,A,,,221,,,HSKW,8 PO MAN ST|8 寶文街
+4.0/F中層A,4.0,中層,A,,,221,,,HSKW,8 PO MAN ST|8 寶文街
+4.0/F高層A,4.0,高層,A,,,221,,,HSKW,8 PO MAN ST|8 寶文街
+3.0/F低層B,3.0,低層,B,,,236,,,HSKW,8 PO MAN ST|8 寶文街
+4.0/F中層B,4.0,中層,B,,,236,,,HSKW,8 PO MAN ST|8 寶文街
+4.0/F高層B,4.0,高層,B,,,236,,,HSKW,8 PO MAN ST|8 寶文街

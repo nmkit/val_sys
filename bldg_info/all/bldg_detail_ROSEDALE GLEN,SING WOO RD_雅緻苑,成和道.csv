@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層blank,6.0,低層,blank,5375160,14931,360,181,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"
-12.0/F中層blank,12.0,中層,blank,5587560,15521,360,163,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"
-19.0/F高層blank,19.0,高層,blank,5835240,16209,360,142,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"
+6.0/F低層whole floor,6.0,低層,whole floor,5242320,14562,360,181,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"
+12.0/F中層whole floor,12.0,中層,whole floor,5449320,15137,360,163,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"
+19.0/F高層whole floor,19.0,高層,whole floor,5690880,15808,360,142,2,HHV,"ROSEDALE GLEN,SING WOO RD|雅緻苑,成和道"

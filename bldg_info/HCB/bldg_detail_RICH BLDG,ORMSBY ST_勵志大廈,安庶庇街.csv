@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層blank,5.0,低層,blank,5342325,15485,345,221,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"
-12.0/F中層blank,12.0,中層,blank,5620395,16291,345,185,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"
-20.0/F高層blank,20.0,高層,blank,5958495,17271,345,185,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"
+5.0/F低層whole floor,5.0,低層,whole floor,5297130,15354,345,221,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"
+12.0/F中層whole floor,12.0,中層,whole floor,5572785,16153,345,185,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"
+20.0/F高層whole floor,20.0,高層,whole floor,5908125,17125,345,185,2,HCB,"RICH BLDG,ORMSBY ST|勵志大廈,安庶庇街"

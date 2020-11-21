@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層blank,3.0,低層,blank,12330236,12172,1013,92,1,HQB,12 MOUNT PARKER RD|12 柏架山道
-4.0/F中層blank,4.0,中層,blank,12395068,12236,1013,90,1,HQB,12 MOUNT PARKER RD|12 柏架山道
-4.0/F高層blank,4.0,高層,blank,12395068,12236,1013,90,1,HQB,12 MOUNT PARKER RD|12 柏架山道
+3.0/F低層whole floor,3.0,低層,whole floor,20395742,20134,1013,150,1,HQB,12 MOUNT PARKER RD|12 柏架山道
+4.0/F中層whole floor,4.0,中層,whole floor,20503120,20240,1013,113,1,HQB,12 MOUNT PARKER RD|12 柏架山道
+5.0/F高層whole floor,5.0,高層,whole floor,20610498,20346,1013,111,1,HQB,12 MOUNT PARKER RD|12 柏架山道

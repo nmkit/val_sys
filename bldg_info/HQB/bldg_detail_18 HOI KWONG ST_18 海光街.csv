@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層blank,1.0,低層,blank,8095920,19276,420,262,2,HQB,18 HOI KWONG ST|18 海光街
-2.0/F中層blank,2.0,中層,blank,8245860,19633,420,274,2,HQB,18 HOI KWONG ST|18 海光街
-2.0/F高層blank,2.0,高層,blank,8245860,19633,420,274,2,HQB,18 HOI KWONG ST|18 海光街
+2.0/F低層whole floor,2.0,低層,whole floor,8236620,19611,420,386,3,HQB,18 HOI KWONG ST|18 海光街
+2.0/F中層whole floor,2.0,中層,whole floor,8236620,19611,420,386,3,HQB,18 HOI KWONG ST|18 海光街
+3.0/F高層whole floor,3.0,高層,whole floor,8248380,19639,420,348,3,HQB,18 HOI KWONG ST|18 海光街

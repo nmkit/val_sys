@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層blank,1.0,低層,blank,34386354,26739,1286,244,2,HMW,99A ROBINSON RD|99A 羅便臣道
-2.0/F中層blank,2.0,中層,blank,34574110,26885,1286,244,2,HMW,99A ROBINSON RD|99A 羅便臣道
-2.0/F高層blank,2.0,高層,blank,34574110,26885,1286,244,2,HMW,99A ROBINSON RD|99A 羅便臣道
+0.0/F低層whole floor,0.0,低層,whole floor,35572089,27769,1281,336,3,HMW,99A ROBINSON RD|99A 羅便臣道
+1.0/F中層whole floor,1.0,中層,whole floor,36236908,28178,1286,348,3,HMW,99A ROBINSON RD|99A 羅便臣道
+2.0/F高層whole floor,2.0,高層,whole floor,36454242,28347,1286,346,3,HMW,99A ROBINSON RD|99A 羅便臣道

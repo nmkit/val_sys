@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層B,2.0,低層,B,27589900,29042,950,95,1,HMW,96 ROBINSON RD|96 羅便臣道
-2.0/F中層B,2.0,中層,B,27589900,29042,950,95,1,HMW,96 ROBINSON RD|96 羅便臣道
-3.0/F高層B,3.0,高層,B,27781800,29244,950,93,1,HMW,96 ROBINSON RD|96 羅便臣道
+1.0/F低層B,1.0,低層,B,27414150,28857,950,243,2,HMW,96 ROBINSON RD|96 羅便臣道
+2.0/F中層B,2.0,中層,B,27540500,28990,950,187,2,HMW,96 ROBINSON RD|96 羅便臣道
+3.0/F高層B,3.0,高層,B,22790500,23990,950,150,1,HMW,96 ROBINSON RD|96 羅便臣道
+1.0/F低層whole floor,1.0,低層,whole floor,,,950,,,HMW,96 ROBINSON RD|96 羅便臣道
+2.0/F中層whole floor,2.0,中層,whole floor,,,950,,,HMW,96 ROBINSON RD|96 羅便臣道
+3.0/F高層whole floor,3.0,高層,whole floor,,,950,,,HMW,96 ROBINSON RD|96 羅便臣道

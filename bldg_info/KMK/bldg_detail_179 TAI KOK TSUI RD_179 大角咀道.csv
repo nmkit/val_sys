@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,3038972,9617,316,94,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+3.0/F中層A,3.0,中層,A,3058564,9679,316,150,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+4.0/F高層A,4.0,高層,A,3077840,9740,316,94,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+2.0/F低層B,2.0,低層,B,2865456,9648,297,93,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+3.0/F中層B,3.0,中層,B,2883870,9710,297,150,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+4.0/F高層B,4.0,高層,B,2901987,9771,297,93,1,KMK,179 TAI KOK TSUI RD|179 大角咀道
+2.0/F低層whole floor,2.0,低層,whole floor,,,864,,,KMK,179 TAI KOK TSUI RD|179 大角咀道
+3.0/F中層whole floor,3.0,中層,whole floor,,,864,,,KMK,179 TAI KOK TSUI RD|179 大角咀道
+4.0/F高層whole floor,4.0,高層,whole floor,,,776,,,KMK,179 TAI KOK TSUI RD|179 大角咀道

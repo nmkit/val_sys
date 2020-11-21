@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-10.0/F低層blank,10.0,低層,blank,,,,,,HHV,2 WANG TAK ST|2 宏德街
-15.0/F中層blank,15.0,中層,blank,,,,,,HHV,2 WANG TAK ST|2 宏德街
-18.0/F高層blank,18.0,高層,blank,,,,,,HHV,2 WANG TAK ST|2 宏德街
+10.0/F低層whole floor,10.0,低層,whole floor,18064971,17763,1017,290,2,HHV,2 WANG TAK ST|2 宏德街
+15.0/F中層whole floor,15.0,中層,whole floor,17208657,16921,1017,150,1,HHV,2 WANG TAK ST|2 宏德街
+18.0/F高層whole floor,18.0,高層,whole floor,17554437,17261,1017,143,1,HHV,2 WANG TAK ST|2 宏德街

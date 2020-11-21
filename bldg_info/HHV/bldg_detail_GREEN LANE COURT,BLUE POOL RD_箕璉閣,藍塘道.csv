@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層blank,1.0,低層,blank,30723156,19178,1602,249,2,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"
-2.0/F中層blank,2.0,中層,blank,27816971,16627,1673,248,2,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"
-3.0/F高層blank,3.0,高層,blank,19461117,17207,1131,228,2,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"
+1.0/F低層whole floor,1.0,低層,whole floor,29771568,18584,1602,327,3,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"
+2.0/F中層whole floor,2.0,中層,whole floor,27087543,16191,1673,248,2,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"
+2.0/F高層whole floor,2.0,高層,whole floor,27087543,16191,1673,248,2,HHV,"GREEN LANE COURT,BLUE POOL RD|箕璉閣,藍塘道"

@@ -1,0 +1,13 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1.0/F低層B,1.0,低層,B,3908500,7817,500,150,1,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+2.0/F中層B,2.0,中層,B,3926500,7853,500,99,1,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+3.0/F高層B,3.0,高層,B,3944500,7889,500,97,1,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+1.0/F低層C,1.0,低層,C,,,490,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+2.0/F中層C,2.0,中層,C,,,490,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+3.0/F高層C,3.0,高層,C,,,490,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+1.0/F低層D,1.0,低層,D,,,500,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+2.0/F中層D,2.0,中層,D,,,500,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+3.0/F高層D,3.0,高層,D,,,500,,,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+1.0/F低層E,1.0,低層,E,3990000,7980,500,101,1,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+2.0/F中層E,2.0,中層,E,4008500,8017,500,150,1,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"
+3.0/F高層E,3.0,高層,E,3962000,7924,500,251,2,NTP,"PUI KAM HSE,KWONG FUK RD|培錦樓,廣福道"

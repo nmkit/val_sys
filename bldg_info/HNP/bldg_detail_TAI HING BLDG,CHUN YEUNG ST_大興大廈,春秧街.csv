@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層blank,3.0,低層,blank,5668872,8668,654,358,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"
-6.0/F中層blank,6.0,中層,blank,5507028,8868,621,319,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"
-8.0/F高層blank,8.0,高層,blank,5566023,8963,621,316,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"
+3.0/F低層whole floor,3.0,低層,whole floor,5635518,8617,654,358,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"
+6.0/F中層whole floor,6.0,中層,whole floor,5481567,8827,621,319,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"
+8.0/F高層whole floor,8.0,高層,whole floor,5539941,8921,621,316,3,HNP,"TAI HING BLDG,CHUN YEUNG ST|大興大廈,春秧街"

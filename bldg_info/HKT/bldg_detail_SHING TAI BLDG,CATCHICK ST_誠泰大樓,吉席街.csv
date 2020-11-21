@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層blank,4.0,低層,blank,4267230,12931,330,387,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"
-5.0/F中層blank,5.0,中層,blank,5077061,12661,401,355,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"
-6.0/F高層blank,6.0,高層,blank,4716800,11792,400,355,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"
+4.0/F低層whole floor,4.0,低層,whole floor,4224000,12800,330,387,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"
+5.0/F中層whole floor,5.0,中層,whole floor,5001272,12472,401,355,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"
+6.0/F高層whole floor,6.0,高層,whole floor,4680800,11702,400,355,3,HKT,"SHING TAI BLDG,CATCHICK ST|誠泰大樓,吉席街"

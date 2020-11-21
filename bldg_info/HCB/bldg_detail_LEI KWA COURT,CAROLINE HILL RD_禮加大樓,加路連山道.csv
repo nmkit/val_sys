@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層blank,3.0,低層,blank,9142445,16355,559,394,4,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"
-6.0/F中層blank,6.0,中層,blank,9358219,16741,559,409,4,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"
-10.0/F高層blank,10.0,高層,blank,8829630,17313,510,363,3,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"
+3.0/F低層whole floor,3.0,低層,whole floor,9067539,16221,559,394,4,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"
+6.0/F中層whole floor,6.0,中層,whole floor,9281636,16604,559,409,4,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"
+10.0/F高層whole floor,10.0,高層,whole floor,8757720,17172,510,363,3,HCB,"LEI KWA COURT,CAROLINE HILL RD|禮加大樓,加路連山道"

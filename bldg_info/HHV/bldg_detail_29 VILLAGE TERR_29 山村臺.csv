@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層blank,2.0,低層,blank,13665104,12008,1138,150,1,HHV,29 VILLAGE TERR|29 山村臺
-2.0/F中層blank,2.0,中層,blank,13665104,12008,1138,150,1,HHV,29 VILLAGE TERR|29 山村臺
-3.0/F高層blank,3.0,高層,blank,13756144,12088,1138,146,1,HHV,29 VILLAGE TERR|29 山村臺
+1.0/F低層whole floor,1.0,低層,whole floor,13259976,11652,1138,146,1,HHV,29 VILLAGE TERR|29 山村臺
+2.0/F中層whole floor,2.0,中層,whole floor,13348740,11730,1138,150,1,HHV,29 VILLAGE TERR|29 山村臺
+3.0/F高層whole floor,3.0,高層,whole floor,13438642,11809,1138,146,1,HHV,29 VILLAGE TERR|29 山村臺

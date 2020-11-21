@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層blank,6.0,低層,blank,,,,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"
-12.0/F中層blank,12.0,中層,blank,,,,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"
-19.0/F高層blank,19.0,高層,blank,,,,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"
+6.0/F低層whole floor,6.0,低層,whole floor,,,440,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"
+12.0/F中層whole floor,12.0,中層,whole floor,,,440,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"
+19.0/F高層whole floor,19.0,高層,whole floor,,,440,,,HCB,"PAK TAK BLDG,JARDINE'S BAZAAR|八達大廈,渣甸街"

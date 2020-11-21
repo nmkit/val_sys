@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層blank,2.0,低層,blank,,,,,,HHV,2A LEIGHTON RD|2A 禮頓道
-5.0/F中層blank,5.0,中層,blank,,,,,,HHV,2A LEIGHTON RD|2A 禮頓道
-7.0/F高層blank,7.0,高層,blank,,,,,,HHV,2A LEIGHTON RD|2A 禮頓道
+2.0/F低層whole floor,2.0,低層,whole floor,,,516,,,HHV,2A LEIGHTON RD|2A 禮頓道
+5.0/F中層whole floor,5.0,中層,whole floor,,,516,,,HHV,2A LEIGHTON RD|2A 禮頓道
+7.0/F高層whole floor,7.0,高層,whole floor,,,485,,,HHV,2A LEIGHTON RD|2A 禮頓道

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層blank,2.0,低層,blank,14356968,20136,713,111,1,HMW,62E ROBINSON RD|62E 羅便臣道
-2.0/F中層blank,2.0,中層,blank,14356968,20136,713,111,1,HMW,62E ROBINSON RD|62E 羅便臣道
-3.0/F高層blank,3.0,高層,blank,11628317,16309,713,246,2,HMW,62E ROBINSON RD|62E 羅便臣道
+2.0/F低層whole floor,2.0,低層,whole floor,12860381,18037,713,211,2,HMW,62E ROBINSON RD|62E 羅便臣道
+2.0/F中層whole floor,2.0,中層,whole floor,12860381,18037,713,211,2,HMW,62E ROBINSON RD|62E 羅便臣道
+3.0/F高層whole floor,3.0,高層,whole floor,12736319,17863,713,262,2,HMW,62E ROBINSON RD|62E 羅便臣道

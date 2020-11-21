@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3.0/F低層B,3.0,低層,B,1309919,7751,169,147,1,KCSW,256 KI LUNG ST|256 基隆街
+6.0/F中層B,6.0,中層,B,1335100,7900,169,142,1,KCSW,256 KI LUNG ST|256 基隆街
+7.0/F高層B,7.0,高層,B,1343381,7949,169,141,1,KCSW,256 KI LUNG ST|256 基隆街
+3.0/F低層D,3.0,低層,D,1172913,7979,147,89,1,KCSW,256 KI LUNG ST|256 基隆街
+6.0/F中層D,6.0,中層,D,1195257,8131,147,86,1,KCSW,256 KI LUNG ST|256 基隆街
+7.0/F高層D,7.0,高層,D,1202754,8182,147,85,1,KCSW,256 KI LUNG ST|256 基隆街
+3.0/F低層whole floor,3.0,低層,whole floor,,,614,,,KCSW,256 KI LUNG ST|256 基隆街
+6.0/F中層whole floor,6.0,中層,whole floor,,,614,,,KCSW,256 KI LUNG ST|256 基隆街
+7.0/F高層whole floor,7.0,高層,whole floor,,,614,,,KCSW,256 KI LUNG ST|256 基隆街

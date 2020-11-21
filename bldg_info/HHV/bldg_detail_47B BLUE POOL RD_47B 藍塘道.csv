@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層blank,1.0,低層,blank,23604000,19670,1200,286,2,HHV,47B BLUE POOL RD|47B 藍塘道
-2.0/F中層blank,2.0,中層,blank,24028800,20024,1200,235,2,HHV,47B BLUE POOL RD|47B 藍塘道
-3.0/F高層blank,3.0,高層,blank,25859416,20266,1276,241,2,HHV,47B BLUE POOL RD|47B 藍塘道
+2.0/F低層whole floor,2.0,低層,whole floor,23258400,19382,1200,235,2,HHV,47B BLUE POOL RD|47B 藍塘道
+2.0/F中層whole floor,2.0,中層,whole floor,23258400,19382,1200,235,2,HHV,47B BLUE POOL RD|47B 藍塘道
+3.0/F高層whole floor,3.0,高層,whole floor,25046604,19629,1276,241,2,HHV,47B BLUE POOL RD|47B 藍塘道

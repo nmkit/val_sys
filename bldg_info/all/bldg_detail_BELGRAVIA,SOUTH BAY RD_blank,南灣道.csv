@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,74310900,39111,1900,84,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
-16.0/F中層A,16.0,中層,A,81257300,42767,1900,87,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
-23.0/F高層A,23.0,高層,A,86121300,45327,1900,77,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
-6.0/F低層B,6.0,低層,B,83160572,37426,2222,150,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
-16.0/F中層B,16.0,中層,B,90524280,40740,2222,75,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
-23.0/F高層B,23.0,高層,B,95677098,43059,2222,64,1,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+6.0/F低層A,6.0,低層,A,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+16.0/F中層A,16.0,中層,A,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+23.0/F高層A,23.0,高層,A,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+6.0/F低層B,6.0,低層,B,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+16.0/F中層B,16.0,中層,B,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"
+23.0/F高層B,23.0,高層,B,,,,,,HRB,"BELGRAVIA,SOUTH BAY RD|blank,南灣道"

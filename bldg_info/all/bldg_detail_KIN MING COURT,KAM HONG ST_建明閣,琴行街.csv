@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
-7.0/F中層A,7.0,中層,A,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
-11.0/F高層A,11.0,高層,A,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
-3.0/F低層B,3.0,低層,B,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
-7.0/F中層B,7.0,中層,B,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
-11.0/F高層B,11.0,高層,B,,,,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+3.0/F低層A,3.0,低層,A,,,434,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+7.0/F中層A,7.0,中層,A,,,434,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+11.0/F高層A,11.0,高層,A,,,397,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+3.0/F低層B,3.0,低層,B,,,445,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+7.0/F中層B,7.0,中層,B,,,445,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"
+11.0/F高層B,11.0,高層,B,,,445,,,HNP,"KIN MING COURT,KAM HONG ST|建明閣,琴行街"

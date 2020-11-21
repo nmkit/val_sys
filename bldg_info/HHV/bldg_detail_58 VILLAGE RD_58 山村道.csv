@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層A,2.0,低層,A,,,,,,HHV,58 VILLAGE RD|58 山村道
-2.0/F中層A,2.0,中層,A,,,,,,HHV,58 VILLAGE RD|58 山村道
-3.0/F高層A,3.0,高層,A,,,,,,HHV,58 VILLAGE RD|58 山村道
-2.0/F低層B,2.0,低層,B,,,,,,HHV,58 VILLAGE RD|58 山村道
-2.0/F中層B,2.0,中層,B,,,,,,HHV,58 VILLAGE RD|58 山村道
-3.0/F高層B,3.0,高層,B,,,,,,HHV,58 VILLAGE RD|58 山村道
+1.0/F低層A,1.0,低層,A,4686688,7016,668,66,1,HHV,58 VILLAGE RD|58 山村道
+2.0/F中層A,2.0,中層,A,4717416,7062,668,65,1,HHV,58 VILLAGE RD|58 山村道
+3.0/F高層A,3.0,高層,A,4748812,7109,668,64,1,HHV,58 VILLAGE RD|58 山村道
+1.0/F低層B,1.0,低層,B,3360040,6680,503,122,1,HHV,58 VILLAGE RD|58 山村道
+2.0/F中層B,2.0,中層,B,3382675,6725,503,120,1,HHV,58 VILLAGE RD|58 山村道
+3.0/F高層B,3.0,高層,B,3404807,6769,503,119,1,HHV,58 VILLAGE RD|58 山村道

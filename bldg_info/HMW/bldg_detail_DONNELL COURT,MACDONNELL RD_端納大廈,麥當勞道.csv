@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層blank,2.0,低層,blank,22564150,14015,1610,239,2,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"
-4.0/F中層blank,4.0,中層,blank,27967310,17371,1610,143,1,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"
-6.0/F高層blank,6.0,高層,blank,28363370,17617,1610,143,1,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"
+2.0/F低層whole floor,2.0,低層,whole floor,26798450,16645,1610,379,3,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"
+4.0/F中層whole floor,4.0,中層,whole floor,27313650,16965,1610,326,3,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"
+6.0/F高層whole floor,6.0,高層,whole floor,27706490,17209,1610,323,3,HMW,"DONNELL COURT,MACDONNELL RD|端納大廈,麥當勞道"

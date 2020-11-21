@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層blank,3.0,低層,blank,,,,,,HCB,517 LOCKHART RD|517 駱克道
-4.0/F中層blank,4.0,中層,blank,,,,,,HCB,517 LOCKHART RD|517 駱克道
-4.0/F高層blank,4.0,高層,blank,,,,,,HCB,517 LOCKHART RD|517 駱克道
+3.0/F低層whole floor,3.0,低層,whole floor,,,600,,,HCB,517 LOCKHART RD|517 駱克道
+4.0/F中層whole floor,4.0,中層,whole floor,,,600,,,HCB,517 LOCKHART RD|517 駱克道
+4.0/F高層whole floor,4.0,高層,whole floor,,,600,,,HCB,517 LOCKHART RD|517 駱克道

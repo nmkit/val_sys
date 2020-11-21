@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層blank,6.0,低層,blank,22398530,16841,1330,204,2,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
-13.0/F中層blank,13.0,中層,blank,23309580,17526,1330,204,2,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
-20.0/F高層blank,20.0,高層,blank,24232600,18220,1330,204,2,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
+6.0/F低層whole floor,6.0,低層,whole floor,23975910,18027,1330,318,3,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
+13.0/F中層whole floor,13.0,中層,whole floor,25037250,18825,1330,329,3,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
+20.0/F高層whole floor,20.0,高層,whole floor,25954950,19515,1330,321,3,HPFL,"BAGUIO VILLA(Block 39),VICTORIA RD|碧瑤灣39座,域多利道"
