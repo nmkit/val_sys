@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層B,1.0,低層,B,,,460,,,KKC,14A HA HEUNG RD|14A 下鄉道
-2.0/F中層B,2.0,中層,B,,,549,,,KKC,14A HA HEUNG RD|14A 下鄉道
-4.0/F高層B,4.0,高層,B,,,549,,,KKC,14A HA HEUNG RD|14A 下鄉道
-1.0/F低層whole floor,1.0,低層,whole floor,,,549,,,KKC,14A HA HEUNG RD|14A 下鄉道
-2.0/F中層whole floor,2.0,中層,whole floor,,,549,,,KKC,14A HA HEUNG RD|14A 下鄉道
-4.0/F高層whole floor,4.0,高層,whole floor,,,549,,,KKC,14A HA HEUNG RD|14A 下鄉道
+1.0/F低層B,1.0,低層,B,4350200.8848526655,9455.0,460,348,4,KKC,14A HA HEUNG RD|14A 下鄉道
+2.0/F中層B,2.0,中層,B,5301143.8160071345,9654.0,549,404,4,KKC,14A HA HEUNG RD|14A 下鄉道
+4.0/F高層B,4.0,高層,B,4562036.7540281,8308.0,549,321,3,KKC,14A HA HEUNG RD|14A 下鄉道
+1.0/F低層whole floor,1.0,低層,whole floor,5178691.457298869,9431.0,549,397,3,KKC,14A HA HEUNG RD|14A 下鄉道
+2.0/F中層whole floor,2.0,中層,whole floor,5222071.440877133,9510.0,549,402,3,KKC,14A HA HEUNG RD|14A 下鄉道
+4.0/F高層whole floor,4.0,高層,whole floor,5309929.635466023,9670.0,549,405,3,KKC,14A HA HEUNG RD|14A 下鄉道

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層A,1.0,低層,A,,,906,,,HMW,31 LYTTELTON RD|31 列堤頓道
-3.0/F中層A,3.0,中層,A,,,906,,,HMW,31 LYTTELTON RD|31 列堤頓道
-6.0/F高層A,6.0,高層,A,,,906,,,HMW,31 LYTTELTON RD|31 列堤頓道
-1.0/F低層whole floor,1.0,低層,whole floor,9049320,9234,980,102,1,HMW,31 LYTTELTON RD|31 列堤頓道
-3.0/F中層whole floor,3.0,中層,whole floor,9175740,9363,980,99,1,HMW,31 LYTTELTON RD|31 列堤頓道
-6.0/F高層whole floor,6.0,高層,whole floor,7983085,9229,865,83,1,HMW,31 LYTTELTON RD|31 列堤頓道
+1.0/F低層A,1.0,低層,A,8467028.913397186,8721.0,906,86,1,HMW,31 LYTTELTON RD|31 列堤頓道
+3.0/F中層A,3.0,中層,A,8593243.081352882,8851.0,906,84,1,HMW,31 LYTTELTON RD|31 列堤頓道
+6.0/F高層A,6.0,高層,A,8781593.455071384,9045.0,906,81,1,HMW,31 LYTTELTON RD|31 列堤頓道
+1.0/F低層whole floor,1.0,低層,whole floor,9364880.0,9556.0,980,99,1,HMW,31 LYTTELTON RD|31 列堤頓道
+3.0/F中層whole floor,3.0,中層,whole floor,14943910.712065017,5030.0,980,150,1,HMW,31 LYTTELTON RD|31 列堤頓道
+6.0/F高層whole floor,6.0,高層,whole floor,8278915.0,9571.0,865,79,1,HMW,31 LYTTELTON RD|31 列堤頓道

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-11.0/F低層C,11.0,低層,C,,,108,,,KCSW,385 KI LUNG ST|385 基隆街
-12.0/F中層C,12.0,中層,C,,,108,,,KCSW,385 KI LUNG ST|385 基隆街
-12.0/F高層C,12.0,高層,C,,,108,,,KCSW,385 KI LUNG ST|385 基隆街
+11.0/F低層C,11.0,低層,C,1602138.2798011282,13184.0,108,150,1,KCSW,385 KI LUNG ST|385 基隆街
+12.0/F中層C,12.0,中層,C,1612103.0354855708,13266.0,108,142,1,KCSW,385 KI LUNG ST|385 基隆街
+12.0/F高層C,12.0,高層,C,1612103.0354855708,13266.0,108,142,1,KCSW,385 KI LUNG ST|385 基隆街
 11.0/F低層whole floor,11.0,低層,whole floor,,,630,,,KCSW,385 KI LUNG ST|385 基隆街
 12.0/F中層whole floor,12.0,中層,whole floor,,,630,,,KCSW,385 KI LUNG ST|385 基隆街
 12.0/F高層whole floor,12.0,高層,whole floor,,,630,,,KCSW,385 KI LUNG ST|385 基隆街

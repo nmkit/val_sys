@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-7.0/F低層A,7.0,低層,A,,,293,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
-20.0/F中層A,20.0,中層,A,,,293,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
-32.0/F高層A,32.0,高層,A,,,293,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
-7.0/F低層B,7.0,低層,B,,,453,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
-20.0/F中層B,20.0,中層,B,,,453,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
-32.0/F高層B,32.0,高層,B,,,453,,,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+7.0/F低層A,7.0,低層,A,7146563.0,24391.0,293,439,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+20.0/F中層A,20.0,中層,A,7423155.0,25335.0,293,441,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+32.0/F高層A,32.0,高層,A,7923599.0,27043.0,293,444,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+7.0/F低層B,7.0,低層,B,10268604.0,22668.0,453,444,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+20.0/F中層B,20.0,中層,B,10520472.0,23224.0,453,429,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"
+32.0/F高層B,32.0,高層,B,11080380.0,24460.0,453,396,3,KKAI,"K.SUMMIT(Block 1B),MUK TAI ST|嘉峯匯1B座,沐泰街"

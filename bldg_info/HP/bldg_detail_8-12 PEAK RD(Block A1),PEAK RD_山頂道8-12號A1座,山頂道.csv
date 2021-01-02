@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層A,2.0,低層,A,,,2061,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
-6.0/F中層A,6.0,中層,A,,,2061,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
-8.0/F高層A,8.0,高層,A,,,2128,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
-2.0/F低層B,2.0,低層,B,,,2270,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
-6.0/F中層B,6.0,中層,B,,,2203,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
-8.0/F高層B,8.0,高層,B,,,2270,,,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+2.0/F低層A,2.0,低層,A,159309133.31813407,44837.0,2061,244,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+6.0/F中層A,6.0,中層,A,165747301.56249607,46649.0,2061,256,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+8.0/F高層A,8.0,高層,A,184342377.11287338,50249.0,2128,378,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+2.0/F低層B,2.0,低層,B,178410982.92671,45590.0,2270,291,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+6.0/F中層B,6.0,中層,B,178215270.8401778,46925.0,2203,306,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
+8.0/F高層B,8.0,高層,B,190049374.31131265,48564.0,2270,418,3,HP,"8-12 PEAK RD(Block A1),PEAK RD|山頂道8-12號A1座,山頂道"
