@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,248,,,KCSW,193 TAI NAN ST|193 大南街
-5.0/F中層A,5.0,中層,A,,,248,,,KCSW,193 TAI NAN ST|193 大南街
-6.0/F高層A,6.0,高層,A,,,248,,,KCSW,193 TAI NAN ST|193 大南街
-3.0/F低層whole floor,3.0,低層,whole floor,3687165.514523185,6987.0,469,142,1,KCSW,193 TAI NAN ST|193 大南街
-5.0/F中層whole floor,5.0,中層,whole floor,3042821.86299423,5766.0,469,150,1,KCSW,193 TAI NAN ST|193 大南街
-6.0/F高層whole floor,6.0,高層,whole floor,3602730.637991954,6827.0,469,300,2,KCSW,193 TAI NAN ST|193 大南街
+3.0/F低層A,3.0,低層,A,,,248.0,,,KCSW,193 TAI NAN ST|193 大南街
+5.0/F中層A,5.0,中層,A,,,248.0,,,KCSW,193 TAI NAN ST|193 大南街
+6.0/F高層A,6.0,高層,A,,,248.0,,,KCSW,193 TAI NAN ST|193 大南街
+3.0/F低層whole floor,3.0,低層,whole floor,2920737.376002656,6157.0,469.0,142,1,KCSW,193 TAI NAN ST|193 大南街
+5.0/F中層whole floor,5.0,中層,whole floor,2957738.759034686,6235.0,469.0,150,1,KCSW,193 TAI NAN ST|193 大南街
+6.0/F高層whole floor,6.0,高層,whole floor,3161720.7424163884,6665.0,469.0,294,2,KCSW,193 TAI NAN ST|193 大南街
