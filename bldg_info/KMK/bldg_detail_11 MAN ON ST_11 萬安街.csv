@@ -1,10 +1,10 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層A,4.0,低層,A,811030.0,4015.0,202,87,1,KMK,11 MAN ON ST|11 萬安街
-4.0/F中層A,4.0,中層,A,811030.0,4015.0,202,87,1,KMK,11 MAN ON ST|11 萬安街
-5.0/F高層A,5.0,高層,A,816080.0,4040.0,202,86,1,KMK,11 MAN ON ST|11 萬安街
-4.0/F低層B,4.0,低層,B,825516.0,3988.0,207,150,1,KMK,11 MAN ON ST|11 萬安街
-4.0/F中層B,4.0,中層,B,825516.0,3988.0,207,150,1,KMK,11 MAN ON ST|11 萬安街
-5.0/F高層B,5.0,高層,B,830691.0,4013.0,207,132,1,KMK,11 MAN ON ST|11 萬安街
-4.0/F低層whole floor,4.0,低層,whole floor,,,618,,,KMK,11 MAN ON ST|11 萬安街
-4.0/F中層whole floor,4.0,中層,whole floor,,,618,,,KMK,11 MAN ON ST|11 萬安街
-5.0/F高層whole floor,5.0,高層,whole floor,,,618,,,KMK,11 MAN ON ST|11 萬安街
+4.0/F低層A,4.0,低層,A,748612.0,3706.0,202.0,169,2,KMK,11 MAN ON ST|11 萬安街
+4.0/F中層A,4.0,中層,A,748612.0,3706.0,202.0,169,2,KMK,11 MAN ON ST|11 萬安街
+5.0/F高層A,5.0,高層,A,753258.0,3729.0,202.0,167,2,KMK,11 MAN ON ST|11 萬安街
+4.0/F低層B,4.0,低層,B,761760.0,3680.0,207.0,300,2,KMK,11 MAN ON ST|11 萬安街
+4.0/F中層B,4.0,中層,B,761760.0,3680.0,207.0,300,2,KMK,11 MAN ON ST|11 萬安街
+5.0/F高層B,5.0,高層,B,766935.0,3705.0,207.0,255,2,KMK,11 MAN ON ST|11 萬安街
+4.0/F低層whole floor,4.0,低層,whole floor,,,618.0,,,KMK,11 MAN ON ST|11 萬安街
+4.0/F中層whole floor,4.0,中層,whole floor,,,618.0,,,KMK,11 MAN ON ST|11 萬安街
+5.0/F高層whole floor,5.0,高層,whole floor,,,618.0,,,KMK,11 MAN ON ST|11 萬安街
