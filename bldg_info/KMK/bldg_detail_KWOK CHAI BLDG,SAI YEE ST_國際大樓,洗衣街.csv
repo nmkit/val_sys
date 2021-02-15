@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層C,3.0,低層,C,5900300.0,8429.0,700,179,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
-8.0/F中層C,8.0,中層,C,6101900.0,8717.0,700,181,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
-12.0/F高層C,12.0,高層,C,6262200.0,8946.0,700,173,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
-3.0/F低層whole floor,3.0,低層,whole floor,6002500.0,8575.0,700,189,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
-8.0/F中層whole floor,8.0,中層,whole floor,8432620.0,8308.0,1015,349,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
-12.0/F高層whole floor,12.0,高層,whole floor,8664040.0,8536.0,1015,309,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+3.0/F低層C,3.0,低層,C,5474646.99336179,8032.0,700.0,334,4,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+8.0/F中層C,8.0,中層,C,5649137.73418607,8288.0,700.0,331,4,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+12.0/F高層C,12.0,高層,C,5786821.834367729,8490.0,700.0,327,4,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+3.0/F低層whole floor,3.0,低層,whole floor,5653900.0,8077.0,700.0,179,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+8.0/F中層whole floor,8.0,中層,whole floor,7941360.0,7824.0,1015.0,342,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
+12.0/F高層whole floor,12.0,高層,whole floor,8161615.0,8041.0,1015.0,299,3,KMK,"KWOK CHAI BLDG,SAI YEE ST|國際大樓,洗衣街"
