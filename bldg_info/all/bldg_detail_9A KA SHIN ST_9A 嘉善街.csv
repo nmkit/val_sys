@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層R.P.,2,低層,R.P.,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
-3/F中層R.P.,3,中層,R.P.,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
-4/F高層R.P.,4,高層,R.P.,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
-2/F低層whole floor,2,低層,whole floor,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
-3/F中層whole floor,3,中層,whole floor,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
-4/F高層whole floor,4,高層,whole floor,,,,,,KMK,9A KA SHIN ST|9A 嘉善街
+2.0/F低層R.P.,2.0,低層,R.P.,6931258.5066666445,7988.0,484.0,263,2,KMK,9A KA SHIN ST|9A 嘉善街
+3.0/F中層R.P.,3.0,中層,R.P.,6975511.659375708,8039.0,484.0,266,2,KMK,9A KA SHIN ST|9A 嘉善街
+4.0/F高層R.P.,4.0,高層,R.P.,7024971.0653446615,8096.0,484.0,283,2,KMK,9A KA SHIN ST|9A 嘉善街
+2.0/F低層whole floor,2.0,低層,whole floor,7064871.331375001,7945.0,496.0,175,2,KMK,9A KA SHIN ST|9A 嘉善街
+3.0/F中層whole floor,3.0,中層,whole floor,7111110.8920082925,7997.0,496.0,177,2,KMK,9A KA SHIN ST|9A 嘉善街
+4.0/F高層whole floor,4.0,高層,whole floor,7156461.230321713,8048.0,496.0,179,2,KMK,9A KA SHIN ST|9A 嘉善街

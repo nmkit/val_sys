@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層A,2,低層,A,1209161.0,8699,139.0,125,1,KCSW,190 YU CHAU ST|190 汝州街
-4/F中層A,4,中層,A,1224729.0,8811,139.0,128,1,KCSW,190 YU CHAU ST|190 汝州街
-6/F高層A,6,高層,A,1240158.0,8922,139.0,131,1,KCSW,190 YU CHAU ST|190 汝州街
-2/F低層whole floor,2,低層,whole floor,,,,,,KCSW,190 YU CHAU ST|190 汝州街
-4/F中層whole floor,4,中層,whole floor,,,,,,KCSW,190 YU CHAU ST|190 汝州街
-6/F高層whole floor,6,高層,whole floor,,,,,,KCSW,190 YU CHAU ST|190 汝州街
+2.0/F低層A,2.0,低層,A,1735731.2598690244,9259.0,139.0,242,2,KCSW,190 YU CHAU ST|190 汝州街
+4.0/F中層A,4.0,中層,A,1757852.038426595,9377.0,139.0,248,2,KCSW,190 YU CHAU ST|190 汝州街
+6.0/F高層A,6.0,高層,A,1780160.2812092295,9496.0,139.0,254,2,KCSW,190 YU CHAU ST|190 汝州街
+2.0/F低層whole floor,2.0,低層,whole floor,3673878.0,5226.0,703.0,143,1,KCSW,190 YU CHAU ST|190 汝州街
+4.0/F中層whole floor,4.0,中層,whole floor,3719573.0,5291.0,703.0,143,1,KCSW,190 YU CHAU ST|190 汝州街
+6.0/F高層whole floor,6.0,高層,whole floor,3765971.0,5357.0,703.0,140,1,KCSW,190 YU CHAU ST|190 汝州街

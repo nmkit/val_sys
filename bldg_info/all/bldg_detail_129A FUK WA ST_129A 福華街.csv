@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層whole floor,2,低層,whole floor,,,,,,KCSW,129A FUK WA ST|129A 福華街
-2/F中層whole floor,2,中層,whole floor,,,,,,KCSW,129A FUK WA ST|129A 福華街
-3/F高層whole floor,3,高層,whole floor,,,,,,KCSW,129A FUK WA ST|129A 福華街
+1.0/F低層whole floor,1.0,低層,whole floor,2534837.2213328863,3752.0,234.0,300,2,KCSW,129A FUK WA ST|129A 福華街
+2.0/F中層whole floor,2.0,中層,whole floor,2570142.617610523,8144.0,234.0,124,1,KCSW,129A FUK WA ST|129A 福華街
+2.0/F高層whole floor,2.0,高層,whole floor,2570142.617610523,8144.0,234.0,124,1,KCSW,129A FUK WA ST|129A 福華街

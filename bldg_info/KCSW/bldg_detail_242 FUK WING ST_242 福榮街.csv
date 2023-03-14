@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3/F低層B,3,低層,B,,,,,,KCSW,242 FUK WING ST|242 福榮街
-4/F中層B,4,中層,B,,,,,,KCSW,242 FUK WING ST|242 福榮街
-4/F高層B,4,高層,B,,,,,,KCSW,242 FUK WING ST|242 福榮街
-3/F低層whole floor,3,低層,whole floor,,,,,,KCSW,242 FUK WING ST|242 福榮街
-4/F中層whole floor,4,中層,whole floor,,,,,,KCSW,242 FUK WING ST|242 福榮街
-4/F高層whole floor,4,高層,whole floor,,,,,,KCSW,242 FUK WING ST|242 福榮街
+3.0/F低層B,3.0,低層,B,1672800.0,8160.0,205.0,150,1,KCSW,242 FUK WING ST|242 福榮街
+3.0/F中層B,3.0,中層,B,1672800.0,8160.0,205.0,150,1,KCSW,242 FUK WING ST|242 福榮街
+3.0/F高層B,3.0,高層,B,1672800.0,8160.0,205.0,150,1,KCSW,242 FUK WING ST|242 福榮街

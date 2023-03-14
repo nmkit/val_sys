@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6/F低層B,6,低層,B,,,,,,KCSW,252 APLIU ST|252 鴨寮街
-7/F中層B,7,中層,B,,,,,,KCSW,252 APLIU ST|252 鴨寮街
-8/F高層B,8,高層,B,,,,,,KCSW,252 APLIU ST|252 鴨寮街
-6/F低層whole floor,6,低層,whole floor,,,,,,KCSW,252 APLIU ST|252 鴨寮街
-7/F中層whole floor,7,中層,whole floor,,,,,,KCSW,252 APLIU ST|252 鴨寮街
-8/F高層whole floor,8,高層,whole floor,,,,,,KCSW,252 APLIU ST|252 鴨寮街
+7.0/F低層B,7.0,低層,B,1456455.41908208,4675.0,231.0,300,2,KCSW,252 APLIU ST|252 鴨寮街
+8.0/F中層B,8.0,中層,B,1379076.3056756854,5874.0,231.0,103,1,KCSW,252 APLIU ST|252 鴨寮街
+8.0/F高層B,8.0,高層,B,1379076.3056756854,5874.0,231.0,103,1,KCSW,252 APLIU ST|252 鴨寮街
+7.0/F低層whole floor,7.0,低層,whole floor,3264620.0,5405.0,604.0,103,1,KCSW,252 APLIU ST|252 鴨寮街
+8.0/F中層whole floor,8.0,中層,whole floor,3284552.0,5438.0,604.0,150,1,KCSW,252 APLIU ST|252 鴨寮街
+8.0/F高層whole floor,8.0,高層,whole floor,3284552.0,5438.0,604.0,150,1,KCSW,252 APLIU ST|252 鴨寮街

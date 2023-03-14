@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層whole floor,2,低層,whole floor,,,,,,HWC,106 QUEEN'S RD E|106 皇后大道東
-3/F中層whole floor,3,中層,whole floor,,,,,,HWC,106 QUEEN'S RD E|106 皇后大道東
-4/F高層whole floor,4,高層,whole floor,,,,,,HWC,106 QUEEN'S RD E|106 皇后大道東
+1.0/F低層whole floor,1.0,低層,whole floor,11365746.0,24234.0,469,250,2,HWC,106 QUEEN'S RD E|106 皇后大道東
+2.0/F中層whole floor,2.0,中層,whole floor,11315094.0,24126.0,469,250,2,HWC,106 QUEEN'S RD E|106 皇后大道東
+3.0/F高層whole floor,3.0,高層,whole floor,11449228.0,24412.0,469,200,2,HWC,106 QUEEN'S RD E|106 皇后大道東

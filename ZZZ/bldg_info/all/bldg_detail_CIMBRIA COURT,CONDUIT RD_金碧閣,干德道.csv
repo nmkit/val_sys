@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+21/F低層A,21,低層,A,10749546.0,20593,522.0,178,2,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+67/F中層A,67,中層,A,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+102/F高層A,102,高層,A,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+21/F低層B,21,低層,B,14559555.0,20949,695.0,194,2,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+67/F中層B,67,中層,B,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+102/F高層B,102,高層,B,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+21/F低層whole floor,21,低層,whole floor,35734896.0,26828,1332.0,62,1,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+67/F中層whole floor,67,中層,whole floor,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"
+102/F高層whole floor,102,高層,whole floor,,,,,,HMW,"CIMBRIA COURT,CONDUIT RD|金碧閣,干德道"

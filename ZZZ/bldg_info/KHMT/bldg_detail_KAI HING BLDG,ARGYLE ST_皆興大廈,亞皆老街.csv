@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1/F低層A,1,低層,A,,,,,,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+4/F中層A,4,中層,A,,,,,,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+7/F高層A,7,高層,A,,,,,,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+1/F低層B,1,低層,B,5424120.0,13908,390.0,173,2,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+4/F中層B,4,中層,B,5612112.0,14172,396.0,183,2,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+7/F高層B,7,高層,B,5740020.0,14495,396.0,184,2,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+1/F低層whole floor,1,低層,whole floor,5310240.0,13616,390.0,109,1,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+4/F中層whole floor,4,中層,whole floor,5438550.0,13945,390.0,113,1,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"
+7/F高層whole floor,7,高層,whole floor,5625576.0,14206,396.0,119,1,KHMT,"KAI HING BLDG,ARGYLE ST|皆興大廈,亞皆老街"

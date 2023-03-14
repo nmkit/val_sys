@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-7/F低層whole floor,7,低層,whole floor,,,,,,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"
-13/F中層whole floor,13,中層,whole floor,,,,,,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"
-19/F高層whole floor,19,高層,whole floor,,,,,,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"
+7.0/F低層whole floor,7.0,低層,whole floor,6451173.829935847,15732.0,397,324,3,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"
+13.0/F中層whole floor,13.0,中層,whole floor,6723458.308900848,16396.0,397,351,3,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"
+19.0/F高層whole floor,19.0,高層,whole floor,6960887.094022439,16975.0,397,440,3,HWC,"HING WONG COURT,TAI WONG ST E|興旺閣,大王東街"

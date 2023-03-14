@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6/F低層40,6,低層,40,3934458.0,11538,341.0,222,2,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
-8/F中層40,8,中層,40,3981175.0,11675,341.0,225,2,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
-11/F高層40,11,高層,40,4046647.0,11867,341.0,226,2,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
-6/F低層whole floor,6,低層,whole floor,4506725.0,12695,355.0,416,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
-8/F中層whole floor,8,中層,whole floor,4454495.0,13297,335.0,409,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
-11/F高層whole floor,11,高層,whole floor,4605205.0,13505,341.0,406,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
+6.0/F低層whole floor,6.0,低層,whole floor,4443535.0,12517.0,355.0,403,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
+8.0/F中層whole floor,8.0,中層,whole floor,4396540.0,13124.0,335.0,389,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"
+11.0/F高層whole floor,11.0,高層,whole floor,4546553.0,13333.0,341.0,386,3,KCSW,"PO LUNG BLDG,APLIU ST|寶隆大廈,鴨寮街"

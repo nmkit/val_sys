@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層A,2,低層,A,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
-2/F中層A,2,中層,A,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
-3/F高層A,3,高層,A,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
-2/F低層whole floor,2,低層,whole floor,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
-2/F中層whole floor,2,中層,whole floor,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
-3/F高層whole floor,3,高層,whole floor,,,,,,HSW,1 SUNG HING LANE|1 崇慶里
+2.0/F低層A,2.0,低層,A,5702685.817221387,15646.0,352.0,318,3,HSW,1 SUNG HING LANE|1 崇慶里
+2.0/F中層A,2.0,中層,A,5702685.817221387,15646.0,352.0,318,3,HSW,1 SUNG HING LANE|1 崇慶里
+3.0/F高層A,3.0,高層,A,5738405.056010067,15744.0,352.0,317,3,HSW,1 SUNG HING LANE|1 崇慶里
+2.0/F低層whole floor,2.0,低層,whole floor,5208896.0,14798.0,352.0,350,3,HSW,1 SUNG HING LANE|1 崇慶里
+2.0/F中層whole floor,2.0,中層,whole floor,5208896.0,14798.0,352.0,350,3,HSW,1 SUNG HING LANE|1 崇慶里
+3.0/F高層whole floor,3.0,高層,whole floor,5223328.0,14839.0,352.0,351,3,HSW,1 SUNG HING LANE|1 崇慶里

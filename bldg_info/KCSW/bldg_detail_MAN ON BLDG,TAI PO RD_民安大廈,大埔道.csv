@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3/F低層79,3,低層,79,3537131.0,8777,403.0,161,2,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
-6/F中層79,6,中層,79,4028791.0,9997,403.0,161,2,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
-8/F高層79,8,高層,79,4078763.0,10121,403.0,157,2,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
-3/F低層whole floor,3,低層,whole floor,3731160.0,10030,372.0,399,3,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
-6/F中層whole floor,6,中層,whole floor,3744180.0,10065,372.0,339,3,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
-8/F高層whole floor,8,高層,whole floor,5321898.0,9819,542.0,379,4,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+3.0/F低層79,3.0,低層,79,3816952.2993796566,9319.0,403.0,309,4,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+6.0/F中層79,6.0,中層,79,3888630.231817841,9494.0,403.0,309,4,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+8.0/F高層79,8.0,高層,79,3935323.284949001,9608.0,403.0,303,4,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+3.0/F低層whole floor,3.0,低層,whole floor,5422176.0,9648.0,562.0,315,3,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+6.0/F中層whole floor,6.0,中層,whole floor,3661718.3771278174,9685.0,372.0,432,3,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"
+8.0/F高層whole floor,8.0,高層,whole floor,5225964.0,9642.0,542.0,257,3,KCSW,"MAN ON BLDG,TAI PO RD|民安大廈,大埔道"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4/F低層whole floor,4,低層,whole floor,,,,,,KCSW,226 KI LUNG ST|226 基隆街
-6/F中層whole floor,6,中層,whole floor,,,,,,KCSW,226 KI LUNG ST|226 基隆街
-7/F高層whole floor,7,高層,whole floor,,,,,,KCSW,226 KI LUNG ST|226 基隆街
+4.0/F低層whole floor,4.0,低層,whole floor,3166126.836319488,4800.0,649.0,128,1,KCSW,226 KI LUNG ST|226 基隆街
+6.0/F中層whole floor,6.0,中層,whole floor,2976558.650847134,4809.0,609.0,136,1,KCSW,226 KI LUNG ST|226 基隆街
+7.0/F高層whole floor,7.0,高層,whole floor,2995746.2819921253,4840.0,609.0,138,1,KCSW,226 KI LUNG ST|226 基隆街

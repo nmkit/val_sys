@@ -1,0 +1,10 @@
+,final_address,district,lowZone_value,lowZone_npsf_min,lowZone_nfa_min,midZone_value,midZone_npsf_min,midZone_nfa_min,highZone_value,highZone_npsf_max,highZone_nfa_max,oneSixth_floor,middle_floor,fifthSixth_floor,unit_list,value_avg,npsf_avg,unitSize_avg,noStorey,noFlat,op_date,bldgAge,est_name_en,est_name_ch,est_orNot
+0,"REGENT ON THE PARK(Block 2),KENNEDY RD|御花園2座,堅尼地道",HC,34650300.0,30395.0,1140.0,,,2300.0,,,2300.0,9,28,56,"['A', 'B']",,,,50,100,1985/08,38,REGENT ON THE PARK,御花園,True
+1,"REGENT ON THE PARK(Block 1),KENNEDY RD|御花園1座,堅尼地道",HC,36201840.0,31756.0,1140.0,,,2300.0,,,,18,62,100,"['A', 'B']",,,,104,208,1985/08,38,REGENT ON THE PARK,御花園,True
+2,"LAN FONG HSE,LAN KWAI FONG|蘭芳樓,蘭桂坊",HC,5579535.0,13845.0,403.0,5601297.0,13899.0,403.0,5568816.0,13992.0,398.0,2,3,4,['whole floor'],5583216.0,13912.0,401.3333333333333,3,3,1972/02,51,blank,,False
+3,"ROYAL COURT,KENNEDY RD|帝景閣,堅尼地道",HC,23384355.0,26380.0,885.0,25327815.0,28490.0,885.0,38810408.0,33544.0,1157.0,10,20,31,"['A', 'B', 'C']",31451639.777777776,29429.11111111111,1066.3333333333333,34,102,1989/09,34,blank,,False
+4,2 TRAMWAY PATH|2 纜車徑,HC,,,858.0,,,858.0,,,1051.0,1,2,2,"['A', 'B', 'B2']",,,,4,12,1953/07,70,blank,,False
+5,"HUNG KEI MANSION,QUEEN VICTORIA ST|鴻基大廈,域多利皇后街",HC,5289650.0,15790.0,335.0,5290320.0,15792.0,335.0,7258845.0,16687.0,435.0,10,12,16,"['A', 'B', 'C', 'D']",6271578.75,16260.583333333334,385.0,8,32,1971/05,52,blank,,False
+6,"YUEN KEE INT'L BLDG,QUEEN VICTORIA ST|源記國際大廈,域多利皇后街",HC,10119000.0,20238.0,500.0,10119000.0,20238.0,500.0,10119000.0,20238.0,500.0,2,3,4,['whole floor'],10119000.0,20238.0,500.0,5,5,1973/11,50,blank,,False
+7,20A D'AGUILAR ST|20A 德己立街,HC,,,,,,,,,,2,3,4,['whole floor'],,,,5,5,1960/09,63,blank,,False
+8,22 D'AGUILAR ST|22 德己立街,HC,,,,,,,,,,4,4,5,['whole floor'],,,,2,2,1960/09,63,blank,,False

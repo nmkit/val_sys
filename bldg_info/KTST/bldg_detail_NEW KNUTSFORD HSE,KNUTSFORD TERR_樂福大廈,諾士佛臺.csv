@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3/F低層14A,3,低層,14A,6666686,15083,442,266,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
-7/F中層14A,7,中層,14A,6873542,15551,442,270,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
-11/F高層14A,11,高層,14A,7088354,16037,442,270,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
-3/F低層whole floor,3,低層,whole floor,6666686,15083,442,399,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
-7/F中層whole floor,7,中層,whole floor,6873542,15551,442,405,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
-11/F高層whole floor,11,高層,whole floor,7169433,16039,447,425,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
+3.0/F低層whole floor,3.0,低層,whole floor,4695808.0,10624.0,442,330,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
+7.0/F中層whole floor,7.0,中層,whole floor,5281458.0,11949.0,442,313,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"
+11.0/F高層whole floor,11.0,高層,whole floor,5532072.0,12376.0,447,298,3,KTST,"NEW KNUTSFORD HSE,KNUTSFORD TERR|樂福大廈,諾士佛臺"

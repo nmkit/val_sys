@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1/F低層A,1,低層,A,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
-5/F中層A,5,中層,A,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
-8/F高層A,8,高層,A,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
-1/F低層B,1,低層,B,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
-5/F中層B,5,中層,B,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
-8/F高層B,8,高層,B,,,,,,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+1.0/F低層A,1.0,低層,A,24830752.867803488,6423.0,1339.0,191,2,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+5.0/F中層A,5.0,中層,A,25487957.910233285,6593.0,1339.0,193,2,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+8.0/F高層A,8.0,高層,A,25449298.790090352,6583.0,1339.0,338,3,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+1.0/F低層B,1.0,低層,B,22662961.288462963,4351.0,1339.0,392,3,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+5.0/F中層B,5.0,中層,B,23142159.73446126,4443.0,1339.0,342,3,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"
+8.0/F高層B,8.0,高層,B,23725531.755676575,4555.0,1339.0,341,3,KCSW,"VILLA CARLTON(Block 5),TAI PO RD|爾登華庭5座,大埔道"

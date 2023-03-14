@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層C,2,低層,C,,,,,,KCSW,262 HAI TAN ST|262 海壇街
-3/F中層C,3,中層,C,,,,,,KCSW,262 HAI TAN ST|262 海壇街
-4/F高層C,4,高層,C,,,,,,KCSW,262 HAI TAN ST|262 海壇街
-2/F低層whole floor,2,低層,whole floor,14757786.0,19997,738.0,150,1,KCSW,262 HAI TAN ST|262 海壇街
-3/F中層whole floor,3,中層,whole floor,14850036.0,20122,738.0,124,1,KCSW,262 HAI TAN ST|262 海壇街
-4/F高層whole floor,4,高層,whole floor,13565741.0,19979,679.0,114,1,KCSW,262 HAI TAN ST|262 海壇街
+3.0/F低層C,3.0,低層,C,3190686.0,12814.0,249.0,150,1,KCSW,262 HAI TAN ST|262 海壇街
+3.0/F中層C,3.0,中層,C,3190686.0,12814.0,249.0,150,1,KCSW,262 HAI TAN ST|262 海壇街
+3.0/F高層C,3.0,高層,C,3190686.0,12814.0,249.0,150,1,KCSW,262 HAI TAN ST|262 海壇街

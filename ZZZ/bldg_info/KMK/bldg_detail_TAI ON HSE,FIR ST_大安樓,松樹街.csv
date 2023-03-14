@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3/F低層C,3,低層,C,1806216.0,7752,233.0,118,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+4/F中層C,4,中層,C,1818099.0,7803,233.0,119,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+6/F高層C,6,高層,C,1841865.0,7905,233.0,122,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+3/F低層F,3,低層,F,2453166.0,7173,342.0,59,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+4/F中層F,4,中層,F,2469240.0,7220,342.0,60,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+6/F高層F,6,高層,F,2501388.0,7314,342.0,62,1,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+3/F低層whole floor,3,低層,whole floor,,,,,,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+4/F中層whole floor,4,中層,whole floor,,,,,,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"
+6/F高層whole floor,6,高層,whole floor,,,,,,KMK,"TAI ON HSE,FIR ST|大安樓,松樹街"

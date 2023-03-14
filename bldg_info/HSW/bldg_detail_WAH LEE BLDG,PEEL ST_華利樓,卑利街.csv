@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層35,2,低層,35,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
-3/F中層35,3,中層,35,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
-4/F高層35,4,高層,35,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
-2/F低層whole floor,2,低層,whole floor,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
-3/F中層whole floor,3,中層,whole floor,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
-4/F高層whole floor,4,高層,whole floor,,,,,,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+2.0/F低層35,2.0,低層,35,7428334.264628425,16454.0,436.0,234,2,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+3.0/F中層35,3.0,中層,35,7479349.3230885565,16567.0,436.0,237,2,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+4.0/F高層35,4.0,高層,35,7533524.6064090505,16687.0,436.0,237,2,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+2.0/F低層whole floor,2.0,低層,whole floor,7469400.620448203,16174.0,446.0,234,2,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+3.0/F中層whole floor,3.0,中層,whole floor,7513273.073702969,16269.0,446.0,244,2,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"
+4.0/F高層whole floor,4.0,高層,whole floor,6745274.23409586,14941.0,436.0,439,3,HSW,"WAH LEE BLDG,PEEL ST|華利樓,卑利街"

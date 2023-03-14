@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4/F低層whole floor,4,低層,whole floor,,,,,,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"
-6/F中層whole floor,6,中層,whole floor,,,,,,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"
-9/F高層whole floor,9,高層,whole floor,,,,,,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"
+4.0/F低層whole floor,4.0,低層,whole floor,6576546.085113936,8966.0,598,324,3,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"
+7.0/F中層whole floor,7.0,中層,whole floor,6711509.779031063,9150.0,598,337,3,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"
+10.0/F高層whole floor,10.0,高層,whole floor,7317070.038906275,11846.0,598,410,3,HWC,"KWOK LEUNG BLDG,LOCKHART RD|國樑樓,駱克道"

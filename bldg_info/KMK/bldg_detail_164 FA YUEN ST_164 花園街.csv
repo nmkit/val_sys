@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6/F低層D,6,低層,D,6170400.0,8570,720.0,200,2,KMK,164 FA YUEN ST|164 花園街
-8/F中層D,8,中層,D,6253200.0,8685,720.0,199,2,KMK,164 FA YUEN ST|164 花園街
-9/F高層D,9,高層,D,6294960.0,8743,720.0,199,2,KMK,164 FA YUEN ST|164 花園街
-6/F低層whole floor,6,低層,whole floor,5960312.0,8936,667.0,137,1,KMK,164 FA YUEN ST|164 花園街
-8/F中層whole floor,8,中層,whole floor,6038351.0,9053,667.0,140,1,KMK,164 FA YUEN ST|164 花園街
-9/F高層whole floor,9,高層,whole floor,6077037.0,9111,667.0,141,1,KMK,164 FA YUEN ST|164 花園街
+6.0/F低層D,6.0,低層,D,6155856.643739142,4769.0,720.0,208,2,KMK,164 FA YUEN ST|164 花園街
+8.0/F中層D,8.0,中層,D,6238468.265714254,4833.0,720.0,207,2,KMK,164 FA YUEN ST|164 花園街
+9.0/F高層D,9.0,高層,D,6279774.076701809,4865.0,720.0,207,2,KMK,164 FA YUEN ST|164 花園街
+6.0/F低層whole floor,6.0,低層,whole floor,5852190.807077071,4894.0,667.0,200,2,KMK,164 FA YUEN ST|164 花園街
+8.0/F中層whole floor,8.0,中層,whole floor,5929917.084653697,4959.0,667.0,201,2,KMK,164 FA YUEN ST|164 花園街
+9.0/F高層whole floor,9.0,高層,whole floor,5969378.117884908,4992.0,667.0,202,2,KMK,164 FA YUEN ST|164 花園街

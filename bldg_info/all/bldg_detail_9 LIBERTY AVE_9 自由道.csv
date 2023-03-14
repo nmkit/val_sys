@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4/F低層whole floor,4,低層,whole floor,,,,,,KHMT,9 LIBERTY AVE|9 自由道
-5/F中層whole floor,5,中層,whole floor,,,,,,KHMT,9 LIBERTY AVE|9 自由道
-6/F高層whole floor,6,高層,whole floor,,,,,,KHMT,9 LIBERTY AVE|9 自由道
+4.0/F低層whole floor,4.0,低層,whole floor,,,2078.0,,,KHMT,9 LIBERTY AVE|9 自由道
+5.0/F中層whole floor,5.0,中層,whole floor,12830645.731740009,8310.0,826.0,274,2,KHMT,9 LIBERTY AVE|9 自由道
+6.0/F高層whole floor,6.0,高層,whole floor,12693293.224860953,8332.0,815.0,279,2,KHMT,9 LIBERTY AVE|9 自由道

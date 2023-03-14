@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2/F低層4,2,低層,4,4710016.0,9496,496.0,378,4,KHH,116 WING KWONG ST|116 榮光街
-4/F中層4,4,中層,4,4681248.0,9438,496.0,381,4,KHH,116 WING KWONG ST|116 榮光街
-6/F高層4,6,高層,4,4512112.0,9097,496.0,380,4,KHH,116 WING KWONG ST|116 榮光街
-2/F低層whole floor,2,低層,whole floor,4835008.0,9748,496.0,404,3,KHH,116 WING KWONG ST|116 榮光街
-4/F中層whole floor,4,中層,whole floor,4759616.0,9596,496.0,402,3,KHH,116 WING KWONG ST|116 榮光街
-6/F高層whole floor,6,高層,whole floor,4485824.0,9044,496.0,403,3,KHH,116 WING KWONG ST|116 榮光街
+5.0/F低層4,5.0,低層,4,4530464.0,9134.0,496.0,229,2,KHH,116 WING KWONG ST|116 榮光街
+6.0/F中層4,6.0,中層,4,4541872.0,9157.0,496.0,200,2,KHH,116 WING KWONG ST|116 榮光街
+7.0/F高層4,7.0,高層,4,4567664.0,9209.0,496.0,200,2,KHH,116 WING KWONG ST|116 榮光街
+5.0/F低層whole floor,5.0,低層,whole floor,4459040.0,8990.0,496.0,200,2,KHH,116 WING KWONG ST|116 榮光街
+6.0/F中層whole floor,6.0,中層,whole floor,4484336.0,9041.0,496.0,200,2,KHH,116 WING KWONG ST|116 榮光街
+7.0/F高層whole floor,7.0,高層,whole floor,4495744.0,9064.0,496.0,229,2,KHH,116 WING KWONG ST|116 榮光街

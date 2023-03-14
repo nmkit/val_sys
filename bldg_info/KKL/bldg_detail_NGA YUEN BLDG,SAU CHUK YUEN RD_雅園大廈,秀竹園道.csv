@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1/F低層5A,1,低層,5A,,,,,,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
-4/F中層5A,4,中層,5A,,,,,,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
-7/F高層5A,7,高層,5A,,,,,,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
-1/F低層whole floor,1,低層,whole floor,11513634,15859,726,105,1,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
-4/F中層whole floor,4,中層,whole floor,17836731,16379,1089,217,2,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
-7/F高層whole floor,7,高層,whole floor,18519534,17006,1089,208,2,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
+1.0/F低層whole floor,1.0,低層,whole floor,10926040.171241838,3027.0,726,124,1,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
+3.0/F中層whole floor,3.0,中層,whole floor,17975210.59420523,12315.0,1089,282,2,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"
+6.0/F高層whole floor,6.0,高層,whole floor,18683125.911963213,12800.0,1089,254,2,KKL,"NGA YUEN BLDG,SAU CHUK YUEN RD|雅園大廈,秀竹園道"

@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4/F低層A,4,低層,A,,,,,,KHH,6 WING KWONG ST|6 榮光街
-5/F中層A,5,中層,A,,,,,,KHH,6 WING KWONG ST|6 榮光街
-6/F高層A,6,高層,A,,,,,,KHH,6 WING KWONG ST|6 榮光街
-4/F低層whole floor,4,低層,whole floor,,,,,,KHH,6 WING KWONG ST|6 榮光街
-5/F中層whole floor,5,中層,whole floor,,,,,,KHH,6 WING KWONG ST|6 榮光街
-6/F高層whole floor,6,高層,whole floor,,,,,,KHH,6 WING KWONG ST|6 榮光街
+4.0/F低層A,4.0,低層,A,1562112.0,8136.0,192.0,150,1,KHH,6 WING KWONG ST|6 榮光街
+4.0/F中層A,4.0,中層,A,1562112.0,8136.0,192.0,150,1,KHH,6 WING KWONG ST|6 榮光街
+4.0/F高層A,4.0,高層,A,1562112.0,8136.0,192.0,150,1,KHH,6 WING KWONG ST|6 榮光街

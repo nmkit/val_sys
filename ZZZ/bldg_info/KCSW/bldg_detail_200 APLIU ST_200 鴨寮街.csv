@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+4/F低層A,4,低層,A,1487333.0,5293,281.0,144,1,KCSW,200 APLIU ST|200 鴨寮街
+4/F中層A,4,中層,A,1487333.0,5293,281.0,144,1,KCSW,200 APLIU ST|200 鴨寮街
+5/F高層A,5,高層,A,1496606.0,5326,281.0,145,1,KCSW,200 APLIU ST|200 鴨寮街
+4/F低層B,4,低層,B,,,,,,KCSW,200 APLIU ST|200 鴨寮街
+4/F中層B,4,中層,B,,,,,,KCSW,200 APLIU ST|200 鴨寮街
+5/F高層B,5,高層,B,,,,,,KCSW,200 APLIU ST|200 鴨寮街
+4/F低層whole floor,4,低層,whole floor,3881875.0,6211,625.0,300,2,KCSW,200 APLIU ST|200 鴨寮街
+4/F中層whole floor,4,中層,whole floor,3881875.0,6211,625.0,300,2,KCSW,200 APLIU ST|200 鴨寮街
+5/F高層whole floor,5,高層,whole floor,3766875.0,6027,625.0,109,1,KCSW,200 APLIU ST|200 鴨寮街
