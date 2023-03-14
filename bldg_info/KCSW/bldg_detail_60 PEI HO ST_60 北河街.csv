@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層D,4.0,低層,D,1242180.34776248,6984.0,175.0,110,1,KCSW,60 PEI HO ST|60 北河街
-5.0/F中層D,5.0,中層,D,1250006.2262420834,7028.0,175.0,112,1,KCSW,60 PEI HO ST|60 北河街
-6.0/F高層D,6.0,高層,D,1257900.0,7188.0,175.0,150,1,KCSW,60 PEI HO ST|60 北河街
-4.0/F低層whole floor,4.0,低層,whole floor,5603975.388631388,6716.0,821.0,300,2,KCSW,60 PEI HO ST|60 北河街
-5.0/F中層whole floor,5.0,中層,whole floor,5283956.0,6436.0,821.0,109,1,KCSW,60 PEI HO ST|60 北河街
-6.0/F高層whole floor,6.0,高層,whole floor,5315975.0,6475.0,821.0,108,1,KCSW,60 PEI HO ST|60 北河街
+2/F低層D,2,低層,D,,,,,,KCSW,60 PEI HO ST|60 北河街
+4/F中層D,4,中層,D,,,,,,KCSW,60 PEI HO ST|60 北河街
+5/F高層D,5,高層,D,,,,,,KCSW,60 PEI HO ST|60 北河街
+2/F低層whole floor,2,低層,whole floor,,,,,,KCSW,60 PEI HO ST|60 北河街
+4/F中層whole floor,4,中層,whole floor,,,,,,KCSW,60 PEI HO ST|60 北河街
+5/F高層whole floor,5,高層,whole floor,,,,,,KCSW,60 PEI HO ST|60 北河街

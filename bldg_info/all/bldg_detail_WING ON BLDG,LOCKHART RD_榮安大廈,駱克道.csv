@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5243805.441875564,10733.0,473,342,3,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"
-5.0/F中層whole floor,5.0,中層,whole floor,7455162.4206313705,11104.0,650,328,3,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"
-8.0/F高層whole floor,8.0,高層,whole floor,7336311.166922724,11256.0,631,326,3,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"
+2/F低層whole floor,2,低層,whole floor,5532681.0,11697,473.0,150,2,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"
+5/F中層whole floor,5,中層,whole floor,7762300.0,11942,650.0,221,2,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"
+8/F高層whole floor,8,高層,whole floor,7636362.0,12102,631.0,227,2,HWC,"WING ON BLDG,LOCKHART RD|榮安大廈,駱克道"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,,,470.0,,,KYMT,196 RECLAMATION ST|196 新填地街
-2.0/F中層whole floor,2.0,中層,whole floor,,,470.0,,,KYMT,196 RECLAMATION ST|196 新填地街
-2.0/F高層whole floor,2.0,高層,whole floor,,,470.0,,,KYMT,196 RECLAMATION ST|196 新填地街
+2/F低層whole floor,2,低層,whole floor,3100590.0,6597,470.0,114,1,KYMT,196 RECLAMATION ST|196 新填地街
+2/F中層whole floor,2,中層,whole floor,3100590.0,6597,470.0,114,1,KYMT,196 RECLAMATION ST|196 新填地街
+3/F高層whole floor,3,高層,whole floor,3124560.0,6648,470.0,150,1,KYMT,196 RECLAMATION ST|196 新填地街

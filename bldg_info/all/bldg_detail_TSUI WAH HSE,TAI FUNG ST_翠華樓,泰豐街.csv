@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,2746835.0,6037.0,455.0,370,3,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"
-2.0/F中層whole floor,2.0,中層,whole floor,2746835.0,6037.0,455.0,370,3,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"
-4.0/F高層whole floor,4.0,高層,whole floor,2802320.0,6092.0,460.0,375,3,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"
+2/F低層whole floor,2,低層,whole floor,2846025.0,6255,455.0,225,2,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"
+2/F中層whole floor,2,中層,whole floor,2846025.0,6255,455.0,225,2,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"
+4/F高層whole floor,4,高層,whole floor,2875145.0,6319,455.0,228,2,NYL,"TSUI WAH HSE,TAI FUNG ST|翠華樓,泰豐街"

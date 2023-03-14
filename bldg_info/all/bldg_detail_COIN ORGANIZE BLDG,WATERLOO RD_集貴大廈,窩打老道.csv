@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,5190064.000000001,12752.0,407.0,394,4,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"
-9.0/F中層whole floor,9.0,中層,whole floor,5386238.0,13234.0,407.0,332,3,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"
-16.0/F高層whole floor,16.0,高層,whole floor,5675615.0,13945.0,407.0,343,3,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"
+3/F低層whole floor,3,低層,whole floor,5167679.0,12697,407.0,345,3,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"
+9/F中層whole floor,9,中層,whole floor,5421647.0,13321,407.0,366,3,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"
+16/F高層whole floor,16,高層,whole floor,5713059.0,14037,407.0,376,3,KHMT,"COIN ORGANIZE BLDG,WATERLOO RD|集貴大廈,窩打老道"

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層B,3.0,低層,B,1519651.0,10199.0,149.0,122,1,KMK,24 MAN ON ST|24 萬安街
-4.0/F中層B,4.0,中層,B,1529485.0,10265.0,149.0,123,1,KMK,24 MAN ON ST|24 萬安街
-5.0/F高層B,5.0,高層,B,1539319.0,10331.0,149.0,150,1,KMK,24 MAN ON ST|24 萬安街
-3.0/F低層whole floor,3.0,低層,whole floor,5649065.682370336,7635.0,618.0,150,1,KMK,24 MAN ON ST|24 萬安街
-4.0/F中層whole floor,4.0,中層,whole floor,5685320.327876052,7684.0,618.0,136,1,KMK,24 MAN ON ST|24 萬安街
-5.0/F高層whole floor,5.0,高層,whole floor,5721574.97338177,7733.0,618.0,134,1,KMK,24 MAN ON ST|24 萬安街
+3/F低層B,3,低層,B,1725718.0,11582,149.0,128,1,KMK,24 MAN ON ST|24 萬安街
+4/F中層B,4,中層,B,1736893.0,11657,149.0,130,1,KMK,24 MAN ON ST|24 萬安街
+5/F高層B,5,高層,B,1748068.0,11732,149.0,150,1,KMK,24 MAN ON ST|24 萬安街
+3/F低層whole floor,3,低層,whole floor,,,,,,KMK,24 MAN ON ST|24 萬安街
+4/F中層whole floor,4,中層,whole floor,,,,,,KMK,24 MAN ON ST|24 萬安街
+5/F高層whole floor,5,高層,whole floor,,,,,,KMK,24 MAN ON ST|24 萬安街

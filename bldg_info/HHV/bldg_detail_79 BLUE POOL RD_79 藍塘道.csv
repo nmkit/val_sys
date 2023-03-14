@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,34380528.0,22224.0,1547.0,246,2,HHV,79 BLUE POOL RD|79 藍塘道
-2.0/F中層whole floor,2.0,中層,whole floor,35261674.54798168,20566.0,1547.0,285,2,HHV,79 BLUE POOL RD|79 藍塘道
-2.0/F高層whole floor,2.0,高層,whole floor,35261674.54798168,20566.0,1547.0,285,2,HHV,79 BLUE POOL RD|79 藍塘道
+1/F低層whole floor,1,低層,whole floor,,,,,,HHV,79 BLUE POOL RD|79 藍塘道
+2/F中層whole floor,2,中層,whole floor,,,,,,HHV,79 BLUE POOL RD|79 藍塘道
+2/F高層whole floor,2,高層,whole floor,,,,,,HHV,79 BLUE POOL RD|79 藍塘道

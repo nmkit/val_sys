@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,7114437.0,17061.0,417,347,3,HWC,12 CANAL RD W|12 堅拿道西
-3.0/F中層whole floor,3.0,中層,whole floor,7342953.0,17609.0,417,346,3,HWC,12 CANAL RD W|12 堅拿道西
-4.0/F高層whole floor,4.0,高層,whole floor,7506000.0,18000.0,417,345,3,HWC,12 CANAL RD W|12 堅拿道西
+2/F低層whole floor,2,低層,whole floor,,,,,,HWC,12 CANAL RD W|12 堅拿道西
+3/F中層whole floor,3,中層,whole floor,,,,,,HWC,12 CANAL RD W|12 堅拿道西
+4/F高層whole floor,4,高層,whole floor,,,,,,HWC,12 CANAL RD W|12 堅拿道西

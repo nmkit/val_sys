@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,,,690.0,,,KKC,1B MOK CHEONG ST|1B 木廠街
-3.0/F中層whole floor,3.0,中層,whole floor,,,690.0,,,KKC,1B MOK CHEONG ST|1B 木廠街
-3.0/F高層whole floor,3.0,高層,whole floor,,,690.0,,,KKC,1B MOK CHEONG ST|1B 木廠街
+3/F低層whole floor,3,低層,whole floor,,,,,,KKC,1B MOK CHEONG ST|1B 木廠街
+3/F中層whole floor,3,中層,whole floor,,,,,,KKC,1B MOK CHEONG ST|1B 木廠街
+3/F高層whole floor,3,高層,whole floor,,,,,,KKC,1B MOK CHEONG ST|1B 木廠街

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3917030.144188185,5961.0,672.0,140,1,KMK,138 LAI CHI KOK RD|138 荔枝角道
-3.0/F中層whole floor,3.0,中層,whole floor,3942000.307831727,5999.0,672.0,141,1,KMK,138 LAI CHI KOK RD|138 荔枝角道
-4.0/F高層whole floor,4.0,高層,whole floor,3967627.5810448355,6038.0,672.0,143,1,KMK,138 LAI CHI KOK RD|138 荔枝角道
+2/F低層whole floor,2,低層,whole floor,,,,,,KMK,138 LAI CHI KOK RD|138 荔枝角道
+3/F中層whole floor,3,中層,whole floor,,,,,,KMK,138 LAI CHI KOK RD|138 荔枝角道
+4/F高層whole floor,4,高層,whole floor,,,,,,KMK,138 LAI CHI KOK RD|138 荔枝角道

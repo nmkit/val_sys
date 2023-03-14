@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,7294265.929101132,4288.0,616.0,420,3,HHV,69D SING WOO RD|69D 成和道
-3.0/F中層whole floor,3.0,中層,whole floor,6783939.488165884,3988.0,616.0,375,3,HHV,69D SING WOO RD|69D 成和道
-4.0/F高層whole floor,4.0,高層,whole floor,7204608.090584656,4341.0,601.0,393,3,HHV,69D SING WOO RD|69D 成和道
+2/F低層whole floor,2,低層,whole floor,,,,,,HHV,69D SING WOO RD|69D 成和道
+3/F中層whole floor,3,中層,whole floor,,,,,,HHV,69D SING WOO RD|69D 成和道
+4/F高層whole floor,4,高層,whole floor,,,,,,HHV,69D SING WOO RD|69D 成和道

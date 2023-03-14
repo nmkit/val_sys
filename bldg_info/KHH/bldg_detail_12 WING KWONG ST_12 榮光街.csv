@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4734233.0,8561.0,553.0,104,1,KHH,12 WING KWONG ST|12 榮光街
-2.0/F中層whole floor,2.0,中層,whole floor,4734233.0,8561.0,553.0,104,1,KHH,12 WING KWONG ST|12 榮光街
-4.0/F高層whole floor,4.0,高層,whole floor,4791192.0,8664.0,553.0,101,1,KHH,12 WING KWONG ST|12 榮光街
+2/F低層whole floor,2,低層,whole floor,4619274.0,8602,537.0,391,3,KHH,12 WING KWONG ST|12 榮光街
+4/F中層whole floor,4,中層,whole floor,4329831.0,8063,537.0,349,3,KHH,12 WING KWONG ST|12 榮光街
+6/F高層whole floor,6,高層,whole floor,4730352.0,8976,527.0,317,3,KHH,12 WING KWONG ST|12 榮光街

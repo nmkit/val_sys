@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層B,1.0,低層,B,3102192.0,9288.0,334.0,150,1,KHH,13 HUNG FOOK ST|13 鴻福街
-2.0/F中層B,2.0,中層,B,3120896.0,9344.0,334.0,127,1,KHH,13 HUNG FOOK ST|13 鴻福街
-3.0/F高層B,3.0,高層,B,3139600.0,9400.0,334.0,125,1,KHH,13 HUNG FOOK ST|13 鴻福街
-1.0/F低層whole floor,1.0,低層,whole floor,5226480.0,8568.0,610.0,58,1,KHH,13 HUNG FOOK ST|13 鴻福街
-2.0/F中層whole floor,2.0,中層,whole floor,5481945.935257428,7087.0,610.0,274,2,KHH,13 HUNG FOOK ST|13 鴻福街
-3.0/F高層whole floor,3.0,高層,whole floor,5568690.0,9129.0,610.0,206,2,KHH,13 HUNG FOOK ST|13 鴻福街
+2/F低層B,2,低層,B,3016020.0,9030,334.0,133,1,KHH,13 HUNG FOOK ST|13 鴻福街
+3/F中層B,3,中層,B,3034056.0,9084,334.0,132,1,KHH,13 HUNG FOOK ST|13 鴻福街
+4/F高層B,4,高層,B,3052426.0,9139,334.0,130,1,KHH,13 HUNG FOOK ST|13 鴻福街
+2/F低層whole floor,2,低層,whole floor,4468250.0,7325,610.0,349,3,KHH,13 HUNG FOOK ST|13 鴻福街
+3/F中層whole floor,3,中層,whole floor,4919040.0,8064,610.0,402,3,KHH,13 HUNG FOOK ST|13 鴻福街
+4/F高層whole floor,4,高層,whole floor,4493260.0,7366,610.0,353,3,KHH,13 HUNG FOOK ST|13 鴻福街

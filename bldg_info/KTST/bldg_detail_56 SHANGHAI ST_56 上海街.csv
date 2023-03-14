@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4838103.0,9431.0,513,122,1,KTST,56 SHANGHAI ST|56 上海街
-4.0/F中層whole floor,4.0,中層,whole floor,4751919.0,9263.0,513,269,2,KTST,56 SHANGHAI ST|56 上海街
-5.0/F高層whole floor,5.0,高層,whole floor,4894071.0,9653.0,507,117,1,KTST,56 SHANGHAI ST|56 上海街
+2/F低層whole floor,2,低層,whole floor,3964464,7728,513,382,3,KTST,56 SHANGHAI ST|56 上海街
+4/F中層whole floor,4,中層,whole floor,5115636,9972,513,150,1,KTST,56 SHANGHAI ST|56 上海街
+5/F高層whole floor,5,高層,whole floor,4056291,7907,513,367,3,KTST,56 SHANGHAI ST|56 上海街

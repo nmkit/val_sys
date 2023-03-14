@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,30846667.083084103,20821.0,1421.0,443,3,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"
-2.0/F中層whole floor,2.0,中層,whole floor,30846667.083084103,20821.0,1421.0,443,3,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"
-2.0/F高層whole floor,2.0,高層,whole floor,30846667.083084103,20821.0,1421.0,443,3,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"
+1/F低層whole floor,1,低層,whole floor,,,,,,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"
+2/F中層whole floor,2,中層,whole floor,,,,,,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"
+2/F高層whole floor,2,高層,whole floor,,,,,,HMW,"POKFULAM HEIGHTS,POK FU LAM RD|樸園,薄扶林道"

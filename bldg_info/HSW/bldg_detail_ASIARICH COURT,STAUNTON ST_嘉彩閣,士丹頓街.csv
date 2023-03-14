@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,5985470.0273671625,21569.0,268.0,359,3,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"
-8.0/F中層whole floor,8.0,中層,whole floor,6112289.064063662,22026.0,268.0,373,3,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"
-10.0/F高層whole floor,10.0,高層,whole floor,6194707.562748258,22323.0,268.0,395,3,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"
+5/F低層whole floor,5,低層,whole floor,7848916.0,29287,268.0,133,1,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"
+8/F中層whole floor,8,中層,whole floor,5650780.0,21085,268.0,132,1,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"
+10/F高層whole floor,10,高層,whole floor,6059748.0,22611,268.0,300,2,HSW,"ASIARICH COURT,STAUNTON ST|嘉彩閣,士丹頓街"

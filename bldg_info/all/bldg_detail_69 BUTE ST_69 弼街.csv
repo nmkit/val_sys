@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,1671380.0,3860.0,433.0,117,1,KMK,69 BUTE ST|69 弼街
-2.0/F中層whole floor,2.0,中層,whole floor,1682205.0,3885.0,433.0,118,1,KMK,69 BUTE ST|69 弼街
-3.0/F高層whole floor,3.0,高層,whole floor,1692597.0,3909.0,433.0,150,1,KMK,69 BUTE ST|69 弼街
+1/F低層whole floor,1,低層,whole floor,1873591.0,4327,433.0,123,1,KMK,69 BUTE ST|69 弼街
+2/F中層whole floor,2,中層,whole floor,1885715.0,4355,433.0,125,1,KMK,69 BUTE ST|69 弼街
+3/F高層whole floor,3,高層,whole floor,1897839.0,4383,433.0,150,1,KMK,69 BUTE ST|69 弼街

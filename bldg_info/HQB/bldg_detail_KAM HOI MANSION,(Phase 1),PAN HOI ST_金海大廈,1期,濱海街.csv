@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層31,2.0,低層,31,6644364.111514543,13633.0,463.0,246,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
-4.0/F中層31,4.0,中層,31,6709672.172171989,13767.0,463.0,248,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
-7.0/F高層31,7.0,高層,31,6805684.7688101735,13964.0,463.0,243,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
-2.0/F低層whole floor,2.0,低層,whole floor,5765628.0,16908.0,341.0,337,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
-4.0/F中層whole floor,4.0,中層,whole floor,6510784.0,14533.0,448.0,321,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
-7.0/F高層whole floor,7.0,高層,whole floor,6398815.0,17531.0,365.0,301,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+2/F低層31,2,低層,31,8758108.0,18916,463.0,231,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+4/F中層31,4,中層,31,8835892.0,19084,463.0,234,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+7/F高層31,7,高層,31,8952568.0,19336,463.0,239,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+2/F低層whole floor,2,低層,whole floor,8707395.0,20017,435.0,450,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+4/F中層whole floor,4,中層,whole floor,6366695.0,17443,365.0,387,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"
+7/F高層whole floor,7,高層,whole floor,7111295.0,19483,365.0,425,3,HQB,"KAM HOI MANSION,(Phase 1),PAN HOI ST|金海大廈,1期,濱海街"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,5836446.14453149,7190.0,482.0,405,3,KHH,30A WHAMPOA ST|30A 黃埔街
-4.0/F中層whole floor,4.0,中層,whole floor,5865668.9625013275,7226.0,482.0,428,3,KHH,30A WHAMPOA ST|30A 黃埔街
-6.0/F高層whole floor,6.0,高層,whole floor,5911938.424286904,7283.0,482.0,425,3,KHH,30A WHAMPOA ST|30A 黃埔街
+3/F低層whole floor,3,低層,whole floor,,,,,,KHH,30A WHAMPOA ST|30A 黃埔街
+4/F中層whole floor,4,中層,whole floor,,,,,,KHH,30A WHAMPOA ST|30A 黃埔街
+6/F高層whole floor,6,高層,whole floor,,,,,,KHH,30A WHAMPOA ST|30A 黃埔街

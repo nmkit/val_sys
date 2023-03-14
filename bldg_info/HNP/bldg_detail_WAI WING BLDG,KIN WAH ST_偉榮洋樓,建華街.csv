@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層B,2.0,低層,B,7041417.558228205,9587.0,582.0,138,2,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
-6.0/F中層B,6.0,中層,B,7241194.920889943,9859.0,582.0,140,2,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
-11.0/F高層B,11.0,高層,B,8126238.016505358,11064.0,582.0,140,2,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
-2.0/F低層whole floor,2.0,低層,whole floor,5352191.83000013,10656.0,398.0,350,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
-6.0/F中層whole floor,6.0,中層,whole floor,5493832.041717476,10938.0,398.0,359,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
-11.0/F高層whole floor,11.0,高層,whole floor,6058383.807569591,12062.0,398.0,355,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+2/F低層B,2,低層,B,6311208.0,10844,582.0,191,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+6/F中層B,6,中層,B,6474168.0,11124,582.0,203,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+11/F高層B,11,高層,B,6677286.0,11473,582.0,208,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+2/F低層whole floor,2,低層,whole floor,4867142.0,12229,398.0,372,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+6/F中層whole floor,6,中層,whole floor,4992910.0,12545,398.0,390,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"
+11/F高層whole floor,11,高層,whole floor,5149324.0,12938,398.0,398,3,HNP,"WAI WING BLDG,KIN WAH ST|偉榮洋樓,建華街"

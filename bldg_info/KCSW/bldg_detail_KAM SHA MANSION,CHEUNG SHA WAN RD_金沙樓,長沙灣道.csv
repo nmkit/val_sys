@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3648079.4443547884,8123.0,333.0,375,3,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
-5.0/F中層whole floor,5.0,中層,whole floor,6234871.31274529,7705.0,600.0,224,2,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
-8.0/F高層whole floor,8.0,高層,whole floor,6315791.122125502,7805.0,600.0,232,2,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+3/F低層216,3,低層,216,3829720.0,11432,335.0,94,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+6/F中層216,6,中層,216,3900405.0,11643,335.0,91,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+8/F高層216,8,高層,216,3947640.0,11784,335.0,89,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+3/F低層whole floor,3,低層,whole floor,7777200.0,12962,600.0,102,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+6/F中層whole floor,6,中層,whole floor,7920600.0,13201,600.0,97,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"
+8/F高層whole floor,8,高層,whole floor,8016600.0,13361,600.0,94,1,KCSW,"KAM SHA MANSION,CHEUNG SHA WAN RD|金沙樓,長沙灣道"

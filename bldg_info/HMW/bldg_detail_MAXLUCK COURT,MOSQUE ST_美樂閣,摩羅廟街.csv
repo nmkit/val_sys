@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,7084340.0,18643.0,380.0,384,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"
-12.0/F中層whole floor,12.0,中層,whole floor,7458260.0,19627.0,380.0,394,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"
-20.0/F高層whole floor,20.0,高層,whole floor,7904760.0,20802.0,380.0,385,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"
+5/F低層whole floor,5,低層,whole floor,6593380.0,17351,380.0,401,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"
+12/F中層whole floor,12,中層,whole floor,6942600.0,18270,380.0,423,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"
+20/F高層whole floor,20,高層,whole floor,7385680.0,19436,380.0,414,3,HMW,"MAXLUCK COURT,MOSQUE ST|美樂閣,摩羅廟街"

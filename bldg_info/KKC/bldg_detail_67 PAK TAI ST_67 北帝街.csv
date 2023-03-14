@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5102340.085795964,8101.0,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街
-3.0/F中層whole floor,3.0,中層,whole floor,5143909.576681352,8167.0,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街
-5.0/F高層whole floor,5.0,高層,whole floor,5227678.39922312,8300.0,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街
+2/F低層whole floor,2,低層,whole floor,4765200.0,7942,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街
+3/F中層whole floor,3,中層,whole floor,4804200.0,8007,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街
+5/F高層whole floor,5,高層,whole floor,4882800.0,8138,600.0,237,2,KKC,67 PAK TAI ST|67 北帝街

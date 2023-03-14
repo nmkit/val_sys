@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層F.P.,6.0,低層,F.P.,1508733.0,2941.0,513.0,119,1,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
-8.0/F中層F.P.,8.0,中層,F.P.,1528740.0,2980.0,513.0,116,1,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
-10.0/F高層F.P.,10.0,高層,F.P.,1549260.0,3020.0,513.0,113,1,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
-6.0/F低層R.P.,6.0,低層,R.P.,3580041.8876836644,14406.0,240.0,150,1,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
-8.0/F中層R.P.,8.0,中層,R.P.,3362932.3037164137,11669.0,240.0,267,2,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
-10.0/F高層R.P.,10.0,高層,R.P.,3405296.777848414,11816.0,240.0,264,2,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+6/F低層F.P.,6,低層,F.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+8/F中層F.P.,8,中層,F.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+10/F高層F.P.,10,高層,F.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+6/F低層R.P.,6,低層,R.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+8/F中層R.P.,8,中層,R.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"
+10/F高層R.P.,10,高層,R.P.,,,,,,HSW,"KA YUE BLDG,DES VOEUX RD W|嘉裕樓,德輔道西"

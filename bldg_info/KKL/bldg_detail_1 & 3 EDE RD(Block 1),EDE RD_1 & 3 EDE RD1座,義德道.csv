@@ -1,0 +1,13 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+3/F低層A,3,低層,A,110258750,63005,1750,44,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+8/F中層A,8,中層,A,118559000,67748,1750,49,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+11/F高層A,11,高層,A,123539500,70594,1750,52,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+3/F低層AB,3,低層,AB,182582400,57057,3200,58,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+8/F中層AB,8,中層,AB,198113792,61184,3238,63,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+11/F高層AB,11,高層,AB,206435452,63754,3238,66,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+3/F低層B,3,低層,B,,,,,,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+8/F中層B,8,中層,B,,,,,,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+11/F高層B,11,高層,B,268980290,56915,4726,51,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+3/F低層whole floor,3,低層,whole floor,151157559,59817,2527,107,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+8/F中層whole floor,8,中層,whole floor,162536640,64320,2527,114,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"
+11/F高層whole floor,11,高層,whole floor,169364594,67022,2527,119,1,KKL,"1 & 3 EDE RD(Block 1),EDE RD|1 & 3 EDE RD1座,義德道"

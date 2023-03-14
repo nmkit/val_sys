@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層A,6.0,低層,A,1427846.7738214307,8264.0,170.0,150,1,KCSW,283 YU CHAU ST|283 汝州街
-6.0/F中層A,6.0,中層,A,1427846.7738214307,8264.0,170.0,150,1,KCSW,283 YU CHAU ST|283 汝州街
-7.0/F高層A,7.0,高層,A,1436831.2888551573,8316.0,170.0,136,1,KCSW,283 YU CHAU ST|283 汝州街
-6.0/F低層whole floor,6.0,低層,whole floor,3375004.775502008,2469.0,616.0,135,1,KCSW,283 YU CHAU ST|283 汝州街
-6.0/F中層whole floor,6.0,中層,whole floor,3375004.775502008,2469.0,616.0,135,1,KCSW,283 YU CHAU ST|283 汝州街
-7.0/F高層whole floor,7.0,高層,whole floor,3396876.009365123,2485.0,616.0,150,1,KCSW,283 YU CHAU ST|283 汝州街
+5/F低層A,5,低層,A,,,,,,KCSW,283 YU CHAU ST|283 汝州街
+6/F中層A,6,中層,A,1460300.0,8590,170.0,150,1,KCSW,283 YU CHAU ST|283 汝州街
+6/F高層A,6,高層,A,1460300.0,8590,170.0,150,1,KCSW,283 YU CHAU ST|283 汝州街
+5/F低層whole floor,5,低層,whole floor,4169704.0,6769,616.0,130,1,KCSW,283 YU CHAU ST|283 汝州街
+6/F中層whole floor,6,中層,whole floor,4195576.0,6811,616.0,129,1,KCSW,283 YU CHAU ST|283 汝州街
+6/F高層whole floor,6,高層,whole floor,4195576.0,6811,616.0,129,1,KCSW,283 YU CHAU ST|283 汝州街

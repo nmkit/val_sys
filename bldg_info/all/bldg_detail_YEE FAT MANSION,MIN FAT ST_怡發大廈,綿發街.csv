@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,7075143.566730267,14186.0,450.0,377,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"
-12.0/F中層whole floor,12.0,中層,whole floor,7374887.066208971,14787.0,450.0,389,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"
-19.0/F高層whole floor,19.0,高層,whole floor,7891084.274129867,15822.0,450.0,410,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"
+6/F低層whole floor,6,低層,whole floor,7158150.0,15907,450.0,390,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"
+12/F中層whole floor,12,中層,whole floor,7254000.0,16120,450.0,402,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"
+19/F高層whole floor,19,高層,whole floor,7575750.0,16835,450.0,410,3,HHV,"YEE FAT MANSION,MIN FAT ST|怡發大廈,綿發街"

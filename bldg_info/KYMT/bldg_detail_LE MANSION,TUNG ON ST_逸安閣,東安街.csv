@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,6979624.642723581,12890.0,520.0,412,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"
-12.0/F中層whole floor,12.0,中層,whole floor,7114452.147458893,13139.0,520.0,379,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"
-20.0/F高層whole floor,20.0,高層,whole floor,7488612.00999745,13830.0,520.0,364,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"
+6/F低層whole floor,6,低層,whole floor,6860880.0,13194,520.0,298,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"
+12/F中層whole floor,12,中層,whole floor,7153120.0,13756,520.0,289,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"
+20/F高層whole floor,20,高層,whole floor,7545200.0,14510,520.0,277,3,KYMT,"LE MANSION,TUNG ON ST|逸安閣,東安街"

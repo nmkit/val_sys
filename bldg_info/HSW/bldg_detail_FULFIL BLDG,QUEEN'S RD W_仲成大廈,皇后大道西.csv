@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,3554689.1879040315,11841.0,250.0,366,3,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
-4.0/F中層A,4.0,中層,A,3492247.2192287478,11633.0,250.0,380,3,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
-4.0/F高層A,4.0,高層,A,3492247.2192287478,11633.0,250.0,380,3,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
-3.0/F低層B,3.0,低層,B,3247721.2563977432,12546.0,250.0,206,2,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
-4.0/F中層B,4.0,中層,B,3490552.9191198545,8775.0,250.0,322,3,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
-4.0/F高層B,4.0,高層,B,3490552.9191198545,8775.0,250.0,322,3,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+3/F低層A,3,低層,A,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+4/F中層A,4,中層,A,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+4/F高層A,4,高層,A,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+3/F低層B,3,低層,B,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+4/F中層B,4,中層,B,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"
+4/F高層B,4,高層,B,,,,,,HSW,"FULFIL BLDG,QUEEN'S RD W|仲成大廈,皇后大道西"

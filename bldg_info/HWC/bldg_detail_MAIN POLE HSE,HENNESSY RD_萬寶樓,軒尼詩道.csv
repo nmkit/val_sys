@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,5052966.074818848,4517.0,455,247,2,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"
-8.0/F中層whole floor,8.0,中層,whole floor,6197399.637568145,4668.0,540,279,2,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"
-10.0/F高層whole floor,10.0,高層,whole floor,5227476.304544714,4673.0,455,244,2,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"
+5/F低層whole floor,5,低層,whole floor,,,,,,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"
+8/F中層whole floor,8,中層,whole floor,,,,,,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"
+10/F高層whole floor,10,高層,whole floor,,,,,,HWC,"MAIN POLE HSE,HENNESSY RD|萬寶樓,軒尼詩道"

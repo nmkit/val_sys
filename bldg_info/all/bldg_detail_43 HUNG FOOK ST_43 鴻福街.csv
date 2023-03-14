@@ -1,7 +1,10 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,2126512.8076673895,7685.0,263.0,228,2,KHH,43 HUNG FOOK ST|43 鴻福街
-5.0/F中層A,5.0,中層,A,2126512.8076673895,7685.0,263.0,228,2,KHH,43 HUNG FOOK ST|43 鴻福街
-5.0/F高層A,5.0,高層,A,2126512.8076673895,7685.0,263.0,228,2,KHH,43 HUNG FOOK ST|43 鴻福街
-5.0/F低層B,5.0,低層,B,2625889.3554666485,7563.0,330.0,230,2,KHH,43 HUNG FOOK ST|43 鴻福街
-5.0/F中層B,5.0,中層,B,2625889.3554666485,7563.0,330.0,230,2,KHH,43 HUNG FOOK ST|43 鴻福街
-5.0/F高層B,5.0,高層,B,2625889.3554666485,7563.0,330.0,230,2,KHH,43 HUNG FOOK ST|43 鴻福街
+2/F低層A,2,低層,A,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+3/F中層A,3,中層,A,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+4/F高層A,4,高層,A,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+2/F低層B,2,低層,B,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+3/F中層B,3,中層,B,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+4/F高層B,4,高層,B,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+2/F低層whole floor,2,低層,whole floor,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+3/F中層whole floor,3,中層,whole floor,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街
+4/F高層whole floor,4,高層,whole floor,,,,,,KHH,43 HUNG FOOK ST|43 鴻福街

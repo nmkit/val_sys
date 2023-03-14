@@ -1,10 +1,10 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層F.P.,1.0,低層,F.P.,3976475.2084857547,6739.0,447.0,224,2,NTW,56 HO PUI ST|56 河背街
-2.0/F中層F.P.,2.0,中層,F.P.,4009590.0,8970.0,447.0,99,1,NTW,56 HO PUI ST|56 河背街
-2.0/F高層F.P.,2.0,高層,F.P.,4009590.0,8970.0,447.0,99,1,NTW,56 HO PUI ST|56 河背街
-1.0/F低層R.P.,1.0,低層,R.P.,3152807.872855092,8910.0,330.0,173,2,NTW,56 HO PUI ST|56 河背街
-2.0/F中層R.P.,2.0,中層,R.P.,3151392.4708919693,8906.0,330.0,220,2,NTW,56 HO PUI ST|56 河背街
-2.0/F高層R.P.,2.0,高層,R.P.,3151392.4708919693,8906.0,330.0,220,2,NTW,56 HO PUI ST|56 河背街
-1.0/F低層whole floor,1.0,低層,whole floor,24709389.43615503,7981.0,899.0,140,1,NTW,56 HO PUI ST|56 河背街
-2.0/F中層whole floor,2.0,中層,whole floor,24789886.131473914,8007.0,899.0,139,1,NTW,56 HO PUI ST|56 河背街
-2.0/F高層whole floor,2.0,高層,whole floor,24789886.131473914,8007.0,899.0,139,1,NTW,56 HO PUI ST|56 河背街
+1/F低層F.P.,1,低層,F.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F中層F.P.,2,中層,F.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F高層F.P.,2,高層,F.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+1/F低層R.P.,1,低層,R.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F中層R.P.,2,中層,R.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F高層R.P.,2,高層,R.P.,,,,,,NTW,56 HO PUI ST|56 河背街
+1/F低層whole floor,1,低層,whole floor,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F中層whole floor,2,中層,whole floor,,,,,,NTW,56 HO PUI ST|56 河背街
+2/F高層whole floor,2,高層,whole floor,,,,,,NTW,56 HO PUI ST|56 河背街

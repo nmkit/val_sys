@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,6701028.0,17588.0,381,238,2,HWC,406 LOCKHART RD|406 駱克道
-2.0/F中層whole floor,2.0,中層,whole floor,6701028.0,17588.0,381,238,2,HWC,406 LOCKHART RD|406 駱克道
-3.0/F高層whole floor,3.0,高層,whole floor,6747510.0,17710.0,381,270,2,HWC,406 LOCKHART RD|406 駱克道
+2/F低層whole floor,2,低層,whole floor,6153531.0,16151,381.0,402,3,HWC,406 LOCKHART RD|406 駱克道
+3/F中層whole floor,3,中層,whole floor,6191250.0,16250,381.0,403,3,HWC,406 LOCKHART RD|406 駱克道
+4/F高層whole floor,4,高層,whole floor,6191250.0,16250,381.0,403,3,HWC,406 LOCKHART RD|406 駱克道

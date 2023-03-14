@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3637155.9480791297,8731.0,406.0,418,3,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"
-3.0/F中層whole floor,3.0,中層,whole floor,3670970.052679747,6710.0,406.0,390,3,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"
-4.0/F高層whole floor,4.0,高層,whole floor,3130992.7885970483,5723.0,406.0,297,2,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"
+2/F低層whole floor,2,低層,whole floor,2549680.0,6280,406.0,138,1,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"
+3/F中層whole floor,3,中層,whole floor,2561454.0,6309,406.0,140,1,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"
+4/F高層whole floor,4,高層,whole floor,2573634.0,6339,406.0,150,1,NTP,"KOON NAM HSE,YAN HING ST|觀南樓,仁興街"

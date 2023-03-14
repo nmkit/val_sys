@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,14458967.9773864,6414.0,920.0,402,3,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
-9.0/F中層whole floor,9.0,中層,whole floor,14713701.900280798,6527.0,920.0,393,3,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
-16.0/F高層whole floor,16.0,高層,whole floor,7028702.501030395,10225.0,435.0,435,3,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
+4/F低層whole floor,4,低層,whole floor,14697920.0,15976,920.0,130,1,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
+9/F中層whole floor,9,中層,whole floor,15250840.0,16577,920.0,126,1,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"
+16/F高層whole floor,16,高層,whole floor,7782150.0,17890,435.0,415,3,HMW,"GRAND COURT,BABINGTON PATH|格蘭閣,巴丙頓道"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,5544725.606723566,9340.0,450,349,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"
-8.0/F中層whole floor,8.0,中層,whole floor,5688389.803385996,9582.0,450,349,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"
-12.0/F高層whole floor,12.0,高層,whole floor,5833241.307458861,9826.0,450,334,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"
+4/F低層whole floor,4,低層,whole floor,6247800.0,13884,450.0,360,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"
+8/F中層whole floor,8,中層,whole floor,6412500.0,14250,450.0,369,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"
+12/F高層whole floor,12,高層,whole floor,6575850.0,14613,450.0,366,3,KMK,"MY CASTLE,TAI NAN ST|海雅豪苑,大南街"

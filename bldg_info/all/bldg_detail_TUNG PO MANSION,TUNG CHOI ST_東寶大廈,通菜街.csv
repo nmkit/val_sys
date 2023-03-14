@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4834532.0,8236.0,587.0,381,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"
-5.0/F中層whole floor,5.0,中層,whole floor,4529292.0,7716.0,587.0,378,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"
-8.0/F高層whole floor,8.0,高層,whole floor,4588210.0,8657.0,530.0,400,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"
+2/F低層whole floor,2,低層,whole floor,5448534.0,9282,587.0,392,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"
+5/F中層whole floor,5,中層,whole floor,5082833.0,8659,587.0,394,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"
+8/F高層whole floor,8,高層,whole floor,5205660.0,9822,530.0,409,3,KMK,"TUNG PO MANSION,TUNG CHOI ST|東寶大廈,通菜街"

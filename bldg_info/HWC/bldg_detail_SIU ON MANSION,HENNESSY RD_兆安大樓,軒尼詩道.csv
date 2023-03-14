@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,6141265.0,11479.0,535,287,2,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"
-8.0/F中層whole floor,8.0,中層,whole floor,5614825.0,10495.0,535,258,2,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"
-12.0/F高層whole floor,12.0,高層,whole floor,5723965.0,10699.0,535,289,2,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"
+5/F低層whole floor,5,低層,whole floor,5536180.0,10348,535.0,424,3,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"
+9/F中層whole floor,9,中層,whole floor,5351605.0,10003,535.0,411,3,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"
+13/F高層whole floor,13,高層,whole floor,5491775.0,10265,535.0,420,3,HWC,"SIU ON MANSION,HENNESSY RD|兆安大樓,軒尼詩道"

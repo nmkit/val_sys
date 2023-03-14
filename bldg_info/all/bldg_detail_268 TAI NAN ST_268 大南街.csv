@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,4180995.730317026,4913.0,631.0,391,3,KCSW,268 TAI NAN ST|268 大南街
-4.0/F中層whole floor,4.0,中層,whole floor,4180995.730317026,4913.0,631.0,391,3,KCSW,268 TAI NAN ST|268 大南街
-5.0/F高層whole floor,5.0,高層,whole floor,4071215.8709213617,4784.0,631.0,241,2,KCSW,268 TAI NAN ST|268 大南街
+4/F低層whole floor,4,低層,whole floor,4168386.0,6606,631.0,398,3,KCSW,268 TAI NAN ST|268 大南街
+5/F中層whole floor,5,中層,whole floor,4182268.0,6628,631.0,334,3,KCSW,268 TAI NAN ST|268 大南街
+6/F高層whole floor,6,高層,whole floor,4207508.0,6668,631.0,329,3,KCSW,268 TAI NAN ST|268 大南街

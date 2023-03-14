@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,2458640.1165887215,6800.0,302.0,150,1,KMK,678A SHANGHAI ST|678A 上海街
-4.0/F中層whole floor,4.0,中層,whole floor,2458640.1165887215,6800.0,302.0,150,1,KMK,678A SHANGHAI ST|678A 上海街
-4.0/F高層whole floor,4.0,高層,whole floor,2458640.1165887215,6800.0,302.0,150,1,KMK,678A SHANGHAI ST|678A 上海街
+4/F低層whole floor,4,低層,whole floor,,,,,,KMK,678A SHANGHAI ST|678A 上海街
+4/F中層whole floor,4,中層,whole floor,,,,,,KMK,678A SHANGHAI ST|678A 上海街
+4/F高層whole floor,4,高層,whole floor,,,,,,KMK,678A SHANGHAI ST|678A 上海街

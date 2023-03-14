@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,,,610.0,,,KHH,3 HUNG FOOK ST|3 鴻福街
-2.0/F中層whole floor,2.0,中層,whole floor,,,610.0,,,KHH,3 HUNG FOOK ST|3 鴻福街
-2.0/F高層whole floor,2.0,高層,whole floor,,,610.0,,,KHH,3 HUNG FOOK ST|3 鴻福街
+2/F低層B,2,低層,B,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街
+3/F中層B,3,中層,B,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街
+4/F高層B,4,高層,B,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街
+2/F低層whole floor,2,低層,whole floor,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街
+3/F中層whole floor,3,中層,whole floor,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街
+4/F高層whole floor,4,高層,whole floor,,,,,,KHH,3 HUNG FOOK ST|3 鴻福街

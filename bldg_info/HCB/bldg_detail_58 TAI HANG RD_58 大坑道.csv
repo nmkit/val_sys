@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,29030697.0,20287.0,1431.0,289,3,HCB,58 TAI HANG RD|58 大坑道
-18.0/F中層whole floor,18.0,中層,whole floor,31708098.0,22158.0,1431.0,230,3,HCB,58 TAI HANG RD|58 大坑道
-29.0/F高層whole floor,29.0,高層,whole floor,40246204.14320032,5343.0,2862.0,135,1,HCB,58 TAI HANG RD|58 大坑道
+5/F低層whole floor,5,低層,whole floor,,,,,,HCB,58 TAI HANG RD|58 大坑道
+18/F中層whole floor,18,中層,whole floor,,,,,,HCB,58 TAI HANG RD|58 大坑道
+29/F高層whole floor,29,高層,whole floor,,,,,,HCB,58 TAI HANG RD|58 大坑道

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,4793984.0,8944.0,536.0,295,2,NSS,96 SAN HONG ST|96 新康街
-2.0/F中層whole floor,2.0,中層,whole floor,4795592.0,8947.0,536.0,294,2,NSS,96 SAN HONG ST|96 新康街
-2.0/F高層whole floor,2.0,高層,whole floor,4795592.0,8947.0,536.0,294,2,NSS,96 SAN HONG ST|96 新康街
+1/F低層whole floor,1,低層,whole floor,4445584.0,8294,536.0,101,1,NSS,96 SAN HONG ST|96 新康街
+2/F中層whole floor,2,中層,whole floor,4457912.0,8317,536.0,150,1,NSS,96 SAN HONG ST|96 新康街
+2/F高層whole floor,2,高層,whole floor,4457912.0,8317,536.0,150,1,NSS,96 SAN HONG ST|96 新康街

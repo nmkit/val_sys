@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,4257540.0,9156.0,465.0,290,3,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"
-9.0/F中層whole floor,9.0,中層,whole floor,5453400.0,8940.0,610.0,384,3,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"
-13.0/F高層whole floor,13.0,高層,whole floor,5612178.0,8866.0,633.0,411,3,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"
+5/F低層whole floor,5,低層,whole floor,3341490.0,7186,465.0,306,4,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"
+9/F中層whole floor,9,中層,whole floor,4187650.0,6865,610.0,382,3,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"
+13/F高層whole floor,13,高層,whole floor,4632294.0,7318,633.0,401,4,KYMT,"HUNG HSING MANSION,NATHAN RD|鴻星大廈,彌敦道"

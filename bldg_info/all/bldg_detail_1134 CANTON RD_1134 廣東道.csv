@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,3564960.0,8488.0,420.0,113,1,KMK,1134 CANTON RD|1134 廣東道
-4.0/F中層whole floor,4.0,中層,whole floor,3587640.0,8542.0,420.0,111,1,KMK,1134 CANTON RD|1134 廣東道
-5.0/F高層whole floor,5.0,高層,whole floor,3610320.0,8596.0,420.0,110,1,KMK,1134 CANTON RD|1134 廣東道
+3/F低層whole floor,3,低層,whole floor,4047540.0,9637,420.0,120,1,KMK,1134 CANTON RD|1134 廣東道
+4/F中層whole floor,4,中層,whole floor,4073580.0,9699,420.0,118,1,KMK,1134 CANTON RD|1134 廣東道
+5/F高層whole floor,5,高層,whole floor,4099200.0,9760,420.0,117,1,KMK,1134 CANTON RD|1134 廣東道

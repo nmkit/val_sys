@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-8.0/F低層whole floor,8.0,低層,whole floor,5135000.735936284,7459.0,384.0,424,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"
-16.0/F中層whole floor,16.0,中層,whole floor,5546681.985445588,8057.0,384.0,430,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"
-23.0/F高層whole floor,23.0,高層,whole floor,5819544.156986646,8156.0,398.0,367,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"
+8/F低層whole floor,8,低層,whole floor,5385600.0,14025,384.0,323,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"
+16/F中層whole floor,16,中層,whole floor,5624832.0,14648,384.0,383,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"
+23/F高層whole floor,23,高層,whole floor,6124026.0,15387,398.0,336,3,KMK,"EAST OCEAN COURT,SHANGHAI ST|東海閣,上海街"

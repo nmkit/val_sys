@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層160A,2.0,低層,160A,2768599.192942458,3237.0,325.0,208,2,KCSW,160A KI LUNG ST|160A 基隆街
-2.0/F中層160A,2.0,中層,160A,2768599.192942458,3237.0,325.0,208,2,KCSW,160A KI LUNG ST|160A 基隆街
-4.0/F高層160A,4.0,高層,160A,2807942.8947884124,3283.0,325.0,209,2,KCSW,160A KI LUNG ST|160A 基隆街
-2.0/F低層whole floor,2.0,低層,whole floor,2414947.9995335625,2841.0,323.0,253,2,KCSW,160A KI LUNG ST|160A 基隆街
-2.0/F中層whole floor,2.0,中層,whole floor,2414947.9995335625,2841.0,323.0,253,2,KCSW,160A KI LUNG ST|160A 基隆街
-4.0/F高層whole floor,4.0,高層,whole floor,2454704.8760410426,2870.0,325.0,254,2,KCSW,160A KI LUNG ST|160A 基隆街
+2/F低層160A,2,低層,160A,,,,,,KCSW,160A KI LUNG ST|160A 基隆街
+2/F中層160A,2,中層,160A,,,,,,KCSW,160A KI LUNG ST|160A 基隆街
+4/F高層160A,4,高層,160A,,,,,,KCSW,160A KI LUNG ST|160A 基隆街
+2/F低層whole floor,2,低層,whole floor,,,,,,KCSW,160A KI LUNG ST|160A 基隆街
+2/F中層whole floor,2,中層,whole floor,,,,,,KCSW,160A KI LUNG ST|160A 基隆街
+4/F高層whole floor,4,高層,whole floor,,,,,,KCSW,160A KI LUNG ST|160A 基隆街

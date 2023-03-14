@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,2407115.939985723,3638.0,639.0,119,1,HSW,104 DES VOEUX RD W|104 德輔道西
-6.0/F中層whole floor,6.0,中層,whole floor,2455417.056978289,3711.0,639.0,115,1,HSW,104 DES VOEUX RD W|104 德輔道西
-7.0/F高層whole floor,7.0,高層,whole floor,2471958.5354004013,3736.0,639.0,113,1,HSW,104 DES VOEUX RD W|104 德輔道西
+3/F低層whole floor,3,低層,whole floor,,,,,,HSW,104 DES VOEUX RD W|104 德輔道西
+5/F中層whole floor,5,中層,whole floor,,,,,,HSW,104 DES VOEUX RD W|104 德輔道西
+7/F高層whole floor,7,高層,whole floor,,,,,,HSW,104 DES VOEUX RD W|104 德輔道西

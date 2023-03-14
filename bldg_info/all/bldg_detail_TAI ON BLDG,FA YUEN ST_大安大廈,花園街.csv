@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4312183.766120527,11605.0,380.0,383,3,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"
-6.0/F中層whole floor,6.0,中層,whole floor,3252623.920442571,10906.0,305.0,183,2,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"
-9.0/F高層whole floor,9.0,高層,whole floor,4323438.723182603,10654.0,415.0,248,2,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"
+3/F低層whole floor,3,低層,whole floor,5272120.0,13874,380.0,226,2,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"
+6/F中層whole floor,6,中層,whole floor,5310750.0,14162,375.0,227,2,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"
+9/F高層whole floor,9,高層,whole floor,5742355.0,13837,415.0,207,2,KMK,"TAI ON BLDG,FA YUEN ST|大安大廈,花園街"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,8461088.0,25796.0,328,327,3,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"
-4.0/F中層whole floor,4.0,中層,whole floor,8452232.0,25769.0,328,367,3,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"
-4.0/F高層whole floor,4.0,高層,whole floor,8452232.0,25769.0,328,367,3,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"
+3/F低層whole floor,3,低層,whole floor,,,,,,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"
+4/F中層whole floor,4,中層,whole floor,,,,,,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"
+4/F高層whole floor,4,高層,whole floor,,,,,,HWC,"FU TUNG BLDG,QUEEN'S RD E|富東大廈,皇后大道東"

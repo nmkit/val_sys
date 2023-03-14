@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4014333.2082483955,6100.0,673.0,121,1,KMK,198 FA YUEN ST|198 花園街
-3.0/F中層whole floor,3.0,中層,whole floor,4040656.704695926,6140.0,673.0,122,1,KMK,198 FA YUEN ST|198 花園街
-5.0/F高層whole floor,5.0,高層,whole floor,4092645.610179799,6219.0,673.0,125,1,KMK,198 FA YUEN ST|198 花園街
+2/F低層whole floor,2,低層,whole floor,,,,,,KMK,198 FA YUEN ST|198 花園街
+3/F中層whole floor,3,中層,whole floor,,,,,,KMK,198 FA YUEN ST|198 花園街
+5/F高層whole floor,5,高層,whole floor,,,,,,KMK,198 FA YUEN ST|198 花園街

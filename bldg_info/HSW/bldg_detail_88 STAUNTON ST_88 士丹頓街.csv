@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,8129717.999999999,18561.0,438.0,252,2,HSW,88 STAUNTON ST|88 士丹頓街
-2.0/F中層whole floor,2.0,中層,whole floor,8282580.0,18910.0,438.0,208,2,HSW,88 STAUNTON ST|88 士丹頓街
-3.0/F高層whole floor,3.0,高層,whole floor,8437194.0,19263.0,438.0,252,2,HSW,88 STAUNTON ST|88 士丹頓街
+1/F低層whole floor,1,低層,whole floor,,,,,,HSW,88 STAUNTON ST|88 士丹頓街
+2/F中層whole floor,2,中層,whole floor,,,,,,HSW,88 STAUNTON ST|88 士丹頓街
+3/F高層whole floor,3,高層,whole floor,,,,,,HSW,88 STAUNTON ST|88 士丹頓街

@@ -1,7 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,3038808.0,9556.0,318.0,51,1,KKC,11 PANG CHING ST|11 鵬程街
-6.0/F中層A,6.0,中層,A,3063294.0,9633.0,318.0,50,1,KKC,11 PANG CHING ST|11 鵬程街
-6.0/F高層A,6.0,高層,A,3063294.0,9633.0,318.0,50,1,KKC,11 PANG CHING ST|11 鵬程街
-5.0/F低層whole floor,5.0,低層,whole floor,4331600.0,9520.0,455.0,116,1,KKC,11 PANG CHING ST|11 鵬程街
-6.0/F中層whole floor,6.0,中層,whole floor,4366635.0,9597.0,455.0,114,1,KKC,11 PANG CHING ST|11 鵬程街
-6.0/F高層whole floor,6.0,高層,whole floor,4366635.0,9597.0,455.0,114,1,KKC,11 PANG CHING ST|11 鵬程街
+2/F低層whole floor,2,低層,whole floor,3882712.0,8332,466.0,386,3,KKC,11 PANG CHING ST|11 鵬程街
+4/F中層whole floor,4,中層,whole floor,3859310.0,8482,455.0,413,3,KKC,11 PANG CHING ST|11 鵬程街
+5/F高層whole floor,5,高層,whole floor,3975446.0,8531,466.0,388,3,KKC,11 PANG CHING ST|11 鵬程街

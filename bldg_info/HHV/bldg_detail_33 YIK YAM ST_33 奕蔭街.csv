@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,6611034.056589974,12316.0,445.0,150,1,HHV,33 YIK YAM ST|33 奕蔭街
-4.0/F中層whole floor,4.0,中層,whole floor,5819930.632033831,4736.0,445.0,236,2,HHV,33 YIK YAM ST|33 奕蔭街
-4.0/F高層whole floor,4.0,高層,whole floor,5819930.632033831,4736.0,445.0,236,2,HHV,33 YIK YAM ST|33 奕蔭街
+3/F低層whole floor,3,低層,whole floor,,,,,,HHV,33 YIK YAM ST|33 奕蔭街
+4/F中層whole floor,4,中層,whole floor,,,,,,HHV,33 YIK YAM ST|33 奕蔭街
+4/F高層whole floor,4,高層,whole floor,,,,,,HHV,33 YIK YAM ST|33 奕蔭街

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,,,179.0,,,HSL,130 STANLEY MAIN ST|130 赤柱大街
-4.0/F中層A,4.0,中層,A,,,179.0,,,HSL,130 STANLEY MAIN ST|130 赤柱大街
-5.0/F高層A,5.0,高層,A,,,179.0,,,HSL,130 STANLEY MAIN ST|130 赤柱大街
+3/F低層A,3,低層,A,,,,,,HSL,130 STANLEY MAIN ST|130 赤柱大街
+4/F中層A,4,中層,A,,,,,,HSL,130 STANLEY MAIN ST|130 赤柱大街
+5/F高層A,5,高層,A,,,,,,HSL,130 STANLEY MAIN ST|130 赤柱大街

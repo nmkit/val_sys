@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,7941689.522562987,11359.0,570,265,3,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
-10.0/F中層whole floor,10.0,中層,whole floor,5097016.157917034,10655.0,390,367,3,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
-14.0/F高層whole floor,14.0,高層,whole floor,8353491.188976369,11948.0,570,253,3,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+6/F低層290,6,低層,290,6089630.0,9983,610.0,95,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+10/F中層290,10,中層,290,6248840.0,10244,610.0,91,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+14/F高層290,14,高層,290,6408050.0,10505,610.0,87,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+6/F低層whole floor,6,低層,whole floor,5611080.0,9844,570.0,150,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+10/F中層whole floor,10,中層,whole floor,3971760.0,10184,390.0,101,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"
+14/F高層whole floor,14,高層,whole floor,5904630.0,10359,570.0,137,1,HWC,"TAK WAH MANSION,HENNESSY RD|德華大廈,軒尼詩道"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,5784600.0,9300.0,622.0,223,2,KYMT,501 NATHAN RD|501 彌敦道
-8.0/F中層whole floor,8.0,中層,whole floor,5874790.0,9445.0,622.0,223,2,KYMT,501 NATHAN RD|501 彌敦道
-11.0/F高層whole floor,11.0,高層,whole floor,6012874.0,9667.0,622.0,257,2,KYMT,501 NATHAN RD|501 彌敦道
+6/F低層whole floor,6,低層,whole floor,,,,,,KYMT,501 NATHAN RD|501 彌敦道
+8/F中層whole floor,8,中層,whole floor,,,,,,KYMT,501 NATHAN RD|501 彌敦道
+11/F高層whole floor,11,高層,whole floor,,,,,,KYMT,501 NATHAN RD|501 彌敦道

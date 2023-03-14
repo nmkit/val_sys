@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4024568.0,8264.0,487.0,300,2,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"
-2.0/F中層whole floor,2.0,中層,whole floor,4024568.0,8264.0,487.0,300,2,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"
-3.0/F高層whole floor,3.0,高層,whole floor,3663728.797538407,7332.0,487.0,278,2,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"
+2/F低層whole floor,2,低層,whole floor,,,,,,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"
+2/F中層whole floor,2,中層,whole floor,,,,,,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"
+3/F高層whole floor,3,高層,whole floor,,,,,,NTP,"HUNG WAI MANSION,ON FU RD|鴻威樓,安富道"

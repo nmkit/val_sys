@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,2592534.0,7262.0,357.0,298,4,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"
-4.0/F中層whole floor,4.0,中層,whole floor,3171000.0,7000.0,453.0,326,3,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"
-7.0/F高層whole floor,7.0,高層,whole floor,3251180.9999999995,7177.0,453.0,339,4,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"
+2/F低層whole floor,2,低層,whole floor,3481305.0,7685,453.0,335,3,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"
+4/F中層whole floor,4,中層,whole floor,3523434.0,7778,453.0,396,3,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"
+7/F高層whole floor,7,高層,whole floor,3595008.0,7936,453.0,337,3,KMK,"BEDFORD MANSION,BEDFORD RD|百福大廈,必發道"

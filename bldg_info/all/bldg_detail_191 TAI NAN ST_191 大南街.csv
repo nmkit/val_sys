@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2/F低層A,2,低層,A,1188975.0,4775,249.0,73,1,KCSW,191 TAI NAN ST|191 大南街
+4/F中層A,4,中層,A,1204164.0,4836,249.0,75,1,KCSW,191 TAI NAN ST|191 大南街
+6/F高層A,6,高層,A,1219602.0,4898,249.0,77,1,KCSW,191 TAI NAN ST|191 大南街
+2/F低層B,2,低層,B,1042910.0,4990,209.0,124,1,KCSW,191 TAI NAN ST|191 大南街
+4/F中層B,4,中層,B,1056286.0,5054,209.0,127,1,KCSW,191 TAI NAN ST|191 大南街
+6/F高層B,6,高層,B,1069871.0,5119,209.0,130,1,KCSW,191 TAI NAN ST|191 大南街
+2/F低層whole floor,2,低層,whole floor,,,,,,KCSW,191 TAI NAN ST|191 大南街
+4/F中層whole floor,4,中層,whole floor,,,,,,KCSW,191 TAI NAN ST|191 大南街
+6/F高層whole floor,6,高層,whole floor,,,,,,KCSW,191 TAI NAN ST|191 大南街

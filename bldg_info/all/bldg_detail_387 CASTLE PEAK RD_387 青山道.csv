@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+5/F低層B,5,低層,B,1292084.0,5692,227.0,70,1,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F中層B,6,中層,B,1560398.0,6874,227.0,150,1,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F高層B,6,高層,B,1560398.0,6874,227.0,150,1,KCSW,387 CASTLE PEAK RD|387 青山道
+5/F低層C,5,低層,C,953589.0,6487,147.0,137,1,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F中層C,6,中層,C,959616.0,6528,147.0,150,1,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F高層C,6,高層,C,959616.0,6528,147.0,150,1,KCSW,387 CASTLE PEAK RD|387 青山道
+5/F低層whole floor,5,低層,whole floor,,,,,,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F中層whole floor,6,中層,whole floor,,,,,,KCSW,387 CASTLE PEAK RD|387 青山道
+6/F高層whole floor,6,高層,whole floor,,,,,,KCSW,387 CASTLE PEAK RD|387 青山道

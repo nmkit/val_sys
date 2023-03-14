@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層B,4.0,低層,B,3004560.0,5616.0,535.0,71,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
-6.0/F中層B,6.0,中層,B,3042545.0,5687.0,535.0,73,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
-7.0/F高層B,7.0,高層,B,3061805.0,5723.0,535.0,74,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
-4.0/F低層whole floor,4.0,低層,whole floor,3090559.0,5609.0,551.0,109,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
-6.0/F中層whole floor,6.0,中層,whole floor,3129680.0,5680.0,551.0,112,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
-7.0/F高層whole floor,7.0,高層,whole floor,3148965.0,5715.0,551.0,150,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+4/F低層B,4,低層,B,3103535.0,5801,535.0,75,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+6/F中層B,6,中層,B,3143125.0,5875,535.0,77,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+7/F高層B,7,高層,B,3162920.0,5912,535.0,78,1,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+4/F低層whole floor,4,低層,whole floor,3077335.0,5585,551.0,203,2,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+6/F中層whole floor,6,中層,whole floor,3115905.0,5655,551.0,209,2,KCSW,45 SHEK KIP MEI ST|45 石硤尾街
+7/F高層whole floor,7,高層,whole floor,3149516.0,5716,551.0,242,2,KCSW,45 SHEK KIP MEI ST|45 石硤尾街

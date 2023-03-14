@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層A,3.0,低層,A,4953121.503146351,9949.0,474.0,239,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
-6.0/F中層A,6.0,中層,A,5029292.735429132,10102.0,474.0,236,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
-9.0/F高層A,9.0,高層,A,5105463.967711913,10255.0,474.0,233,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
-3.0/F低層B,3.0,低層,B,3997311.9999999995,10688.0,374.0,351,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
-6.0/F中層B,6.0,中層,B,4032468.0000000005,10782.0,374.0,306,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
-9.0/F高層B,9.0,高層,B,4093056.0,10944.0,374.0,304,3,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+3/F低層A,3,低層,A,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+6/F中層A,6,中層,A,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+9/F高層A,9,高層,A,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+3/F低層B,3,低層,B,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+6/F中層B,6,中層,B,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"
+9/F高層B,9,高層,B,,,,,,NYL,"HANG FAI BLDG,SAI TAI ST|恆暉大廈,西堤街"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,9217575.0,14425.0,639.0,321,3,HSKW,19 KAM WA ST|19 金華街
-6.0/F中層whole floor,6.0,中層,whole floor,9217575.0,14425.0,639.0,321,3,HSKW,19 KAM WA ST|19 金華街
-7.0/F高層whole floor,7.0,高層,whole floor,9258471.0,14489.0,639.0,364,3,HSKW,19 KAM WA ST|19 金華街
+2/F低層whole floor,2,低層,whole floor,,,,,,HSKW,19 KAM WA ST|19 金華街
+4/F中層whole floor,4,中層,whole floor,,,,,,HSKW,19 KAM WA ST|19 金華街
+7/F高層whole floor,7,高層,whole floor,,,,,,HSKW,19 KAM WA ST|19 金華街

@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層B,6.0,低層,B,1581315.0,6729.0,235.0,107,1,KMK,65 KI LUNG ST|65 基隆街
-7.0/F中層B,7.0,中層,B,1591655.0,6773.0,235.0,108,1,KMK,65 KI LUNG ST|65 基隆街
-8.0/F高層B,8.0,高層,B,1601760.0,6816.0,235.0,150,1,KMK,65 KI LUNG ST|65 基隆街
-6.0/F低層whole floor,6.0,低層,whole floor,,,596.0,,,KMK,65 KI LUNG ST|65 基隆街
-7.0/F中層whole floor,7.0,中層,whole floor,,,596.0,,,KMK,65 KI LUNG ST|65 基隆街
-8.0/F高層whole floor,8.0,高層,whole floor,,,596.0,,,KMK,65 KI LUNG ST|65 基隆街
+6/F低層B,6,低層,B,1741350.0,7410,235.0,114,1,KMK,65 KI LUNG ST|65 基隆街
+7/F中層B,7,中層,B,1752630.0,7458,235.0,115,1,KMK,65 KI LUNG ST|65 基隆街
+8/F高層B,8,高層,B,1763910.0,7506,235.0,150,1,KMK,65 KI LUNG ST|65 基隆街
+6/F低層whole floor,6,低層,whole floor,4666680.0,7830,596.0,150,1,KMK,65 KI LUNG ST|65 基隆街
+7/F中層whole floor,7,中層,whole floor,4696480.0,7880,596.0,139,1,KMK,65 KI LUNG ST|65 基隆街
+8/F高層whole floor,8,高層,whole floor,4726280.0,7930,596.0,137,1,KMK,65 KI LUNG ST|65 基隆街

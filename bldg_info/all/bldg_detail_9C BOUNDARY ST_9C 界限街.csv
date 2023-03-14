@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3667297.1105011343,6821.0,529.0,329,3,KCSW,9C BOUNDARY ST|9C 界限街
-2.0/F中層whole floor,2.0,中層,whole floor,3667297.1105011343,6821.0,529.0,329,3,KCSW,9C BOUNDARY ST|9C 界限街
-3.0/F高層whole floor,3.0,高層,whole floor,3696330.103312608,6875.0,529.0,381,3,KCSW,9C BOUNDARY ST|9C 界限街
+2/F低層whole floor,2,低層,whole floor,1928734.0,3646,529.0,128,1,KCSW,9C BOUNDARY ST|9C 界限街
+2/F中層whole floor,2,中層,whole floor,1928734.0,3646,529.0,128,1,KCSW,9C BOUNDARY ST|9C 界限街
+3/F高層whole floor,3,高層,whole floor,1940372.0,3668,529.0,126,1,KCSW,9C BOUNDARY ST|9C 界限街

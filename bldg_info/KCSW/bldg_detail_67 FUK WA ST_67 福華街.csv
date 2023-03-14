@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,4205729.0,9713.0,433.0,134,1,KCSW,67 FUK WA ST|67 福華街
-5.0/F中層whole floor,5.0,中層,whole floor,4232142.0,9774.0,433.0,150,1,KCSW,67 FUK WA ST|67 福華街
-6.0/F高層whole floor,6.0,高層,whole floor,4258122.0,9834.0,433.0,134,1,KCSW,67 FUK WA ST|67 福華街
+4/F低層whole floor,4,低層,whole floor,4181481.0,9657,433.0,238,2,KCSW,67 FUK WA ST|67 福華街
+6/F中層whole floor,6,中層,whole floor,4232142.0,9774,433.0,241,2,KCSW,67 FUK WA ST|67 福華街
+7/F高層whole floor,7,高層,whole floor,4256823.0,9831,433.0,241,2,KCSW,67 FUK WA ST|67 福華街

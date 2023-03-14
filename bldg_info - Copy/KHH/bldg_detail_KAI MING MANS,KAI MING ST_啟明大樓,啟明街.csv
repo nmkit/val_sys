@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+2.0/F低層A,2.0,低層,A,,,128,,,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+4.0/F中層A,4.0,中層,A,,,128,,,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+6.0/F高層A,6.0,高層,A,,,128,,,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+2.0/F低層B,2.0,低層,B,1412700,8310,170,91,1,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+4.0/F中層B,4.0,中層,B,1431740,8422,170,94,1,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+6.0/F高層B,6.0,高層,B,1450950,8535,170,150,1,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+2.0/F低層whole floor,2.0,低層,whole floor,7255530,8486,855,374,4,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+4.0/F中層whole floor,4.0,中層,whole floor,7388238,8611,858,379,4,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"
+6.0/F高層whole floor,6.0,高層,whole floor,4472200,7580,590,352,3,KHH,"KAI MING MANS,KAI MING ST|啟明大樓,啟明街"

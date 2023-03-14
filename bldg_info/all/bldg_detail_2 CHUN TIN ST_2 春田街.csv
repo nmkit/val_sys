@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,3547950.0,8175.0,434.0,244,2,KHH,2 CHUN TIN ST|2 春田街
-2.0/F中層whole floor,2.0,中層,whole floor,3546214.0,8171.0,434.0,247,2,KHH,2 CHUN TIN ST|2 春田街
-2.0/F高層whole floor,2.0,高層,whole floor,3546214.0,8171.0,434.0,247,2,KHH,2 CHUN TIN ST|2 春田街
+1/F低層whole floor,1,低層,whole floor,,,,,,KHH,2 CHUN TIN ST|2 春田街
+2/F中層whole floor,2,中層,whole floor,,,,,,KHH,2 CHUN TIN ST|2 春田街
+3/F高層whole floor,3,高層,whole floor,,,,,,KHH,2 CHUN TIN ST|2 春田街

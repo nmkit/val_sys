@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,2894584.0,7112.0,407.0,265,2,NTP,9 NAM SHING ST|9 南盛街
-4.0/F中層whole floor,4.0,中層,whole floor,2879118.0,7074.0,407.0,265,2,NTP,9 NAM SHING ST|9 南盛街
-4.0/F高層whole floor,4.0,高層,whole floor,2879118.0,7074.0,407.0,265,2,NTP,9 NAM SHING ST|9 南盛街
+3/F低層whole floor,3,低層,whole floor,,,,,,NTP,9 NAM SHING ST|9 南盛街
+4/F中層whole floor,4,中層,whole floor,,,,,,NTP,9 NAM SHING ST|9 南盛街
+4/F高層whole floor,4,高層,whole floor,,,,,,NTP,9 NAM SHING ST|9 南盛街

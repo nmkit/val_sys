@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,14554615.6829301,14954.0,926.0,362,3,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"
-7.0/F中層whole floor,7.0,中層,whole floor,15029582.411114525,15442.0,926.0,374,3,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"
-11.0/F高層whole floor,11.0,高層,whole floor,15565866.565273577,15993.0,926.0,389,3,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"
+3/F低層whole floor,3,低層,whole floor,15682736.0,16936,926.0,219,2,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"
+7/F中層whole floor,7,中層,whole floor,16194814.0,17489,926.0,231,2,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"
+11/F高層whole floor,11,高層,whole floor,16719856.0,18056,926.0,281,2,KHMT,"PARIS GARDEN,BELFRAN RD|巴豪苑,巴芬道"

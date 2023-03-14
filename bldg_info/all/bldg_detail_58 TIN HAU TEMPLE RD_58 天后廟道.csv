@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,19380203.76960219,14474.0,1061.0,290,2,HNP,58 TIN HAU TEMPLE RD|58 天后廟道
-2.0/F中層whole floor,2.0,中層,whole floor,19380203.76960219,14474.0,1061.0,290,2,HNP,58 TIN HAU TEMPLE RD|58 天后廟道
-4.0/F高層whole floor,4.0,高層,whole floor,22909331.36911639,7416.0,1061.0,245,2,HNP,58 TIN HAU TEMPLE RD|58 天后廟道
+2/F低層whole floor,2,低層,whole floor,,,,,,HNP,58 TIN HAU TEMPLE RD|58 天后廟道
+2/F中層whole floor,2,中層,whole floor,,,,,,HNP,58 TIN HAU TEMPLE RD|58 天后廟道
+4/F高層whole floor,4,高層,whole floor,,,,,,HNP,58 TIN HAU TEMPLE RD|58 天后廟道

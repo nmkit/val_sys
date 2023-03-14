@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,12439872.0,16902.0,736.0,235,2,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"
-8.0/F中層whole floor,8.0,中層,whole floor,14119109.999999998,17431.0,810.0,216,2,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"
-10.0/F高層whole floor,10.0,高層,whole floor,12977152.0,17632.0,736.0,226,2,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"
+4/F低層whole floor,4,低層,whole floor,10998784.0,14944,736.0,144,1,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"
+8/F中層whole floor,8,中層,whole floor,12462660.0,15386,810.0,129,1,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"
+10/F高層whole floor,10,高層,whole floor,11447008.0,15553,736.0,135,1,HHV,"LUCERNE VILLA,VILLAGE RD|傲山村,山村道"

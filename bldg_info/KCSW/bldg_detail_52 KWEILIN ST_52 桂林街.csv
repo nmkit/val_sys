@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5127375.0,8475.0,605.0,119,1,KCSW,52 KWEILIN ST|52 桂林街
-2.0/F中層whole floor,2.0,中層,whole floor,5127375.0,8475.0,605.0,119,1,KCSW,52 KWEILIN ST|52 桂林街
-3.0/F高層whole floor,3.0,高層,whole floor,5158835.0,8527.0,605.0,118,1,KCSW,52 KWEILIN ST|52 桂林街
+2/F低層whole floor,2,低層,whole floor,5151575.0,8515,605.0,126,1,KCSW,52 KWEILIN ST|52 桂林街
+2/F中層whole floor,2,中層,whole floor,5151575.0,8515,605.0,126,1,KCSW,52 KWEILIN ST|52 桂林街
+3/F高層whole floor,3,高層,whole floor,5183640.0,8568,605.0,124,1,KCSW,52 KWEILIN ST|52 桂林街

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,17429667.31776003,34560.0,430.0,443,3,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"
-3.0/F中層whole floor,3.0,中層,whole floor,17550202.343481813,34799.0,430.0,440,3,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"
-4.0/F高層whole floor,4.0,高層,whole floor,17669224.377248924,35035.0,430.0,436,3,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"
+2/F低層whole floor,2,低層,whole floor,,,,,,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"
+3/F中層whole floor,3,中層,whole floor,,,,,,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"
+4/F高層whole floor,4,高層,whole floor,,,,,,HCB,"HAPPY MANSION,LEE GARDEN RD|HAPPY MANS,利園山道"

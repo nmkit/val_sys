@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,12859044.0,17567.0,732.0,275,2,KCSW,225 YEE KUK ST|225 醫局街
-2.0/F中層whole floor,2.0,中層,whole floor,12931512.0,17666.0,732.0,275,2,KCSW,225 YEE KUK ST|225 醫局街
-2.0/F高層whole floor,2.0,高層,whole floor,12931512.0,17666.0,732.0,275,2,KCSW,225 YEE KUK ST|225 醫局街
+2/F低層whole floor,2,低層,whole floor,12605040.0,17220,732.0,411,3,KCSW,225 YEE KUK ST|225 醫局街
+3/F中層whole floor,3,中層,whole floor,11665944.0,16524,706.0,408,3,KCSW,225 YEE KUK ST|225 醫局街
+4/F高層whole floor,4,高層,whole floor,10938269.0,16253,673.0,403,3,KCSW,225 YEE KUK ST|225 醫局街

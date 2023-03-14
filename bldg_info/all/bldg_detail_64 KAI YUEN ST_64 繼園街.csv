@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,18697095.374506805,5013.0,1281.0,279,2,HNP,64 KAI YUEN ST|64 繼園街
-3.0/F中層whole floor,3.0,中層,whole floor,18637419.82573519,4997.0,1281.0,265,2,HNP,64 KAI YUEN ST|64 繼園街
-4.0/F高層whole floor,4.0,高層,whole floor,24153678.365311407,6476.0,1281.0,150,1,HNP,64 KAI YUEN ST|64 繼園街
+1/F低層whole floor,1,低層,whole floor,,,,,,HNP,64 KAI YUEN ST|64 繼園街
+2/F中層whole floor,2,中層,whole floor,,,,,,HNP,64 KAI YUEN ST|64 繼園街
+3/F高層whole floor,3,高層,whole floor,,,,,,HNP,64 KAI YUEN ST|64 繼園街

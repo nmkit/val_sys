@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-15.0/F低層whole floor,15.0,低層,whole floor,15975663.71465685,12732.0,1002.0,364,3,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
-50.0/F中層whole floor,50.0,中層,whole floor,,,1002.0,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
-76.0/F高層whole floor,76.0,高層,whole floor,34403354.50134126,5008.0,2064.0,125,1,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
+15/F低層whole floor,15,低層,whole floor,18259446.0,18223,1002.0,127,1,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
+50/F中層whole floor,50,中層,whole floor,,,,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"
+76/F高層whole floor,76,高層,whole floor,,,,,,KHMT,"GLORIOUS COURT,PRINCE EDWARD RD W|堂皇閣,太子道西"

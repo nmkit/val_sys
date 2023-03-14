@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,2286781.0,2891.0,791.0,139,1,KMK,135 PRINCE EDWARD RD W|135 太子道西
-5.0/F中層whole floor,5.0,中層,whole floor,2301810.0,2910.0,791.0,140,1,KMK,135 PRINCE EDWARD RD W|135 太子道西
-6.0/F高層whole floor,6.0,高層,whole floor,2316048.0,2928.0,791.0,150,1,KMK,135 PRINCE EDWARD RD W|135 太子道西
+4/F低層whole floor,4,低層,whole floor,,,,,,KMK,135 PRINCE EDWARD RD W|135 太子道西
+5/F中層whole floor,5,中層,whole floor,,,,,,KMK,135 PRINCE EDWARD RD W|135 太子道西
+6/F高層whole floor,6,高層,whole floor,,,,,,KMK,135 PRINCE EDWARD RD W|135 太子道西
