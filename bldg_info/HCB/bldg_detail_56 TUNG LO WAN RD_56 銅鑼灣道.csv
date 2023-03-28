@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5147898.0,12902.0,399.0,231,2,HCB,56 TUNG LO WAN RD|56 銅鑼灣道
-2.0/F中層whole floor,2.0,中層,whole floor,5147898.0,12902.0,399.0,231,2,HCB,56 TUNG LO WAN RD|56 銅鑼灣道
-3.0/F高層whole floor,3.0,高層,whole floor,5188596.0,13004.0,399.0,231,2,HCB,56 TUNG LO WAN RD|56 銅鑼灣道
+2/F低層whole floor,2,低層,whole floor,4362156.385687721,12410.0,399.0,369,3,HCB,56 TUNG LO WAN RD|56 銅鑼灣道
+4/F中層whole floor,4,中層,whole floor,4423669.4692892805,12585.0,399.0,383,3,HCB,56 TUNG LO WAN RD|56 銅鑼灣道
+7/F高層whole floor,7,高層,whole floor,3843332.1776609924,13465.0,324.0,299,3,HCB,56 TUNG LO WAN RD|56 銅鑼灣道

@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4832126.0,10046.0,481.0,405,4,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
-6.0/F中層whole floor,6.0,中層,whole floor,5024600.0,10360.0,485.0,322,3,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
-9.0/F高層whole floor,9.0,高層,whole floor,4185700.0,11015.0,380.0,386,3,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+3/F低層159,3,低層,159,4476558.602689016,11321.0,380.0,87,1,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+6/F中層159,6,中層,159,4561969.490259091,11537.0,380.0,84,1,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+9/F高層159,9,高層,159,4646984.95705338,11752.0,380.0,81,1,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+3/F低層whole floor,3,低層,whole floor,5169297.0,10401.0,497.0,274,3,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+6/F中層whole floor,6,中層,whole floor,5162825.0,10645.0,485.0,248,3,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"
+9/F高層whole floor,9,高層,whole floor,4000177.5656578913,11295.0,380.0,403,3,KMK,"HANG ON BLDG,SAI YEUNG CHOI ST N|恒安大樓,西洋菜北街"

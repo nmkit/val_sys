@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,6200128.451554765,8080.0,755.0,362,3,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道
-6.0/F中層whole floor,6.0,中層,whole floor,6370478.5154464925,8302.0,755.0,368,3,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道
-9.0/F高層whole floor,9.0,高層,whole floor,6503228.790461217,8475.0,755.0,366,3,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道
+2/F低層whole floor,2,低層,whole floor,5344806.177833672,6989.0,755.0,345,3,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道
+6/F中層whole floor,6,中層,whole floor,6624225.370209653,8662.0,755.0,286,2,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道
+9/F高層whole floor,9,高層,whole floor,5541345.766859748,7246.0,755.0,404,3,KCSW,13 CHEUNG SHA WAN RD|13 長沙灣道

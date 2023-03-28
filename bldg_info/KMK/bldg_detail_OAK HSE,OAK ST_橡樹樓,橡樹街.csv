@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,2106105.597216976,8581.0,251.0,274,2,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"
-6.0/F中層whole floor,6.0,中層,whole floor,2526839.5559646,8309.0,311.0,219,2,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"
-9.0/F高層whole floor,9.0,高層,whole floor,2181700.577282566,8889.0,251.0,214,2,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"
+4/F低層whole floor,4,低層,whole floor,2138106.6052697734,9140.0,251.0,363,3,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"
+6/F中層whole floor,6,中層,whole floor,2660221.997613319,9178.0,311.0,290,3,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"
+9/F高層whole floor,9,高層,whole floor,2276124.427710601,9730.0,251.0,317,3,KMK,"OAK HSE,OAK ST|橡樹樓,橡樹街"

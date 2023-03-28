@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,5917056.0,12976.0,456.0,319,4,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
-8.0/F中層A,8.0,中層,A,6011904.0,13184.0,456.0,323,4,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
-10.0/F高層A,10.0,高層,A,6073464.0,13319.0,456.0,321,4,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
-5.0/F低層whole floor,5.0,低層,whole floor,5556888.0,12294.0,452.0,432,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
-8.0/F中層whole floor,8.0,中層,whole floor,5943348.0,13149.0,452.0,373,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
-10.0/F高層whole floor,10.0,高層,whole floor,6004820.0,13285.0,452.0,373,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+5/F低層A,5,低層,A,4909569.065128289,12438.0,456.0,363,4,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+8/F中層A,8,中層,A,4619052.6772898575,11702.0,456.0,336,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+10/F高層A,10,高層,A,5038643.601572811,12765.0,456.0,365,4,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+5/F低層whole floor,5,低層,whole floor,4187328.0,9264.0,452.0,380,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+8/F中層whole floor,8,中層,whole floor,4296260.0,9505.0,452.0,323,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"
+10/F高層whole floor,10,高層,whole floor,4329256.0,9578.0,452.0,326,3,HQB,"BO SUN COURT,KING'S RD|寶新閣,英皇道"

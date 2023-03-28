@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,6334034.999999999,14561.0,435,375,3,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"
-6.0/F中層whole floor,6.0,中層,whole floor,6452355.0,14833.0,435,396,3,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"
-8.0/F高層whole floor,8.0,高層,whole floor,5763750.0,13250.0,435,287,2,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"
+3/F低層whole floor,3,低層,whole floor,5655545.176614264,15105.0,435.0,412,3,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"
+6/F中層whole floor,6,中層,whole floor,5763751.2379212165,15394.0,435.0,429,3,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"
+8/F高層whole floor,8,高層,whole floor,5178165.494377707,13830.0,435.0,289,2,HWC,"SAI KOU BLDG,LOCKHART RD|世球大廈,駱克道"

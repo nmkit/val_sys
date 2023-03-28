@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4442901.567129582,7489.0,435.0,137,1,KKC,11 MING LUN ST|11 明倫街
-3.0/F中層whole floor,3.0,中層,whole floor,4479683.500253101,7551.0,435.0,150,1,KKC,11 MING LUN ST|11 明倫街
-4.0/F高層whole floor,4.0,高層,whole floor,4516465.4333766205,7613.0,435.0,137,1,KKC,11 MING LUN ST|11 明倫街
+2/F低層whole floor,2,低層,whole floor,,,435.0,,,KKC,11 MING LUN ST|11 明倫街
+3/F中層whole floor,3,中層,whole floor,,,435.0,,,KKC,11 MING LUN ST|11 明倫街
+4/F高層whole floor,4,高層,whole floor,,,435.0,,,KKC,11 MING LUN ST|11 明倫街

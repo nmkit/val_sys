@@ -1,4 +1,10 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層A,5.0,低層,A,2017946.8461772236,6965.0,276.0,150,1,KKC,1 HUNG WAN ST|1 鴻運街
-5.0/F中層A,5.0,中層,A,2017946.8461772236,6965.0,276.0,150,1,KKC,1 HUNG WAN ST|1 鴻運街
-5.0/F高層A,5.0,高層,A,2017946.8461772236,6965.0,276.0,150,1,KKC,1 HUNG WAN ST|1 鴻運街
+2/F低層A,2,低層,A,1886464.1079241422,6098.0,276.0,136,1,KKC,1 HUNG WAN ST|1 鴻運街
+4/F中層A,4,中層,A,1918018.6075975208,6200.0,276.0,139,1,KKC,1 HUNG WAN ST|1 鴻運街
+5/F高層A,5,高層,A,1933486.499594275,6250.0,276.0,150,1,KKC,1 HUNG WAN ST|1 鴻運街
+2/F低層D,2,低層,D,,,104.0,,,KKC,1 HUNG WAN ST|1 鴻運街
+4/F中層D,4,中層,D,,,104.0,,,KKC,1 HUNG WAN ST|1 鴻運街
+5/F高層D,5,高層,D,,,104.0,,,KKC,1 HUNG WAN ST|1 鴻運街
+2/F低層whole floor,2,低層,whole floor,6495419.0,8513.0,763.0,231,2,KKC,1 HUNG WAN ST|1 鴻運街
+4/F中層whole floor,4,中層,whole floor,6609106.0,8662.0,763.0,255,2,KKC,1 HUNG WAN ST|1 鴻運街
+5/F高層whole floor,5,高層,whole floor,6656412.0,8724.0,763.0,228,2,KKC,1 HUNG WAN ST|1 鴻運街

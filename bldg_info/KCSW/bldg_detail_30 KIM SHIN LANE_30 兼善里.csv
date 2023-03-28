@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,3689204.0,8126.0,454.0,146,1,KCSW,30 KIM SHIN LANE|30 兼善里
-3.0/F中層whole floor,3.0,中層,whole floor,3766592.0,8224.0,458.0,142,1,KCSW,30 KIM SHIN LANE|30 兼善里
-6.0/F高層whole floor,6.0,高層,whole floor,3803612.0,8378.0,454.0,139,1,KCSW,30 KIM SHIN LANE|30 兼善里
+3/F低層whole floor,3,低層,whole floor,2795749.011700703,4705.0,458.0,246,2,KCSW,30 KIM SHIN LANE|30 兼善里
+5/F中層whole floor,5,中層,whole floor,2841503.0337837962,4782.0,458.0,275,2,KCSW,30 KIM SHIN LANE|30 兼善里
+6/F高層whole floor,6,高層,whole floor,2826699.727710862,4799.0,454.0,241,2,KCSW,30 KIM SHIN LANE|30 兼善里

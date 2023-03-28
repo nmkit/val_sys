@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,9754690.0,12490.0,781.0,115,1,KCSW,302 CASTLE PEAK RD|302 青山道
-2.0/F中層whole floor,2.0,中層,whole floor,9464771.0,12503.0,757.0,119,1,KCSW,302 CASTLE PEAK RD|302 青山道
-3.0/F高層whole floor,3.0,高層,whole floor,4829546.12407041,2875.0,757.0,150,1,KCSW,302 CASTLE PEAK RD|302 青山道
+1/F低層whole floor,1,低層,whole floor,8207893.184664126,12795.0,781.0,131,1,KCSW,302 CASTLE PEAK RD|302 青山道
+2/F中層whole floor,2,中層,whole floor,7963749.124077441,12808.0,757.0,136,1,KCSW,302 CASTLE PEAK RD|302 青山道
+3/F高層whole floor,3,高層,whole floor,8014113.246426776,12889.0,757.0,150,1,KCSW,302 CASTLE PEAK RD|302 青山道

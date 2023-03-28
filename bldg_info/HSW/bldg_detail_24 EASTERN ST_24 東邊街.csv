@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,4820796.0,14879.0,324.0,150,1,HSW,24 EASTERN ST|24 東邊街
-4.0/F中層whole floor,4.0,中層,whole floor,4820796.0,14879.0,324.0,150,1,HSW,24 EASTERN ST|24 東邊街
-4.0/F高層whole floor,4.0,高層,whole floor,4820796.0,14879.0,324.0,150,1,HSW,24 EASTERN ST|24 東邊街
+4/F低層whole floor,4,低層,whole floor,3188281.107850887,9947.0,324.0,150,1,HSW,24 EASTERN ST|24 東邊街
+4/F中層whole floor,4,中層,whole floor,3188281.107850887,9947.0,324.0,150,1,HSW,24 EASTERN ST|24 東邊街
+5/F高層whole floor,5,高層,whole floor,3210076.937280249,10015.0,324.0,100,1,HSW,24 EASTERN ST|24 東邊街

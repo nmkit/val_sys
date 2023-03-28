@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5043808.0,15664.0,322.0,378,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"
-3.0/F中層whole floor,3.0,中層,whole floor,5065382.0,15731.0,322.0,380,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"
-4.0/F高層whole floor,4.0,高層,whole floor,5086634.0,15797.0,322.0,378,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"
+2/F低層whole floor,2,低層,whole floor,4425040.763759763,16611.0,322.0,412,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"
+3/F中層whole floor,3,中層,whole floor,4444753.786245961,16685.0,322.0,413,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"
+4/F高層whole floor,4,高層,whole floor,4464733.200927917,16760.0,322.0,412,3,HSKW,"HOP WING BLDG,NAM ON ST|合榮大廈,南安街"

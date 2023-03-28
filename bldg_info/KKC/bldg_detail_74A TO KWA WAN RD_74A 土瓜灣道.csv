@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,5191613.716676191,8326.0,594.0,150,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道
-2.0/F中層whole floor,2.0,中層,whole floor,5234014.597379288,8394.0,594.0,141,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道
-3.0/F高層whole floor,3.0,高層,whole floor,5276415.478082385,8462.0,594.0,139,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道
+1/F低層whole floor,1,低層,whole floor,8117436.610297822,14294.0,594.0,146,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道
+2/F中層whole floor,2,中層,whole floor,8185015.661411959,14413.0,594.0,148,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道
+3/F高層whole floor,3,高層,whole floor,8252026.821340259,14531.0,594.0,150,1,KKC,74A TO KWA WAN RD|74A 土瓜灣道

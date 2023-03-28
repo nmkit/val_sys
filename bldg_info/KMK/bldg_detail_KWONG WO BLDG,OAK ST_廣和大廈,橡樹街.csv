@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,3165022.0,9562.0,331.0,283,2,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"
-6.0/F中層whole floor,6.0,中層,whole floor,3495310.0,10855.0,322.0,340,3,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"
-9.0/F高層whole floor,9.0,高層,whole floor,3033216.0,10532.0,288.0,377,3,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"
+4/F低層whole floor,4,低層,whole floor,3066364.766867886,9940.0,331.0,412,3,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"
+6/F中層whole floor,6,中層,whole floor,3260881.451027992,10866.0,322.0,393,3,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"
+9/F高層whole floor,9,高層,whole floor,3157047.014983846,10520.0,322.0,439,3,KMK,"KWONG WO BLDG,OAK ST|廣和大廈,橡樹街"

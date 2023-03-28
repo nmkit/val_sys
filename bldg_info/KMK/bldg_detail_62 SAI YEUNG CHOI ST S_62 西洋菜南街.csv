@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-8.0/F低層whole floor,8.0,低層,whole floor,4417605.0,6849.0,645.0,300,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
-8.0/F中層whole floor,8.0,中層,whole floor,4417605.0,6849.0,645.0,300,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
-8.0/F高層whole floor,8.0,高層,whole floor,4417605.0,6849.0,645.0,300,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+6/F低層R.P.,6,低層,R.P.,,,337.0,,,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+6/F中層R.P.,6,中層,R.P.,,,337.0,,,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+7/F高層R.P.,7,高層,R.P.,,,337.0,,,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+6/F低層whole floor,6,低層,whole floor,4129770.233700278,6870.0,645.0,270,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+6/F中層whole floor,6,中層,whole floor,4129770.233700278,6870.0,645.0,270,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街
+7/F高層whole floor,7,高層,whole floor,4156821.130427573,6915.0,645.0,273,2,KMK,62 SAI YEUNG CHOI ST S|62 西洋菜南街

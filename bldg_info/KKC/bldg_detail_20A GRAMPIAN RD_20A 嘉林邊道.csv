@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,13227834.648082046,9211.0,1053.0,247,2,KKC,20A GRAMPIAN RD|20A 嘉林邊道
-2.0/F中層whole floor,2.0,中層,whole floor,15047409.339197075,13613.0,1053.0,284,2,KKC,20A GRAMPIAN RD|20A 嘉林邊道
-3.0/F高層whole floor,3.0,高層,whole floor,15234053.842889408,10608.0,1053.0,226,2,KKC,20A GRAMPIAN RD|20A 嘉林邊道
+1/F低層whole floor,1,低層,whole floor,20675655.0,19635.0,1053.0,390,3,KKC,20A GRAMPIAN RD|20A 嘉林邊道
+2/F中層whole floor,2,中層,whole floor,20832552.0,19784.0,1053.0,391,3,KKC,20A GRAMPIAN RD|20A 嘉林邊道
+3/F高層whole floor,3,高層,whole floor,21470670.0,20390.0,1053.0,392,3,KKC,20A GRAMPIAN RD|20A 嘉林邊道

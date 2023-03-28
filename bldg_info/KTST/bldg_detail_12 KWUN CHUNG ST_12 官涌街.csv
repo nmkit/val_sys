@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5333424.0,9662.0,552,224,2,KTST,12 KWUN CHUNG ST|12 官涌街
-2.0/F中層whole floor,2.0,中層,whole floor,5333424.0,9662.0,552,224,2,KTST,12 KWUN CHUNG ST|12 官涌街
-4.0/F高層whole floor,4.0,高層,whole floor,5428368.0,9834.0,552,227,2,KTST,12 KWUN CHUNG ST|12 官涌街
+2/F低層whole floor,2,低層,whole floor,5147845.559156374,12150.0,552,378,3,KTST,12 KWUN CHUNG ST|12 官涌街
+3/F中層whole floor,3,中層,whole floor,5170724.872752625,12204.0,552,401,3,KTST,12 KWUN CHUNG ST|12 官涌街
+4/F高層whole floor,4,高層,whole floor,5249955.088354455,12391.0,552,410,3,KTST,12 KWUN CHUNG ST|12 官涌街

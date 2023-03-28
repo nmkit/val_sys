@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,5630790.0,8305.0,678.0,346,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"
-8.0/F中層whole floor,8.0,中層,whole floor,5782085.0,8441.0,685.0,394,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"
-10.0/F高層whole floor,10.0,高層,whole floor,5345052.0,8444.0,633.0,364,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"
+5/F低層whole floor,5,低層,whole floor,4817105.669588213,8650.0,678.0,373,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"
+8/F中層whole floor,8,中層,whole floor,4992871.257296907,8874.0,685.0,404,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"
+10/F高層whole floor,10,高層,whole floor,4571736.120628887,8793.0,633.0,398,3,KCSW,"YEE WA BLDG,UN CHAU ST|義華大廈,元州街"

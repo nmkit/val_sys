@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4173579.0,8937.0,467.0,114,1,KYMT,161 SHANGHAI ST|161 上海街
-2.0/F中層whole floor,2.0,中層,whole floor,4173579.0,8937.0,467.0,114,1,KYMT,161 SHANGHAI ST|161 上海街
-4.0/F高層whole floor,4.0,高層,whole floor,4236624.0,9072.0,467.0,111,1,KYMT,161 SHANGHAI ST|161 上海街
+2/F低層whole floor,2,低層,whole floor,3453087.389825774,9365.0,467.0,281,2,KYMT,161 SHANGHAI ST|161 上海街
+2/F中層whole floor,2,中層,whole floor,3453087.389825774,9365.0,467.0,281,2,KYMT,161 SHANGHAI ST|161 上海街
+4/F高層whole floor,4,高層,whole floor,3541212.097371781,9604.0,467.0,225,2,KYMT,161 SHANGHAI ST|161 上海街

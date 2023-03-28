@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,11095866.0,19197.0,578.0,150,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道
-3.0/F中層whole floor,3.0,中層,whole floor,11186034.0,19353.0,578.0,108,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道
-4.0/F高層whole floor,4.0,高層,whole floor,11276780.0,19510.0,578.0,106,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道
+2/F低層whole floor,2,低層,whole floor,10724753.154590253,19408.0,578.0,150,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道
+3/F中層whole floor,3,中層,whole floor,10812063.0782519,19566.0,578.0,124,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道
+4/F高層whole floor,4,高層,whole floor,10899373.001913548,19724.0,578.0,123,1,KKC,33 NGA TSIN WAI RD|33 衙前圍道

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3575576.7983723297,8884.0,396.0,285,3,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"
-3.0/F中層whole floor,3.0,中層,whole floor,2817036.7569971853,10079.0,275.0,268,2,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"
-4.0/F高層whole floor,4.0,高層,whole floor,3589260.905885236,8918.0,396.0,329,3,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"
+2/F低層whole floor,2,低層,whole floor,2772884.0614278847,6913.0,396.0,313,3,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"
+3/F中層whole floor,3,中層,whole floor,2430216.5451348545,10759.0,275.0,279,2,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"
+4/F高層whole floor,4,高層,whole floor,2739370.6283205757,8422.0,396.0,251,2,KCSW,"WING FAT BLDG,FUK WING ST|永發大廈,福榮街"

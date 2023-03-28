@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-7.0/F低層B,7.0,低層,B,1512193.0,8741.0,173.0,115,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
-8.0/F中層B,8.0,中層,B,1521881.0,8797.0,173.0,116,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
-9.0/F高層B,9.0,高層,B,1531742.0,8854.0,173.0,150,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
-7.0/F低層whole floor,7.0,低層,whole floor,4619662.338619277,3795.0,679.0,150,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
-8.0/F中層whole floor,8.0,中層,whole floor,4648877.594515684,3819.0,679.0,134,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
-9.0/F高層whole floor,9.0,高層,whole floor,4678092.85041209,3843.0,679.0,132,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+3/F低層B,3,低層,B,,,173.0,,,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+6/F中層B,6,中層,B,,,173.0,,,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+8/F高層B,8,高層,B,,,173.0,,,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+3/F低層whole floor,3,低層,whole floor,4304181.0,6339.0,679.0,120,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+6/F中層whole floor,6,中層,whole floor,4386340.0,6460.0,679.0,116,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"
+8/F高層whole floor,8,高層,whole floor,3585799.0,5281.0,679.0,150,1,KMK,"TUNG KOK BLDG,TUNG CHOI ST|東角樓,通菜街"

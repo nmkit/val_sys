@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-7.0/F低層whole floor,7.0,低層,whole floor,5001030.0,16290.0,307,395,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"
-13.0/F中層whole floor,13.0,中層,whole floor,5241104.0,17072.0,307,350,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"
-19.0/F高層whole floor,19.0,高層,whole floor,5121374.0,16682.0,307,376,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"
+7/F低層whole floor,7,低層,whole floor,4317034.0,14062.0,307.0,335,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"
+14/F中層whole floor,14,中層,whole floor,4682643.44758459,17721.0,307.0,391,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"
+20/F高層whole floor,20,高層,whole floor,4841981.746715198,18324.0,307.0,367,3,HWC,"SHUI ON COURT,TAI YUEN ST|瑞安閣,太原街"

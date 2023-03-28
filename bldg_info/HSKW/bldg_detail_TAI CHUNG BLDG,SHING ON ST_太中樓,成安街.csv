@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4114194.1217391426,8627.0,462.0,257,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"
-3.0/F中層whole floor,3.0,中層,whole floor,4134700.7111948966,8670.0,462.0,257,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"
-5.0/F高層whole floor,5.0,高層,whole floor,4175236.9926771987,8755.0,462.0,257,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"
+2/F低層whole floor,2,低層,whole floor,3746883.6098776935,8205.0,462.0,257,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"
+5/F中層whole floor,5,中層,whole floor,3804422.5903584477,8331.0,462.0,257,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"
+7/F高層whole floor,7,高層,whole floor,3633239.873142763,8489.0,433.0,242,2,HSKW,"TAI CHUNG BLDG,SHING ON ST|太中樓,成安街"

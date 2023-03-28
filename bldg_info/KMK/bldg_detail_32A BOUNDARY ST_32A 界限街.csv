@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,2933622.648300005,15790.0,190.0,349,3,KMK,32A BOUNDARY ST|32A 界限街
-8.0/F中層whole floor,8.0,中層,whole floor,2853918.7777413796,15361.0,190.0,379,3,KMK,32A BOUNDARY ST|32A 界限街
-10.0/F高層whole floor,10.0,高層,whole floor,2876770.9364330135,15484.0,190.0,348,3,KMK,32A BOUNDARY ST|32A 界限街
+5/F低層whole floor,5,低層,whole floor,2856080.0000000005,15032.0,190.0,360,3,KMK,32A BOUNDARY ST|32A 界限街
+8/F中層whole floor,8,中層,whole floor,2919920.0,15368.0,190.0,437,3,KMK,32A BOUNDARY ST|32A 界限街
+10/F高層whole floor,10,高層,whole floor,2946900.0000000005,15510.0,190.0,364,3,KMK,32A BOUNDARY ST|32A 界限街

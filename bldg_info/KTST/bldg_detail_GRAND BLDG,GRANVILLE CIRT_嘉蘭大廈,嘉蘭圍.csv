@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,9393492.16597699,9507.0,1014,150,1,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"
-5.0/F中層whole floor,5.0,中層,whole floor,7676928.826333999,7649.0,1030,227,2,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"
-7.0/F高層whole floor,7.0,高層,whole floor,5879796.647426964,8346.0,723,247,2,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"
+2/F低層whole floor,2,低層,whole floor,8860189.192949286,11384.0,1014,363,3,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"
+5/F中層whole floor,5,中層,whole floor,7871833.240814638,9957.0,1030,300,2,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"
+7/F高層whole floor,7,高層,whole floor,5702040.285381978,10275.0,723,318,3,KTST,"GRAND BLDG,GRANVILLE CIRT|嘉蘭大廈,嘉蘭圍"

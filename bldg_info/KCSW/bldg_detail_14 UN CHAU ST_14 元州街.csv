@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,4143329.504380828,4059.0,460.0,300,2,KCSW,14 UN CHAU ST|14 元州街
-2.0/F中層whole floor,2.0,中層,whole floor,4178035.8860386126,4093.0,460.0,228,2,KCSW,14 UN CHAU ST|14 元州街
-3.0/F高層whole floor,3.0,高層,whole floor,4204576.060247507,4119.0,460.0,225,2,KCSW,14 UN CHAU ST|14 元州街
+1/F低層whole floor,1,低層,whole floor,3496668.0393871767,5859.0,460.0,300,2,KCSW,14 UN CHAU ST|14 元州街
+2/F中層whole floor,2,中層,whole floor,3498139.748279982,4076.0,460.0,228,2,KCSW,14 UN CHAU ST|14 元州街
+3/F高層whole floor,3,高層,whole floor,3519595.4631246817,4101.0,460.0,225,2,KCSW,14 UN CHAU ST|14 元州街

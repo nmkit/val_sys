@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3732611.9389387076,5957.0,465.0,421,3,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"
-2.0/F中層whole floor,2.0,中層,whole floor,3732611.9389387076,5957.0,465.0,421,3,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"
-3.0/F高層whole floor,3.0,高層,whole floor,3786498.8999507483,6043.0,465.0,364,3,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"
+2/F低層whole floor,2,低層,whole floor,3236295.3773326627,5033.0,465.0,426,3,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"
+3/F中層whole floor,3,中層,whole floor,3275519.3030265416,5094.0,465.0,386,3,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"
+4/F高層whole floor,4,高層,whole floor,3496799.9999999995,7520.0,465.0,272,2,NTP,"YUK CHOI BLDG,FU SHIN ST|育才樓,富善街"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4661652.213771669,8118.0,565.0,243,2,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"
-6.0/F中層whole floor,6.0,中層,whole floor,5212519.651727782,10618.0,364.0,396,3,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"
-9.0/F高層whole floor,9.0,高層,whole floor,5124853.82757224,10857.0,350.0,411,3,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"
+3/F低層whole floor,3,低層,whole floor,4509105.193381469,9930.0,350.0,286,2,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"
+6/F中層whole floor,6,中層,whole floor,4737166.924733323,10031.0,364.0,280,2,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"
+10/F高層whole floor,10,高層,whole floor,3182318.143824953,10169.0,381.0,349,4,KCSW,"TAI ON BLDG,CHEUNG SHA WAN RD|大安樓,長沙灣道"

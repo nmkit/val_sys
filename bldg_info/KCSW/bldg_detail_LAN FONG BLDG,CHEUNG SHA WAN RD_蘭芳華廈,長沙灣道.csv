@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4788785.0,8951.0,535.0,305,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"
-6.0/F中層whole floor,6.0,中層,whole floor,4878665.0,9119.0,535.0,310,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"
-8.0/F高層whole floor,8.0,高層,whole floor,5784625.0,9625.0,601.0,304,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"
+3/F低層whole floor,3,低層,whole floor,4066952.0,7688.0,529.0,309,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"
+6/F中層whole floor,6,中層,whole floor,4187445.0,7827.0,535.0,298,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"
+8/F高層whole floor,8,高層,whole floor,5023158.000000001,8358.0,601.0,263,3,KCSW,"LAN FONG BLDG,CHEUNG SHA WAN RD|蘭芳華廈,長沙灣道"

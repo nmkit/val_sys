@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-8.0/F低層whole floor,8.0,低層,whole floor,6252820.0,15140.0,413,360,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"
-12.0/F中層whole floor,12.0,中層,whole floor,6424215.0,15555.0,413,375,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"
-17.0/F高層whole floor,17.0,高層,whole floor,6651365.0,16105.0,413,370,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"
+8/F低層whole floor,8,低層,whole floor,5567519.677001641,15662.0,413.0,394,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"
+12/F中層whole floor,12,中層,whole floor,5720375.85508303,16092.0,413.0,409,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"
+17/F高層whole floor,17,高層,whole floor,5921221.763492296,16657.0,413.0,404,3,HWC,"KING DAO BLDG,BURROWS ST|京都大廈,巴路士街"

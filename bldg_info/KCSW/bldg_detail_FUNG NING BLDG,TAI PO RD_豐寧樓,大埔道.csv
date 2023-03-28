@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,6523352.4779801965,8853.0,725.0,429,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"
-6.0/F中層whole floor,6.0,中層,whole floor,7011148.630744558,9515.0,725.0,396,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"
-9.0/F高層whole floor,9.0,高層,whole floor,7120202.755531756,9663.0,725.0,390,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"
+3/F低層whole floor,3,低層,whole floor,5865319.301799557,7987.0,725.0,422,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"
+6/F中層whole floor,6,中層,whole floor,6018800.174977984,8196.0,725.0,422,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"
+9/F高層whole floor,9,高層,whole floor,6460883.838391449,8798.0,725.0,403,3,KCSW,"FUNG NING BLDG,TAI PO RD|豐寧樓,大埔道"

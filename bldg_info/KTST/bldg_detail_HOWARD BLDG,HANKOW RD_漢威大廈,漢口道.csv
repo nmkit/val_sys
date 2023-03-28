@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,12016485.27457855,5254.0,954,266,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"
-6.0/F中層whole floor,6.0,中層,whole floor,12066801.7336651,5276.0,954,223,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"
-8.0/F高層whole floor,8.0,高層,whole floor,12229186.669808054,5347.0,954,252,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"
+5/F低層whole floor,5,低層,whole floor,11395842.655962279,5623.0,954,283,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"
+6/F中層whole floor,6,中層,whole floor,11428269.026671046,5639.0,954,256,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"
+8/F高層whole floor,8,高層,whole floor,11578240.991199093,5713.0,954,269,2,KTST,"HOWARD BLDG,HANKOW RD|漢威大廈,漢口道"

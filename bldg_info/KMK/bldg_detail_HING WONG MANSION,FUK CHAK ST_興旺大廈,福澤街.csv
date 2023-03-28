@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,5887691.21616356,8307.0,592.0,264,2,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
-7.0/F中層whole floor,7.0,中層,whole floor,3268650.0,9339.0,350.0,105,1,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
-10.0/F高層whole floor,10.0,高層,whole floor,2411456.0,7352.0,328.0,109,1,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+4/F低層3A,4,低層,3A,3992499.86411648,8286.0,517.0,176,2,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+6/F中層3A,6,中層,3A,4046465.5875995895,8398.0,517.0,175,2,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+9/F高層3A,9,高層,3A,4125486.825557,8562.0,517.0,172,2,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+4/F低層whole floor,4,低層,whole floor,4338298.3969783215,7863.0,592.0,216,3,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+6/F中層whole floor,6,中層,whole floor,3974883.4627404483,8330.0,512.0,245,3,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"
+9/F高層whole floor,9,高層,whole floor,3034593.3605135893,9303.0,350.0,253,3,KMK,"HING WONG MANSION,FUK CHAK ST|興旺大廈,福澤街"

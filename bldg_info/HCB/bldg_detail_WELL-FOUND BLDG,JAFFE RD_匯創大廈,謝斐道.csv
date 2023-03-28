@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-9.0/F低層whole floor,9.0,低層,whole floor,5476747.83357037,16414.0,312.0,366,3,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"
-18.0/F中層whole floor,18.0,中層,whole floor,5778045.706953704,17317.0,312.0,379,3,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"
-26.0/F高層whole floor,26.0,高層,whole floor,6125389.1025152225,18358.0,312.0,376,3,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"
+9/F低層whole floor,9,低層,whole floor,4806984.0,15407.0,312.0,407,4,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"
+18/F中層whole floor,18,中層,whole floor,5107439.999999999,16370.0,312.0,407,4,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"
+26/F高層whole floor,26,高層,whole floor,5385120.0,17260.0,312.0,371,4,HCB,"WELL-FOUND BLDG,JAFFE RD|匯創大廈,謝斐道"

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,4900480.0,9880.0,496,150,1,KTST,50 BOWRING ST|50 寶靈街
-1.0/F中層whole floor,1.0,中層,whole floor,4900480.0,9880.0,496,150,1,KTST,50 BOWRING ST|50 寶靈街
-1.0/F高層whole floor,1.0,高層,whole floor,4900480.0,9880.0,496,150,1,KTST,50 BOWRING ST|50 寶靈街
+2/F低層whole floor,2,低層,whole floor,3235636.003161855,8499.0,496,124,1,KTST,50 BOWRING ST|50 寶靈街
+3/F中層whole floor,3,中層,whole floor,3263046.9682433535,8571.0,496,125,1,KTST,50 BOWRING ST|50 寶靈街
+5/F高層whole floor,5,高層,whole floor,3318249.6062547043,8716.0,496,128,1,KTST,50 BOWRING ST|50 寶靈街

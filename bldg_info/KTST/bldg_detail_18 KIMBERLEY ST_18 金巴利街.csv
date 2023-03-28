@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,8740000.0,9200.0,950,239,2,KTST,18 KIMBERLEY ST|18 金巴利街
-2.0/F中層whole floor,2.0,中層,whole floor,8774200.0,9236.0,950,270,2,KTST,18 KIMBERLEY ST|18 金巴利街
-3.0/F高層whole floor,3.0,高層,whole floor,8930950.0,9401.0,950,270,2,KTST,18 KIMBERLEY ST|18 金巴利街
+1/F低層whole floor,1,低層,whole floor,8099712.984963552,11108.0,950,273,2,KTST,18 KIMBERLEY ST|18 金巴利街
+2/F中層whole floor,2,中層,whole floor,8153672.182018585,11182.0,950,287,2,KTST,18 KIMBERLEY ST|18 金巴利街
+3/F高層whole floor,3,高層,whole floor,8252111.25772709,11317.0,950,287,2,KTST,18 KIMBERLEY ST|18 金巴利街

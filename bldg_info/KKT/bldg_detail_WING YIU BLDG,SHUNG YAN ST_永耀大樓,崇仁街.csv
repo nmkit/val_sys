@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,3285733.1034621666,8371.0,375.0,429,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"
-6.0/F中層whole floor,6.0,中層,whole floor,3535753.9333935934,8774.0,385.0,386,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"
-8.0/F高層whole floor,8.0,高層,whole floor,3568798.3626776454,8856.0,385.0,380,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"
+4/F低層whole floor,4,低層,whole floor,2586375.0,6897.0,375.0,364,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"
+6/F中層whole floor,6,中層,whole floor,2433375.0,6489.0,375.0,345,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"
+8/F高層whole floor,8,高層,whole floor,2419500.0,6452.0,375.0,343,3,KKT,"WING YIU BLDG,SHUNG YAN ST|永耀大樓,崇仁街"

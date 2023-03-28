@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5025200.0,14780.0,340.0,150,1,HSW,17 BURD ST|17 畢街
-2.0/F中層whole floor,2.0,中層,whole floor,5025200.0,14780.0,340.0,150,1,HSW,17 BURD ST|17 畢街
-2.0/F高層whole floor,2.0,高層,whole floor,5025200.0,14780.0,340.0,150,1,HSW,17 BURD ST|17 畢街
+2/F低層whole floor,2,低層,whole floor,4289100.0,12615.0,340.0,260,2,HSW,17 BURD ST|17 畢街
+3/F中層whole floor,3,中層,whole floor,4314123.407419291,14259.0,340.0,271,2,HSW,17 BURD ST|17 畢街
+4/F高層whole floor,4,高層,whole floor,4337722.651810812,14337.0,340.0,294,2,HSW,17 BURD ST|17 畢街

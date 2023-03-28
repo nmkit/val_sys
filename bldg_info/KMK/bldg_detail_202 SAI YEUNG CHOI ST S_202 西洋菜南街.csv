@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,5439873.1182057625,4661.0,651.0,386,3,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街
-2.0/F中層whole floor,2.0,中層,whole floor,5729314.983323769,4909.0,651.0,450,3,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街
-2.0/F高層whole floor,2.0,高層,whole floor,5729314.983323769,4909.0,651.0,450,3,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街
+1/F低層whole floor,1,低層,whole floor,5495089.803620244,9057.0,651.0,295,2,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街
+2/F中層whole floor,2,中層,whole floor,4794615.0,7365.0,651.0,259,2,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街
+3/F高層whole floor,3,高層,whole floor,4769449.149415782,7861.0,651.0,295,2,KMK,202 SAI YEUNG CHOI ST S|202 西洋菜南街

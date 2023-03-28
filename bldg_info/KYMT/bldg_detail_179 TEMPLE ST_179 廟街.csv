@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,12944236.0,23281.0,556.0,229,2,KYMT,179 TEMPLE ST|179 廟街
-2.0/F中層whole floor,2.0,中層,whole floor,12944236.0,23281.0,556.0,229,2,KYMT,179 TEMPLE ST|179 廟街
-4.0/F高層whole floor,4.0,高層,whole floor,13139392.0,23632.0,556.0,226,2,KYMT,179 TEMPLE ST|179 廟街
+2/F低層whole floor,2,低層,whole floor,11279049.839218019,25693.0,556.0,263,2,KYMT,179 TEMPLE ST|179 廟街
+2/F中層whole floor,2,中層,whole floor,11279049.839218019,25693.0,556.0,263,2,KYMT,179 TEMPLE ST|179 廟街
+4/F高層whole floor,4,高層,whole floor,11449379.163844049,26081.0,556.0,260,2,KYMT,179 TEMPLE ST|179 廟街

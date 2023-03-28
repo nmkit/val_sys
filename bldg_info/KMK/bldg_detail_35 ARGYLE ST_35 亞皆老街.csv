@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,6271779.353206244,9309.0,689.0,150,1,KMK,35 ARGYLE ST|35 亞皆老街
-1.0/F中層whole floor,1.0,中層,whole floor,6271779.353206244,9309.0,689.0,150,1,KMK,35 ARGYLE ST|35 亞皆老街
-1.0/F高層whole floor,1.0,高層,whole floor,6271779.353206244,9309.0,689.0,150,1,KMK,35 ARGYLE ST|35 亞皆老街
+2/F低層whole floor,2,低層,whole floor,6734286.0,9774.0,689.0,240,2,KMK,35 ARGYLE ST|35 亞皆老街
+4/F中層whole floor,4,中層,whole floor,6814899.0,9891.0,689.0,240,2,KMK,35 ARGYLE ST|35 亞皆老街
+6/F高層whole floor,6,高層,whole floor,7017570.0,9954.0,705.0,240,2,KMK,35 ARGYLE ST|35 亞皆老街

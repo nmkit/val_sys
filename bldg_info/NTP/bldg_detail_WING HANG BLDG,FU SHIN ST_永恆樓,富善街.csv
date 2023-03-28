@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,3376334.0627270048,6913.0,476.0,272,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"
-4.0/F中層whole floor,4.0,中層,whole floor,3408704.0,7072.0,482.0,259,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"
-4.0/F高層whole floor,4.0,高層,whole floor,3408704.0,7072.0,482.0,259,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"
+3/F低層whole floor,3,低層,whole floor,3220603.7523365975,8458.0,476.0,232,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"
+4/F中層whole floor,4,中層,whole floor,2967390.885062211,7696.0,482.0,275,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"
+4/F高層whole floor,4,高層,whole floor,2967390.885062211,7696.0,482.0,275,2,NTP,"WING HANG BLDG,FU SHIN ST|永恆樓,富善街"

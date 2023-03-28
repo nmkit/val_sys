@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,4903817.239442921,7177.0,501.0,398,3,KKC,48A NGA TSIN LONG RD|48A 衙前塱道
-2.0/F中層whole floor,2.0,中層,whole floor,5045253.796300199,7384.0,501.0,220,2,KKC,48A NGA TSIN LONG RD|48A 衙前塱道
-3.0/F高層whole floor,3.0,高層,whole floor,5097182.193986929,7460.0,501.0,269,2,KKC,48A NGA TSIN LONG RD|48A 衙前塱道
+1/F低層whole floor,1,低層,whole floor,4543594.12490747,9486.0,501.0,300,2,KKC,48A NGA TSIN LONG RD|48A 衙前塱道
+2/F中層whole floor,2,中層,whole floor,4599108.678417526,8190.0,501.0,230,2,KKC,48A NGA TSIN LONG RD|48A 衙前塱道
+3/F高層whole floor,3,高層,whole floor,4745673.680257206,8451.0,501.0,377,3,KKC,48A NGA TSIN LONG RD|48A 衙前塱道

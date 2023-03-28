@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,5852795.364431428,7434.0,750.0,150,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
-3.0/F中層whole floor,3.0,中層,whole floor,5852795.364431428,7434.0,750.0,150,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
-3.0/F高層whole floor,3.0,高層,whole floor,5852795.364431428,7434.0,750.0,150,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+4/F低層A,4,低層,A,2764152.0,10314.0,268.0,139,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+5/F中層A,5,中層,A,2786932.0,10399.0,268.0,141,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+6/F高層A,6,高層,A,2809980.0,10485.0,268.0,150,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+4/F低層whole floor,4,低層,whole floor,5642417.993598596,6712.0,750.0,146,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+5/F中層whole floor,5,中層,whole floor,5688653.540328026,6767.0,750.0,144,1,KKC,11 TO KWA WAN RD|11 土瓜灣道
+6/F高層whole floor,6,高層,whole floor,5734048.440753282,6821.0,750.0,143,1,KKC,11 TO KWA WAN RD|11 土瓜灣道

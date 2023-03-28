@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,4762008.0,8968.0,531.0,126,1,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"
-8.0/F中層whole floor,8.0,中層,whole floor,4856526.0,9146.0,531.0,131,1,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"
-10.0/F高層whole floor,10.0,高層,whole floor,4920246.0,9266.0,531.0,134,1,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"
+5/F低層whole floor,5,低層,whole floor,4345704.0,8184.0,531.0,233,2,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"
+8/F中層whole floor,8,中層,whole floor,4456152.0,8392.0,531.0,204,2,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"
+10/F高層whole floor,10,高層,whole floor,4518279.0,8509.0,531.0,204,2,KMK,"NEW ASIA BLDG,ARGYLE ST|新亞大樓,亞皆老街"

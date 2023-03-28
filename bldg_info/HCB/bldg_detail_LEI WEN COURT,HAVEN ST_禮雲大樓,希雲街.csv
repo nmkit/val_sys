@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,7665805.0,16345.0,469.0,376,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"
-6.0/F中層whole floor,6.0,中層,whole floor,7694259.0,17607.0,437.0,379,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"
-10.0/F高層whole floor,10.0,高層,whole floor,7438500.0,15660.0,475.0,385,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"
+3/F低層whole floor,3,低層,whole floor,5629700.0,11852.0,475.0,397,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"
+6/F中層whole floor,6,中層,whole floor,5275027.0,12071.0,437.0,336,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"
+10/F高層whole floor,10,高層,whole floor,6399200.0,13472.0,475.0,364,3,HCB,"LEI WEN COURT,HAVEN ST|禮雲大樓,希雲街"

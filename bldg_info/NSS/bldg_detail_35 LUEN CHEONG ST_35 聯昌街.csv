@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,5481180.0,6660.0,823.0,242,2,NSS,35 LUEN CHEONG ST|35 聯昌街
-2.0/F中層whole floor,2.0,中層,whole floor,5480357.0,6659.0,823.0,234,2,NSS,35 LUEN CHEONG ST|35 聯昌街
-3.0/F高層whole floor,3.0,高層,whole floor,5463796.606663252,6487.0,823.0,395,3,NSS,35 LUEN CHEONG ST|35 聯昌街
+1/F低層whole floor,1,低層,whole floor,5045606.719188103,6449.0,823.0,259,2,NSS,35 LUEN CHEONG ST|35 聯昌街
+2/F中層whole floor,2,中層,whole floor,5046389.105095871,6450.0,823.0,251,2,NSS,35 LUEN CHEONG ST|35 聯昌街
+3/F高層whole floor,3,高層,whole floor,4942938.0,6006.0,823.0,245,2,NSS,35 LUEN CHEONG ST|35 聯昌街

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,10067456.956683869,9376.0,1047.0,300,2,HNP,64 WHARF RD|64 和富道
-3.0/F中層whole floor,3.0,中層,whole floor,10070678.199310793,9379.0,1047.0,260,2,HNP,64 WHARF RD|64 和富道
-4.0/F高層whole floor,4.0,高層,whole floor,10131881.809222374,9436.0,1047.0,257,2,HNP,64 WHARF RD|64 和富道
+2/F低層whole floor,2,低層,whole floor,8726050.773796665,8314.0,1047.0,300,2,HNP,64 WHARF RD|64 和富道
+3/F中層whole floor,3,中層,whole floor,8777479.266449543,8363.0,1047.0,260,2,HNP,64 WHARF RD|64 和富道
+4/F高層whole floor,4,高層,whole floor,8831006.881251518,8414.0,1047.0,257,2,HNP,64 WHARF RD|64 和富道

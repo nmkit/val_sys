@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-10.0/F低層whole floor,10.0,低層,whole floor,16654877.011172166,33280.0,408,254,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"
-18.0/F中層whole floor,18.0,中層,whole floor,17646763.01586397,35262.0,408,290,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"
-27.0/F高層whole floor,27.0,高層,whole floor,18789283.575254176,37545.0,408,375,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"
+10/F低層whole floor,10,低層,whole floor,14504763.085962202,31261.0,408.0,305,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"
+18/F中層whole floor,18,中層,whole floor,15369174.76918243,33124.0,408.0,341,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"
+27/F高層whole floor,27,高層,whole floor,16374639.137157865,35291.0,408.0,408,3,HWC,"5 STAR STREET,STAR ST|5 STAR STREET,星街"

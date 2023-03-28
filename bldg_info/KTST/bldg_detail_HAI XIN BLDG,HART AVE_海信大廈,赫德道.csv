@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,6706436.9918580325,11012.0,625,367,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"
-10.0/F中層whole floor,10.0,中層,whole floor,7158323.683463432,11754.0,625,440,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"
-15.0/F高層whole floor,15.0,高層,whole floor,7209480.667418759,11838.0,625,357,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"
+5/F低層whole floor,5,低層,whole floor,6208090.052357554,12941.0,625,324,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"
+10/F中層whole floor,10,中層,whole floor,6482011.651916797,13512.0,625,353,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"
+15/F高層whole floor,15,高層,whole floor,6736744.347829158,14043.0,625,321,3,KTST,"HAI XIN BLDG,HART AVE|海信大廈,赫德道"

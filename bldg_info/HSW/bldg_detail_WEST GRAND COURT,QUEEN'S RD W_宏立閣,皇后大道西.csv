@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,8230459.805070334,14452.0,550.0,334,3,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"
-12.0/F中層whole floor,12.0,中層,whole floor,8661950.0,15749.0,550.0,368,3,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"
-21.0/F高層whole floor,21.0,高層,whole floor,9133122.328668209,16037.0,550.0,316,3,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"
+5/F低層whole floor,5,低層,whole floor,8261550.0,15021.0,550.0,326,3,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"
+12/F中層whole floor,12,中層,whole floor,8692750.0,15805.0,550.0,352,3,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"
+21/F高層whole floor,21,高層,whole floor,8943000.0,16260.0,550.0,358,4,HSW,"WEST GRAND COURT,QUEEN'S RD W|宏立閣,皇后大道西"

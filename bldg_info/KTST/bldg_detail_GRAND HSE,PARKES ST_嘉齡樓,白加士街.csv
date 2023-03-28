@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,1812905.0950838905,3439.0,541,150,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"
-6.0/F中層whole floor,6.0,中層,whole floor,1828192.7507272267,3468.0,541,127,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"
-6.0/F高層whole floor,6.0,高層,whole floor,1828192.7507272267,3468.0,541,127,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"
+5/F低層whole floor,5,低層,whole floor,3451580.0,6380.0,541,150,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"
+6/F中層whole floor,6,中層,whole floor,3479712.0,6432.0,541,89,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"
+6/F高層whole floor,6,高層,whole floor,3479712.0,6432.0,541,89,1,KTST,"GRAND HSE,PARKES ST|嘉齡樓,白加士街"

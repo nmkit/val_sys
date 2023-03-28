@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,3342952.7885303893,6432.0,407.0,446,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"
-4.0/F中層whole floor,4.0,中層,whole floor,3342952.7885303893,6432.0,407.0,446,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"
-5.0/F高層whole floor,5.0,高層,whole floor,3349786.647769213,7904.0,407.0,423,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"
+2/F低層whole floor,2,低層,whole floor,5457000.0,10200.0,535.0,400,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"
+3/F中層whole floor,3,中層,whole floor,5339835.0,9981.0,535.0,400,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"
+4/F高層whole floor,4,高層,whole floor,5233905.0,9783.0,535.0,400,3,KYMT,"HOI PING HSE,LEE YIP ST|HOI PING HSE,利業街"

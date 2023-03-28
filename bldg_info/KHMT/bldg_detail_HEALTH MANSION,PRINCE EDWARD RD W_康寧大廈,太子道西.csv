@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,12942879.248259962,4431.0,1017.0,261,2,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"
-6.0/F中層whole floor,6.0,中層,whole floor,13141506.147127414,4499.0,1017.0,255,2,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"
-8.0/F高層whole floor,8.0,高層,whole floor,12177623.220885752,5318.0,780.0,120,1,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"
+4/F低層whole floor,4,低層,whole floor,10108583.223441403,10983.0,1017.0,348,3,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"
+6/F中層whole floor,6,中層,whole floor,9678988.090772472,11060.0,967.0,377,3,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"
+8/F高層whole floor,8,高層,whole floor,10427036.268630398,11329.0,1017.0,338,3,KHMT,"HEALTH MANSION,PRINCE EDWARD RD W|康寧大廈,太子道西"

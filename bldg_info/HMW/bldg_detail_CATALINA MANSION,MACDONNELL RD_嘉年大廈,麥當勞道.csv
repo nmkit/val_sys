@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-6.0/F低層whole floor,6.0,低層,whole floor,48114197.75311066,11571.0,1697.0,372,3,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"
-18.0/F中層whole floor,18.0,中層,whole floor,52305634.21799144,12579.0,1697.0,327,3,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"
-29.0/F高層whole floor,29.0,高層,whole floor,94715552.54005532,21459.0,3394.0,84,1,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"
+6/F低層whole floor,6,低層,whole floor,49793598.71327289,19602.0,1697.0,359,3,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"
+18/F中層whole floor,18,中層,whole floor,54208519.36237341,21340.0,1697.0,317,3,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"
+29/F高層whole floor,29,高層,whole floor,,,3394.0,,,HMW,"CATALINA MANSION,MACDONNELL RD|嘉年大廈,麥當勞道"

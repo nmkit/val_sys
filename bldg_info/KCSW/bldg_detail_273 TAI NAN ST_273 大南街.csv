@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4390488.0,7596.0,578.0,97,1,KCSW,273 TAI NAN ST|273 大南街
-3.0/F中層whole floor,3.0,中層,whole floor,4418232.0,7644.0,578.0,96,1,KCSW,273 TAI NAN ST|273 大南街
-5.0/F高層whole floor,5.0,高層,whole floor,3916726.0,5743.0,682.0,113,1,KCSW,273 TAI NAN ST|273 大南街
+2/F低層whole floor,2,低層,whole floor,3047359.1833556425,5440.0,682.0,367,3,KCSW,273 TAI NAN ST|273 大南街
+4/F中層whole floor,4,中層,whole floor,3088252.054749937,5513.0,682.0,373,3,KCSW,273 TAI NAN ST|273 大南街
+6/F高層whole floor,6,高層,whole floor,3147430.0,4615.0,682.0,373,3,KCSW,273 TAI NAN ST|273 大南街

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3111115.0,6041.0,515.0,150,1,KHH,220 MA TAU WAI RD|220 馬頭圍道
-2.0/F中層whole floor,2.0,中層,whole floor,3111115.0,6041.0,515.0,150,1,KHH,220 MA TAU WAI RD|220 馬頭圍道
-2.0/F高層whole floor,2.0,高層,whole floor,3111115.0,6041.0,515.0,150,1,KHH,220 MA TAU WAI RD|220 馬頭圍道
+2/F低層whole floor,2,低層,whole floor,2693450.0,5230.0,515.0,150,1,KHH,220 MA TAU WAI RD|220 馬頭圍道
+3/F中層whole floor,3,中層,whole floor,3373250.0000000005,6550.0,515.0,150,1,KHH,220 MA TAU WAI RD|220 馬頭圍道
+4/F高層whole floor,4,高層,whole floor,3393850.0,6590.0,515.0,109,1,KHH,220 MA TAU WAI RD|220 馬頭圍道

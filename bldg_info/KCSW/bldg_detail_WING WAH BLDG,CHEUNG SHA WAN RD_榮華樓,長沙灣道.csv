@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4708353.0,8671.0,543.0,343,4,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"
-8.0/F中層whole floor,8.0,中層,whole floor,4718060.0,8902.0,530.0,323,3,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"
-12.0/F高層whole floor,12.0,高層,whole floor,5604046.0,9142.0,613.0,347,4,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"
+3/F低層whole floor,3,低層,whole floor,3751798.155177382,8412.0,543.0,358,3,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"
+8/F中層whole floor,8,中層,whole floor,3778900.0000000005,7130.0,530.0,252,2,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"
+12/F高層whole floor,12,高層,whole floor,4461024.088283136,8860.0,613.0,330,3,KCSW,"WING WAH BLDG,CHEUNG SHA WAN RD|榮華樓,長沙灣道"

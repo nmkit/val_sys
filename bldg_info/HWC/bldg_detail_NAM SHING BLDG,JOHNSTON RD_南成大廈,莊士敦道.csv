@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,6322452.046952711,12543.0,488,420,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"
-7.0/F中層whole floor,7.0,中層,whole floor,6842255.851064678,12088.0,548,397,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"
-10.0/F高層whole floor,10.0,高層,whole floor,6650092.470337808,13193.0,488,386,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"
+4/F低層whole floor,4,低層,whole floor,5393654.919638703,12841.0,488.0,375,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"
+7/F中層whole floor,7,中層,whole floor,6434151.115570159,13641.0,548.0,281,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"
+10/F高層whole floor,10,高層,whole floor,5816629.026334145,13848.0,488.0,336,3,HWC,"NAM SHING BLDG,JOHNSTON RD|南成大廈,莊士敦道"

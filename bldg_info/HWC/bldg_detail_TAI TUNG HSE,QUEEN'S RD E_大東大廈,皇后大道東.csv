@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,5228794.098013471,11718.0,432,235,2,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
-6.0/F中層whole floor,6.0,中層,whole floor,4711669.673656425,11910.0,383,253,2,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
-6.0/F高層whole floor,6.0,高層,whole floor,4711669.673656425,11910.0,383,253,2,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+4/F低層73,4,低層,73,4580723.33855975,9940.0,432.0,90,1,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+5/F中層73,5,中層,73,4610677.766830009,10005.0,432.0,89,1,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+6/F高層73,6,高層,73,4640632.195100269,10070.0,432.0,88,1,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+4/F低層whole floor,4,低層,whole floor,4631415.447940189,10050.0,432.0,235,2,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+5/F中層whole floor,5,中層,whole floor,3220320.790200509,7882.0,383.0,135,1,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"
+6/F高層whole floor,6,高層,whole floor,4178000.5583088566,10226.0,383.0,270,2,HWC,"TAI TUNG HSE,QUEEN'S RD E|大東大廈,皇后大道東"

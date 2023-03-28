@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-0.0/F低層whole floor,0.0,低層,whole floor,4199024.0,7834.0,536.0,372,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道
-1.0/F中層whole floor,1.0,中層,whole floor,4180507.0413671164,7674.0,536.0,358,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道
-2.0/F高層whole floor,2.0,高層,whole floor,5186621.289314145,7815.0,653.0,348,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道
+0/F低層whole floor,0,低層,whole floor,3583242.5788192498,8139.0,536.0,388,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道
+1/F中層whole floor,1,中層,whole floor,3567518.431039912,6571.0,536.0,341,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道
+2/F高層whole floor,2,高層,whole floor,4124670.460431372,6236.0,653.0,417,3,KCSW,332 LAI CHI KOK RD|332 荔枝角道

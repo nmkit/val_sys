@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,7341039.999999999,13109.0,560,381,4,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"
-8.0/F中層whole floor,8.0,中層,whole floor,7700560.0,13751.0,560,384,4,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"
-12.0/F高層whole floor,12.0,高層,whole floor,6154338.0,14051.0,438,376,3,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"
+3/F低層whole floor,3,低層,whole floor,6648880.0,11873.0,560,246,3,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"
+8/F中層whole floor,8,中層,whole floor,6939520.000000001,12392.0,560,245,3,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"
+12/F高層whole floor,12,高層,whole floor,5595888.0,12776.0,438,350,3,KTST,"KING'S MANSION,OBSERVATORY COURT|金瓊樓,天文臺圍"

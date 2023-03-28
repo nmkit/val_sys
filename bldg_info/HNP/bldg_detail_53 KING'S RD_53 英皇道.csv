@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,5218386.024661676,7802.0,530.0,248,2,HNP,53 KING'S RD|53 英皇道
-7.0/F中層whole floor,7.0,中層,whole floor,5287946.668927866,7906.0,530.0,251,2,HNP,53 KING'S RD|53 英皇道
-9.0/F高層whole floor,9.0,高層,whole floor,5363526.984332477,8019.0,530.0,251,2,HNP,53 KING'S RD|53 英皇道
+5/F低層whole floor,5,低層,whole floor,4465798.658250028,7172.0,530.0,333,3,HNP,53 KING'S RD|53 英皇道
+8/F中層whole floor,8,中層,whole floor,4557954.012603208,7320.0,530.0,331,3,HNP,53 KING'S RD|53 英皇道
+10/F高層whole floor,10,高層,whole floor,4631429.227560473,7438.0,530.0,337,3,HNP,53 KING'S RD|53 英皇道

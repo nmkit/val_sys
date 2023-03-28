@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,6021520.773987229,11971.0,417.0,422,3,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"
-4.0/F中層whole floor,4.0,中層,whole floor,6822713.996345091,12431.0,455.0,268,2,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"
-5.0/F高層whole floor,5.0,高層,whole floor,6731056.588462408,12264.0,455.0,270,2,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"
+2/F低層whole floor,2,低層,whole floor,5213132.524398793,13004.0,417.0,387,3,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"
+4/F中層whole floor,4,中層,whole floor,5860533.053224398,13398.0,455.0,405,3,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"
+6/F高層whole floor,6,高層,whole floor,5784127.124941277,16235.0,423.0,352,3,HHV,"HIAP TECK BLDG,SING WOO RD|協德大廈,成和道"

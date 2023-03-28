@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,4436220.0,6910.0,642.0,150,1,KCSW,46 FUK WING ST|46 福榮街
-5.0/F中層whole floor,5.0,中層,whole floor,4436220.0,6910.0,642.0,150,1,KCSW,46 FUK WING ST|46 福榮街
-5.0/F高層whole floor,5.0,高層,whole floor,4436220.0,6910.0,642.0,150,1,KCSW,46 FUK WING ST|46 福榮街
+2/F低層A,2,低層,A,890315.0,4141.0,215.0,138,1,KCSW,46 FUK WING ST|46 福榮街
+3/F中層A,3,中層,A,895690.0,4166.0,215.0,150,1,KCSW,46 FUK WING ST|46 福榮街
+4/F高層A,4,高層,A,901280.0,4192.0,215.0,138,1,KCSW,46 FUK WING ST|46 福榮街
+2/F低層whole floor,2,低層,whole floor,3791772.0000000005,5076.0,747.0,150,1,KCSW,46 FUK WING ST|46 福榮街
+3/F中層whole floor,3,中層,whole floor,3815676.0,5108.0,747.0,124,1,KCSW,46 FUK WING ST|46 福榮街
+4/F高層whole floor,4,高層,whole floor,3222840.0,5020.0,642.0,107,1,KCSW,46 FUK WING ST|46 福榮街

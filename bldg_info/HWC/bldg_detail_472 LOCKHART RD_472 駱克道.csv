@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,7232945.364750613,11632.0,602,375,3,HWC,472 LOCKHART RD|472 駱克道
-6.0/F中層whole floor,6.0,中層,whole floor,7263414.27146251,11681.0,602,433,3,HWC,472 LOCKHART RD|472 駱克道
-7.0/F高層whole floor,7.0,高層,whole floor,7332435.672381297,11792.0,602,369,3,HWC,472 LOCKHART RD|472 駱克道
+5/F低層whole floor,5,低層,whole floor,6293910.0,10455.0,602.0,318,3,HWC,472 LOCKHART RD|472 駱克道
+6/F中層whole floor,6,中層,whole floor,6337856.0,10528.0,602.0,319,3,HWC,472 LOCKHART RD|472 駱克道
+8/F高層whole floor,8,高層,whole floor,6423339.999999999,10670.0,602.0,319,3,HWC,472 LOCKHART RD|472 駱克道

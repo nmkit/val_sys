@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,5880384.0,5976.0,984.0,150,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
-3.0/F中層whole floor,3.0,中層,whole floor,5880384.0,5976.0,984.0,150,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
-3.0/F高層whole floor,3.0,高層,whole floor,5880384.0,5976.0,984.0,150,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+3/F低層A5,3,低層,A5,1109343.0,6977.0,159.0,108,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+5/F中層A5,5,中層,A5,1123971.0,7069.0,159.0,111,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+6/F高層A5,6,高層,A5,1131126.0,7114.0,159.0,112,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+3/F低層whole floor,3,低層,whole floor,5653126.877558455,5521.0,984.0,150,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+5/F中層whole floor,5,中層,whole floor,6954544.059477816,6792.0,984.0,121,1,KMK,92 LAI CHI KOK RD|92 荔枝角道
+6/F高層whole floor,6,高層,whole floor,6998573.122280753,6835.0,984.0,119,1,KMK,92 LAI CHI KOK RD|92 荔枝角道

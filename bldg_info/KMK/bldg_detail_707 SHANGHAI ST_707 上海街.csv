@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,3563946.0,6387.0,558.0,150,1,KMK,707 SHANGHAI ST|707 上海街
-3.0/F中層whole floor,3.0,中層,whole floor,3586824.0,6428.0,558.0,141,1,KMK,707 SHANGHAI ST|707 上海街
-5.0/F高層whole floor,5.0,高層,whole floor,3632022.0,6509.0,558.0,138,1,KMK,707 SHANGHAI ST|707 上海街
+2/F低層whole floor,2,低層,whole floor,4719121.053273304,4768.0,558.0,138,1,KMK,707 SHANGHAI ST|707 上海街
+3/F中層whole floor,3,中層,whole floor,4749803.258107926,4799.0,558.0,136,1,KMK,707 SHANGHAI ST|707 上海街
+5/F高層whole floor,5,高層,whole floor,4809188.170691063,4859.0,558.0,133,1,KMK,707 SHANGHAI ST|707 上海街

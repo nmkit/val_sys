@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,28404168.0,25181.0,1128.0,358,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"
-3.0/F中層whole floor,3.0,中層,whole floor,28970424.0,25683.0,1128.0,389,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"
-5.0/F高層whole floor,5.0,高層,whole floor,29482536.0,26137.0,1128.0,361,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"
+1/F低層whole floor,1,低層,whole floor,26819217.669603094,24869.0,1128.0,408,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"
+3/F中層whole floor,3,中層,whole floor,27371368.517921753,25381.0,1128.0,423,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"
+5/F高層whole floor,5,高層,whole floor,27838324.21581625,25814.0,1128.0,411,3,KKC,"CARMEN GARDEN,GRAMPIAN RD|嘉皇花園,嘉林邊道"

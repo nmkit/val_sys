@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-5.0/F低層whole floor,5.0,低層,whole floor,7898035.627753602,14956.0,510.0,438,3,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"
-6.0/F中層whole floor,6.0,中層,whole floor,,,1020.0,,,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"
-8.0/F高層whole floor,8.0,高層,whole floor,8149932.056908354,15433.0,510.0,426,3,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"
+5/F低層whole floor,5,低層,whole floor,6738543.931910977,13356.0,510.0,439,3,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"
+6/F中層whole floor,6,中層,whole floor,33985380.0,33319.0,1020.0,150,1,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"
+8/F高層whole floor,8,高層,whole floor,6929257.43941789,13734.0,510.0,428,3,HSW,"KONG TAK BLDG,CONNAUGHT RD W|廣德大廈,干諾道西"

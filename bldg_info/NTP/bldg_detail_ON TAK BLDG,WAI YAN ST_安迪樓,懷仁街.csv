@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,2971773.0,9873.0,301.0,413,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"
-6.0/F中層whole floor,6.0,中層,whole floor,3148658.9802856045,10195.0,301.0,410,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"
-8.0/F高層whole floor,8.0,高層,whole floor,3318290.0,9935.0,334.0,425,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"
+3/F低層whole floor,3,低層,whole floor,2499504.0,8304.0,301.0,386,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"
+6/F中層whole floor,6,中層,whole floor,2538935.0,8435.0,301.0,349,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"
+8/F高層whole floor,8,高層,whole floor,2566928.0,8528.0,301.0,401,3,NTP,"ON TAK BLDG,WAI YAN ST|安迪樓,懷仁街"

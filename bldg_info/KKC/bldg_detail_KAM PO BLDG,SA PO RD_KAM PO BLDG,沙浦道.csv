@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,5306994.0,9846.0,539.0,380,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"
-4.0/F中層whole floor,4.0,中層,whole floor,5798562.0,10758.0,539.0,383,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"
-7.0/F高層whole floor,7.0,高層,whole floor,5888036.0,10924.0,539.0,324,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"
+2/F低層whole floor,2,低層,whole floor,5854618.0,10862.0,539.0,425,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"
+4/F中層whole floor,4,中層,whole floor,5972460.0,10478.0,570.0,433,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"
+7/F高層whole floor,7,高層,whole floor,5528523.0,10257.0,539.0,395,3,KKC,"KAM PO BLDG,SA PO RD|KAM PO BLDG,沙浦道"

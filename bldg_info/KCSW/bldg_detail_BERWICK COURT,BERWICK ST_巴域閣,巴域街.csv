@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,4246884.719744115,12042.0,347.0,300,2,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"
-5.0/F中層whole floor,5.0,中層,whole floor,4342912.22289636,9280.0,347.0,443,3,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"
-8.0/F高層whole floor,8.0,高層,whole floor,3816427.7131163594,8155.0,347.0,263,2,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"
+2/F低層whole floor,2,低層,whole floor,3590358.4918173444,10215.0,347.0,300,2,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"
+5/F中層whole floor,5,中層,whole floor,3697208.1229003076,10519.0,347.0,375,3,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"
+8/F高層whole floor,8,高層,whole floor,3347486.4685333716,9524.0,347.0,245,2,KCSW,"BERWICK COURT,BERWICK ST|巴域閣,巴域街"

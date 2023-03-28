@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,4380782.0,10381.0,422.0,267,3,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
-6.0/F中層whole floor,6.0,中層,whole floor,4468136.0,10588.0,422.0,265,3,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
-10.0/F高層whole floor,10.0,高層,whole floor,3371736.0,11391.0,296.0,261,3,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+3/F低層A,3,低層,A,1149030.0,7510.0,153.0,142,1,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+6/F中層A,6,中層,A,1170450.0,7650.0,153.0,138,1,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+10/F高層A,10,高層,A,1198908.0,7836.0,153.0,132,1,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+3/F低層whole floor,3,低層,whole floor,3676591.609349149,10607.0,422.0,329,3,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+6/F中層whole floor,6,中層,whole floor,3744875.624343189,10804.0,422.0,327,3,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"
+10/F高層whole floor,10,高層,whole floor,2915328.4172887863,11991.0,296.0,376,4,KCSW,"MAN YUI BLDG,CHEUNG SHA WAN RD|文裔大廈,長沙灣道"

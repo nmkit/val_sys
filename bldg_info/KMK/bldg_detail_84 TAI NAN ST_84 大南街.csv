@@ -1,7 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層B,4.0,低層,B,2126688.1855053883,6304.0,345.0,132,1,KMK,84 TAI NAN ST|84 大南街
-4.0/F中層B,4.0,中層,B,2126688.1855053883,6304.0,345.0,132,1,KMK,84 TAI NAN ST|84 大南街
-5.0/F高層B,5.0,高層,B,2140182.3998804227,6344.0,345.0,150,1,KMK,84 TAI NAN ST|84 大南街
-4.0/F低層whole floor,4.0,低層,whole floor,2126688.1855053883,6304.0,345.0,88,1,KMK,84 TAI NAN ST|84 大南街
-4.0/F中層whole floor,4.0,中層,whole floor,2126688.1855053883,6304.0,345.0,88,1,KMK,84 TAI NAN ST|84 大南街
-5.0/F高層whole floor,5.0,高層,whole floor,2140182.3998804227,6344.0,345.0,89,1,KMK,84 TAI NAN ST|84 大南街
+4/F低層B,4,低層,B,2289420.0,6636.0,345.0,82,1,KMK,84 TAI NAN ST|84 大南街
+4/F中層B,4,中層,B,2289420.0,6636.0,345.0,82,1,KMK,84 TAI NAN ST|84 大南街
+5/F高層B,5,高層,B,2304255.0,6679.0,345.0,83,1,KMK,84 TAI NAN ST|84 大南街
+4/F低層whole floor,4,低層,whole floor,2289420.0,6636.0,345.0,124,1,KMK,84 TAI NAN ST|84 大南街
+4/F中層whole floor,4,中層,whole floor,2289420.0,6636.0,345.0,124,1,KMK,84 TAI NAN ST|84 大南街
+5/F高層whole floor,5,高層,whole floor,2215032.7220521653,6170.0,345.0,249,2,KMK,84 TAI NAN ST|84 大南街

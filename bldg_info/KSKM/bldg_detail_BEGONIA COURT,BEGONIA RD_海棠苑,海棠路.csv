@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-2.0/F低層whole floor,2.0,低層,whole floor,15332577.956540415,16318.0,908.0,345,4,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"
-6.0/F中層whole floor,6.0,中層,whole floor,16011916.960252803,17041.0,908.0,276,4,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"
-9.0/F高層whole floor,9.0,高層,whole floor,20865146.16178538,15380.0,1311.0,358,4,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"
+2/F低層whole floor,2,低層,whole floor,12749419.996166082,15132.0,908.0,327,3,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"
+6/F中層whole floor,6,中層,whole floor,10527757.800385065,9576.0,908.0,83,1,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"
+9/F高層whole floor,9,高層,whole floor,14816184.839143243,9334.0,1311.0,127,1,KSKM,"BEGONIA COURT,BEGONIA RD|海棠苑,海棠路"

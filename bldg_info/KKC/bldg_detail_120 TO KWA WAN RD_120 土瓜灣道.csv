@@ -1,4 +1,7 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-4.0/F低層whole floor,4.0,低層,whole floor,5945414.0,8782.0,677.0,267,2,KKC,120 TO KWA WAN RD|120 土瓜灣道
-4.0/F中層whole floor,4.0,中層,whole floor,5945414.0,8782.0,677.0,267,2,KKC,120 TO KWA WAN RD|120 土瓜灣道
-5.0/F高層whole floor,5.0,高層,whole floor,6032880.487407718,8489.0,677.0,274,2,KKC,120 TO KWA WAN RD|120 土瓜灣道
+4/F低層B,4,低層,B,1806860.0,8213.0,220.0,107,1,KKC,120 TO KWA WAN RD|120 土瓜灣道
+5/F中層B,5,中層,B,1821820.0,8281.0,220.0,109,1,KKC,120 TO KWA WAN RD|120 土瓜灣道
+6/F高層B,6,高層,B,1836780.0,8349.0,220.0,150,1,KKC,120 TO KWA WAN RD|120 土瓜灣道
+4/F低層whole floor,4,低層,whole floor,5542341.676503931,8563.0,677.0,284,2,KKC,120 TO KWA WAN RD|120 土瓜灣道
+5/F中層whole floor,5,中層,whole floor,5597081.377983763,7376.0,677.0,291,2,KKC,120 TO KWA WAN RD|120 土瓜灣道
+6/F高層whole floor,6,高層,whole floor,5622122.550092421,7409.0,677.0,243,2,KKC,120 TO KWA WAN RD|120 土瓜灣道

@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-3.0/F低層whole floor,3.0,低層,whole floor,,,839,,,KKL,181B BOUNDARY ST|181B 界限街
-3.0/F中層whole floor,3.0,中層,whole floor,,,839,,,KKL,181B BOUNDARY ST|181B 界限街
-3.0/F高層whole floor,3.0,高層,whole floor,,,839,,,KKL,181B BOUNDARY ST|181B 界限街
+2/F低層whole floor,2,低層,whole floor,3658879.0,4361.0,839,150,1,KKL,181B BOUNDARY ST|181B 界限街
+2/F中層whole floor,2,中層,whole floor,3658879.0,4361.0,839,150,1,KKL,181B BOUNDARY ST|181B 界限街
+3/F高層whole floor,3,高層,whole floor,3705863.0,4417.0,839,112,1,KKL,181B BOUNDARY ST|181B 界限街

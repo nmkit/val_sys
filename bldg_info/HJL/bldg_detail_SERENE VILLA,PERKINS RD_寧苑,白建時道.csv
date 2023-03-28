@@ -1,4 +1,4 @@
 ,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
-1.0/F低層whole floor,1.0,低層,whole floor,42296190.0,30190.0,1401,417,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"
-2.0/F中層whole floor,2.0,中層,whole floor,42370443.0,30243.0,1401,385,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"
-2.0/F高層whole floor,2.0,高層,whole floor,42370443.0,30243.0,1401,385,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"
+1/F低層whole floor,1,低層,whole floor,56738603.232544854,45971.0,1401,434,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"
+2/F中層whole floor,2,中層,whole floor,57075546.92927725,46244.0,1401,419,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"
+2/F高層whole floor,2,高層,whole floor,57075546.92927725,46244.0,1401,419,3,HJL,"SERENE VILLA,PERKINS RD|寧苑,白建時道"

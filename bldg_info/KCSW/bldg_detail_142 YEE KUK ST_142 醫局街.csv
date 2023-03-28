@@ -1,0 +1,10 @@
+,subjFloor,floorLv,unitNo,price,npsf,nfa,com_score,com_no,district,final_address
+1/F低層A,1,低層,A,2307822.0,10538.0,219.0,175,2,KCSW,142 YEE KUK ST|142 醫局街
+2/F中層A,2,中層,A,2322495.0,10605.0,219.0,178,2,KCSW,142 YEE KUK ST|142 醫局街
+3/F高層A,3,高層,A,2331693.0,10647.0,219.0,215,2,KCSW,142 YEE KUK ST|142 醫局街
+1/F低層C,1,低層,C,2691016.0,10232.0,263.0,178,2,KCSW,142 YEE KUK ST|142 醫局街
+2/F中層C,2,中層,C,2707848.0,10296.0,263.0,180,2,KCSW,142 YEE KUK ST|142 醫局街
+3/F高層C,3,高層,C,2732307.0,10389.0,263.0,217,2,KCSW,142 YEE KUK ST|142 醫局街
+1/F低層whole floor,1,低層,whole floor,,,779.0,,,KCSW,142 YEE KUK ST|142 醫局街
+2/F中層whole floor,2,中層,whole floor,,,779.0,,,KCSW,142 YEE KUK ST|142 醫局街
+3/F高層whole floor,3,高層,whole floor,,,779.0,,,KCSW,142 YEE KUK ST|142 醫局街
